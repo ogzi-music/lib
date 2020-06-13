@@ -1,0 +1,49 @@
+brass:
+  brass-ensemble-1: Brass Ensemble 1
+  brass-ensemble-2: Brass Ensemble 2
+  brass-ensemble-3: Brass Ensemble 3
+  horn-bariton: Horn Bariton
+  horn-french: Horn French
+  saxophone-1: Saxophone 1
+  saxophone-2: Saxophone 2
+  saxophone-3: Saxophone 3
+  saxophone-alto: Saxophone Alto
+  saxophone-bariton: Saxophone Bariton
+  saxophone-soprano: Saxophone Soprano
+  saxophone-tenor: Saxophone Tenor
+  trombone-fall: Trombone Fall
+  trombone-muted-1: Trombone Muted 1
+  trombone-muted-2: Trombone Muted 2
+  trumpet-classic: Trumpet Classic
+  trumpet-fall-fast: Trumpet Fall
+  trumpet-fall-solo: Trumpet Fall Fast
+  trumpet-fall: Trumpet Fall Solo
+  trumpet-jazz: Trumpet Jazz
+  trumpet-jazz-up: Trumpet Jazz Up
+  trumpet-muted: Trumpet Muted
+  trumpet-shake: Trumpet Shake
+  trumpet-sustained: Trumpet Sustained
+  tuba-1: Tuba 1
+  tuba-2: Tuba 2
+
+guitar:
+  steelguitar: Steel Guitar
+  steelguitar-chord-dim7-down: Steel Guitar Chord Dim7 Down
+  steelguitar-chord-dim7-up: Steel Guitar Chord Dim7 Up
+  steelguitar-chord-maj-down: Steel Guitar Chord Maj Down
+  steelguitar-chord-maj-up: Steel Guitar Chord Maj Up
+  steelguitar-chord-maj7-down: Steel Guitar Chord Maj7 Down
+  steelguitar-chord-maj7-up: Steel Guitar Chord Maj7 Up
+  steelguitar-chord-min-down: Steel Guitar Chord Min Down
+  steelguitar-chord-min-up: Steel Guitar Chord Min Up
+  steelguitar-chord-min7-down: Steel Guitar Chord Min7 Down
+  steelguitar-chord-min7-up: Steel Guitar Chord Min7 Up
+  steelguitar-chord-sus4-down: Steel Guitar Chord Sus4 Down
+  steelguitar-chord-sus4-up: Steel Guitar Chord Sus4 Up
+  steelguitar-effects: Steel Guitar Effects
+  steelguitar-harmonic: Steel Guitar Harmonic
+  steelguitar-squeak: Steel Guitar Squeak
+
+piano:
+  steinway-d: Steinway D
+  yamaha-c7: Yamaha C7
