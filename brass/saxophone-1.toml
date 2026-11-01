@@ -1,0 +1,121 @@
+name = "Saxophone 1"
+id = "saxophone-1"
+
+[[samples]]
+file = "46.flac"
+key = 46
+key-from = 43
+key-to = 48
+level = 123
+tune-fine = 38
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 4875
+start = 1
+end = 4874
+loop = 4472
+
+[[samples]]
+file = "51.flac"
+key = 51
+key-from = 49
+key-to = 52
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 6235
+end = 6233
+loop = 5616
+
+[[samples]]
+file = "53.flac"
+key = 53
+key-to = 54
+level = 123
+tune-fine = 66
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 8707
+start = 1
+end = 8705
+loop = 8154
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-to = 60
+level = 123
+tune-fine = 66
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 6409
+end = 6407
+loop = 5916
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-from = 61
+key-to = 66
+level = 123
+tune-fine = 69
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 3778
+end = 3776
+loop = 3638
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-to = 68
+level = 123
+tune-fine = 70
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 3819
+end = 3817
+loop = 3694
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 69
+key-to = 75
+level = 123
+tune-fine = 55
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 5597
+start = 1
+end = 5595
+loop = 5306
+
+[[samples]]
+file = "75.flac"
+key = 75
+key-to = 127
+level = 123
+tune-fine = 71
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 6797
+start = 1
+end = 6795
+loop = 6640

@@ -1,0 +1,167 @@
+name = "Brass Ensemble 3"
+id = "brass-ensemble-3"
+
+[[samples]]
+file = "45.flac"
+key = 45
+key-from = 0
+key-to = 46
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 157125
+start = 1
+end = 157123
+loop = 45020
+
+[[samples]]
+file = "50.flac"
+key = 50
+key-from = 47
+key-to = 51
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 120576
+end = 120574
+loop = 49180
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 52
+key-to = 56
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 167081
+start = 1
+end = 167079
+loop = 43144
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 57
+key-to = 61
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 265289
+end = 265287
+loop = 55984
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-from = 62
+key-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 206374
+start = 1
+end = 206372
+loop = 68836
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 67
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 181171
+start = 1
+loop = 55802
+
+[[samples]]
+file = "70.flac"
+key = 70
+key-to = 71
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 188143
+end = 188141
+loop = 64764
+
+[[samples]]
+file = "75.flac"
+key = 75
+key-from = 72
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 174634
+end = 174632
+loop = 52960
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-to = 77
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 198601
+loop = 32350
+
+[[samples]]
+file = "80.flac"
+key = 80
+key-from = 78
+key-to = 81
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 152789
+end = 152787
+loop = 38222
+
+[[samples]]
+file = "83.flac"
+key = 83
+key-from = 82
+key-to = 84
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 203873
+start = 1
+loop = 50070
+
+[[samples]]
+file = "85.flac"
+key = 85
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 177475
+end = 177473
+loop = 75894

@@ -1,0 +1,119 @@
+name = "Brass Ensemble 2"
+id = "brass-ensemble-2"
+
+[[samples]]
+file = "41.flac"
+key = 41
+key-from = 0
+key-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 197904
+end = 197902
+loop = 109800
+
+[[samples]]
+file = "46.flac"
+key = 46
+key-from = 44
+key-to = 48
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 227556
+end = 227554
+loop = 132297
+
+[[samples]]
+file = "51.flac"
+key = 51
+key-from = 49
+key-to = 53
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 180708
+end = 180706
+loop = 94792
+
+[[samples]]
+file = "56.flac"
+key = 56
+key-from = 54
+key-to = 58
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 207704
+start = 1
+end = 207702
+loop = 130300
+
+[[samples]]
+file = "61.flac"
+key = 61
+key-from = 59
+key-to = 63
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 187781
+start = 1
+end = 187779
+loop = 104754
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 64
+key-to = 68
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 168269
+end = 168267
+loop = 65942
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 69
+key-to = 73
+level = 127
+tune-fine = 63
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 164079
+start = 1
+end = 164077
+loop = 103214
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 74
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 201480
+start = 1
+end = 201478
+loop = 64174

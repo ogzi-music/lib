@@ -1,0 +1,83 @@
+name = "Steel Guitar Squeak"
+id = "steelguitar-squeak"
+
+[[samples]]
+file = "51.flac"
+key = 51
+key-from = 0
+key-to = 52
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 20196
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-from = 53
+key-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 27649
+
+[[samples]]
+file = "57.flac"
+key = 57
+key-from = 56
+key-to = 59
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 33094
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-to = 62
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 27817
+
+[[samples]]
+file = "63.flac"
+key = 63
+key-to = 64
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 17326
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 65
+key-to = 67
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 19610
+
+[[samples]]
+file = "68.flac"
+key = 68
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 58204

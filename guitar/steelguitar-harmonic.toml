@@ -1,0 +1,111 @@
+name = "Steel Guitar Harmonic"
+id = "steelguitar-harmonic"
+
+[[samples]]
+file = "50.flac"
+key = 50
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 342027
+end = 340398
+loop = 339948
+
+[[samples]]
+file = "52.flac"
+key = 52
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 356718
+end = 355904
+loop = 355367
+
+[[samples]]
+file = "57.flac"
+key = 57
+key-from = 0
+key-to = 61
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 446894
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 62
+key-to = 69
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 497057
+end = 495797
+loop = 495347
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 70
+key-to = 74
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 402661
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 75
+key-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 347391
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 78
+key-to = 81
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 403301
+
+[[samples]]
+file = "83.flac"
+key = 83
+key-from = 82
+key-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 385768
+
+[[samples]]
+file = "88.flac"
+key = 88
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 340182
