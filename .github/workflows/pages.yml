@@ -1,0 +1,78 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# One deployment at a time; never cancel a deploy in progress.
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      # flac files are tracked by Git LFS; cache the object store so each run
+      # only downloads objects that are new or changed since the last deploy.
+      - name: Restore LFS cache
+        id: lfs-cache
+        uses: actions/cache/restore@v6
+        with:
+          path: .git/lfs
+          key: lfs-${{ github.sha }}
+          restore-keys: lfs-
+
+      - name: Pull flac files from LFS
+        run: git lfs pull
+
+      # Skip on exact cache hit: the entry for this sha already exists,
+      # and re-saving it fails with "another job may be creating this cache".
+      - name: Save LFS cache
+        if: steps.lfs-cache.outputs.cache-hit != 'true'
+        uses: actions/cache/save@v6
+        with:
+          path: .git/lfs
+          key: lfs-${{ github.sha }}
+
+      - name: Collect .toml and .flac files
+        run: |
+          SITE="$RUNNER_TEMP/site"
+          mkdir -p "$SITE"
+          find . -type f \( -name '*.toml' -o -name '*.flac' \) -not -path './.git/*' \
+            -exec cp --parents -t "$SITE" '{}' +
+          echo "Copied $(find "$SITE" -type f | wc -l) files"
+          # A flac smaller than 2KB is an LFS pointer, not audio (smallest
+          # real sample here is ~4.6KB). Abort instead of publishing pointers.
+          POINTERS=$(find "$SITE" -name '*.flac' -size -2k | wc -l)
+          if [ "$POINTERS" -ne 0 ]; then
+            echo "::error::$POINTERS flac file(s) under 2KB — LFS pointers instead of audio, git lfs pull failed?"
+            exit 1
+          fi
+
+      - name: Generate index pages
+        run: python3 scripts/build_index.py "$RUNNER_TEMP/site"
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v6
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: ${{ runner.temp }}/site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
