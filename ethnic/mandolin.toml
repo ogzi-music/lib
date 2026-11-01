@@ -1,0 +1,284 @@
+name = "Mandolin"
+id = "mandolin"
+group = "ethnic"
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 0
+key-to = 56
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 490800
+end = 490792
+
+[[samples]]
+file = "57.flac"
+key = 57
+key-to = 58
+level = 127
+tune-fine = 54
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44135
+length = 412584
+end = 412574
+
+[[samples]]
+file = "59.flac"
+key = 59
+level = 127
+tune-fine = 57
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44127
+length = 466968
+end = 466964
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-to = 61
+level = 127
+tune-fine = 56
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44138
+length = 392592
+end = 392582
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-to = 63
+level = 127
+tune-fine = 63
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44111
+length = 413824
+end = 413818
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-to = 65
+level = 127
+tune-fine = 60
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44119
+length = 239768
+end = 239760
+
+[[samples]]
+file = "66.flac"
+key = 66
+level = 127
+tune-fine = 59
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44130
+length = 227400
+end = 227392
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-to = 68
+level = 127
+tune-fine = 59
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44130
+length = 183864
+end = 183860
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-to = 70
+level = 127
+tune-fine = 59
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44130
+length = 146960
+end = 146958
+
+[[samples]]
+file = "71.flac"
+key = 71
+level = 127
+tune-fine = 54
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44135
+length = 214024
+end = 214014
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 73
+level = 127
+tune-fine = 57
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44127
+length = 193032
+end = 193022
+
+[[samples]]
+file = "74.flac"
+key = 74
+key-to = 75
+level = 127
+tune-fine = 57
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44127
+length = 255496
+end = 255486
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-to = 77
+level = 121
+tune-fine = 60
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44119
+length = 166920
+end = 166910
+
+[[samples]]
+file = "78.flac"
+key = 78
+level = 121
+tune-fine = 57
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44127
+length = 163336
+end = 163326
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-to = 80
+level = 127
+tune-fine = 59
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44130
+length = 189048
+end = 189046
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-to = 82
+level = 127
+tune-fine = 59
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44130
+length = 220168
+end = 220158
+
+[[samples]]
+file = "83.flac"
+key = 83
+level = 127
+tune-fine = 62
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44122
+length = 120112
+end = 120108
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-to = 85
+level = 127
+tune-fine = 59
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44130
+length = 173104
+end = 173094
+
+[[samples]]
+file = "86.flac"
+key = 86
+key-to = 87
+level = 127
+tune-fine = 57
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44127
+length = 138840
+end = 138834
+
+[[samples]]
+file = "88.flac"
+key = 88
+key-to = 89
+level = 121
+tune-fine = 59
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44130
+length = 129032
+end = 129022
+
+[[samples]]
+file = "90.flac"
+key = 90
+level = 115
+tune-fine = 63
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44111
+length = 107528
+end = 107518
+
+[[samples]]
+file = "91.flac"
+key = 91
+key-to = 103
+level = 127
+tune-fine = 65
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44088
+length = 106760
+end = 106750
+

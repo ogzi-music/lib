@@ -1,5 +1,7 @@
 name = "Horn French"
 id = "horn-french"
+group = "brass"
+midi-program = 58
 
 [[samples]]
 file = "45.flac"

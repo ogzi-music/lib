@@ -1,0 +1,162 @@
+name = "Nordfaaat"
+id = "nordfaaat"
+group = "pad"
+midi-program = 87
+
+[[samples]]
+file = "96.flac"
+key = 96
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 54272
+end = 54234
+loop = 22
+
+[[samples]]
+file = "90.flac"
+key = 90
+key-to = 95
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 57888
+end = 57712
+loop = 152
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-to = 89
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 54678
+end = 54249
+loop = 101
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-to = 83
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 100672
+end = 100173
+loop = 1170
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 60762
+end = 60505
+loop = 494
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-to = 71
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 58060
+end = 57684
+loop = 124
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 81468
+end = 80924
+loop = 628
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-to = 59
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 58448
+end = 58078
+loop = 517
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-to = 53
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 56864
+end = 56733
+loop = 226
+
+[[samples]]
+file = "42.flac"
+key = 42
+key-to = 47
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 74807
+end = 73783
+loop = 1077
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-to = 41
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 111042
+end = 109452
+loop = 1241
+
+[[samples]]
+file = "30.flac"
+key = 30
+key-from = 0
+key-to = 35
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 79380
+end = 77884
+loop = 1134
+

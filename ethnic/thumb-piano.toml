@@ -1,0 +1,227 @@
+name = "Thumb Piano"
+id = "thumb-piano"
+group = "ethnic"
+midi-program = 106
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-from = 0
+key-to = 63
+velocity-to = 120
+level = 127
+tune-fine = 57
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44127
+length = 98568
+end = 98558
+
+[[samples]]
+file = "62_2.flac"
+key = 62
+key-from = 0
+key-to = 63
+velocity-from = 121
+level = 127
+tune-fine = 57
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44127
+length = 75528
+end = 75518
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-to = 65
+velocity-to = 120
+level = 127
+tune-fine = 46
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44122
+length = 116288
+end = 116280
+
+[[samples]]
+file = "64_2.flac"
+key = 64
+key-to = 65
+velocity-from = 121
+level = 127
+tune-fine = 46
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44122
+length = 117256
+end = 117246
+
+[[samples]]
+file = "66.flac"
+key = 66
+velocity-to = 120
+level = 127
+tune-fine = 68
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44080
+length = 110344
+end = 110334
+
+[[samples]]
+file = "66_2.flac"
+key = 66
+velocity-from = 121
+level = 127
+tune-fine = 68
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44080
+length = 117000
+end = 116990
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-to = 68
+velocity-to = 120
+level = 127
+tune-fine = 49
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44114
+length = 97800
+end = 97790
+
+[[samples]]
+file = "67_2.flac"
+key = 67
+key-to = 68
+velocity-from = 121
+level = 127
+tune-fine = 49
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44114
+length = 91656
+end = 91646
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-to = 70
+velocity-to = 120
+level = 127
+tune-fine = 63
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44111
+length = 94744
+end = 94736
+
+[[samples]]
+file = "69_2.flac"
+key = 69
+key-to = 70
+velocity-from = 121
+level = 127
+tune-fine = 63
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44111
+length = 100360
+end = 100350
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-to = 72
+velocity-to = 120
+level = 127
+tune-fine = 72
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44061
+length = 111880
+end = 111874
+
+[[samples]]
+file = "71_2.flac"
+key = 71
+key-to = 72
+velocity-from = 121
+level = 127
+tune-fine = 72
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44061
+length = 93704
+end = 93694
+
+[[samples]]
+file = "73.flac"
+key = 73
+velocity-to = 120
+level = 127
+tune-fine = 80
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44074
+length = 54936
+end = 54928
+
+[[samples]]
+file = "73_2.flac"
+key = 73
+velocity-from = 121
+level = 127
+tune-fine = 80
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44074
+length = 114440
+end = 114430
+
+[[samples]]
+file = "74.flac"
+key = 74
+key-to = 84
+velocity-to = 120
+level = 127
+tune-fine = 69
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44069
+length = 103176
+end = 103166
+
+[[samples]]
+file = "74_2.flac"
+key = 74
+key-to = 84
+velocity-from = 121
+level = 127
+tune-fine = 69
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44069
+length = 81952
+end = 81948
+

@@ -1,0 +1,52 @@
+name = "Shekere 2"
+id = "shekere-2"
+group = "ethnic"
+
+[[samples]]
+file = "51.flac"
+key = 51
+level = 127
+tune-fine = 68
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44080
+length = 31776
+end = 31768
+
+[[samples]]
+file = "54.flac"
+key = 54
+level = 127
+tune-fine = 68
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44080
+length = 22232
+end = 22230
+
+[[samples]]
+file = "56.flac"
+key = 56
+level = 127
+tune-fine = 68
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44080
+length = 27600
+end = 27596
+
+[[samples]]
+file = "58.flac"
+key = 58
+level = 127
+tune-fine = 68
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44080
+length = 33800
+end = 33794
+

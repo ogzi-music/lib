@@ -1,0 +1,108 @@
+name = "Native Mbira"
+id = "mbira-native"
+group = "ethnic"
+midi-program = 106
+
+[[samples]]
+file = "52.flac"
+key = 52
+key-from = 0
+level = 127
+tune-fine = 70
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 47808
+end = 47804
+loop = 45924
+
+[[samples]]
+file = "53.flac"
+key = 53
+level = 127
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 39386
+end = 39382
+loop = 37106
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 54
+key-to = 57
+level = 127
+tune-fine = 67
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 36073
+end = 36069
+loop = 34942
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 58
+key-to = 62
+level = 127
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 45140
+end = 45136
+loop = 42273
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-from = 63
+key-to = 66
+level = 127
+tune-fine = 59
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 31888
+end = 31884
+loop = 29870
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 67
+key-to = 71
+level = 127
+tune-fine = 56
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 27944
+start = 1
+end = 27940
+loop = 25548
+
+[[samples]]
+file = "74.flac"
+key = 74
+key-from = 72
+key-to = 127
+level = 127
+tune-fine = 43
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 33242
+end = 33238
+loop = 26680
+

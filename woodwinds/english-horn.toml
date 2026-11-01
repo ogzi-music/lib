@@ -1,0 +1,135 @@
+name = "English Horn"
+id = "english-horn"
+group = "woodwinds"
+midi-program = 67
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-from = 0
+key-to = 55
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 86784
+end = 83518
+loop = 61300
+
+[[samples]]
+file = "57.flac"
+key = 57
+key-from = 56
+key-to = 59
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 89344
+end = 88005
+loop = 56107
+
+[[samples]]
+file = "61.flac"
+key = 61
+key-from = 60
+key-to = 62
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 56064
+start = 297
+end = 55241
+loop = 28748
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-from = 63
+key-to = 66
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 52992
+end = 51875
+loop = 34770
+
+[[samples]]
+file = "68.flac"
+key = 68
+key-from = 67
+key-to = 69
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 70400
+start = 627
+end = 69548
+loop = 54472
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 70
+key-to = 72
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 51968
+end = 50268
+loop = 25225
+
+[[samples]]
+file = "74.flac"
+key = 74
+key-from = 73
+key-to = 75
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 85760
+start = 60
+end = 83729
+loop = 42327
+
+[[samples]]
+file = "77.flac"
+key = 77
+key-from = 76
+key-to = 79
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 91136
+end = 88682
+loop = 48030
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 80
+key-to = 127
+level = 127
+tune-fine = 67
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44066
+length = 82944
+end = 81779
+loop = 62604
+

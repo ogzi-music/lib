@@ -1,0 +1,145 @@
+name = "Clarinet"
+id = "clarinet"
+group = "woodwinds"
+midi-program = 69
+
+[[samples]]
+file = "57.flac"
+key = 57
+key-from = 0
+key-to = 58
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 153088
+end = 150494
+loop = 66482
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 59
+key-to = 61
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 236032
+end = 233089
+loop = 47613
+
+[[samples]]
+file = "63.flac"
+key = 63
+key-from = 62
+key-to = 65
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 221696
+end = 218306
+loop = 101200
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 66
+key-to = 69
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 262144
+end = 253211
+loop = 163999
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 70
+key-to = 73
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 222208
+end = 217531
+loop = 136532
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 74
+key-to = 77
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 280064
+end = 277792
+loop = 161656
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 78
+key-to = 80
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 231424
+end = 225409
+loop = 134321
+
+[[samples]]
+file = "82.flac"
+key = 82
+key-from = 81
+key-to = 83
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 308736
+end = 305747
+loop = 59814
+
+[[samples]]
+file = "86.flac"
+key = 86
+key-from = 84
+key-to = 87
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 141312
+end = 137998
+loop = 56090
+
+[[samples]]
+file = "89.flac"
+key = 89
+key-from = 88
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 176128
+end = 173158
+loop = 32631
+

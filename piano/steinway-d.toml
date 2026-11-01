@@ -1,5 +1,7 @@
 name = "Steinway D"
 id = "steinway-d"
+group = "piano"
+midi-program = 0
 
 [[samples]]
 file = "24_mf.flac"
@@ -12,7 +14,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 507905
+length = 507908
 start = 1
 loop = 363480
 
@@ -26,7 +28,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 481409
+length = 481412
 start = 1
 loop = 396586
 
@@ -41,7 +43,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 496768
+length = 496771
 loop = 324646
 
 [[samples]]
@@ -55,7 +57,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 485824
+length = 485827
 start = 1
 loop = 336870
 
@@ -69,7 +71,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 352768
+length = 352771
 loop = 264044
 
 [[samples]]
@@ -82,7 +84,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 369023
+length = 369026
 loop = 254536
 
 [[samples]]
@@ -96,7 +98,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 385792
+length = 385795
 start = 1
 loop = 273744
 
@@ -111,7 +113,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 279359
+length = 279362
 loop = 277358
 
 [[samples]]
@@ -125,7 +127,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 270593
+length = 270596
 start = 1
 loop = 269582
 
@@ -140,7 +142,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 330880
+length = 330883
 start = 1
 loop = 211226
 
@@ -155,7 +157,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 246976
+length = 246979
 start = 1
 loop = 245546
 
@@ -170,7 +172,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 252160
+length = 252163
 loop = 251560
 
 [[samples]]
@@ -184,7 +186,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 217984
+length = 217987
 start = 1
 loop = 216808
 
@@ -199,7 +201,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 235455
+length = 235458
 loop = 234606
 
 [[samples]]
@@ -213,7 +215,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 243071
+length = 243074
 loop = 241808
 
 [[samples]]
@@ -227,7 +229,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 172032
+length = 172035
 loop = 171232
 
 [[samples]]
@@ -241,7 +243,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 213952
+length = 213955
 start = 1
 loop = 212356
 
@@ -256,7 +258,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 210113
+length = 210116
 start = 1
 loop = 208770
 
@@ -271,7 +273,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 176383
+length = 176386
 loop = 175194
 
 [[samples]]
@@ -284,7 +286,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 182719
+length = 182722
 loop = 181552
 
 [[samples]]
@@ -298,18 +300,23 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 183232
+length = 183235
 loop = 181974
 
 [[samples]]
 file = "87_mf.flac"
 key = 87
 key-from = 86
+key-to = 87
 velocity-to = 96
 level = 123
 channels = 2
 bit-depth = 16
 mode = "loop"
+frequency = 44100
+length = 179651
+start = 0
+loop = 178026
 
 [[samples]]
 file = "90_mf.flac"
@@ -322,7 +329,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 149184
+length = 149187
 start = 1
 loop = 148504
 
@@ -337,7 +344,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 198273
+length = 198276
 start = 1
 end = 197051
 loop = 194998
@@ -353,7 +360,7 @@ channels = 2
 bit-depth = 16
 mode = "single-shot"
 frequency = 44100
-length = 184947
+length = 184950
 
 [[samples]]
 file = "99_mf.flac"
@@ -366,7 +373,7 @@ channels = 2
 bit-depth = 16
 mode = "single-shot"
 frequency = 44100
-length = 187903
+length = 187906
 
 [[samples]]
 file = "102_mf.flac"
@@ -379,7 +386,7 @@ channels = 2
 bit-depth = 16
 mode = "single-shot"
 frequency = 44100
-length = 146192
+length = 146195
 
 [[samples]]
 file = "105_mf.flac"
@@ -392,7 +399,7 @@ channels = 2
 bit-depth = 16
 mode = "single-shot"
 frequency = 44100
-length = 189648
+length = 189651
 
 [[samples]]
 file = "108_mf.flac"
@@ -405,8 +412,7 @@ channels = 2
 bit-depth = 16
 mode = "single-shot"
 frequency = 44100
-length = 179648
-loop = 178026
+length = 111039
 
 [[samples]]
 file = "24_ff.flac"
@@ -419,7 +425,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 485119
+length = 485122
 loop = 297252
 
 [[samples]]
@@ -433,7 +439,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 463200
+length = 463203
 loop = 316826
 
 [[samples]]
@@ -447,7 +453,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 441927
+length = 441930
 end = 441883
 loop = 278834
 
@@ -462,7 +468,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 434624
+length = 434627
 start = 1
 loop = 308218
 
@@ -477,7 +483,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 432704
+length = 432707
 loop = 286908
 
 [[samples]]
@@ -491,7 +497,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 414848
+length = 414851
 start = 1
 loop = 294782
 
@@ -506,7 +512,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 387520
+length = 387523
 loop = 250936
 
 [[samples]]
@@ -520,7 +526,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 350336
+length = 350339
 start = 1
 loop = 348910
 
@@ -535,7 +541,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 313216
+length = 313219
 start = 1
 loop = 312018
 
@@ -550,7 +556,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 342656
+length = 342659
 start = 1
 loop = 341146
 
@@ -565,7 +571,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 278912
+length = 278915
 start = 1
 loop = 278064
 
@@ -580,7 +586,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 296000
+length = 296003
 start = 1
 loop = 295110
 
@@ -595,7 +601,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 270527
+length = 270530
 loop = 269628
 
 [[samples]]
@@ -609,7 +615,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 255612
+length = 255615
 start = 1
 loop = 253230
 
@@ -624,7 +630,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 227903
+length = 227906
 loop = 226564
 
 [[samples]]
@@ -638,7 +644,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 239615
+length = 239618
 loop = 237888
 
 [[samples]]
@@ -652,7 +658,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 219391
+length = 219394
 loop = 217570
 
 [[samples]]
@@ -666,7 +672,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 215935
+length = 215938
 loop = 214238
 
 [[samples]]
@@ -680,7 +686,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 175808
+length = 175811
 loop = 174916
 
 [[samples]]
@@ -694,7 +700,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 179393
+length = 179396
 start = 1
 loop = 177446
 
@@ -709,7 +715,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 190528
+length = 190531
 start = 1
 loop = 189020
 
@@ -724,7 +730,7 @@ channels = 2
 bit-depth = 16
 mode = "single-shot"
 frequency = 44100
-length = 205209
+length = 205212
 
 [[samples]]
 file = "95_ff.flac"
@@ -737,7 +743,7 @@ channels = 2
 bit-depth = 16
 mode = "single-shot"
 frequency = 44100
-length = 171311
+length = 171314
 
 [[samples]]
 file = "98_ff.flac"
@@ -750,7 +756,7 @@ channels = 2
 bit-depth = 16
 mode = "single-shot"
 frequency = 44100
-length = 177054
+length = 177057
 
 [[samples]]
 file = "101_ff.flac"
@@ -763,7 +769,7 @@ channels = 2
 bit-depth = 16
 mode = "single-shot"
 frequency = 44100
-length = 181178
+length = 181181
 
 [[samples]]
 file = "104_ff.flac"
@@ -776,7 +782,7 @@ channels = 2
 bit-depth = 16
 mode = "single-shot"
 frequency = 44100
-length = 196490
+length = 196493
 
 [[samples]]
 file = "107_ff.flac"
@@ -789,4 +795,4 @@ channels = 2
 bit-depth = 16
 mode = "single-shot"
 frequency = 44100
-length = 126562
+length = 126565

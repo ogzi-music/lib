@@ -1,0 +1,162 @@
+name = "Poly Fast"
+id = "poly-fast"
+group = "pad"
+midi-program = 88
+
+[[samples]]
+file = "96.flac"
+key = 96
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 86320
+end = 85541
+loop = 780
+
+[[samples]]
+file = "90.flac"
+key = 90
+key-to = 95
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 85636
+end = 84824
+loop = 813
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-to = 89
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 86442
+end = 85648
+loop = 317
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-to = 83
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 89577
+end = 88771
+loop = 807
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 88352
+end = 87600
+loop = 753
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-to = 71
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 88314
+end = 87577
+loop = 492
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 88556
+end = 88033
+loop = 524
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-to = 59
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 93717
+end = 93184
+loop = 267
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-to = 53
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 89039
+end = 88502
+loop = 807
+
+[[samples]]
+file = "42.flac"
+key = 42
+key-to = 47
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 94240
+end = 93001
+loop = 1240
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-to = 41
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 85629
+end = 84754
+loop = 876
+
+[[samples]]
+file = "30.flac"
+key = 30
+key-from = 0
+key-to = 35
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 98646
+end = 97909
+loop = 738
+

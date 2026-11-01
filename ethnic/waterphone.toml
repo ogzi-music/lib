@@ -1,0 +1,19 @@
+name = "Waterphone"
+id = "waterphone"
+group = "ethnic"
+
+[[samples]]
+file = "88.flac"
+key = 88
+key-from = 21
+key-to = 108
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27778
+length = 129528
+end = 129481
+loop = 106582
+

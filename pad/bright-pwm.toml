@@ -1,0 +1,162 @@
+name = "Bright PWM"
+id = "bright-pwm"
+group = "pad"
+midi-program = 88
+
+[[samples]]
+file = "96.flac"
+key = 96
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 72496
+end = 72369
+loop = 161
+
+[[samples]]
+file = "90.flac"
+key = 90
+key-to = 95
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 75312
+end = 75175
+loop = 102
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-to = 89
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 73892
+end = 73840
+loop = 89
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-to = 83
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 74292
+end = 73689
+loop = 302
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 77641
+end = 77333
+loop = 88
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-to = 71
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 77468
+end = 77403
+loop = 134
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 66096
+end = 65281
+loop = 816
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-to = 59
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 76544
+end = 76033
+loop = 768
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-to = 53
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 75640
+end = 74725
+loop = 915
+
+[[samples]]
+file = "42.flac"
+key = 42
+key-to = 47
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 88104
+end = 87795
+loop = 455
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-to = 41
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 92520
+end = 92307
+loop = 414
+
+[[samples]]
+file = "30.flac"
+key = 30
+key-from = 0
+key-to = 35
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 127568
+end = 127206
+loop = 217
+

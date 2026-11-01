@@ -1,0 +1,117 @@
+name = "Dizi"
+id = "dizi"
+group = "woodwinds"
+midi-program = 71
+
+[[samples]]
+file = "73.flac"
+key = 73
+key-from = 0
+key-to = 74
+level = 127
+tune-fine = 38
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44109
+length = 87456
+end = 61830
+loop = 51157
+
+[[samples]]
+file = "75.flac"
+key = 75
+key-to = 76
+level = 127
+tune-fine = 46
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44122
+length = 88288
+end = 76545
+loop = 50892
+
+[[samples]]
+file = "77.flac"
+key = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 155448
+end = 155415
+loop = 121847
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-to = 79
+level = 127
+tune-fine = 54
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44135
+length = 121608
+end = 121570
+loop = 105135
+
+[[samples]]
+file = "80.flac"
+key = 80
+key-to = 81
+level = 127
+tune-fine = 57
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44127
+length = 119056
+end = 119024
+loop = 99656
+
+[[samples]]
+file = "82.flac"
+key = 82
+level = 127
+tune-fine = 65
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44088
+length = 107400
+end = 99329
+loop = 92884
+
+[[samples]]
+file = "83.flac"
+key = 83
+key-to = 84
+level = 127
+tune-coarse = 63
+tune-fine = 70
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44084
+length = 112320
+end = 43258
+loop = 22342
+
+[[samples]]
+file = "85.flac"
+key = 85
+key-to = 108
+level = 127
+tune-coarse = 63
+tune-fine = 76
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44068
+length = 100912
+end = 100879
+loop = 82962
+

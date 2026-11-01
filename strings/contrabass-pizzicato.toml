@@ -1,0 +1,255 @@
+name = "Contrabass Pizzicato"
+id = "contrabass-pizzicato"
+group = "strings"
+midi-program = 43
+
+[[samples]]
+file = "24.flac"
+key = 24
+key-from = 0
+key-to = 25
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 156824
+end = 156822
+
+[[samples]]
+file = "26.flac"
+key = 26
+key-to = 27
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 111400
+end = 111392
+
+[[samples]]
+file = "28.flac"
+key = 28
+key-to = 30
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 118328
+end = 118322
+
+[[samples]]
+file = "32.flac"
+key = 32
+key-from = 31
+level = 127
+tune-fine = 61
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44107
+length = 108848
+end = 108844
+
+[[samples]]
+file = "33.flac"
+key = 33
+key-to = 34
+level = 127
+tune-fine = 67
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44092
+length = 132312
+end = 132309
+
+[[samples]]
+file = "35.flac"
+key = 35
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44136
+length = 95640
+end = 95637
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-to = 37
+level = 127
+tune-fine = 54
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44109
+length = 122696
+end = 122689
+
+[[samples]]
+file = "38.flac"
+key = 38
+key-to = 40
+level = 127
+tune-fine = 69
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44069
+length = 144048
+end = 144041
+
+[[samples]]
+file = "43.flac"
+key = 43
+key-from = 41
+key-to = 44
+level = 127
+tune-fine = 71
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44098
+length = 132608
+end = 132606
+
+[[samples]]
+file = "45.flac"
+key = 45
+key-to = 46
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 132672
+end = 132668
+
+[[samples]]
+file = "47.flac"
+key = 47
+level = 127
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44119
+length = 130856
+end = 130852
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-to = 49
+level = 127
+tune-fine = 71
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44072
+length = 133280
+
+[[samples]]
+file = "50.flac"
+key = 50
+level = 127
+tune-fine = 71
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44098
+length = 80088
+end = 80084
+
+[[samples]]
+file = "51.flac"
+key = 51
+key-to = 53
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 130192
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 54
+key-to = 56
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44074
+length = 93872
+end = 93868
+
+[[samples]]
+file = "57.flac"
+key = 57
+key-to = 58
+level = 127
+tune-fine = 57
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44127
+length = 59064
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 59
+key-to = 61
+level = 127
+tune-fine = 61
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44107
+length = 51192
+end = 51189
+
+[[samples]]
+file = "62.flac"
+key = 62
+level = 127
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44088
+length = 51208
+end = 51202
+
+[[samples]]
+file = "63.flac"
+key = 63
+level = 127
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44088
+length = 47848
+end = 47840
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-to = 127
+level = 127
+tune-fine = 74
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44090
+length = 46520
+end = 46512
+

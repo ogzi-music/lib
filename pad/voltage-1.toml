@@ -1,0 +1,19 @@
+name = "Voltage 1"
+id = "voltage-1"
+group = "pad"
+midi-program = 93
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 0
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 123904
+end = 122881
+loop = 1024
+

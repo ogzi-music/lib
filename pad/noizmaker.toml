@@ -1,0 +1,20 @@
+name = "Noizmaker"
+id = "noizmaker"
+group = "pad"
+midi-program = 91
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 122
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 143636
+end = 143581
+loop = 108
+

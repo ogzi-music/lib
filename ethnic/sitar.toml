@@ -1,0 +1,412 @@
+name = "Sitar"
+id = "sitar"
+group = "ethnic"
+midi-program = 102
+
+[[samples]]
+file = "45_mp.flac"
+key = 45
+key-from = 0
+key-to = 50
+velocity-to = 42
+level = 127
+tune-fine = 58
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 546852
+start = 1
+end = 546796
+
+[[samples]]
+file = "57_mp.flac"
+key = 57
+key-from = 51
+key-to = 58
+velocity-to = 42
+level = 127
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 546852
+start = 1
+end = 546796
+
+[[samples]]
+file = "60_mp.flac"
+key = 60
+key-from = 59
+key-to = 61
+velocity-to = 42
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 377323
+end = 377319
+
+[[samples]]
+file = "64_mp.flac"
+key = 64
+key-from = 62
+key-to = 65
+velocity-to = 42
+level = 127
+tune-fine = 61
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 457418
+start = 1
+end = 457362
+
+[[samples]]
+file = "67_mp.flac"
+key = 67
+key-from = 66
+key-to = 68
+velocity-to = 42
+level = 127
+tune-fine = 59
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 398676
+start = 1
+end = 398620
+
+[[samples]]
+file = "70_mp.flac"
+key = 70
+key-from = 69
+key-to = 72
+velocity-to = 42
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 308042
+end = 308038
+
+[[samples]]
+file = "76_mp.flac"
+key = 76
+key-from = 73
+key-to = 81
+velocity-to = 42
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 355766
+end = 355710
+
+[[samples]]
+file = "88_mp.flac"
+key = 88
+key-from = 82
+key-to = 127
+velocity-to = 42
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 355714
+end = 355710
+
+[[samples]]
+file = "55_mf.flac"
+key = 55
+key-from = 0
+key-to = 56
+velocity-from = 43
+velocity-to = 84
+level = 127
+tune-fine = 66
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 344522
+start = 1
+end = 344466
+
+[[samples]]
+file = "58_mf.flac"
+key = 58
+key-from = 57
+velocity-from = 43
+velocity-to = 84
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 468928
+start = 1
+end = 468872
+
+[[samples]]
+file = "60_mf.flac"
+key = 60
+key-from = 59
+key-to = 61
+velocity-from = 43
+velocity-to = 84
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 407188
+start = 1
+end = 407132
+
+[[samples]]
+file = "64_mf.flac"
+key = 64
+key-from = 62
+velocity-from = 43
+velocity-to = 84
+level = 127
+tune-fine = 61
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 321722
+start = 1
+end = 321666
+
+[[samples]]
+file = "66_mf.flac"
+key = 66
+key-from = 65
+key-to = 67
+velocity-from = 43
+velocity-to = 84
+level = 127
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 303068
+start = 1
+end = 303012
+
+[[samples]]
+file = "69_mf.flac"
+key = 69
+key-from = 68
+key-to = 70
+velocity-from = 43
+velocity-to = 84
+level = 127
+tune-fine = 70
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 415029
+end = 415025
+
+[[samples]]
+file = "72_mf.flac"
+key = 72
+key-from = 71
+key-to = 73
+velocity-from = 43
+velocity-to = 84
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 307874
+end = 307818
+
+[[samples]]
+file = "76_mf.flac"
+key = 76
+key-from = 74
+key-to = 77
+velocity-from = 43
+velocity-to = 84
+level = 127
+tune-fine = 70
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 153172
+start = 1
+end = 153116
+
+[[samples]]
+file = "79_mf.flac"
+key = 79
+key-from = 78
+key-to = 127
+velocity-from = 43
+velocity-to = 84
+level = 127
+tune-fine = 69
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 208376
+end = 208372
+
+[[samples]]
+file = "45_f.flac"
+key = 45
+key-from = 0
+key-to = 50
+velocity-from = 85
+level = 127
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 451279
+end = 451275
+
+[[samples]]
+file = "57_f.flac"
+key = 57
+key-from = 51
+key-to = 58
+velocity-from = 85
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 451332
+start = 1
+end = 451276
+
+[[samples]]
+file = "60_f.flac"
+key = 60
+key-from = 59
+key-to = 61
+velocity-from = 85
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 412964
+end = 412908
+
+[[samples]]
+file = "64_f.flac"
+key = 64
+key-from = 62
+key-to = 65
+velocity-from = 85
+level = 127
+tune-fine = 61
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 406922
+end = 406866
+
+[[samples]]
+file = "67_f.flac"
+key = 67
+key-from = 66
+key-to = 68
+velocity-from = 85
+level = 127
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 277356
+end = 277300
+
+[[samples]]
+file = "70_f.flac"
+key = 70
+key-from = 69
+key-to = 71
+velocity-from = 85
+level = 127
+tune-fine = 59
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 271226
+end = 271170
+
+[[samples]]
+file = "74_f.flac"
+key = 74
+key-from = 72
+key-to = 76
+velocity-from = 85
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 271360
+start = 1
+end = 271304
+
+[[samples]]
+file = "79_f.flac"
+key = 79
+key-from = 77
+key-to = 84
+velocity-from = 85
+level = 127
+tune-fine = 67
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 218484
+start = 1
+end = 218428
+
+[[samples]]
+file = "91_f.flac"
+key = 91
+key-from = 85
+key-to = 127
+velocity-from = 85
+level = 127
+tune-fine = 67
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 218431
+end = 218427
+

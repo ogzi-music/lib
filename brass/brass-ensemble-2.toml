@@ -1,5 +1,7 @@
 name = "Brass Ensemble 2"
 id = "brass-ensemble-2"
+group = "brass"
+midi-program = 59
 
 [[samples]]
 file = "41.flac"

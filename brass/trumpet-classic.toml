@@ -1,5 +1,7 @@
 name = "Trumpet Classic"
 id = "trumpet-classic"
+group = "brass"
+midi-program = 54
 
 [[samples]]
 file = "48.flac"

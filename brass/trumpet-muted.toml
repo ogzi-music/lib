@@ -1,5 +1,7 @@
 name = "Trumpet Muted"
 id = "trumpet-muted"
+group = "brass"
+midi-program = 57
 
 [[samples]]
 file = "48.flac"

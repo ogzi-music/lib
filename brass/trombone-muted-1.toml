@@ -1,5 +1,7 @@
 name = "Trombone Muted 1"
 id = "trombone-muted-1"
+group = "brass"
+midi-program = 55
 
 [[samples]]
 file = "43.flac"

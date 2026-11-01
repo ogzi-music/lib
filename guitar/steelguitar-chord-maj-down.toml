@@ -1,5 +1,7 @@
 name = "Steel Guitar Chord Maj Down"
 id = "steelguitar-chord-maj-down"
+group = "guitar"
+midi-program = 23
 
 [[samples]]
 file = "41.flac"

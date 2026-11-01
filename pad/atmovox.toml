@@ -1,0 +1,19 @@
+name = "Atmovox"
+id = "atmovox"
+group = "pad"
+midi-program = 86
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-from = 0
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 88312
+end = 88211
+loop = 305
+

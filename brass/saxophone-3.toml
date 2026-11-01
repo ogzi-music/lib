@@ -1,5 +1,7 @@
 name = "Saxophone 3"
 id = "saxophone-3"
+group = "brass"
+midi-program = 64
 
 [[samples]]
 file = "45.flac"

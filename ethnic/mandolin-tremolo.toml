@@ -1,0 +1,299 @@
+name = "Mandolin Tremolo"
+id = "mandolin-tremolo"
+group = "ethnic"
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 0
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 51152
+end = 51120
+loop = 35441
+
+[[samples]]
+file = "57.flac"
+key = 57
+key-from = 56
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 35120
+end = 35083
+loop = 19994
+
+[[samples]]
+file = "59.flac"
+key = 59
+key-from = 58
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 41368
+end = 41330
+loop = 26207
+
+[[samples]]
+file = "60.flac"
+key = 60
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 39472
+end = 39440
+loop = 19361
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-from = 61
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 34536
+end = 34499
+loop = 10327
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-from = 63
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 36176
+end = 36144
+loop = 20897
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 60216
+end = 60184
+loop = 14573
+
+[[samples]]
+file = "67.flac"
+key = 67
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 51472
+end = 51439
+loop = 15688
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 68
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 56168
+end = 56132
+loop = 13860
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 70
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 54840
+end = 54804
+loop = 7451
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 73
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 50272
+end = 50240
+loop = 7056
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 74
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 65264
+end = 65230
+loop = 10729
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-from = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 50688
+end = 50650
+loop = 4324
+
+[[samples]]
+file = "79.flac"
+key = 79
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 34768
+end = 34560
+loop = 6986
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 80
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 72136
+end = 72100
+loop = 6860
+
+[[samples]]
+file = "83.flac"
+key = 83
+key-from = 82
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 46088
+end = 46051
+loop = 14053
+
+[[samples]]
+file = "84.flac"
+key = 84
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 33216
+end = 33188
+loop = 30
+
+[[samples]]
+file = "86.flac"
+key = 86
+key-from = 85
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 68816
+end = 68784
+loop = 37791
+
+[[samples]]
+file = "88.flac"
+key = 88
+key-from = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 61072
+end = 61035
+loop = 14965
+
+[[samples]]
+file = "90.flac"
+key = 90
+key-from = 89
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 52664
+end = 52631
+loop = 21485
+
+[[samples]]
+file = "91.flac"
+key = 91
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 56432
+end = 56393
+loop = 9060
+
+[[samples]]
+file = "93.flac"
+key = 93
+key-from = 92
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 52096
+end = 52061
+loop = 22358
+
+[[samples]]
+file = "95.flac"
+key = 95
+key-from = 94
+key-to = 103
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 60408
+end = 60369
+loop = 29383
+

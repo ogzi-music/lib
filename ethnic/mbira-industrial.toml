@@ -1,0 +1,229 @@
+name = "Industrial Mbira"
+id = "mbira-industrial"
+group = "ethnic"
+midi-program = 106
+
+[[samples]]
+file = "52_mp.flac"
+key = 52
+key-from = 0
+key-to = 55
+velocity-to = 63
+level = 126
+tune-fine = 67
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 34548
+end = 34544
+loop = 30254
+
+[[samples]]
+file = "59_mp.flac"
+key = 59
+key-from = 56
+key-to = 61
+velocity-to = 63
+level = 127
+tune-fine = 70
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 26180
+start = 1
+end = 26176
+loop = 23484
+
+[[samples]]
+file = "64_mp.flac"
+key = 64
+key-from = 62
+velocity-to = 63
+level = 127
+tune-fine = 67
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 21484
+end = 21480
+loop = 19202
+
+[[samples]]
+file = "65_mp.flac"
+key = 65
+key-to = 66
+velocity-to = 63
+level = 127
+tune-fine = 57
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 28174
+end = 28171
+loop = 26162
+
+[[samples]]
+file = "69_mp.flac"
+key = 69
+key-from = 67
+key-to = 71
+velocity-to = 63
+level = 127
+tune-fine = 56
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 16112
+start = 1
+end = 16108
+loop = 15212
+
+[[samples]]
+file = "74_mp.flac"
+key = 74
+key-from = 72
+velocity-to = 63
+level = 127
+tune-fine = 51
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 22210
+end = 22206
+loop = 15304
+
+[[samples]]
+file = "76_mp.flac"
+key = 76
+key-from = 75
+key-to = 127
+velocity-to = 63
+level = 127
+tune-fine = 51
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 15880
+end = 15876
+loop = 15215
+
+[[samples]]
+file = "52_mf.flac"
+key = 52
+key-from = 0
+key-to = 55
+velocity-from = 64
+level = 126
+tune-fine = 67
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 34494
+start = 1
+end = 34490
+loop = 30200
+
+[[samples]]
+file = "59_mf.flac"
+key = 59
+key-from = 56
+key-to = 61
+velocity-from = 64
+level = 127
+tune-fine = 70
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 26208
+start = 1
+end = 26204
+loop = 23512
+
+[[samples]]
+file = "64_mf.flac"
+key = 64
+key-from = 62
+velocity-from = 64
+level = 127
+tune-fine = 67
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 21558
+start = 1
+end = 21554
+loop = 19276
+
+[[samples]]
+file = "65_mf.flac"
+key = 65
+key-to = 66
+velocity-from = 64
+level = 127
+tune-fine = 57
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 28240
+end = 28237
+loop = 26228
+
+[[samples]]
+file = "69_mf.flac"
+key = 69
+key-from = 67
+key-to = 71
+velocity-from = 64
+level = 127
+tune-fine = 56
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 16120
+end = 16116
+loop = 15220
+
+[[samples]]
+file = "74_mf.flac"
+key = 74
+key-from = 72
+velocity-from = 64
+level = 127
+tune-fine = 51
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 22214
+start = 1
+end = 22210
+loop = 15308
+
+[[samples]]
+file = "76_mf.flac"
+key = 76
+key-from = 75
+key-to = 127
+velocity-from = 64
+level = 127
+tune-fine = 51
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 15888
+end = 15884
+loop = 15223
+

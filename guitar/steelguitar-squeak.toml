@@ -1,5 +1,7 @@
 name = "Steel Guitar Squeak"
 id = "steelguitar-squeak"
+group = "guitar"
+midi-program = 23
 
 [[samples]]
 file = "51.flac"

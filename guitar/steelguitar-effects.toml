@@ -1,5 +1,7 @@
 name = "Steel Guitar Effects"
 id = "steelguitar-effects"
+group = "guitar"
+midi-program = 23
 
 [[samples]]
 file = "51.flac"

@@ -1,5 +1,7 @@
 name = "Tuba 1"
 id = "tuba-1"
+group = "brass"
+midi-program = 56
 
 [[samples]]
 file = "28.flac"

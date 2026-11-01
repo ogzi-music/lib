@@ -1,5 +1,7 @@
 name = "Steel Guitar Chord Dim7 Up"
 id = "steelguitar-chord-dim7-up"
+group = "guitar"
+midi-program = 23
 
 [[samples]]
 file = "41.flac"

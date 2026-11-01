@@ -1,5 +1,7 @@
 name = "Steel Guitar Harmonic"
 id = "steelguitar-harmonic"
+group = "guitar"
+midi-program = 23
 
 [[samples]]
 file = "50.flac"

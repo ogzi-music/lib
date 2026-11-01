@@ -1,0 +1,20 @@
+name = "Digistack"
+id = "digistack"
+group = "pad"
+midi-program = 88
+
+[[samples]]
+file = "73.flac"
+key = 73
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 47
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 130852
+end = 130673
+loop = 112
+

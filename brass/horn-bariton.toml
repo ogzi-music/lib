@@ -1,5 +1,6 @@
 name = "Horn Bariton"
 id = "horn-bariton"
+group = "brass"
 
 [[samples]]
 file = "41.flac"

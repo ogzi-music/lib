@@ -1,5 +1,7 @@
 name = "Pipe Organ 14"
 id = "pipe-organ-14"
+group = "organ"
+midi-program = 17
 
 [[samples]]
 file = "36.flac"
@@ -11,7 +13,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 89892
+length = 89895
 end = 89673
 loop = 38489
 
@@ -25,7 +27,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 61152
+length = 61155
 end = 60878
 loop = 29586
 
@@ -39,7 +41,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 54426
+length = 54429
 end = 54201
 loop = 25129
 
@@ -53,7 +55,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 61798
+length = 61801
 end = 61490
 loop = 30946
 
@@ -67,7 +69,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 49276
+length = 49279
 end = 48890
 loop = 14911
 
@@ -81,7 +83,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 53530
+length = 53533
 end = 53176
 loop = 24337
 
@@ -95,7 +97,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 40896
+length = 40899
 end = 40576
 loop = 15918
 
@@ -109,7 +111,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 67800
+length = 67803
 end = 67455
 loop = 21773
 
@@ -123,7 +125,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 41124
+length = 41127
 end = 40924
 loop = 20892
 
@@ -137,7 +139,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 66639
+length = 66642
 end = 66437
 loop = 36128
 
@@ -151,7 +153,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 18620
+length = 18623
 end = 18339
 loop = 17862
 
@@ -165,7 +167,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 57570
+length = 57573
 end = 57341
 loop = 36830
 
@@ -179,7 +181,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 51244
+length = 51247
 end = 51056
 loop = 32579
 
@@ -193,7 +195,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 53550
+length = 53553
 end = 53300
 loop = 34087
 
@@ -207,7 +209,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 60300
+length = 60303
 end = 60097
 loop = 33207
 
@@ -221,7 +223,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 49591
+length = 49594
 end = 49355
 loop = 29008
 
@@ -235,7 +237,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 80262
+length = 80265
 end = 79915
 loop = 30890
 
@@ -249,7 +251,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 89280
+length = 89283
 end = 88909
 loop = 42988
 
@@ -263,7 +265,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 64800
+length = 64803
 end = 64571
 loop = 26610
 
@@ -277,7 +279,7 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 48974
+length = 48977
 end = 48766
 loop = 20402
 
@@ -291,6 +293,6 @@ channels = 2
 bit-depth = 16
 mode = "loop"
 frequency = 44100
-length = 51230
+length = 51233
 end = 50946
 loop = 25292

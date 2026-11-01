@@ -1,5 +1,7 @@
 name = "Trumpet Fall Fast"
 id = "trumpet-fall-fast"
+group = "brass"
+midi-program = 54
 
 [[samples]]
 file = "55.flac"
