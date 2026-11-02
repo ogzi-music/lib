@@ -54,11 +54,14 @@ jobs:
           find . -type f \( -name '*.toml' -o -name '*.flac' \) -not -path './.git/*' \
             -exec cp --parents -t "$SITE" '{}' +
           echo "Copied $(find "$SITE" -type f | wc -l) files"
-          # A flac smaller than 2KB is an LFS pointer, not audio (smallest
-          # real sample here is ~4.6KB). Abort instead of publishing pointers.
-          POINTERS=$(find "$SITE" -name '*.flac' -size -2k | wc -l)
-          if [ "$POINTERS" -ne 0 ]; then
-            echo "::error::$POINTERS flac file(s) under 2KB — LFS pointers instead of audio, git lfs pull failed?"
+          # An unpulled LFS object is a text pointer; a real FLAC starts with
+          # the fLaC magic bytes. Size alone can't tell them apart (some real
+          # samples here are ~235 bytes), so check the magic, not the size.
+          BAD=$(find "$SITE" -name '*.flac' -type f \
+            -exec sh -c '[ "$(head -c 4 "$1")" = fLaC ] || echo "$1"' _ {} \;)
+          if [ -n "$BAD" ]; then
+            echo "::error::flac file(s) missing fLaC magic — LFS pointers instead of audio, git lfs pull failed?"
+            echo "$BAD"
             exit 1
           fi
 
