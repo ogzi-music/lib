@@ -57,10 +57,6 @@ Ogzi TOML Fields
   - `key-to` (_optional_): Right key number in a range covered by this sample (see [Key Number](#key-number)). Equals to `key` if missing.
   - `velocity-from` (_optional_): Minimum velocity covered by this sample. Equals to `1` if missing.
   - `velocity-to` (_optional_): Maximum velocity covered by this sample. Equals to `127` if missing.
-  - `round-robin` (_optional_): Alternation index, from `1`, among the samples
-    sharing the same key and velocity ranges. Consecutive hits should cycle
-    through the group (in order or at random) to avoid the machine-gun effect
-    of repeating one recording. Omitted when the sample has no alternates.
   - `level`: Volume level, from `1` to `127`.
   - `pan` (_optional_): Stereo panning, `64` for the central value, less than `64` to the left channel, more than `64` to the right channel. Equals to `64` if missing.
   - `tune-coarse` (_optional_): Coarse tuning parameter, less than `64` to the down side, more than `64` to the up side. Equals to `64` if missing.
@@ -73,6 +69,10 @@ Ogzi TOML Fields
   - `start` (_optional_): Start point, from `0` to `length − 1`. Equals to `0` if missing.
   - `end` (_optional_): End point, from `0` to `length − 1`. Equals to `length − 1` if missing.
   - `loop` (_when_ `mode` = `loop` _only_): Loop start point, from `0` to `length − 1`.
+
+Samples sharing the same key and velocity ranges form a group: on every hit
+the sampler picks one of them at random, which avoids the machine-gun effect
+of repeating a single recording.
 
 Drum Kits
 ---------

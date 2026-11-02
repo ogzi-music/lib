@@ -16,7 +16,6 @@ end = 22588
 [[samples]]
 file = "42_wephattfield-050.flac"
 key = 42
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -41,7 +40,6 @@ loop = 35360
 [[samples]]
 file = "42_whatustarted-137.flac"
 key = 42
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16
@@ -54,7 +52,6 @@ loop = 19386
 [[samples]]
 file = "42_whatustarted-137_2.flac"
 key = 42
-round-robin = 3
 level = 127
 channels = 1
 bit-depth = 16

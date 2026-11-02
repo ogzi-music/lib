@@ -317,7 +317,6 @@ key = 71
 key-from = 69
 key-to = 70
 velocity-from = 81
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16

@@ -179,7 +179,6 @@ length = 26048
 [[samples]]
 file = "57_2.flac"
 key = 57
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -190,7 +189,6 @@ length = 29568
 [[samples]]
 file = "58_2.flac"
 key = 58
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16

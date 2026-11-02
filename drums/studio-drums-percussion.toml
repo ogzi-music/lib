@@ -5,7 +5,6 @@ group = "drums"
 [[samples]]
 file = "39_claps-stereo-1.flac"
 key = 39
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -16,7 +15,6 @@ length = 24721
 [[samples]]
 file = "39_claps-stereo-2.flac"
 key = 39
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -27,7 +25,6 @@ length = 37009
 [[samples]]
 file = "39_claps-stereo-3.flac"
 key = 39
-round-robin = 3
 level = 127
 channels = 2
 bit-depth = 16
@@ -38,7 +35,6 @@ length = 27655
 [[samples]]
 file = "39_claps-dual-1.flac"
 key = 39
-round-robin = 4
 level = 127
 channels = 1
 bit-depth = 16
@@ -49,7 +45,6 @@ length = 18394
 [[samples]]
 file = "39_claps-dual-2.flac"
 key = 39
-round-robin = 5
 level = 127
 channels = 1
 bit-depth = 16
@@ -60,7 +55,6 @@ length = 12575
 [[samples]]
 file = "39_claps-dual-3.flac"
 key = 39
-round-robin = 6
 level = 127
 channels = 1
 bit-depth = 16
@@ -71,7 +65,6 @@ length = 16776
 [[samples]]
 file = "39_clap-single-1.flac"
 key = 39
-round-robin = 7
 level = 127
 channels = 1
 bit-depth = 16
@@ -82,7 +75,6 @@ length = 37125
 [[samples]]
 file = "39_clap-single-2.flac"
 key = 39
-round-robin = 8
 level = 127
 channels = 1
 bit-depth = 16
@@ -93,7 +85,6 @@ length = 36010
 [[samples]]
 file = "82_fingersnap-1.flac"
 key = 82
-round-robin = 1
 level = 127
 channels = 1
 bit-depth = 16
@@ -104,7 +95,6 @@ length = 5142
 [[samples]]
 file = "82_fingersnap-2.flac"
 key = 82
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16
@@ -115,7 +105,6 @@ length = 12183
 [[samples]]
 file = "82_fingersnap-3.flac"
 key = 82
-round-robin = 3
 level = 127
 channels = 1
 bit-depth = 16
@@ -126,7 +115,6 @@ length = 13786
 [[samples]]
 file = "54_tambourine-hit.flac"
 key = 54
-round-robin = 1
 level = 127
 channels = 1
 bit-depth = 16
@@ -137,7 +125,6 @@ length = 17526
 [[samples]]
 file = "54_tambourine-rattle.flac"
 key = 54
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16
@@ -150,7 +137,6 @@ loop = 2684
 [[samples]]
 file = "54_tambourine-shake-1.flac"
 key = 54
-round-robin = 3
 level = 127
 channels = 1
 bit-depth = 16
@@ -161,7 +147,6 @@ length = 20964
 [[samples]]
 file = "54_tambourine-shake-2.flac"
 key = 54
-round-robin = 4
 level = 127
 channels = 1
 bit-depth = 16
@@ -172,7 +157,6 @@ length = 32021
 [[samples]]
 file = "54_tambourine-stall.flac"
 key = 54
-round-robin = 5
 level = 127
 channels = 1
 bit-depth = 16
@@ -183,7 +167,6 @@ length = 199115
 [[samples]]
 file = "56_stand-hit.flac"
 key = 56
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -194,7 +177,6 @@ length = 8600
 [[samples]]
 file = "56_plate-1.flac"
 key = 56
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16
@@ -205,7 +187,6 @@ length = 18783
 [[samples]]
 file = "56_plate-2.flac"
 key = 56
-round-robin = 3
 level = 127
 channels = 1
 bit-depth = 16
@@ -216,7 +197,6 @@ length = 5987
 [[samples]]
 file = "56_plate-3.flac"
 key = 56
-round-robin = 4
 level = 127
 channels = 1
 bit-depth = 16
@@ -227,7 +207,6 @@ length = 16107
 [[samples]]
 file = "56_plate-4.flac"
 key = 56
-round-robin = 5
 level = 127
 channels = 1
 bit-depth = 16
@@ -250,7 +229,6 @@ loop = 29254
 [[samples]]
 file = "56_fork-on-plate.flac"
 key = 56
-round-robin = 6
 level = 127
 channels = 1
 bit-depth = 16
@@ -261,7 +239,6 @@ length = 6368
 [[samples]]
 file = "56_knife-on-plate.flac"
 key = 56
-round-robin = 7
 level = 127
 channels = 1
 bit-depth = 16
@@ -272,7 +249,6 @@ length = 6426
 [[samples]]
 file = "82_utensils.flac"
 key = 82
-round-robin = 4
 level = 127
 channels = 1
 bit-depth = 16
@@ -283,7 +259,6 @@ length = 95073
 [[samples]]
 file = "76_beer-bottle-1.flac"
 key = 76
-round-robin = 1
 level = 127
 channels = 1
 bit-depth = 16
@@ -294,7 +269,6 @@ length = 8035
 [[samples]]
 file = "76_beer-bottle-2.flac"
 key = 76
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16

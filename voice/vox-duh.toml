@@ -207,7 +207,6 @@ file = "65_2.flac"
 key = 65
 key-from = 61
 key-to = 67
-round-robin = 2
 level = 127
 pan = 127
 channels = 1

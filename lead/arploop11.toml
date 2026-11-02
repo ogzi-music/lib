@@ -151,7 +151,6 @@ loop = 6
 [[samples]]
 file = "60_2.flac"
 key = 60
-round-robin = 2
 level = 127
 pan = 127
 channels = 1
@@ -164,7 +163,6 @@ end = 87694
 [[samples]]
 file = "61_2.flac"
 key = 61
-round-robin = 2
 level = 127
 pan = 127
 channels = 1
@@ -177,7 +175,6 @@ end = 87745
 [[samples]]
 file = "62_2.flac"
 key = 62
-round-robin = 2
 level = 127
 pan = 127
 channels = 1
@@ -190,7 +187,6 @@ end = 87731
 [[samples]]
 file = "63_2.flac"
 key = 63
-round-robin = 2
 level = 127
 pan = 127
 channels = 1
@@ -203,7 +199,6 @@ end = 87552
 [[samples]]
 file = "64_2.flac"
 key = 64
-round-robin = 2
 level = 127
 pan = 127
 channels = 1
@@ -216,7 +211,6 @@ end = 86131
 [[samples]]
 file = "65_2.flac"
 key = 65
-round-robin = 2
 level = 127
 pan = 127
 channels = 1
@@ -229,7 +223,6 @@ end = 86411
 [[samples]]
 file = "66_2.flac"
 key = 66
-round-robin = 2
 level = 127
 pan = 127
 channels = 1
@@ -242,7 +235,6 @@ end = 87274
 [[samples]]
 file = "67_2.flac"
 key = 67
-round-robin = 2
 level = 127
 pan = 127
 channels = 1
@@ -255,7 +247,6 @@ end = 87812
 [[samples]]
 file = "68_2.flac"
 key = 68
-round-robin = 2
 level = 127
 pan = 127
 channels = 1
@@ -268,7 +259,6 @@ end = 87401
 [[samples]]
 file = "69_2.flac"
 key = 69
-round-robin = 2
 level = 127
 pan = 127
 channels = 1
@@ -281,7 +271,6 @@ end = 87515
 [[samples]]
 file = "70_2.flac"
 key = 70
-round-robin = 2
 level = 127
 pan = 127
 channels = 1
@@ -294,7 +283,6 @@ end = 87672
 [[samples]]
 file = "71_2.flac"
 key = 71
-round-robin = 2
 level = 127
 pan = 127
 channels = 1
@@ -308,7 +296,6 @@ loop = 6
 [[samples]]
 file = "60_3.flac"
 key = 60
-round-robin = 3
 level = 127
 pan = 127
 channels = 1
@@ -321,7 +308,6 @@ end = 87694
 [[samples]]
 file = "61_3.flac"
 key = 61
-round-robin = 3
 level = 127
 pan = 127
 channels = 1
@@ -334,7 +320,6 @@ end = 87745
 [[samples]]
 file = "62_3.flac"
 key = 62
-round-robin = 3
 level = 127
 pan = 127
 channels = 1
@@ -347,7 +332,6 @@ end = 87731
 [[samples]]
 file = "63_3.flac"
 key = 63
-round-robin = 3
 level = 127
 pan = 127
 channels = 1
@@ -360,7 +344,6 @@ end = 87552
 [[samples]]
 file = "64_3.flac"
 key = 64
-round-robin = 3
 level = 127
 pan = 127
 channels = 1
@@ -373,7 +356,6 @@ end = 86131
 [[samples]]
 file = "65_3.flac"
 key = 65
-round-robin = 3
 level = 127
 pan = 127
 channels = 1
@@ -386,7 +368,6 @@ end = 86411
 [[samples]]
 file = "66_3.flac"
 key = 66
-round-robin = 3
 level = 127
 pan = 127
 channels = 1
@@ -399,7 +380,6 @@ end = 87274
 [[samples]]
 file = "67_3.flac"
 key = 67
-round-robin = 3
 level = 127
 pan = 127
 channels = 1
@@ -412,7 +392,6 @@ end = 87812
 [[samples]]
 file = "68_3.flac"
 key = 68
-round-robin = 3
 level = 127
 pan = 127
 channels = 1
@@ -425,7 +404,6 @@ end = 87401
 [[samples]]
 file = "69_3.flac"
 key = 69
-round-robin = 3
 level = 127
 pan = 127
 channels = 1
@@ -438,7 +416,6 @@ end = 87515
 [[samples]]
 file = "70_3.flac"
 key = 70
-round-robin = 3
 level = 127
 pan = 127
 channels = 1
@@ -451,7 +428,6 @@ end = 87672
 [[samples]]
 file = "71_3.flac"
 key = 71
-round-robin = 3
 level = 127
 pan = 127
 channels = 1
@@ -465,7 +441,6 @@ loop = 6
 [[samples]]
 file = "60_4.flac"
 key = 60
-round-robin = 4
 level = 127
 pan = 0
 channels = 1
@@ -478,7 +453,6 @@ end = 87694
 [[samples]]
 file = "61_4.flac"
 key = 61
-round-robin = 4
 level = 127
 pan = 0
 channels = 1
@@ -491,7 +465,6 @@ end = 87745
 [[samples]]
 file = "62_4.flac"
 key = 62
-round-robin = 4
 level = 127
 pan = 0
 channels = 1
@@ -504,7 +477,6 @@ end = 87731
 [[samples]]
 file = "63_4.flac"
 key = 63
-round-robin = 4
 level = 127
 pan = 0
 channels = 1
@@ -517,7 +489,6 @@ end = 87552
 [[samples]]
 file = "64_4.flac"
 key = 64
-round-robin = 4
 level = 127
 pan = 0
 channels = 1
@@ -530,7 +501,6 @@ end = 86131
 [[samples]]
 file = "65_4.flac"
 key = 65
-round-robin = 4
 level = 127
 pan = 0
 channels = 1
@@ -543,7 +513,6 @@ end = 86411
 [[samples]]
 file = "66_4.flac"
 key = 66
-round-robin = 4
 level = 127
 pan = 0
 channels = 1
@@ -556,7 +525,6 @@ end = 87274
 [[samples]]
 file = "67_4.flac"
 key = 67
-round-robin = 4
 level = 127
 pan = 0
 channels = 1
@@ -569,7 +537,6 @@ end = 87812
 [[samples]]
 file = "68_4.flac"
 key = 68
-round-robin = 4
 level = 127
 pan = 0
 channels = 1
@@ -582,7 +549,6 @@ end = 87401
 [[samples]]
 file = "69_4.flac"
 key = 69
-round-robin = 4
 level = 127
 pan = 0
 channels = 1
@@ -595,7 +561,6 @@ end = 87515
 [[samples]]
 file = "70_4.flac"
 key = 70
-round-robin = 4
 level = 127
 pan = 0
 channels = 1
@@ -608,7 +573,6 @@ end = 87672
 [[samples]]
 file = "71_4.flac"
 key = 71
-round-robin = 4
 level = 127
 pan = 0
 channels = 1

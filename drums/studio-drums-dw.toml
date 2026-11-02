@@ -5,7 +5,6 @@ group = "drums"
 [[samples]]
 file = "36_kick-dw-1.flac"
 key = 36
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -16,7 +15,6 @@ length = 100210
 [[samples]]
 file = "36_kick-dw-2.flac"
 key = 36
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -143,7 +141,6 @@ length = 102239
 [[samples]]
 file = "36_kick-dw-3.flac"
 key = 36
-round-robin = 3
 level = 127
 channels = 1
 bit-depth = 16

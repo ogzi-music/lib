@@ -284,7 +284,6 @@ end = 9822
 [[samples]]
 file = "57_2.flac"
 key = 57
-round-robin = 2
 level = 127
 pan = 39
 tune-fine = 65
@@ -297,7 +296,6 @@ length = 7400
 [[samples]]
 file = "58_2.flac"
 key = 58
-round-robin = 2
 level = 127
 pan = 39
 tune-fine = 65
@@ -477,7 +475,6 @@ length = 10312
 [[samples]]
 file = "73_2.flac"
 key = 73
-round-robin = 2
 level = 127
 pan = 39
 tune-fine = 65
@@ -516,7 +513,6 @@ length = 3568
 [[samples]]
 file = "76_2.flac"
 key = 76
-round-robin = 2
 level = 127
 pan = 39
 tune-fine = 65
@@ -765,7 +761,6 @@ length = 4544
 file = "96_2.flac"
 key = 96
 key-to = 127
-round-robin = 2
 level = 127
 pan = 39
 tune-fine = 65

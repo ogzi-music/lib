@@ -6,7 +6,6 @@ group = "drums"
 file = "36_bd-rock-velo.flac"
 key = 36
 velocity-from = 109
-round-robin = 1
 level = 127
 channels = 1
 bit-depth = 16
@@ -18,7 +17,6 @@ length = 14784
 file = "36_bd-rock-velo_2.flac"
 key = 36
 velocity-to = 72
-round-robin = 1
 level = 127
 channels = 1
 bit-depth = 16
@@ -31,7 +29,6 @@ file = "36_bd-rock-velo_3.flac"
 key = 36
 velocity-from = 73
 velocity-to = 108
-round-robin = 1
 level = 127
 channels = 1
 bit-depth = 16
@@ -42,7 +39,6 @@ length = 15872
 [[samples]]
 file = "36_bd-newpop1.flac"
 key = 36
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16
@@ -53,7 +49,6 @@ length = 12992
 [[samples]]
 file = "36_bd-newpop2.flac"
 key = 36
-round-robin = 3
 level = 127
 channels = 1
 bit-depth = 16
@@ -64,7 +59,6 @@ length = 13632
 [[samples]]
 file = "36_bd-newpop3.flac"
 key = 36
-round-robin = 4
 level = 127
 channels = 1
 bit-depth = 16
@@ -75,7 +69,6 @@ length = 13312
 [[samples]]
 file = "36_bd-newpop4.flac"
 key = 36
-round-robin = 5
 level = 127
 channels = 1
 bit-depth = 16
@@ -86,7 +79,6 @@ length = 14432
 [[samples]]
 file = "36_bd-newpop5.flac"
 key = 36
-round-robin = 6
 level = 127
 channels = 1
 bit-depth = 16
@@ -97,7 +89,6 @@ length = 14176
 [[samples]]
 file = "36_bd-newpop6.flac"
 key = 36
-round-robin = 7
 level = 127
 channels = 1
 bit-depth = 16
@@ -108,7 +99,6 @@ length = 13600
 [[samples]]
 file = "36_bd-newpop7.flac"
 key = 36
-round-robin = 8
 level = 127
 channels = 1
 bit-depth = 16
@@ -119,7 +109,6 @@ length = 16000
 [[samples]]
 file = "36_bd-stackc.flac"
 key = 36
-round-robin = 9
 level = 127
 channels = 2
 bit-depth = 16
@@ -130,7 +119,6 @@ length = 16384
 [[samples]]
 file = "36_bd-stackd.flac"
 key = 36
-round-robin = 10
 level = 127
 channels = 1
 bit-depth = 16
@@ -141,7 +129,6 @@ length = 13568
 [[samples]]
 file = "36_bd-xkicka.flac"
 key = 36
-round-robin = 11
 level = 127
 channels = 1
 bit-depth = 16
@@ -152,7 +139,6 @@ length = 14140
 [[samples]]
 file = "36_bd-xkickb.flac"
 key = 36
-round-robin = 12
 level = 127
 channels = 1
 bit-depth = 16
@@ -163,7 +149,6 @@ length = 12448
 [[samples]]
 file = "36_bd-dancea.flac"
 key = 36
-round-robin = 13
 level = 127
 channels = 2
 bit-depth = 16
@@ -175,7 +160,6 @@ end = 16704
 [[samples]]
 file = "36_bd-danceb.flac"
 key = 36
-round-robin = 14
 level = 127
 channels = 2
 bit-depth = 16
@@ -187,7 +171,6 @@ end = 19456
 [[samples]]
 file = "36_bd-dancec.flac"
 key = 36
-round-robin = 15
 level = 127
 channels = 1
 bit-depth = 16
@@ -199,7 +182,6 @@ end = 13920
 [[samples]]
 file = "36_bd-nine.flac"
 key = 36
-round-robin = 16
 level = 127
 channels = 1
 bit-depth = 16
@@ -211,7 +193,6 @@ end = 19840
 [[samples]]
 file = "36_bd-gms-a.flac"
 key = 36
-round-robin = 17
 level = 127
 channels = 2
 bit-depth = 16
@@ -223,7 +204,6 @@ end = 51968
 [[samples]]
 file = "36_bd-gms-b.flac"
 key = 36
-round-robin = 18
 level = 127
 channels = 2
 bit-depth = 16
@@ -235,7 +215,6 @@ end = 43264
 [[samples]]
 file = "36_bd-gms-c.flac"
 key = 36
-round-robin = 19
 level = 127
 channels = 2
 bit-depth = 16
@@ -247,7 +226,6 @@ end = 66151
 [[samples]]
 file = "36_bd-compa.flac"
 key = 36
-round-robin = 20
 level = 127
 channels = 2
 bit-depth = 16
@@ -259,7 +237,6 @@ end = 32768
 [[samples]]
 file = "36_bd-compb.flac"
 key = 36
-round-robin = 21
 level = 127
 channels = 2
 bit-depth = 16
@@ -271,7 +248,6 @@ end = 39424
 [[samples]]
 file = "36_bd-compc.flac"
 key = 36
-round-robin = 22
 level = 127
 channels = 2
 bit-depth = 16
@@ -283,7 +259,6 @@ end = 36864
 [[samples]]
 file = "36_bd-drum-plate.flac"
 key = 36
-round-robin = 23
 level = 127
 channels = 2
 bit-depth = 16
@@ -294,7 +269,6 @@ length = 25408
 [[samples]]
 file = "36_bd-realroom.flac"
 key = 36
-round-robin = 24
 level = 127
 channels = 2
 bit-depth = 16
@@ -305,7 +279,6 @@ length = 24704
 [[samples]]
 file = "36_bd-basementa.flac"
 key = 36
-round-robin = 25
 level = 127
 channels = 2
 bit-depth = 16
@@ -316,7 +289,6 @@ length = 30980
 [[samples]]
 file = "36_bd-basementb.flac"
 key = 36
-round-robin = 26
 level = 127
 channels = 2
 bit-depth = 16
@@ -327,7 +299,6 @@ length = 37376
 [[samples]]
 file = "36_bd-gated-chambera.flac"
 key = 36
-round-robin = 27
 level = 127
 channels = 2
 bit-depth = 16
@@ -338,7 +309,6 @@ length = 28544
 [[samples]]
 file = "36_bd-gated-chamberb.flac"
 key = 36
-round-robin = 28
 level = 127
 channels = 2
 bit-depth = 16
@@ -349,7 +319,6 @@ length = 26816
 [[samples]]
 file = "36_bd-basement-set.flac"
 key = 36
-round-robin = 29
 level = 127
 channels = 2
 bit-depth = 16
@@ -360,7 +329,6 @@ length = 48599
 [[samples]]
 file = "36_bd-basement-set_2.flac"
 key = 36
-round-robin = 30
 level = 127
 channels = 2
 bit-depth = 16
@@ -371,7 +339,6 @@ length = 32640
 [[samples]]
 file = "36_bd-basement-set_3.flac"
 key = 36
-round-robin = 31
 level = 127
 channels = 2
 bit-depth = 16
@@ -382,7 +349,6 @@ length = 30980
 [[samples]]
 file = "36_bd-basement-set_4.flac"
 key = 36
-round-robin = 32
 level = 127
 channels = 2
 bit-depth = 16
@@ -393,7 +359,6 @@ length = 36096
 [[samples]]
 file = "36_bd-basement-set_5.flac"
 key = 36
-round-robin = 33
 level = 127
 channels = 2
 bit-depth = 16
@@ -404,7 +369,6 @@ length = 37376
 [[samples]]
 file = "36_bd-basement-set_6.flac"
 key = 36
-round-robin = 34
 level = 127
 channels = 2
 bit-depth = 16
@@ -415,7 +379,6 @@ length = 30720
 [[samples]]
 file = "36_bd-plate-set.flac"
 key = 36
-round-robin = 40
 level = 127
 channels = 2
 bit-depth = 16
@@ -426,7 +389,6 @@ length = 17439
 [[samples]]
 file = "36_bd-plate-set_2.flac"
 key = 36
-round-robin = 41
 level = 127
 channels = 2
 bit-depth = 16
@@ -437,7 +399,6 @@ length = 17984
 [[samples]]
 file = "36_bd-plate-set_3.flac"
 key = 36
-round-robin = 42
 level = 127
 channels = 2
 bit-depth = 16
@@ -448,7 +409,6 @@ length = 18290
 [[samples]]
 file = "36_bd-plate-set_4.flac"
 key = 36
-round-robin = 43
 level = 127
 channels = 2
 bit-depth = 16
@@ -459,7 +419,6 @@ length = 26462
 [[samples]]
 file = "36_bd-plate-set_5.flac"
 key = 36
-round-robin = 44
 level = 127
 channels = 2
 bit-depth = 16
@@ -470,7 +429,6 @@ length = 25408
 [[samples]]
 file = "36_bd-plate-set_6.flac"
 key = 36
-round-robin = 45
 level = 127
 channels = 2
 bit-depth = 16
@@ -481,7 +439,6 @@ length = 24567
 [[samples]]
 file = "36_bd-plate-set_7.flac"
 key = 36
-round-robin = 46
 level = 127
 channels = 2
 bit-depth = 16
@@ -492,7 +449,6 @@ length = 25536
 [[samples]]
 file = "36_bd-chamber-set.flac"
 key = 36
-round-robin = 53
 level = 127
 channels = 2
 bit-depth = 16
@@ -503,7 +459,6 @@ length = 27520
 [[samples]]
 file = "36_bd-chamber-set_2.flac"
 key = 36
-round-robin = 54
 level = 127
 channels = 2
 bit-depth = 16
@@ -514,7 +469,6 @@ length = 25088
 [[samples]]
 file = "36_bd-chamber-set_3.flac"
 key = 36
-round-robin = 55
 level = 127
 channels = 2
 bit-depth = 16
@@ -525,7 +479,6 @@ length = 28544
 [[samples]]
 file = "36_bd-chamber-set_4.flac"
 key = 36
-round-robin = 56
 level = 127
 channels = 2
 bit-depth = 16
@@ -536,7 +489,6 @@ length = 26368
 [[samples]]
 file = "36_bd-chamber-set_5.flac"
 key = 36
-round-robin = 57
 level = 127
 channels = 2
 bit-depth = 16
@@ -547,7 +499,6 @@ length = 26816
 [[samples]]
 file = "36_bd-chamber-set_6.flac"
 key = 36
-round-robin = 58
 level = 127
 channels = 2
 bit-depth = 16
@@ -558,7 +509,6 @@ length = 28378
 [[samples]]
 file = "36_bd-medrev-set.flac"
 key = 36
-round-robin = 64
 level = 127
 channels = 2
 bit-depth = 16
@@ -569,7 +519,6 @@ length = 21498
 [[samples]]
 file = "36_bd-medrev-set_2.flac"
 key = 36
-round-robin = 65
 level = 127
 channels = 2
 bit-depth = 16
@@ -580,7 +529,6 @@ length = 21163
 [[samples]]
 file = "36_bd-medrev-set_3.flac"
 key = 36
-round-robin = 66
 level = 127
 channels = 2
 bit-depth = 16
@@ -591,7 +539,6 @@ length = 23207
 [[samples]]
 file = "36_bd-medrev-set_4.flac"
 key = 36
-round-robin = 67
 level = 127
 channels = 2
 bit-depth = 16
@@ -602,7 +549,6 @@ length = 23122
 [[samples]]
 file = "36_bd-medrev-set_5.flac"
 key = 36
-round-robin = 68
 level = 127
 channels = 2
 bit-depth = 16
@@ -613,7 +559,6 @@ length = 23130
 [[samples]]
 file = "36_bd-room1-set.flac"
 key = 36
-round-robin = 73
 level = 127
 channels = 2
 bit-depth = 16
@@ -624,7 +569,6 @@ length = 27328
 [[samples]]
 file = "36_bd-room1-set_2.flac"
 key = 36
-round-robin = 74
 level = 127
 channels = 2
 bit-depth = 16
@@ -635,7 +579,6 @@ length = 24704
 [[samples]]
 file = "36_bd-room1-set_3.flac"
 key = 36
-round-robin = 75
 level = 127
 channels = 2
 bit-depth = 16
@@ -646,7 +589,6 @@ length = 30080
 [[samples]]
 file = "36_bd-room1-set_4.flac"
 key = 36
-round-robin = 76
 level = 127
 channels = 2
 bit-depth = 16
@@ -657,7 +599,6 @@ length = 29568
 [[samples]]
 file = "36_bd-room2-set.flac"
 key = 36
-round-robin = 80
 level = 127
 channels = 2
 bit-depth = 16
@@ -668,7 +609,6 @@ length = 24192
 [[samples]]
 file = "36_bd-room2-set_2.flac"
 key = 36
-round-robin = 81
 level = 127
 channels = 2
 bit-depth = 16
@@ -679,7 +619,6 @@ length = 19904
 [[samples]]
 file = "36_bd-room2-set_3.flac"
 key = 36
-round-robin = 82
 level = 127
 channels = 2
 bit-depth = 16
@@ -690,7 +629,6 @@ length = 20096
 [[samples]]
 file = "36_bd-xkick-set.flac"
 key = 36
-round-robin = 85
 level = 127
 channels = 1
 bit-depth = 16
@@ -701,7 +639,6 @@ length = 15360
 [[samples]]
 file = "36_bd-xkick-set_2.flac"
 key = 36
-round-robin = 86
 level = 127
 channels = 1
 bit-depth = 16
@@ -712,7 +649,6 @@ length = 12544
 [[samples]]
 file = "36_bd-xkick-set_3.flac"
 key = 36
-round-robin = 87
 level = 127
 channels = 1
 bit-depth = 16
@@ -723,7 +659,6 @@ length = 17248
 [[samples]]
 file = "36_bd-xkick-set_4.flac"
 key = 36
-round-robin = 88
 level = 127
 channels = 1
 bit-depth = 16
@@ -734,7 +669,6 @@ length = 12640
 [[samples]]
 file = "36_bd-xkick-set_5.flac"
 key = 36
-round-robin = 89
 level = 127
 channels = 1
 bit-depth = 16
@@ -745,7 +679,6 @@ length = 14140
 [[samples]]
 file = "36_bd-xkick-set_6.flac"
 key = 36
-round-robin = 90
 level = 127
 channels = 1
 bit-depth = 16
@@ -756,7 +689,6 @@ length = 12448
 [[samples]]
 file = "36_bd-xkick-set_7.flac"
 key = 36
-round-robin = 91
 level = 127
 channels = 1
 bit-depth = 16
@@ -767,7 +699,6 @@ length = 20416
 [[samples]]
 file = "36_bd-revx-set.flac"
 key = 36
-round-robin = 98
 level = 127
 channels = 2
 bit-depth = 16
@@ -778,7 +709,6 @@ length = 25408
 [[samples]]
 file = "36_bd-revx-set_2.flac"
 key = 36
-round-robin = 99
 level = 127
 channels = 2
 bit-depth = 16
@@ -789,7 +719,6 @@ length = 17216
 [[samples]]
 file = "36_bd-revx-set_3.flac"
 key = 36
-round-robin = 100
 level = 127
 channels = 2
 bit-depth = 16
@@ -800,7 +729,6 @@ length = 38784
 [[samples]]
 file = "36_bd-revx-set_4.flac"
 key = 36
-round-robin = 101
 level = 127
 channels = 2
 bit-depth = 16
@@ -833,7 +761,6 @@ end = 10378
 file = "51_ride-pro-1.flac"
 key = 51
 velocity-to = 89
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -847,7 +774,6 @@ file = "51_ride-pro-1_2.flac"
 key = 51
 velocity-from = 90
 velocity-to = 111
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -860,7 +786,6 @@ end = 400384
 file = "51_ride-pro-1_3.flac"
 key = 51
 velocity-from = 112
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -873,7 +798,6 @@ end = 406528
 file = "51_ridebell-pro-1.flac"
 key = 51
 velocity-to = 104
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -886,7 +810,6 @@ end = 328704
 file = "51_ridebell-pro-1_2.flac"
 key = 51
 velocity-from = 105
-round-robin = 2
 level = 123
 channels = 2
 bit-depth = 16
@@ -899,7 +822,6 @@ end = 352256
 file = "51_ride-pro-2.flac"
 key = 51
 velocity-to = 104
-round-robin = 3
 level = 127
 channels = 2
 bit-depth = 16
@@ -912,7 +834,6 @@ end = 271872
 file = "51_ride-pro-2_2.flac"
 key = 51
 velocity-from = 105
-round-robin = 3
 level = 127
 channels = 2
 bit-depth = 16
@@ -924,7 +845,6 @@ end = 268800
 [[samples]]
 file = "49_crash-pro-1.flac"
 key = 49
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -936,7 +856,6 @@ end = 241152
 [[samples]]
 file = "49_crash-pro-2.flac"
 key = 49
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -948,7 +867,6 @@ end = 226304
 [[samples]]
 file = "49_crash-pro-3.flac"
 key = 49
-round-robin = 3
 level = 127
 channels = 2
 bit-depth = 16
@@ -971,7 +889,6 @@ end = 334848
 [[samples]]
 file = "69_shaker-1.flac"
 key = 69
-round-robin = 1
 level = 127
 channels = 1
 bit-depth = 16
@@ -983,7 +900,6 @@ end = 4465
 [[samples]]
 file = "69_shaker-2.flac"
 key = 69
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16
@@ -995,7 +911,6 @@ end = 1415
 [[samples]]
 file = "47_gatepowertom1.flac"
 key = 47
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -1006,7 +921,6 @@ length = 39552
 [[samples]]
 file = "47_gatepowertom2.flac"
 key = 47
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -1017,7 +931,6 @@ length = 50432
 [[samples]]
 file = "47_gatepowertom3.flac"
 key = 47
-round-robin = 3
 level = 127
 channels = 2
 bit-depth = 16
@@ -1028,7 +941,6 @@ length = 54784
 [[samples]]
 file = "47_gatepowertom4.flac"
 key = 47
-round-robin = 4
 level = 127
 channels = 2
 bit-depth = 16
@@ -1039,7 +951,6 @@ length = 95488
 [[samples]]
 file = "47_gatepowertom5.flac"
 key = 47
-round-robin = 5
 level = 127
 channels = 2
 bit-depth = 16
@@ -1050,7 +961,6 @@ length = 100608
 [[samples]]
 file = "47_gatepowertom6.flac"
 key = 47
-round-robin = 6
 level = 127
 channels = 2
 bit-depth = 16
@@ -1061,7 +971,6 @@ length = 103168
 [[samples]]
 file = "47_roomtoma.flac"
 key = 47
-round-robin = 7
 level = 127
 channels = 2
 bit-depth = 16
@@ -1072,7 +981,6 @@ length = 74496
 [[samples]]
 file = "47_roomtomb.flac"
 key = 47
-round-robin = 8
 level = 127
 channels = 2
 bit-depth = 16
@@ -1083,7 +991,6 @@ length = 64512
 [[samples]]
 file = "47_roomtomc.flac"
 key = 47
-round-robin = 9
 level = 127
 channels = 2
 bit-depth = 16
@@ -1094,7 +1001,6 @@ length = 49920
 [[samples]]
 file = "47_roomtomd.flac"
 key = 47
-round-robin = 10
 level = 127
 channels = 2
 bit-depth = 16
@@ -1105,7 +1011,6 @@ length = 58880
 [[samples]]
 file = "47_roomtomf.flac"
 key = 47
-round-robin = 11
 level = 127
 channels = 2
 bit-depth = 16
@@ -1116,7 +1021,6 @@ length = 66816
 [[samples]]
 file = "47_roomtomg.flac"
 key = 47
-round-robin = 12
 level = 127
 channels = 2
 bit-depth = 16

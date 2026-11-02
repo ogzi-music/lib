@@ -245,7 +245,6 @@ file = "88_2.flac"
 key = 88
 key-from = 89
 key-to = 93
-round-robin = 2
 level = 127
 tune-fine = 91
 channels = 1

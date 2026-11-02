@@ -22,7 +22,6 @@ file = "96_2.flac"
 key = 96
 key-from = 95
 key-to = 127
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16

@@ -24,7 +24,6 @@ file = "72_2.flac"
 key = 72
 key-from = 39
 key-to = 81
-round-robin = 2
 level = 127
 tune-coarse = 62
 channels = 1

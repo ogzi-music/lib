@@ -162,7 +162,6 @@ file = "60_2.flac"
 key = 60
 key-from = 95
 key-to = 103
-round-robin = 2
 level = 127
 tune-fine = 66
 channels = 1

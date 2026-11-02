@@ -57,7 +57,6 @@ length = 13744
 [[samples]]
 file = "82_2.flac"
 key = 82
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16
@@ -106,7 +105,6 @@ file = "81_2.flac"
 key = 81
 key-from = 87
 key-to = 87
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16

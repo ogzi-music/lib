@@ -210,7 +210,6 @@ file = "45_2.flac"
 key = 45
 key-from = 61
 key-to = 61
-round-robin = 2
 level = 120
 channels = 2
 bit-depth = 16

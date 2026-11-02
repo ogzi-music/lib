@@ -123,7 +123,6 @@ loop = 201857
 [[samples]]
 file = "73_2.flac"
 key = 73
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -462,7 +461,6 @@ loop = 240718
 file = "25_2.flac"
 key = 25
 key-to = 26
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16

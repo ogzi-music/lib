@@ -391,7 +391,6 @@ end = 25019
 [[samples]]
 file = "70_2.flac"
 key = 70
-round-robin = 2
 level = 124
 channels = 1
 bit-depth = 16

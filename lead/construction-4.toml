@@ -519,7 +519,6 @@ end = 15556
 [[samples]]
 file = "82_2.flac"
 key = 82
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16
@@ -541,7 +540,6 @@ length = 7928
 [[samples]]
 file = "84_2.flac"
 key = 84
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16
@@ -552,7 +550,6 @@ length = 9632
 [[samples]]
 file = "85_2.flac"
 key = 85
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16
@@ -564,7 +561,6 @@ end = 4405
 [[samples]]
 file = "86_2.flac"
 key = 86
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16

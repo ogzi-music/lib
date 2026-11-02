@@ -25,7 +25,6 @@ length = 86965
 [[samples]]
 file = "38_open-sharp-snare-soft-wav.flac"
 key = 38
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -36,7 +35,6 @@ length = 49706
 [[samples]]
 file = "38_open-sharp-snare2-wav.flac"
 key = 38
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -47,7 +45,6 @@ length = 44578
 [[samples]]
 file = "38_open-sharp-snare3-wav.flac"
 key = 38
-round-robin = 3
 level = 127
 channels = 2
 bit-depth = 16
@@ -58,7 +55,6 @@ length = 37397
 [[samples]]
 file = "38_open-sharp-snare4-wav.flac"
 key = 38
-round-robin = 4
 level = 127
 channels = 2
 bit-depth = 16
@@ -69,7 +65,6 @@ length = 34258
 [[samples]]
 file = "38_open-sharp-snare5-wav.flac"
 key = 38
-round-robin = 5
 level = 127
 channels = 2
 bit-depth = 16
@@ -80,7 +75,6 @@ length = 28089
 [[samples]]
 file = "38_snare-open-wav.flac"
 key = 38
-round-robin = 6
 level = 127
 channels = 2
 bit-depth = 16
@@ -91,7 +85,6 @@ length = 38665
 [[samples]]
 file = "39_snare-soft-wav.flac"
 key = 39
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -102,7 +95,6 @@ length = 25220
 [[samples]]
 file = "39_snare-soft2-wav.flac"
 key = 39
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -113,7 +105,6 @@ length = 27050
 [[samples]]
 file = "40_closed-snare-wav.flac"
 key = 40
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -124,7 +115,6 @@ length = 33574
 [[samples]]
 file = "40_closed-snare2-wav.flac"
 key = 40
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -135,7 +125,6 @@ length = 50903
 [[samples]]
 file = "40_closed-snare3-wav.flac"
 key = 40
-round-robin = 3
 level = 127
 channels = 2
 bit-depth = 16
@@ -146,7 +135,6 @@ length = 37306
 [[samples]]
 file = "40_snare-closed-wav.flac"
 key = 40
-round-robin = 4
 level = 127
 channels = 2
 bit-depth = 16
@@ -157,7 +145,6 @@ length = 87801
 [[samples]]
 file = "42_closed-hihat-wav.flac"
 key = 42
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -168,7 +155,6 @@ length = 42106
 [[samples]]
 file = "42_closed-hihat2-wav.flac"
 key = 42
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -179,7 +165,6 @@ length = 40236
 [[samples]]
 file = "42_closed-hihat3-wav.flac"
 key = 42
-round-robin = 3
 level = 127
 channels = 2
 bit-depth = 16
@@ -190,7 +175,6 @@ length = 41266
 [[samples]]
 file = "42_closed-hihat5-wav.flac"
 key = 42
-round-robin = 4
 level = 127
 channels = 2
 bit-depth = 16
@@ -211,7 +195,6 @@ length = 140848
 [[samples]]
 file = "44_semi-closed-hihat-wav.flac"
 key = 44
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -222,7 +205,6 @@ length = 42250
 [[samples]]
 file = "44_semi-closed-hihat2-wav.flac"
 key = 44
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -233,7 +215,6 @@ length = 42446
 [[samples]]
 file = "51_soft-ride-wav.flac"
 key = 51
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -244,7 +225,6 @@ length = 283920
 [[samples]]
 file = "51_soft-ride2-wav.flac"
 key = 51
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -255,7 +235,6 @@ length = 367995
 [[samples]]
 file = "51_soft-ride3-wav.flac"
 key = 51
-round-robin = 3
 level = 127
 channels = 2
 bit-depth = 16
@@ -266,7 +245,6 @@ length = 475972
 [[samples]]
 file = "51_soft-ride4-wav.flac"
 key = 51
-round-robin = 4
 level = 127
 channels = 2
 bit-depth = 16
@@ -277,7 +255,6 @@ length = 424892
 [[samples]]
 file = "51_soft-ride5-wav.flac"
 key = 51
-round-robin = 5
 level = 127
 channels = 2
 bit-depth = 16
@@ -288,7 +265,6 @@ length = 474370
 [[samples]]
 file = "51_soft-ride6-wav.flac"
 key = 51
-round-robin = 6
 level = 127
 channels = 2
 bit-depth = 16
@@ -299,7 +275,6 @@ length = 599892
 [[samples]]
 file = "51_soft-ride7-wav.flac"
 key = 51
-round-robin = 7
 level = 127
 channels = 2
 bit-depth = 16
@@ -310,7 +285,6 @@ length = 454032
 [[samples]]
 file = "51_soft-ride8-wav.flac"
 key = 51
-round-robin = 8
 level = 127
 channels = 2
 bit-depth = 16
@@ -321,7 +295,6 @@ length = 550983
 [[samples]]
 file = "51_soft-ride9-wav.flac"
 key = 51
-round-robin = 9
 level = 127
 channels = 2
 bit-depth = 16
@@ -332,7 +305,6 @@ length = 712687
 [[samples]]
 file = "59_wide-ride-wav.flac"
 key = 59
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -343,7 +315,6 @@ length = 793028
 [[samples]]
 file = "59_wide-ride2-wav.flac"
 key = 59
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -354,7 +325,6 @@ length = 890800
 [[samples]]
 file = "59_wide-ride3-wav.flac"
 key = 59
-round-robin = 3
 level = 127
 channels = 2
 bit-depth = 16
@@ -365,7 +335,6 @@ length = 909810
 [[samples]]
 file = "59_wide-ride4-wav.flac"
 key = 59
-round-robin = 4
 level = 127
 channels = 2
 bit-depth = 16
@@ -376,7 +345,6 @@ length = 839175
 [[samples]]
 file = "49_crash-sharp-wav.flac"
 key = 49
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -387,7 +355,6 @@ length = 296406
 [[samples]]
 file = "49_crash-sharp2-wav.flac"
 key = 49
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -398,7 +365,6 @@ length = 264427
 [[samples]]
 file = "57_crash-wide-wav.flac"
 key = 57
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -409,7 +375,6 @@ length = 171251
 [[samples]]
 file = "57_crash-wide2-wav.flac"
 key = 57
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -420,7 +385,6 @@ length = 231516
 [[samples]]
 file = "57_crash-wide3-wav.flac"
 key = 57
-round-robin = 3
 level = 127
 channels = 2
 bit-depth = 16
@@ -431,7 +395,6 @@ length = 214767
 [[samples]]
 file = "57_crash-wide4-wav.flac"
 key = 57
-round-robin = 4
 level = 127
 channels = 2
 bit-depth = 16
@@ -442,7 +405,6 @@ length = 114243
 [[samples]]
 file = "49_crash-wav.flac"
 key = 49
-round-robin = 3
 level = 127
 channels = 2
 bit-depth = 16
@@ -453,7 +415,6 @@ length = 93676
 [[samples]]
 file = "49_hard-crash-wav.flac"
 key = 49
-round-robin = 4
 level = 127
 channels = 2
 bit-depth = 16
@@ -464,7 +425,6 @@ length = 108889
 [[samples]]
 file = "49_soft-crash-wav.flac"
 key = 49
-round-robin = 5
 level = 127
 channels = 2
 bit-depth = 16
@@ -475,7 +435,6 @@ length = 537203
 [[samples]]
 file = "59_crash-roll-wav.flac"
 key = 59
-round-robin = 5
 level = 127
 channels = 2
 bit-depth = 16
@@ -486,7 +445,6 @@ length = 473099
 [[samples]]
 file = "59_crash-roll2-wav.flac"
 key = 59
-round-robin = 6
 level = 127
 channels = 2
 bit-depth = 16
@@ -497,7 +455,6 @@ length = 1340038
 [[samples]]
 file = "41_large-tom2-wav.flac"
 key = 41
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -508,7 +465,6 @@ length = 198461
 [[samples]]
 file = "41_large-tom3-wav.flac"
 key = 41
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -519,7 +475,6 @@ length = 167564
 [[samples]]
 file = "41_large-tom4-wav.flac"
 key = 41
-round-robin = 3
 level = 127
 channels = 2
 bit-depth = 16
@@ -530,7 +485,6 @@ length = 67311
 [[samples]]
 file = "43_low-tom-wav.flac"
 key = 43
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -541,7 +495,6 @@ length = 119863
 [[samples]]
 file = "43_low-tom2-wav.flac"
 key = 43
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -552,7 +505,6 @@ length = 185332
 [[samples]]
 file = "45_mid-tom-wav.flac"
 key = 45
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -563,7 +515,6 @@ length = 130290
 [[samples]]
 file = "45_mid-tom2-wav.flac"
 key = 45
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -574,7 +525,6 @@ length = 173042
 [[samples]]
 file = "45_mid-tom3-wav.flac"
 key = 45
-round-robin = 3
 level = 127
 channels = 2
 bit-depth = 16
@@ -605,7 +555,6 @@ length = 494531
 [[samples]]
 file = "50_high-tom2-wav.flac"
 key = 50
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -616,7 +565,6 @@ length = 57657
 [[samples]]
 file = "50_high-tom3-wav.flac"
 key = 50
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -627,7 +575,6 @@ length = 38678
 [[samples]]
 file = "50_high-tom4-wav.flac"
 key = 50
-round-robin = 3
 level = 127
 channels = 2
 bit-depth = 16
@@ -638,7 +585,6 @@ length = 157515
 [[samples]]
 file = "42_short-roll-snare-wav.flac"
 key = 42
-round-robin = 5
 level = 127
 channels = 2
 bit-depth = 16
@@ -649,7 +595,6 @@ length = 51300
 [[samples]]
 file = "38_snare-roll-wav.flac"
 key = 38
-round-robin = 7
 level = 127
 channels = 2
 bit-depth = 16
@@ -660,7 +605,6 @@ length = 756710
 [[samples]]
 file = "38_snare-roll1-wav.flac"
 key = 38
-round-robin = 8
 level = 127
 channels = 2
 bit-depth = 16
@@ -671,7 +615,6 @@ length = 421372
 [[samples]]
 file = "37_rim-wav.flac"
 key = 37
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -682,7 +625,6 @@ length = 16024
 [[samples]]
 file = "37_rim2-wav.flac"
 key = 37
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -693,7 +635,6 @@ length = 28495
 [[samples]]
 file = "37_rim3-wav.flac"
 key = 37
-round-robin = 3
 level = 127
 channels = 2
 bit-depth = 16
@@ -704,7 +645,6 @@ length = 20502
 [[samples]]
 file = "37_rim4-wav.flac"
 key = 37
-round-robin = 4
 level = 127
 channels = 2
 bit-depth = 16

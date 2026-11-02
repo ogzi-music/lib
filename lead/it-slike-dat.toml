@@ -250,7 +250,6 @@ length = 6176
 [[samples]]
 file = "36_2.flac"
 key = 36
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16
@@ -262,7 +261,6 @@ end = 6850
 [[samples]]
 file = "37_2.flac"
 key = 37
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -274,7 +272,6 @@ end = 10400
 [[samples]]
 file = "38_2.flac"
 key = 38
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16
@@ -286,7 +283,6 @@ end = 3762
 [[samples]]
 file = "39_2.flac"
 key = 39
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -298,7 +294,6 @@ end = 6958
 [[samples]]
 file = "40_2.flac"
 key = 40
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16
@@ -311,7 +306,6 @@ file = "47_2.flac"
 key = 47
 key-from = 41
 key-to = 41
-round-robin = 2
 level = 127
 tune-fine = 91
 channels = 1
@@ -323,7 +317,6 @@ length = 6960
 [[samples]]
 file = "42_2.flac"
 key = 42
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16
@@ -335,7 +328,6 @@ end = 2947
 [[samples]]
 file = "43_2.flac"
 key = 43
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16
@@ -346,7 +338,6 @@ length = 6136
 [[samples]]
 file = "44_2.flac"
 key = 44
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16
@@ -358,7 +349,6 @@ end = 5550
 [[samples]]
 file = "45_2.flac"
 key = 45
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16
@@ -369,7 +359,6 @@ length = 2952
 [[samples]]
 file = "46_2.flac"
 key = 46
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16
@@ -380,7 +369,6 @@ length = 9080
 [[samples]]
 file = "47_3.flac"
 key = 47
-round-robin = 3
 level = 127
 channels = 1
 bit-depth = 16
@@ -391,7 +379,6 @@ length = 5552
 [[samples]]
 file = "48_2.flac"
 key = 48
-round-robin = 2
 level = 127
 tune-fine = 40
 channels = 1
@@ -404,7 +391,6 @@ end = 8631
 [[samples]]
 file = "49_2.flac"
 key = 49
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16
@@ -415,7 +401,6 @@ length = 15600
 [[samples]]
 file = "50_2.flac"
 key = 50
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16
@@ -427,7 +412,6 @@ end = 6789
 [[samples]]
 file = "51_2.flac"
 key = 51
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16
@@ -440,7 +424,6 @@ file = "53_2.flac"
 key = 53
 key-from = 52
 key-to = 52
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16
@@ -452,7 +435,6 @@ end = 14862
 [[samples]]
 file = "53_3.flac"
 key = 53
-round-robin = 3
 level = 127
 channels = 1
 bit-depth = 16
@@ -463,7 +445,6 @@ length = 6792
 [[samples]]
 file = "54_2.flac"
 key = 54
-round-robin = 2
 level = 127
 channels = 1
 bit-depth = 16
@@ -662,7 +643,6 @@ file = "46_3.flac"
 key = 46
 key-from = 72
 key-to = 77
-round-robin = 3
 level = 121
 tune-fine = 79
 channels = 1
@@ -676,7 +656,6 @@ file = "52_2.flac"
 key = 52
 key-from = 78
 key-to = 86
-round-robin = 2
 level = 121
 tune-fine = 77
 channels = 1
@@ -707,7 +686,6 @@ file = "67_2.flac"
 key = 67
 key-from = 93
 key-to = 95
-round-robin = 2
 level = 121
 tune-fine = 71
 channels = 1

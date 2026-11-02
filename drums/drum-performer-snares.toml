@@ -883,7 +883,6 @@ end = 38784
 [[samples]]
 file = "106_sdgms07.flac"
 key = 106
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -895,7 +894,6 @@ end = 47104
 [[samples]]
 file = "106_sdgms07_2.flac"
 key = 106
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -907,7 +905,6 @@ end = 67840
 [[samples]]
 file = "107_sdgms08.flac"
 key = 107
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -919,7 +916,6 @@ end = 26048
 [[samples]]
 file = "107_sdgms08_2.flac"
 key = 107
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -931,7 +927,6 @@ end = 40896
 [[samples]]
 file = "108_sdgms09.flac"
 key = 108
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -943,7 +938,6 @@ end = 70784
 [[samples]]
 file = "108_sdgms09_2.flac"
 key = 108
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -1054,7 +1048,6 @@ end = 23488
 [[samples]]
 file = "118_sdmapex1.flac"
 key = 118
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -1066,7 +1059,6 @@ end = 60672
 [[samples]]
 file = "118_sdmapex1_2.flac"
 key = 118
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
@@ -1078,7 +1070,6 @@ end = 23232
 [[samples]]
 file = "119_sdmapex2.flac"
 key = 119
-round-robin = 1
 level = 127
 channels = 2
 bit-depth = 16
@@ -1090,7 +1081,6 @@ end = 45824
 [[samples]]
 file = "119_sdmapex2_2.flac"
 key = 119
-round-robin = 2
 level = 127
 channels = 2
 bit-depth = 16
