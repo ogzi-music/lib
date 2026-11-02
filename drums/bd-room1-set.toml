@@ -1,0 +1,44 @@
+name = "BD_Room1 Set"
+id = "bd-room1-set"
+group = "drums"
+
+[[samples]]
+file = "60.flac"
+key = 60
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 27328
+
+[[samples]]
+file = "61.flac"
+key = 61
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 24704
+
+[[samples]]
+file = "62.flac"
+key = 62
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 30080
+
+[[samples]]
+file = "63.flac"
+key = 63
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 29568
+

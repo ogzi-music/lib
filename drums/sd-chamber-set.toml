@@ -1,0 +1,74 @@
+name = "SD_Chamber Set"
+id = "sd-chamber-set"
+group = "drums"
+
+[[samples]]
+file = "60.flac"
+key = 60
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 19424
+
+[[samples]]
+file = "61.flac"
+key = 61
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 26874
+
+[[samples]]
+file = "62.flac"
+key = 62
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 23004
+
+[[samples]]
+file = "63.flac"
+key = 63
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 24448
+
+[[samples]]
+file = "64.flac"
+key = 64
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 24396
+
+[[samples]]
+file = "65.flac"
+key = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 24983
+
+[[samples]]
+file = "66.flac"
+key = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 23322
+

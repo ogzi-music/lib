@@ -1,0 +1,64 @@
+name = "BD_Chamber Set"
+id = "bd-chamber-set"
+group = "drums"
+
+[[samples]]
+file = "60.flac"
+key = 60
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 27520
+
+[[samples]]
+file = "61.flac"
+key = 61
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 25088
+
+[[samples]]
+file = "62.flac"
+key = 62
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 28544
+
+[[samples]]
+file = "63.flac"
+key = 63
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 26368
+
+[[samples]]
+file = "64.flac"
+key = 64
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 26816
+
+[[samples]]
+file = "65.flac"
+key = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 28378
+

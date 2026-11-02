@@ -77,13 +77,15 @@ of repeating a single recording.
 Drum Kits
 ---------
 
-Instruments of the `drums` group are kits: each sample is mapped to a single
-key (`key-from` = `key-to` = `key`). Kits follow the General MIDI percussion
-mapping where the source material allows it (`36` bass drum, `38` snare,
-`42`/`46` closed/open hi-hat, `49` crash, `51` ride, …), so a GM-compatible
-drum map plays them as expected; pieces with no GM counterpart take free
-keys. `midi-program` is omitted for kits — GM treats percussion as a key
-mapping on channel 10, not as a program.
+Instruments of the `drums` group are kits. Normally each sample is mapped to
+a single key (`key-from` = `key-to` = `key`). Kits follow the General MIDI
+percussion mapping where the source material allows it (`36` bass drum, `38`
+snare, `42`/`46` closed/open hi-hat, `49` crash, `51` ride, …), so a
+GM-compatible drum map plays them as expected; pieces with no GM counterpart
+take free keys. Kits rebuilt from a source drum voice keep that voice's own
+key map, and tuned sets (e.g. a bass drum sampled across several keys) keep
+their key ranges. `midi-program` is omitted for kits — GM treats percussion
+as a key mapping on channel 10, not as a program.
 
 Key Number
 ----------

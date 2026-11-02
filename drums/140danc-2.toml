@@ -1,0 +1,164 @@
+name = "140Danc"
+id = "140danc-2"
+group = "drums"
+
+[[samples]]
+file = "60.flac"
+key = 60
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 6415
+
+[[samples]]
+file = "61.flac"
+key = 61
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 6363
+
+[[samples]]
+file = "62.flac"
+key = 62
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 6474
+
+[[samples]]
+file = "63.flac"
+key = 63
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 6483
+
+[[samples]]
+file = "64.flac"
+key = 64
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 6404
+
+[[samples]]
+file = "65.flac"
+key = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 6495
+
+[[samples]]
+file = "66.flac"
+key = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 6361
+
+[[samples]]
+file = "67.flac"
+key = 67
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 6485
+
+[[samples]]
+file = "68.flac"
+key = 68
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 6393
+
+[[samples]]
+file = "69.flac"
+key = 69
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 6497
+
+[[samples]]
+file = "70.flac"
+key = 70
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 6483
+
+[[samples]]
+file = "71.flac"
+key = 71
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 6430
+
+[[samples]]
+file = "72.flac"
+key = 72
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 6359
+
+[[samples]]
+file = "73.flac"
+key = 73
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 6495
+
+[[samples]]
+file = "74.flac"
+key = 74
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 6385
+
+[[samples]]
+file = "75.flac"
+key = 75
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 6453
+

@@ -1,0 +1,708 @@
+name = "Oriental Drum Set 1"
+id = "oriental-drum-set-1"
+group = "drums"
+
+[[samples]]
+file = "28_42-alkis.flac"
+key = 28
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 8431
+
+[[samples]]
+file = "29_43-dum.flac"
+key = 29
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 45012
+
+[[samples]]
+file = "30_44-kap.flac"
+key = 30
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 20434
+
+[[samples]]
+file = "31_45-dum1.flac"
+key = 31
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 61740
+
+[[samples]]
+file = "32_46-ken1.flac"
+key = 32
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 56771
+
+[[samples]]
+file = "33_47-ken2.flac"
+key = 33
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 53123
+
+[[samples]]
+file = "34_48-tek1.flac"
+key = 34
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 25980
+
+[[samples]]
+file = "35_49-dum-2.flac"
+key = 35
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 74488
+
+[[samples]]
+file = "36_50-tek-3.flac"
+key = 36
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 34084
+
+[[samples]]
+file = "37_51-tek-4.flac"
+key = 37
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 52314
+
+[[samples]]
+file = "38_52-tek-2.flac"
+key = 38
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 40923
+
+[[samples]]
+file = "39_53-dum1.flac"
+key = 39
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 39690
+
+[[samples]]
+file = "40_54-roll1-2.flac"
+key = 40
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 16696
+end = 16642
+loop = 404
+
+[[samples]]
+file = "41_54-roll1.flac"
+key = 41
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 14886
+
+[[samples]]
+file = "42_55-tok1.flac"
+key = 42
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 12204
+
+[[samples]]
+file = "43_56-tek1.flac"
+key = 43
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 24962
+
+[[samples]]
+file = "44_57-tek2.flac"
+key = 44
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 21747
+
+[[samples]]
+file = "45_58-tek3.flac"
+key = 45
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 25019
+
+[[samples]]
+file = "46_02-d-kap.flac"
+key = 46
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 23593
+
+[[samples]]
+file = "47_08-g-tek-2.flac"
+key = 47
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 74970
+
+[[samples]]
+file = "48_04-e-tek2.flac"
+key = 48
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 78866
+
+[[samples]]
+file = "49_01-c-dum.flac"
+key = 49
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 88417
+
+[[samples]]
+file = "50_02-d-kap.flac"
+key = 50
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 23593
+
+[[samples]]
+file = "51_03-d-tek1.flac"
+key = 51
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 72765
+
+[[samples]]
+file = "52_04-e-tek2.flac"
+key = 52
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 78866
+
+[[samples]]
+file = "53_05-f-dum.flac"
+key = 53
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 49269
+
+[[samples]]
+file = "54_06-f-roll-2.flac"
+key = 54
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 23324
+end = 23269
+loop = 5697
+
+[[samples]]
+file = "55_06-f-roll.flac"
+key = 55
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 20441
+
+[[samples]]
+file = "56_07-g-tek-1.flac"
+key = 56
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 74974
+
+[[samples]]
+file = "57_08-g-tek-2.flac"
+key = 57
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 74970
+
+[[samples]]
+file = "58_09-a-tek-3.flac"
+key = 58
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 52920
+
+[[samples]]
+file = "59_10-a-tek-4.flac"
+key = 59
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 40698
+
+[[samples]]
+file = "60_11-b-tek-5.flac"
+key = 60
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 66150
+
+[[samples]]
+file = "61_12-c-cir.flac"
+key = 61
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 41350
+
+[[samples]]
+file = "62_13-c-01.flac"
+key = 62
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 15949
+
+[[samples]]
+file = "63_14-d-02.flac"
+key = 63
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 35664
+
+[[samples]]
+file = "64_15-d-03.flac"
+key = 64
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 12596
+
+[[samples]]
+file = "65_16-e-04.flac"
+key = 65
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 42822
+
+[[samples]]
+file = "66_17-f-dum.flac"
+key = 66
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 15910
+
+[[samples]]
+file = "67_18-f-roll-2.flac"
+key = 67
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 68365
+end = 68355
+loop = 15853
+
+[[samples]]
+file = "68_18-f-roll-2-2.flac"
+key = 68
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 30206
+loop = 15853
+
+[[samples]]
+file = "69_18-f-roll.flac"
+key = 69
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 59538
+end = 59534
+
+[[samples]]
+file = "70_19-g-tok.flac"
+key = 70
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 24696
+
+[[samples]]
+file = "71_20-g-tek-1.flac"
+key = 71
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 7458
+
+[[samples]]
+file = "72_21-a-tek-2.flac"
+key = 72
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 7260
+
+[[samples]]
+file = "73_22-a-tek-op.flac"
+key = 73
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 19544
+
+[[samples]]
+file = "74_23-b-kdum.flac"
+key = 74
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 31199
+
+[[samples]]
+file = "75_24-c-dum.flac"
+key = 75
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 22312
+
+[[samples]]
+file = "76_25-c-roll-2.flac"
+key = 76
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 16882
+end = 16844
+loop = 122
+
+[[samples]]
+file = "77_25-c-roll.flac"
+key = 77
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 15022
+end = 15018
+loop = 2425
+
+[[samples]]
+file = "78_26-d-tek-1.flac"
+key = 78
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 10516
+
+[[samples]]
+file = "79_27-d-tek-2.flac"
+key = 79
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 19407
+
+[[samples]]
+file = "80_28-e-tek-3.flac"
+key = 80
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11544
+
+[[samples]]
+file = "81_29-f-dum.flac"
+key = 81
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 69563
+
+[[samples]]
+file = "82_30-f-roll-1-2.flac"
+key = 82
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 22061
+end = 21848
+loop = 289
+
+[[samples]]
+file = "83_30-f-roll-1.flac"
+key = 83
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 19398
+
+[[samples]]
+file = "84_31-g-tok.flac"
+key = 84
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11466
+
+[[samples]]
+file = "85_32-g-tek-1.flac"
+key = 85
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 26306
+
+[[samples]]
+file = "86_33-a-tek-2.flac"
+key = 86
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 28678
+
+[[samples]]
+file = "87_34-a-tek-3.flac"
+key = 87
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 24476
+
+[[samples]]
+file = "88_35-b-rak.flac"
+key = 88
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 8709
+
+[[samples]]
+file = "89_36-fin-1.flac"
+key = 89
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 4676
+
+[[samples]]
+file = "90_37-fin-2.flac"
+key = 90
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 4654
+
+[[samples]]
+file = "91_38-fin-3.flac"
+key = 91
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 4549
+
+[[samples]]
+file = "92_07-g-tek-1.flac"
+key = 92
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 74974
+
+[[samples]]
+file = "93_08-g-tek-2.flac"
+key = 93
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 74970
+
+[[samples]]
+file = "94_09-a-tek-3.flac"
+key = 94
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 52920
+
+[[samples]]
+file = "95_58-tek3.flac"
+key = 95
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 25019
+
+[[samples]]
+file = "96_59-fig.flac"
+key = 96
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 18654
+

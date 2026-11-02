@@ -107,6 +107,26 @@ frequency = 44100
 length = 16000
 
 [[samples]]
+file = "36_bd-stacka.flac"
+key = 36
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 32384
+
+[[samples]]
+file = "36_bd-stackb.flac"
+key = 36
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 16384
+
+[[samples]]
 file = "36_bd-stackc.flac"
 key = 36
 level = 127
@@ -317,428 +337,8 @@ frequency = 44100
 length = 26816
 
 [[samples]]
-file = "36_bd-basement-set.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 48599
-
-[[samples]]
-file = "36_bd-basement-set_2.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 32640
-
-[[samples]]
-file = "36_bd-basement-set_3.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 30980
-
-[[samples]]
-file = "36_bd-basement-set_4.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 36096
-
-[[samples]]
-file = "36_bd-basement-set_5.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 37376
-
-[[samples]]
-file = "36_bd-basement-set_6.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 30720
-
-[[samples]]
-file = "36_bd-plate-set.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 17439
-
-[[samples]]
-file = "36_bd-plate-set_2.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 17984
-
-[[samples]]
-file = "36_bd-plate-set_3.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 18290
-
-[[samples]]
-file = "36_bd-plate-set_4.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 26462
-
-[[samples]]
-file = "36_bd-plate-set_5.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 25408
-
-[[samples]]
-file = "36_bd-plate-set_6.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 24567
-
-[[samples]]
-file = "36_bd-plate-set_7.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 25536
-
-[[samples]]
-file = "36_bd-chamber-set.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 27520
-
-[[samples]]
-file = "36_bd-chamber-set_2.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 25088
-
-[[samples]]
-file = "36_bd-chamber-set_3.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 28544
-
-[[samples]]
-file = "36_bd-chamber-set_4.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 26368
-
-[[samples]]
-file = "36_bd-chamber-set_5.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 26816
-
-[[samples]]
-file = "36_bd-chamber-set_6.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 28378
-
-[[samples]]
-file = "36_bd-medrev-set.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 21498
-
-[[samples]]
-file = "36_bd-medrev-set_2.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 21163
-
-[[samples]]
-file = "36_bd-medrev-set_3.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 23207
-
-[[samples]]
-file = "36_bd-medrev-set_4.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 23122
-
-[[samples]]
-file = "36_bd-medrev-set_5.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 23130
-
-[[samples]]
-file = "36_bd-room1-set.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 27328
-
-[[samples]]
-file = "36_bd-room1-set_2.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 24704
-
-[[samples]]
-file = "36_bd-room1-set_3.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 30080
-
-[[samples]]
-file = "36_bd-room1-set_4.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 29568
-
-[[samples]]
-file = "36_bd-room2-set.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 24192
-
-[[samples]]
-file = "36_bd-room2-set_2.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 19904
-
-[[samples]]
-file = "36_bd-room2-set_3.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 20096
-
-[[samples]]
-file = "36_bd-xkick-set.flac"
-key = 36
-level = 127
-channels = 1
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 15360
-
-[[samples]]
-file = "36_bd-xkick-set_2.flac"
-key = 36
-level = 127
-channels = 1
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 12544
-
-[[samples]]
-file = "36_bd-xkick-set_3.flac"
-key = 36
-level = 127
-channels = 1
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 17248
-
-[[samples]]
-file = "36_bd-xkick-set_4.flac"
-key = 36
-level = 127
-channels = 1
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 12640
-
-[[samples]]
-file = "36_bd-xkick-set_5.flac"
-key = 36
-level = 127
-channels = 1
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 14140
-
-[[samples]]
-file = "36_bd-xkick-set_6.flac"
-key = 36
-level = 127
-channels = 1
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 12448
-
-[[samples]]
-file = "36_bd-xkick-set_7.flac"
-key = 36
-level = 127
-channels = 1
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 20416
-
-[[samples]]
-file = "36_bd-revx-set.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 25408
-
-[[samples]]
-file = "36_bd-revx-set_2.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 17216
-
-[[samples]]
-file = "36_bd-revx-set_3.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 38784
-
-[[samples]]
-file = "36_bd-revx-set_4.flac"
-key = 36
-level = 127
-channels = 2
-bit-depth = 16
-mode = "single-shot"
-frequency = 44100
-length = 21760
-
-[[samples]]
-file = "42_sd-phat1-room.flac"
-key = 42
+file = "38_sd-phat1-room.flac"
+key = 38
 level = 127
 channels = 2
 bit-depth = 16
@@ -747,8 +347,221 @@ frequency = 44100
 length = 37504
 
 [[samples]]
-file = "39_sd-clap.flac"
-key = 39
+file = "38_sd-phat2-room.flac"
+key = 38
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 56576
+
+[[samples]]
+file = "38_sd-realrooma.flac"
+key = 38
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 25328
+
+[[samples]]
+file = "38_sd-realroomb.flac"
+key = 38
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 23593
+
+[[samples]]
+file = "38_sd-drum-platea.flac"
+key = 38
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 20577
+
+[[samples]]
+file = "38_sd-drum-plateb.flac"
+key = 38
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 21090
+
+[[samples]]
+file = "38_sd-drum-platec.flac"
+key = 38
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 24425
+
+[[samples]]
+file = "38_sd-basementa.flac"
+key = 38
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 37202
+
+[[samples]]
+file = "38_sd-basementb.flac"
+key = 38
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 33940
+
+[[samples]]
+file = "38_sd-gatedchambera.flac"
+key = 38
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 26874
+
+[[samples]]
+file = "38_sd-gatedchamberb.flac"
+key = 38
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 23004
+
+[[samples]]
+file = "38_sd-gatedchamberc.flac"
+key = 38
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 24983
+
+[[samples]]
+file = "38_sd-mediumreva.flac"
+key = 38
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 22272
+
+[[samples]]
+file = "38_sd-mediumrevb.flac"
+key = 38
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 24868
+
+[[samples]]
+file = "38_sd-reva.flac"
+key = 38
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 43520
+
+[[samples]]
+file = "38_sd-revb.flac"
+key = 38
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 49408
+
+[[samples]]
+file = "38_sd-xgatea.flac"
+key = 38
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 42368
+
+[[samples]]
+file = "38_sd-xgateb.flac"
+key = 38
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 40448
+
+[[samples]]
+file = "38_sd-xgateside.flac"
+key = 38
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 17342
+
+[[samples]]
+file = "38_sd-ninea.flac"
+key = 38
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 15875
+end = 15872
+
+[[samples]]
+file = "38_sd-nineb.flac"
+key = 38
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 16568
+end = 16565
+
+[[samples]]
+file = "38_sd-ninec.flac"
+key = 38
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 13315
+end = 13312
+
+[[samples]]
+file = "38_sd-clap.flac"
+key = 38
 level = 127
 channels = 1
 bit-depth = 16
@@ -756,6 +569,149 @@ mode = "single-shot"
 frequency = 44100
 length = 10381
 end = 10378
+
+[[samples]]
+file = "42_hh1cl-live.flac"
+key = 42
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 44547
+end = 44544
+
+[[samples]]
+file = "44_hh1ft-live.flac"
+key = 44
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 18563
+end = 18560
+
+[[samples]]
+file = "46_hh1op-live.flac"
+key = 46
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 110595
+end = 110592
+
+[[samples]]
+file = "42_hh2cl-pro.flac"
+key = 42
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 40067
+end = 40064
+
+[[samples]]
+file = "44_hh2ft-pro.flac"
+key = 44
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 43779
+end = 43776
+
+[[samples]]
+file = "46_hh2op-pro.flac"
+key = 46
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 97273
+end = 97270
+
+[[samples]]
+file = "42_hh2cl-studio.flac"
+key = 42
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 20291
+end = 20288
+
+[[samples]]
+file = "44_hh2pd-studio.flac"
+key = 44
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 14271
+end = 14268
+
+[[samples]]
+file = "46_hh2op-studio.flac"
+key = 46
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 57603
+end = 57600
+
+[[samples]]
+file = "42_hh3cl-studio.flac"
+key = 42
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 8707
+end = 8704
+
+[[samples]]
+file = "42_hh4cl-studio.flac"
+key = 42
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 7875
+end = 7872
+
+[[samples]]
+file = "42_hh5cl-dance.flac"
+key = 42
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 5691
+end = 5688
+
+[[samples]]
+file = "46_hh5op-dance.flac"
+key = 46
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 26956
+end = 26953
 
 [[samples]]
 file = "51_ride-pro-1.flac"

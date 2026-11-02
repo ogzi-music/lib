@@ -1,0 +1,62 @@
+name = "EP Hard Clack"
+id = "ep-hard-clack"
+group = "sfx"
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 127
+velocity-to = 64
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 26947
+end = 26945
+
+[[samples]]
+file = "60_2.flac"
+key = 60
+key-from = 0
+key-to = 127
+velocity-from = 65
+velocity-to = 85
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 32259
+end = 32257
+
+[[samples]]
+file = "60_3.flac"
+key = 60
+key-from = 0
+key-to = 127
+velocity-from = 86
+velocity-to = 108
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 18715
+end = 18708
+
+[[samples]]
+file = "60_4.flac"
+key = 60
+key-from = 0
+key-to = 127
+velocity-from = 109
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 18307
+end = 18305
+
