@@ -1,0 +1,65 @@
+name = "CityGiggin"
+id = "citygiggin"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "42.flac"
+key = 42
+key-from = 0
+key-to = 45
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 16280
+length = 19768
+end = 19740
+loop = 19386
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 46
+key-to = 51
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 16221
+length = 17896
+end = 17871
+loop = 17621
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-from = 52
+key-to = 60
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 16280
+length = 14472
+end = 14444
+loop = 14266
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 61
+key-to = 127
+level = 115
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 29957
+length = 3280
+end = 3252
+loop = 3021
+

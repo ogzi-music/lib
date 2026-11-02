@@ -1,0 +1,19 @@
+name = "Iggio Basso"
+id = "iggio-basso"
+group = "sfx"
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 0
+key-to = 96
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 12000
+length = 47752
+start = 6767
+end = 30160
+loop = 27396
+

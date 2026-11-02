@@ -1,0 +1,123 @@
+name = "SPACES02"
+id = "spaces02"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 21
+key-to = 59
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 175819
+end = 175809
+loop = 155809
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-to = 71
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 176078
+end = 176065
+loop = 156065
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 83
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 176047
+end = 176033
+loop = 156033
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-to = 108
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 176123
+end = 176113
+loop = 156113
+
+[[samples]]
+file = "48_2.flac"
+key = 48
+key-from = 21
+key-to = 59
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 175819
+end = 175809
+loop = 155809
+
+[[samples]]
+file = "60_2.flac"
+key = 60
+key-to = 71
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 176078
+end = 176065
+loop = 156065
+
+[[samples]]
+file = "72_2.flac"
+key = 72
+key-to = 83
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 176047
+end = 176033
+loop = 156033
+
+[[samples]]
+file = "84_2.flac"
+key = 84
+key-to = 108
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 176123
+end = 176113
+loop = 156113
+

@@ -1,0 +1,47 @@
+name = "SD MPEX V"
+id = "sd-mpex-v"
+group = "sfx"
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 127
+velocity-to = 72
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 28419
+end = 28417
+
+[[samples]]
+file = "60_2.flac"
+key = 60
+key-from = 0
+key-to = 127
+velocity-from = 73
+velocity-to = 100
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 27139
+end = 27137
+
+[[samples]]
+file = "60_3.flac"
+key = 60
+key-from = 0
+key-to = 127
+velocity-from = 101
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 31747
+end = 31745
+

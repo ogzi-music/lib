@@ -1,0 +1,136 @@
+name = "Survivor"
+id = "survivor"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "36.flac"
+key = 36
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 7032
+end = 7030
+
+[[samples]]
+file = "37.flac"
+key = 37
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 21408
+end = 21403
+
+[[samples]]
+file = "38.flac"
+key = 38
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 19072
+end = 19070
+
+[[samples]]
+file = "39.flac"
+key = 39
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 7872
+end = 7864
+
+[[samples]]
+file = "40.flac"
+key = 40
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11216
+end = 11212
+
+[[samples]]
+file = "41.flac"
+key = 41
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 8984
+end = 8976
+
+[[samples]]
+file = "42.flac"
+key = 42
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 5848
+end = 5843
+
+[[samples]]
+file = "43.flac"
+key = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 7952
+
+[[samples]]
+file = "44.flac"
+key = 44
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 14440
+end = 14434
+
+[[samples]]
+file = "45.flac"
+key = 45
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 9224
+end = 9220
+
+[[samples]]
+file = "46.flac"
+key = 46
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 17472
+end = 17470
+
+[[samples]]
+file = "47.flac"
+key = 47
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 19040
+end = 19035
+

@@ -1,0 +1,19 @@
+name = "VocalOsc 1"
+id = "vocalosc-1"
+group = "sfx"
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 83
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 45746
+end = 44689
+loop = 12194
+

@@ -1,0 +1,96 @@
+name = "Clock Ticking"
+id = "sfx-clock-ticking"
+group = "sfx"
+
+[[samples]]
+file = "68.flac"
+key = 68
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 3375341
+
+[[samples]]
+file = "67.flac"
+key = 67
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 286686
+
+[[samples]]
+file = "66.flac"
+key = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 1165817
+
+[[samples]]
+file = "65.flac"
+key = 65
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 286686
+
+[[samples]]
+file = "64.flac"
+key = 64
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 657064
+
+[[samples]]
+file = "63.flac"
+key = 63
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 620253
+
+[[samples]]
+file = "62.flac"
+key = 62
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 882015
+end = 620253
+
+[[samples]]
+file = "61.flac"
+key = 61
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 657064
+end = 343213
+
+[[samples]]
+file = "60.flac"
+key = 60
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 657064
+

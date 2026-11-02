@@ -1,0 +1,17 @@
+name = "DialTone"
+id = "dialtone"
+group = "sfx"
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 84
+key-to = 84
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 37451
+length = 48448
+end = 48445
+

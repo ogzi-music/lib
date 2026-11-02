@@ -1,0 +1,126 @@
+name = "Violas Detache"
+id = "violas-detache"
+group = "strings"
+midi-program = 46
+
+[[samples]]
+file = "51.flac"
+key = 51
+key-from = 48
+key-to = 52
+level = 122
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 123496
+end = 123492
+
+[[samples]]
+file = "53.flac"
+key = 53
+key-to = 54
+level = 124
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 129760
+end = 129758
+
+[[samples]]
+file = "55.flac"
+key = 55
+level = 121
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 119952
+end = 119944
+
+[[samples]]
+file = "56.flac"
+key = 56
+key-to = 58
+level = 126
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 127352
+end = 127348
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 59
+level = 120
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 120424
+end = 120416
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-from = 61
+key-to = 63
+level = 118
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 116440
+end = 116438
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 64
+level = 122
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 118656
+end = 118652
+
+[[samples]]
+file = "70.flac"
+key = 70
+level = 122
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 120640
+end = 120632
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 71
+key-to = 75
+level = 121
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 107760
+end = 107752
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-to = 79
+level = 113
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 133464
+end = 133458
+

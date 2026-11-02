@@ -1,0 +1,100 @@
+name = "15Violins MjTril"
+id = "15violins-mjtril"
+group = "strings"
+midi-program = 46
+
+[[samples]]
+file = "55.flac"
+key = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 189064
+end = 189031
+loop = 57401
+
+[[samples]]
+file = "58.flac"
+key = 58
+key-from = 56
+key-to = 64
+level = 125
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 195136
+end = 195098
+loop = 45721
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-to = 67
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 208680
+end = 208647
+loop = 41751
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 68
+key-to = 73
+level = 120
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 190480
+end = 190442
+loop = 58045
+
+[[samples]]
+file = "82.flac"
+key = 82
+key-from = 80
+key-to = 83
+level = 120
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 210328
+end = 210295
+loop = 45374
+
+[[samples]]
+file = "85.flac"
+key = 85
+key-from = 84
+key-to = 89
+level = 119
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 182208
+end = 182175
+loop = 40604
+
+[[samples]]
+file = "91.flac"
+key = 91
+key-from = 90
+key-to = 127
+level = 119
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 181344
+end = 181308
+loop = 50321
+

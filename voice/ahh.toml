@@ -1,0 +1,33 @@
+name = "Ahh"
+id = "ahh"
+group = "voice"
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 21
+key-to = 92
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31250
+length = 53632
+end = 53586
+loop = 36297
+
+[[samples]]
+file = "91.flac"
+key = 91
+key-from = 93
+key-to = 108
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 31250
+length = 33992
+end = 33986
+

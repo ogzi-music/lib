@@ -1,0 +1,31 @@
+name = "Grit"
+id = "grit"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-from = 0
+key-to = 71
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44053
+length = 21624
+end = 21621
+
+[[samples]]
+file = "74.flac"
+key = 74
+key-from = 72
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 31997
+length = 19296
+end = 19290
+

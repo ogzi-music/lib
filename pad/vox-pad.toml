@@ -1,0 +1,32 @@
+name = "Vox Pad"
+id = "vox-pad"
+group = "pad"
+
+[[samples]]
+file = "73.flac"
+key = 73
+key-from = 21
+key-to = 74
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31300
+length = 78872
+end = 78839
+loop = 14887
+
+[[samples]]
+file = "85.flac"
+key = 85
+key-from = 75
+key-to = 108
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31300
+length = 75504
+end = 75468
+loop = 15470
+

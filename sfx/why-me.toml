@@ -1,0 +1,19 @@
+name = "WhY Me ?"
+id = "why-me"
+group = "sfx"
+
+[[samples]]
+file = "58.flac"
+key = 58
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 29958
+length = 6288
+end = 6252
+loop = 5225
+

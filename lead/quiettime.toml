@@ -1,0 +1,94 @@
+name = "QuietTime"
+id = "quiettime"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "28.flac"
+key = 28
+key-from = 0
+key-to = 32
+level = 127
+tune-coarse = 100
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 42193
+length = 1072
+end = 1033
+loop = 10
+
+[[samples]]
+file = "40.flac"
+key = 40
+key-from = 33
+key-to = 44
+level = 127
+tune-coarse = 100
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 42193
+length = 560
+end = 522
+loop = 10
+
+[[samples]]
+file = "52.flac"
+key = 52
+key-from = 45
+key-to = 56
+level = 127
+tune-coarse = 100
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 42203
+length = 272
+end = 248
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-from = 57
+key-to = 68
+level = 127
+tune-coarse = 100
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 42203
+length = 144
+end = 120
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 69
+key-to = 80
+level = 127
+tune-coarse = 100
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 42203
+length = 80
+end = 56
+
+[[samples]]
+file = "88.flac"
+key = 88
+key-from = 81
+key-to = 96
+level = 127
+tune-coarse = 100
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 42193
+length = 48
+end = 24
+

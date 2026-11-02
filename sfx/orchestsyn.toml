@@ -1,0 +1,18 @@
+name = "Orchestsyn"
+id = "orchestsyn"
+group = "sfx"
+
+[[samples]]
+file = "70.flac"
+key = 70
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24510
+length = 31264
+end = 31229
+loop = 15091
+

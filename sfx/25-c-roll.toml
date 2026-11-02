@@ -1,0 +1,16 @@
+name = "25-C#-Roll"
+id = "25-c-roll"
+group = "sfx"
+
+[[samples]]
+file = "60.flac"
+key = 60
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 15022
+end = 15018
+loop = 2425
+

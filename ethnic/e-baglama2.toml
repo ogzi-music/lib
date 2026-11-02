@@ -1,0 +1,121 @@
+name = "E Baglama2"
+id = "e-baglama2"
+group = "ethnic"
+
+[[samples]]
+file = "83.flac"
+key = 83
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 68998
+end = 67254
+loop = 66005
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-to = 82
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 68754
+end = 67664
+loop = 66060
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-to = 80
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 71938
+end = 71119
+loop = 70332
+
+[[samples]]
+file = "78.flac"
+key = 78
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 53492
+end = 51916
+loop = 50963
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-to = 77
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 90256
+end = 87478
+loop = 85603
+
+[[samples]]
+file = "74.flac"
+key = 74
+key-to = 75
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 95739
+end = 94079
+loop = 91675
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 73
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 107674
+end = 106578
+loop = 104050
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 67
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 130415
+end = 128109
+loop = 124543
+
+[[samples]]
+file = "59.flac"
+key = 59
+key-from = 0
+key-to = 66
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 51903
+end = 51307
+loop = 50949
+

@@ -1,0 +1,114 @@
+name = "Renaissance Banjo 4"
+id = "banjo-4"
+group = "ethnic"
+midi-program = 103
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 38988
+
+[[samples]]
+file = "77.flac"
+key = 77
+key-to = 80
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 37643
+loop = 37298
+
+[[samples]]
+file = "76.flac"
+key = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 33843
+loop = 33555
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 71
+key-to = 75
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 45237
+loop = 44779
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-to = 70
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 72939
+loop = 72571
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 133798
+loop = 133153
+
+[[samples]]
+file = "59.flac"
+key = 59
+key-to = 61
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 75997
+loop = 75418
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 54
+key-to = 58
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 110119
+loop = 109389
+
+[[samples]]
+file = "50.flac"
+key = 50
+key-from = 0
+key-to = 53
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 126939
+loop = 125804
+

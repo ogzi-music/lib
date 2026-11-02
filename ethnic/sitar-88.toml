@@ -1,0 +1,132 @@
+name = "Sitar 88"
+id = "sitar-88"
+group = "ethnic"
+
+[[samples]]
+file = "43.flac"
+key = 43
+key-from = 0
+key-to = 45
+level = 127
+tune-coarse = 71
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 32013
+length = 14816
+end = 14782
+loop = 14133
+
+[[samples]]
+file = "49.flac"
+key = 49
+key-from = 46
+key-to = 52
+level = 127
+tune-coarse = 71
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 32013
+length = 6944
+end = 6919
+loop = 6457
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 53
+key-to = 58
+level = 127
+tune-coarse = 71
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 32013
+length = 18784
+end = 18758
+loop = 18431
+
+[[samples]]
+file = "61.flac"
+key = 61
+key-from = 59
+key-to = 64
+level = 127
+tune-coarse = 71
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 32013
+length = 3456
+end = 3429
+loop = 3197
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 65
+key-to = 70
+level = 127
+tune-coarse = 71
+tune-fine = 54
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 32025
+length = 2008
+end = 1980
+loop = 1816
+
+[[samples]]
+file = "73.flac"
+key = 73
+key-from = 71
+key-to = 76
+level = 127
+tune-coarse = 71
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 32013
+length = 1480
+end = 1456
+loop = 1339
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 77
+key-to = 82
+level = 127
+tune-coarse = 71
+tune-fine = 51
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 32012
+length = 1448
+end = 1419
+loop = 1336
+
+[[samples]]
+file = "85.flac"
+key = 85
+key-from = 83
+key-to = 127
+level = 127
+tune-coarse = 71
+tune-fine = 69
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31978
+length = 920
+end = 891
+loop = 831
+

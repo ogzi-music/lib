@@ -1,0 +1,287 @@
+name = "Tron Male Choir"
+id = "tron-male-choir"
+group = "voice"
+
+[[samples]]
+file = "56.flac"
+key = 56
+key-from = 24
+level = 127
+tune-fine = 84
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44080
+length = 468424
+end = 464897
+loop = 353493
+
+[[samples]]
+file = "57.flac"
+key = 57
+level = 127
+tune-fine = 77
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44082
+length = 414120
+end = 411649
+loop = 249712
+
+[[samples]]
+file = "58.flac"
+key = 58
+level = 127
+tune-fine = 85
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44069
+length = 408416
+end = 406529
+loop = 189871
+
+[[samples]]
+file = "59.flac"
+key = 59
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 381032
+end = 378881
+loop = 62350
+
+[[samples]]
+file = "60.flac"
+key = 60
+level = 127
+tune-fine = 70
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44084
+length = 253824
+end = 249857
+loop = 94083
+
+[[samples]]
+file = "61.flac"
+key = 61
+level = 127
+tune-fine = 77
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44082
+length = 427432
+end = 424961
+loop = 143499
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-to = 63
+level = 127
+tune-fine = 83
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44066
+length = 257384
+end = 253953
+loop = 89511
+
+[[samples]]
+file = "64.flac"
+key = 64
+level = 127
+tune-fine = 72
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44061
+length = 376280
+end = 372737
+loop = 123633
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-to = 66
+level = 127
+tune-fine = 75
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44079
+length = 377608
+end = 374785
+loop = 135404
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-to = 68
+level = 127
+tune-fine = 72
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44061
+length = 345048
+end = 343041
+loop = 74341
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-to = 70
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 332056
+end = 329729
+loop = 131451
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-to = 72
+level = 127
+tune-fine = 70
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44084
+length = 303848
+end = 302081
+loop = 139579
+
+[[samples]]
+file = "73.flac"
+key = 73
+level = 127
+tune-fine = 83
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44066
+length = 296656
+end = 291841
+loop = 207620
+
+[[samples]]
+file = "74.flac"
+key = 74
+level = 127
+tune-fine = 84
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44080
+length = 385312
+end = 382977
+loop = 189511
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 75
+key-to = 77
+level = 127
+tune-fine = 88
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44061
+length = 373520
+end = 371713
+loop = 149698
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-to = 79
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 388064
+end = 386049
+loop = 205703
+
+[[samples]]
+file = "80.flac"
+key = 80
+key-to = 81
+level = 127
+tune-fine = 69
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44069
+length = 423232
+end = 419841
+loop = 97233
+
+[[samples]]
+file = "82.flac"
+key = 82
+key-to = 83
+level = 127
+tune-fine = 70
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44084
+length = 374864
+end = 371713
+loop = 37792
+
+[[samples]]
+file = "84.flac"
+key = 84
+level = 127
+tune-fine = 87
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44072
+length = 343648
+end = 340993
+loop = 90029
+
+[[samples]]
+file = "85.flac"
+key = 85
+key-to = 87
+level = 127
+tune-fine = 77
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44082
+length = 362920
+end = 360449
+loop = 143893
+
+[[samples]]
+file = "88.flac"
+key = 88
+key-to = 105
+level = 127
+tune-fine = 70
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44084
+length = 369744
+end = 365569
+loop = 132862
+

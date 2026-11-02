@@ -1,0 +1,130 @@
+name = "Bansuri Soprano"
+id = "bansuri-soprano"
+group = "woodwinds"
+midi-program = 62
+
+[[samples]]
+file = "70.flac"
+key = 70
+key-from = 0
+level = 127
+tune-coarse = 65
+tune-fine = 33
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44114
+length = 21312
+end = 18945
+loop = 7856
+
+[[samples]]
+file = "71.flac"
+key = 71
+level = 127
+tune-fine = 87
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44098
+length = 106528
+end = 106489
+loop = 68067
+
+[[samples]]
+file = "73.flac"
+key = 73
+key-from = 72
+level = 127
+tune-fine = 83
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44066
+length = 49360
+end = 49323
+loop = 37634
+
+[[samples]]
+file = "75.flac"
+key = 75
+key-from = 74
+level = 127
+tune-fine = 94
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44071
+length = 66992
+end = 66957
+loop = 44787
+
+[[samples]]
+file = "76.flac"
+key = 76
+level = 127
+tune-fine = 56
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44138
+length = 20016
+end = 19635
+loop = 12915
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-from = 77
+level = 127
+tune-fine = 91
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44079
+length = 48320
+end = 47438
+loop = 35003
+
+[[samples]]
+file = "80.flac"
+key = 80
+key-from = 79
+level = 127
+tune-coarse = 65
+tune-fine = 36
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44106
+length = 31640
+end = 31524
+loop = 21875
+
+[[samples]]
+file = "82.flac"
+key = 82
+key-from = 81
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 23368
+end = 23093
+loop = 11162
+
+[[samples]]
+file = "83.flac"
+key = 83
+key-to = 108
+level = 127
+tune-fine = 82
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44077
+length = 49120
+end = 49088
+loop = 23497
+

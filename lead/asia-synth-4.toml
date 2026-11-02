@@ -1,0 +1,44 @@
+name = "Asia Synth"
+id = "asia-synth-4"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 67
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 154243
+end = 154240
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 68
+key-to = 79
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 154282
+end = 154279
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 80
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 125654
+end = 125651
+

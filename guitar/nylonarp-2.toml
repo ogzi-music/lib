@@ -1,0 +1,47 @@
+name = "NyLonArP"
+id = "nylonarp-2"
+group = "guitar"
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 0
+key-to = 70
+level = 127
+tune-coarse = 71
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 46104
+end = 46101
+loop = 45876
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-to = 75
+level = 127
+tune-coarse = 71
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 39017
+length = 20832
+end = 20829
+loop = 20672
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-to = 127
+level = 127
+tune-coarse = 71
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 35931
+length = 33797
+end = 33794
+loop = 33685
+

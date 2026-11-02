@@ -1,0 +1,18 @@
+name = "Kraked Tube"
+id = "kraked-tube"
+group = "sfx"
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 22000
+length = 30944
+end = 30911
+loop = 27690
+

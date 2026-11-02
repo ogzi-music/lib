@@ -1,0 +1,53 @@
+name = "SubFive"
+id = "subfive"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "52.flac"
+key = 52
+key-from = 24
+key-to = 89
+level = 127
+tune-coarse = 40
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 42182
+length = 528
+end = 501
+loop = 243
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 90
+key-to = 112
+level = 127
+tune-coarse = 40
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 42182
+length = 144
+end = 116
+loop = 50
+
+[[samples]]
+file = "100.flac"
+key = 100
+key-from = 113
+key-to = 127
+level = 127
+tune-coarse = 40
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 42182
+length = 48
+end = 24
+loop = 6
+

@@ -1,0 +1,14 @@
+name = "44-kap"
+id = "44-kap"
+group = "sfx"
+
+[[samples]]
+file = "60.flac"
+key = 60
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 20434
+

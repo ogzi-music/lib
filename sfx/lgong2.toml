@@ -1,0 +1,19 @@
+name = "LGONG2"
+id = "lgong2"
+group = "sfx"
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 81
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 873081
+end = 867009
+loop = 686285
+

@@ -1,0 +1,75 @@
+name = "Juno Pulse"
+id = "juno-pulse-4"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "42.flac"
+key = 42
+key-to = 45
+level = 127
+tune-fine = 48
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44125
+length = 205128
+end = 205095
+loop = 104072
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-to = 57
+level = 127
+tune-fine = 48
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44125
+length = 123280
+end = 123245
+loop = 21780
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-to = 69
+level = 127
+tune-fine = 48
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44125
+length = 229592
+end = 229556
+loop = 26588
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-to = 81
+level = 127
+tune-fine = 48
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44125
+length = 138336
+end = 138298
+loop = 36675
+
+[[samples]]
+file = "90.flac"
+key = 90
+key-to = 93
+level = 127
+tune-fine = 48
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44125
+length = 157152
+end = 157114
+loop = 55676
+

@@ -1,0 +1,178 @@
+name = "PHASE02"
+id = "phase02"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 21
+key-to = 59
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 109927
+end = 109905
+loop = 89905
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-to = 71
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 106666
+end = 106657
+loop = 86657
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 83
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 106719
+end = 106705
+loop = 86705
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-to = 95
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 105915
+end = 105905
+loop = 85905
+
+[[samples]]
+file = "96.flac"
+key = 96
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 387468
+end = 387457
+loop = 287457
+
+[[samples]]
+file = "48_2.flac"
+key = 48
+key-from = 21
+key-to = 59
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 109927
+end = 109905
+loop = 89905
+
+[[samples]]
+file = "60_2.flac"
+key = 60
+key-to = 71
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 106666
+end = 106657
+loop = 86657
+
+[[samples]]
+file = "72_2.flac"
+key = 72
+key-to = 83
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 106719
+end = 106705
+loop = 86705
+
+[[samples]]
+file = "84_2.flac"
+key = 84
+key-to = 95
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 105915
+end = 105905
+loop = 85905
+
+[[samples]]
+file = "96_2.flac"
+key = 96
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 387468
+end = 387457
+loop = 287457
+
+[[samples]]
+file = "96_3.flac"
+key = 96
+round-robin = 3
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 387468
+end = 387457
+loop = 287457
+
+[[samples]]
+file = "96_4.flac"
+key = 96
+round-robin = 4
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 387468
+end = 387457
+loop = 287457
+

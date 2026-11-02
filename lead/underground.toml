@@ -1,0 +1,78 @@
+name = "Underground"
+id = "underground"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "43.flac"
+key = 43
+key-from = 0
+key-to = 51
+level = 127
+tune-coarse = 52
+tune-fine = 68
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44080
+length = 6296
+end = 6262
+loop = 5363
+
+[[samples]]
+file = "52.flac"
+key = 52
+key-to = 57
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 4176
+end = 4144
+loop = 3609
+
+[[samples]]
+file = "58.flac"
+key = 58
+key-to = 66
+level = 127
+tune-coarse = 52
+tune-fine = 66
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44077
+length = 7080
+end = 7054
+loop = 6673
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-to = 75
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 6912
+end = 6886
+loop = 6659
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-to = 127
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 4488
+end = 4460
+loop = 4324
+

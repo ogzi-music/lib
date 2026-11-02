@@ -1,0 +1,83 @@
+name = "Trombone Fall"
+id = "trombone-fall-3"
+group = "brass"
+midi-program = 55
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 0
+key-to = 59
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 46436
+
+[[samples]]
+file = "68.flac"
+key = 68
+key-to = 70
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 31449
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-to = 67
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 31449
+
+[[samples]]
+file = "74.flac"
+key = 74
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 31449
+
+[[samples]]
+file = "63.flac"
+key = 63
+key-to = 64
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 31449
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-to = 62
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 31449
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-to = 73
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 31449
+

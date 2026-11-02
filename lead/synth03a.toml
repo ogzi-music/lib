@@ -1,0 +1,94 @@
+name = "SYNTH03A"
+id = "synth03a"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 21
+key-to = 47
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 126092
+end = 126081
+loop = 78804
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-to = 59
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 119426
+end = 119409
+loop = 79620
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-to = 108
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 103819
+end = 103809
+loop = 84593
+
+[[samples]]
+file = "36_2.flac"
+key = 36
+key-from = 21
+key-to = 47
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 126092
+end = 126081
+loop = 78804
+
+[[samples]]
+file = "48_2.flac"
+key = 48
+key-to = 59
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 119426
+end = 119409
+loop = 79620
+
+[[samples]]
+file = "60_2.flac"
+key = 60
+key-to = 108
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 103819
+end = 103809
+loop = 84593
+

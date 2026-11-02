@@ -1,0 +1,58 @@
+name = "Snr DW Maple 1-4"
+id = "snr-dw-maple-1-4"
+group = "sfx"
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 127
+velocity-from = 117
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 56591
+
+[[samples]]
+file = "60_2.flac"
+key = 60
+key-from = 0
+key-to = 127
+velocity-from = 101
+velocity-to = 116
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 96954
+
+[[samples]]
+file = "60_3.flac"
+key = 60
+key-from = 0
+key-to = 127
+velocity-from = 79
+velocity-to = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 119670
+
+[[samples]]
+file = "60_4.flac"
+key = 60
+key-from = 0
+key-to = 127
+velocity-to = 78
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 102239
+

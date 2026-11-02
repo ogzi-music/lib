@@ -1,0 +1,35 @@
+name = "Org De Borg"
+id = "org-de-borg"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 14
+key-to = 91
+level = 127
+tune-coarse = 71
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 20941
+length = 21504
+end = 21466
+loop = 7788
+
+[[samples]]
+file = "103.flac"
+key = 103
+key-from = 92
+key-to = 101
+level = 112
+tune-coarse = 71
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 20941
+length = 2678
+end = 2675
+loop = 965
+

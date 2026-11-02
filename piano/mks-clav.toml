@@ -1,0 +1,131 @@
+name = "MKS Clav"
+id = "mks-clav"
+group = "piano"
+midi-program = 7
+
+[[samples]]
+file = "22.flac"
+key = 22
+key-from = 0
+key-to = 37
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 482145
+end = 480000
+loop = 240000
+
+[[samples]]
+file = "30.flac"
+key = 30
+key-from = 38
+key-to = 45
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 503786
+end = 480000
+loop = 240000
+
+[[samples]]
+file = "38.flac"
+key = 38
+key-from = 46
+key-to = 53
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 502449
+end = 480000
+loop = 240000
+
+[[samples]]
+file = "46.flac"
+key = 46
+key-from = 54
+key-to = 61
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 505173
+end = 480000
+loop = 240000
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-from = 62
+key-to = 69
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 501041
+end = 480000
+loop = 240000
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-from = 70
+key-to = 77
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 505916
+end = 480000
+loop = 240000
+
+[[samples]]
+file = "70.flac"
+key = 70
+key-from = 78
+key-to = 85
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 500995
+end = 480000
+loop = 240000
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-from = 86
+key-to = 93
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 502250
+end = 480000
+loop = 240000
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 94
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 500744
+end = 480000
+loop = 240000
+

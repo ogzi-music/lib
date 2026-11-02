@@ -1,0 +1,19 @@
+name = "VrEnsBwd 2"
+id = "vrensbwd-2"
+group = "sfx"
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 0
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 189487
+start = 1
+end = 189485
+loop = 17544
+

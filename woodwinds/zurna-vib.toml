@@ -1,0 +1,83 @@
+name = "Zurna Vib"
+id = "zurna-vib"
+group = "woodwinds"
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 82
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 86348
+end = 86345
+loop = 55036
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-to = 81
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 54326
+end = 54323
+loop = 22112
+
+[[samples]]
+file = "77.flac"
+key = 77
+key-to = 78
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 50469
+end = 50466
+loop = 18752
+
+[[samples]]
+file = "75.flac"
+key = 75
+key-to = 76
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 29331
+end = 29328
+loop = 12525
+
+[[samples]]
+file = "74.flac"
+key = 74
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 49296
+end = 49293
+loop = 21006
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 0
+key-to = 73
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 64248
+end = 64245
+loop = 31776
+

@@ -1,0 +1,81 @@
+name = "Girl Watcher"
+id = "girl-watcher-2"
+group = "voice"
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 0
+key-to = 0
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 27523
+length = 3448
+end = 3441
+
+[[samples]]
+file = "27.flac"
+key = 27
+key-from = 3
+key-to = 3
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 30537
+length = 10424
+end = 10421
+
+[[samples]]
+file = "29.flac"
+key = 29
+key-from = 39
+key-to = 39
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 29030
+length = 29400
+end = 6958
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 70
+key-to = 70
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 6960
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 75
+key-to = 75
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 39017
+length = 65024
+end = 29371
+loop = 29212
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 84
+key-to = 84
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 35931
+length = 29400
+

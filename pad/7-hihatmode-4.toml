@@ -1,0 +1,43 @@
+name = "7 HiHatMode"
+id = "7-hihatmode-4"
+group = "pad"
+midi-program = 86
+
+[[samples]]
+file = "34.flac"
+key = 34
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44101
+length = 4384
+end = 4381
+
+[[samples]]
+file = "92.flac"
+key = 92
+key-from = 85
+key-to = 85
+level = 121
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 26017
+length = 6120
+end = 6113
+
+[[samples]]
+file = "68.flac"
+key = 68
+key-from = 93
+key-to = 93
+level = 123
+pan = 56
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 26437
+length = 5368
+end = 5364
+

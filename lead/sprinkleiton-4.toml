@@ -1,0 +1,73 @@
+name = "SprinkleItOn"
+id = "sprinkleiton-4"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-from = 53
+key-to = 57
+level = 127
+tune-coarse = 71
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27950
+length = 9784
+start = 1956
+end = 9759
+loop = 9606
+
+[[samples]]
+file = "61.flac"
+key = 61
+key-from = 58
+key-to = 62
+level = 127
+tune-coarse = 71
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28014
+length = 29448
+start = 5888
+end = 29417
+loop = 29314
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 63
+key-to = 71
+level = 127
+tune-coarse = 71
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27743
+length = 14016
+start = 2802
+end = 13988
+loop = 13911
+
+[[samples]]
+file = "73.flac"
+key = 73
+key-from = 72
+key-to = 79
+level = 127
+tune-coarse = 71
+tune-fine = 59
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28019
+length = 49240
+start = 9841
+end = 49204
+loop = 37314
+

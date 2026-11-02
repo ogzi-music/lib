@@ -1,0 +1,93 @@
+name = "Men Ahhs"
+id = "men-ahhs"
+group = "voice"
+midi-program = 50
+
+[[samples]]
+file = "56.flac"
+key = 56
+key-from = 48
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 286784
+end = 286749
+loop = 94784
+
+[[samples]]
+file = "58.flac"
+key = 58
+key-from = 57
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 255064
+end = 255025
+loop = 86143
+
+[[samples]]
+file = "59.flac"
+key = 59
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 266000
+end = 265961
+loop = 91712
+
+[[samples]]
+file = "60.flac"
+key = 60
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 262584
+end = 262547
+loop = 70729
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-from = 61
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 265024
+end = 264985
+loop = 107921
+
+[[samples]]
+file = "63.flac"
+key = 63
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 244072
+end = 244035
+loop = 77058
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-to = 69
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 266976
+end = 266937
+loop = 73780
+

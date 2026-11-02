@@ -1,0 +1,19 @@
+name = "Wacka"
+id = "wacka"
+group = "sfx"
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 0
+key-to = 126
+level = 127
+tune-coarse = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28409
+length = 20616
+end = 20587
+loop = 26
+

@@ -1,0 +1,149 @@
+name = "Balafon Natural"
+id = "balafon-natural-2"
+group = "mallets"
+midi-program = 11
+
+[[samples]]
+file = "60.flac"
+key = 60
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 119160
+end = 37814
+loop = 23783
+
+[[samples]]
+file = "62.flac"
+key = 62
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 113624
+end = 51632
+loop = 28605
+
+[[samples]]
+file = "64.flac"
+key = 64
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 89056
+end = 35978
+loop = 19418
+
+[[samples]]
+file = "65.flac"
+key = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 94408
+end = 33658
+loop = 9450
+
+[[samples]]
+file = "67.flac"
+key = 67
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 102520
+end = 23407
+loop = 8853
+
+[[samples]]
+file = "69.flac"
+key = 69
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 96720
+end = 33982
+loop = 15336
+
+[[samples]]
+file = "71.flac"
+key = 71
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 102232
+end = 46201
+loop = 26707
+
+[[samples]]
+file = "72.flac"
+key = 72
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 108376
+end = 46640
+loop = 12064
+
+[[samples]]
+file = "74.flac"
+key = 74
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 88472
+end = 36513
+loop = 15876
+
+[[samples]]
+file = "76.flac"
+key = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 69872
+end = 34080
+loop = 9817
+
+[[samples]]
+file = "77.flac"
+key = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 87880
+end = 45052
+loop = 23578
+
+[[samples]]
+file = "79.flac"
+key = 79
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 76200
+end = 25045
+loop = 8622
+

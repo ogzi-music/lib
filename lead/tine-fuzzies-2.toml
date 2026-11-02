@@ -1,0 +1,37 @@
+name = "Tine Fuzzies"
+id = "tine-fuzzies-2"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "43.flac"
+key = 43
+key-from = 0
+key-to = 51
+level = 127
+pan = 67
+tune-fine = 79
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 27491
+length = 20264
+start = 159
+end = 20227
+loop = 19662
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 55
+key-to = 103
+level = 106
+pan = 61
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 21953
+length = 1192
+end = 1162
+loop = 1048
+

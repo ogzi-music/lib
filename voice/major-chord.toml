@@ -1,0 +1,139 @@
+name = "Choir Major Chord"
+id = "major-chord"
+group = "voice"
+midi-program = 50
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 21
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 194743
+end = 194740
+loop = 66166
+
+[[samples]]
+file = "61.flac"
+key = 61
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 206839
+end = 206836
+loop = 62707
+
+[[samples]]
+file = "62.flac"
+key = 62
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 200775
+end = 200772
+loop = 87452
+
+[[samples]]
+file = "63.flac"
+key = 63
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 191056
+end = 191023
+loop = 47886
+
+[[samples]]
+file = "64.flac"
+key = 64
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 186128
+end = 186089
+loop = 54587
+
+[[samples]]
+file = "65.flac"
+key = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 194728
+end = 194689
+loop = 48376
+
+[[samples]]
+file = "66.flac"
+key = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 171344
+end = 171311
+loop = 42904
+
+[[samples]]
+file = "67.flac"
+key = 67
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 177280
+end = 177247
+loop = 60645
+
+[[samples]]
+file = "68.flac"
+key = 68
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 170208
+end = 170171
+loop = 65630
+
+[[samples]]
+file = "69.flac"
+key = 69
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 192504
+end = 192465
+loop = 117351
+
+[[samples]]
+file = "70.flac"
+key = 70
+key-to = 108
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 175155
+end = 175152
+loop = 19531
+

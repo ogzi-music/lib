@@ -1,0 +1,95 @@
+name = "MonoGrunge"
+id = "monogrunge"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 0
+key-to = 54
+level = 127
+tune-coarse = 76
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 42143
+length = 688
+end = 653
+loop = 10
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 55
+key-to = 66
+level = 127
+tune-coarse = 76
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 41748
+length = 336
+end = 311
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 67
+key-to = 78
+level = 127
+tune-coarse = 76
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 41878
+length = 176
+end = 152
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 79
+key-to = 92
+level = 127
+tune-coarse = 76
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 41355
+length = 96
+end = 67
+
+[[samples]]
+file = "96.flac"
+key = 96
+key-from = 93
+key-to = 102
+level = 127
+tune-coarse = 76
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 40834
+length = 56
+end = 25
+
+[[samples]]
+file = "108.flac"
+key = 108
+key-from = 103
+level = 127
+tune-coarse = 76
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 33509
+length = 48
+end = 16
+

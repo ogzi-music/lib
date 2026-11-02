@@ -1,0 +1,18 @@
+name = "Slicer"
+id = "slicer"
+group = "sfx"
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 39000
+length = 34696
+end = 34659
+loop = 15978
+

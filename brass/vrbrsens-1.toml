@@ -1,0 +1,122 @@
+name = "VRbrsEns 1"
+id = "vrbrsens-1"
+group = "brass"
+midi-program = 59
+
+[[samples]]
+file = "41.flac"
+key = 41
+key-from = 0
+key-to = 43
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 146633
+start = 1
+end = 146631
+loop = 60778
+
+[[samples]]
+file = "46.flac"
+key = 46
+key-from = 44
+key-to = 48
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 201810
+start = 1
+end = 201808
+loop = 61060
+
+[[samples]]
+file = "51.flac"
+key = 51
+key-from = 49
+key-to = 53
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 217360
+end = 217358
+loop = 32888
+
+[[samples]]
+file = "56.flac"
+key = 56
+key-from = 54
+key-to = 58
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 328535
+end = 328533
+loop = 75118
+
+[[samples]]
+file = "61.flac"
+key = 61
+key-from = 59
+key-to = 63
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 256251
+start = 1
+end = 256249
+loop = 89920
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 64
+key-to = 68
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 298152
+end = 298150
+loop = 84294
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 69
+key-to = 73
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 228405
+start = 1
+end = 228403
+loop = 67390
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 74
+key-to = 127
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 276215
+start = 1
+end = 276213
+loop = 126992
+

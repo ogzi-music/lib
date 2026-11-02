@@ -1,0 +1,18 @@
+name = "WackaParty83"
+id = "wackaparty83"
+group = "sfx"
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24000
+length = 18040
+end = 17834
+loop = 423
+

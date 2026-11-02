@@ -1,0 +1,123 @@
+name = "PAD08"
+id = "pad08"
+group = "pad"
+midi-program = 86
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 21
+key-to = 59
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 132006
+end = 130001
+loop = 90001
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-to = 71
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 132003
+end = 131985
+loop = 91985
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 83
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 132197
+end = 130001
+loop = 90001
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-to = 108
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 132264
+end = 130001
+loop = 90001
+
+[[samples]]
+file = "48_2.flac"
+key = 48
+key-from = 21
+key-to = 59
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 132006
+end = 130001
+loop = 90001
+
+[[samples]]
+file = "60_2.flac"
+key = 60
+key-to = 71
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 132003
+end = 131985
+loop = 91985
+
+[[samples]]
+file = "72_2.flac"
+key = 72
+key-to = 83
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 132197
+end = 130001
+loop = 90001
+
+[[samples]]
+file = "84_2.flac"
+key = 84
+key-to = 108
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 132264
+end = 130001
+loop = 90001
+

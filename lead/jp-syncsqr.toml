@@ -1,0 +1,159 @@
+name = "JP SyncSqr"
+id = "jp-syncsqr"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 0
+key-to = 39
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 168491
+end = 167151
+loop = 74253
+
+[[samples]]
+file = "42.flac"
+key = 42
+key-from = 40
+key-to = 45
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 150813
+end = 149859
+loop = 39516
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 46
+key-to = 51
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 159849
+end = 158903
+loop = 64043
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-from = 52
+key-to = 57
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 152484
+end = 151531
+loop = 62538
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 58
+key-to = 63
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 169957
+end = 167726
+loop = 72616
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 64
+key-to = 69
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 161697
+end = 160862
+loop = 67070
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 70
+key-to = 75
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 142244
+end = 141334
+loop = 44534
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-from = 76
+key-to = 81
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 140505
+end = 139600
+loop = 51151
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 82
+key-to = 87
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 150001
+end = 146638
+loop = 49700
+
+[[samples]]
+file = "90.flac"
+key = 90
+key-from = 88
+key-to = 93
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 135427
+end = 133904
+loop = 45753
+
+[[samples]]
+file = "96.flac"
+key = 96
+key-from = 94
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 142339
+end = 140841
+loop = 45041
+

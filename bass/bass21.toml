@@ -1,0 +1,332 @@
+name = "BASS21"
+id = "bass21"
+group = "bass"
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 21
+key-to = 59
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 58519
+end = 58516
+
+[[samples]]
+file = "60_2.flac"
+key = 60
+round-robin = 2
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 58519
+end = 58516
+
+[[samples]]
+file = "60_3.flac"
+key = 60
+key-from = 61
+key-to = 71
+round-robin = 3
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 58519
+end = 58516
+
+[[samples]]
+file = "60_4.flac"
+key = 60
+key-from = 72
+key-to = 72
+round-robin = 4
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 58519
+end = 58516
+
+[[samples]]
+file = "60_5.flac"
+key = 60
+key-from = 73
+key-to = 108
+round-robin = 5
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 58519
+end = 58516
+
+[[samples]]
+file = "60_6.flac"
+key = 60
+key-from = 21
+key-to = 59
+round-robin = 6
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 58519
+end = 58516
+
+[[samples]]
+file = "60_7.flac"
+key = 60
+round-robin = 7
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 58519
+end = 58516
+
+[[samples]]
+file = "60_8.flac"
+key = 60
+key-from = 61
+key-to = 71
+round-robin = 8
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 58519
+end = 58516
+
+[[samples]]
+file = "60_9.flac"
+key = 60
+key-from = 72
+key-to = 72
+round-robin = 9
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 58519
+end = 58516
+
+[[samples]]
+file = "60_10.flac"
+key = 60
+key-from = 73
+key-to = 108
+round-robin = 10
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 58519
+end = 58516
+
+[[samples]]
+file = "60_11.flac"
+key = 60
+round-robin = 11
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 58519
+end = 58516
+
+[[samples]]
+file = "60_12.flac"
+key = 60
+key-from = 72
+key-to = 72
+round-robin = 12
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 58519
+end = 58516
+
+[[samples]]
+file = "60_13.flac"
+key = 60
+round-robin = 13
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 58519
+end = 58516
+
+[[samples]]
+file = "60_14.flac"
+key = 60
+key-from = 72
+key-to = 72
+round-robin = 14
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 58519
+end = 58516
+
+[[samples]]
+file = "50.flac"
+key = 50
+key-from = 60
+key-to = 60
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 79578
+end = 79569
+loop = 29093
+
+[[samples]]
+file = "50_2.flac"
+key = 50
+key-from = 72
+key-to = 72
+round-robin = 2
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 79578
+end = 79569
+loop = 29093
+
+[[samples]]
+file = "50_3.flac"
+key = 50
+key-from = 60
+key-to = 60
+round-robin = 3
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 79578
+end = 79569
+loop = 29093
+
+[[samples]]
+file = "50_4.flac"
+key = 50
+key-from = 72
+key-to = 72
+round-robin = 4
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 79578
+end = 79569
+loop = 29093
+
+[[samples]]
+file = "50_5.flac"
+key = 50
+key-from = 60
+key-to = 60
+round-robin = 5
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 79578
+end = 79569
+loop = 29093
+
+[[samples]]
+file = "50_6.flac"
+key = 50
+key-from = 72
+key-to = 72
+round-robin = 6
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 79578
+end = 79569
+loop = 29093
+
+[[samples]]
+file = "50_7.flac"
+key = 50
+key-from = 60
+key-to = 60
+round-robin = 7
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 79578
+end = 79569
+loop = 29093
+
+[[samples]]
+file = "50_8.flac"
+key = 50
+key-from = 72
+key-to = 72
+round-robin = 8
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 79578
+end = 79569
+loop = 29093
+

@@ -1,0 +1,83 @@
+name = "Buzuki Fing."
+id = "buzuki-fing"
+group = "ethnic"
+
+[[samples]]
+file = "86.flac"
+key = 86
+key-to = 127
+level = 127
+tune-fine = 66
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 7152
+end = 7150
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-to = 85
+level = 127
+tune-fine = 68
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 7639
+end = 7637
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-to = 83
+level = 127
+tune-fine = 61
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 5918
+end = 5916
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-to = 80
+level = 127
+tune-fine = 70
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 5254
+end = 5252
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-to = 78
+level = 127
+tune-fine = 58
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 5225
+end = 5223
+
+[[samples]]
+file = "74.flac"
+key = 74
+key-from = 0
+key-to = 75
+level = 127
+tune-fine = 68
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 6205
+end = 6203
+

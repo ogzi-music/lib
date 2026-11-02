@@ -1,0 +1,37 @@
+name = "Metalofon 07"
+id = "metalofon-07"
+group = "mallets"
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 0
+key-to = 117
+velocity-to = 121
+level = 127
+pan = 56
+tune-fine = 78
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44071
+length = 43424
+end = 43418
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 0
+key-to = 117
+velocity-from = 122
+level = 127
+pan = 56
+tune-coarse = 63
+tune-fine = 73
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44076
+length = 381656
+end = 381652
+

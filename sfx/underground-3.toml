@@ -1,0 +1,18 @@
+name = "Underground"
+id = "underground-3"
+group = "sfx"
+
+[[samples]]
+file = "75.flac"
+key = 75
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 43561
+length = 2704
+end = 2680
+loop = 2608
+

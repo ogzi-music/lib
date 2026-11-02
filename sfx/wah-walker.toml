@@ -1,0 +1,17 @@
+name = "Wah Walker"
+id = "wah-walker"
+group = "sfx"
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 37000
+length = 23256
+end = 23250
+

@@ -1,0 +1,17 @@
+name = "MadDramA"
+id = "maddrama"
+group = "sfx"
+
+[[samples]]
+file = "68.flac"
+key = 68
+key-from = 0
+key-to = 108
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 27523
+length = 28768
+end = 28761
+

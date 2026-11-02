@@ -1,0 +1,19 @@
+name = "Sitar 88"
+id = "sitar-88-2"
+group = "sfx"
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 0
+key-to = 127
+level = 127
+tune-coarse = 71
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24000
+length = 28240
+end = 28208
+loop = 15371
+

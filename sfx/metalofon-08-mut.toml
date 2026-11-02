@@ -1,0 +1,19 @@
+name = "Metalofon 08 Mut"
+id = "metalofon-08-mut"
+group = "sfx"
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-from = 0
+key-to = 117
+level = 127
+pan = 56
+tune-fine = 33
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44114
+length = 88432
+end = 88428
+

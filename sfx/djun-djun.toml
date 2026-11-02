@@ -1,0 +1,37 @@
+name = "Djun Djun"
+id = "djun-djun"
+group = "sfx"
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 21
+key-to = 120
+velocity-to = 71
+level = 127
+pan = 54
+tune-coarse = 57
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 75528
+end = 75518
+
+[[samples]]
+file = "72_2.flac"
+key = 72
+key-from = 21
+key-to = 120
+velocity-from = 72
+velocity-to = 119
+level = 127
+pan = 54
+tune-coarse = 57
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 61504
+end = 61498
+

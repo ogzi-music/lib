@@ -1,0 +1,19 @@
+name = "Spectrum Z"
+id = "spectrum-z"
+group = "pad"
+midi-program = 86
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 131798
+end = 130641
+loop = 172
+

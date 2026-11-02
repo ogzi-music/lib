@@ -1,0 +1,52 @@
+name = "Narwhal"
+id = "narwhal"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 0
+key-to = 89
+level = 127
+tune-coarse = 59
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 42182
+length = 144
+end = 116
+loop = 50
+
+[[samples]]
+file = "100.flac"
+key = 100
+key-from = 90
+key-to = 107
+level = 127
+tune-coarse = 59
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 42182
+length = 48
+end = 25
+loop = 7
+
+[[samples]]
+file = "112.flac"
+key = 112
+key-from = 108
+key-to = 127
+level = 127
+tune-coarse = 59
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 42182
+length = 32
+end = 8
+

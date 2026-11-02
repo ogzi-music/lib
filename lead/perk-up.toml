@@ -1,0 +1,135 @@
+name = "Perk up"
+id = "perk-up"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "36.flac"
+key = 36
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 10240
+end = 10234
+
+[[samples]]
+file = "37.flac"
+key = 37
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 8592
+end = 8588
+
+[[samples]]
+file = "38.flac"
+key = 38
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 3064
+
+[[samples]]
+file = "39.flac"
+key = 39
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 5728
+end = 5720
+
+[[samples]]
+file = "40.flac"
+key = 40
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 16920
+
+[[samples]]
+file = "41.flac"
+key = 41
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 12728
+end = 12720
+
+[[samples]]
+file = "42.flac"
+key = 42
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 17864
+end = 17857
+
+[[samples]]
+file = "43.flac"
+key = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 17976
+end = 17972
+
+[[samples]]
+file = "44.flac"
+key = 44
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 9960
+end = 9956
+
+[[samples]]
+file = "45.flac"
+key = 45
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11688
+end = 11685
+
+[[samples]]
+file = "46.flac"
+key = 46
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 16312
+end = 16306
+
+[[samples]]
+file = "47.flac"
+key = 47
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 18176
+end = 18172
+

@@ -1,0 +1,303 @@
+name = "Human Kit"
+id = "human-kit"
+group = "drums"
+
+[[samples]]
+file = "36_human-kit-021.flac"
+key = 36
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 10128
+end = 10124
+
+[[samples]]
+file = "36_human-kit-021_2.flac"
+key = 36
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 16048
+end = 16040
+
+[[samples]]
+file = "37_human-kit-021.flac"
+key = 37
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 12928
+end = 12926
+
+[[samples]]
+file = "38_human-kit-021.flac"
+key = 38
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 11008
+end = 11002
+
+[[samples]]
+file = "39_human-kit-021.flac"
+key = 39
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 17216
+end = 17210
+
+[[samples]]
+file = "40_human-kit-021.flac"
+key = 40
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 12264
+end = 12254
+
+[[samples]]
+file = "41_human-kit-021.flac"
+key = 41
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 10208
+end = 10204
+
+[[samples]]
+file = "42_human-kit-021.flac"
+key = 42
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 5096
+end = 5094
+
+[[samples]]
+file = "43_human-kit-021.flac"
+key = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 11672
+end = 11662
+
+[[samples]]
+file = "44_human-kit-021.flac"
+key = 44
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 12120
+end = 12116
+
+[[samples]]
+file = "45_human-kit-021.flac"
+key = 45
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 20472
+end = 20466
+
+[[samples]]
+file = "46_human-kit-021.flac"
+key = 46
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 9776
+end = 9770
+
+[[samples]]
+file = "47_human-kit-021.flac"
+key = 47
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 8928
+end = 8924
+
+[[samples]]
+file = "48_human-kit-021.flac"
+key = 48
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 22736
+end = 22732
+
+[[samples]]
+file = "49_human-kit-021.flac"
+key = 49
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 12640
+end = 12634
+
+[[samples]]
+file = "50_human-kit-021.flac"
+key = 50
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 12656
+end = 12648
+
+[[samples]]
+file = "51_human-kit-021.flac"
+key = 51
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 5792
+end = 5786
+
+[[samples]]
+file = "52_human-kit-021.flac"
+key = 52
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 12152
+end = 12148
+
+[[samples]]
+file = "53_human-kit-021.flac"
+key = 53
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 8752
+end = 8746
+
+[[samples]]
+file = "54_human-kit-021.flac"
+key = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 12512
+end = 12504
+
+[[samples]]
+file = "55_human-kit-021.flac"
+key = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 19176
+end = 19174
+
+[[samples]]
+file = "56_human-kit-021.flac"
+key = 56
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 12288
+end = 12278
+
+[[samples]]
+file = "57_human-kit-021.flac"
+key = 57
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 22408
+end = 22406
+
+[[samples]]
+file = "58_human-kit-021.flac"
+key = 58
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 10712
+end = 10704
+
+[[samples]]
+file = "61_human-kit-021.flac"
+key = 61
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 132912
+end = 132906
+
+[[samples]]
+file = "69_human-kit-021.flac"
+key = 69
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 54224
+end = 54220
+
+[[samples]]
+file = "79_human-kit-021.flac"
+key = 79
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 45872
+end = 45862
+

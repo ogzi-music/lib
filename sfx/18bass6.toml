@@ -1,0 +1,17 @@
+name = "18BASS6"
+id = "18bass6"
+group = "sfx"
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 159277
+end = 159274
+

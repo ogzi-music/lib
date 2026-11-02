@@ -1,0 +1,18 @@
+name = "Knock U Out"
+id = "knock-u-out"
+group = "sfx"
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 0
+key-to = 127
+level = 127
+tune-coarse = 62
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 24509
+length = 13936
+end = 13933
+

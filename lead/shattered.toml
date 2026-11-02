@@ -1,0 +1,129 @@
+name = "Shattered"
+id = "shattered"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 0
+key-to = 62
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 152577
+end = 152570
+loop = 42430
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 63
+key-to = 74
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 152564
+end = 152557
+loop = 42641
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 75
+key-to = 86
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 153204
+end = 153197
+loop = 42352
+
+[[samples]]
+file = "91.flac"
+key = 91
+key-from = 87
+key-to = 108
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 154310
+end = 154303
+loop = 44329
+
+[[samples]]
+file = "55_2.flac"
+key = 55
+key-from = 0
+key-to = 62
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 152577
+end = 152570
+loop = 42430
+
+[[samples]]
+file = "67_2.flac"
+key = 67
+key-from = 63
+key-to = 74
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 152564
+end = 152557
+loop = 42641
+
+[[samples]]
+file = "79_2.flac"
+key = 79
+key-from = 75
+key-to = 86
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 153204
+end = 153197
+loop = 42352
+
+[[samples]]
+file = "91_2.flac"
+key = 91
+key-from = 87
+key-to = 108
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 154310
+end = 154303
+loop = 44329
+

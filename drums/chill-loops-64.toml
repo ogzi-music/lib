@@ -1,0 +1,92 @@
+name = "Chill Loops 64 BPM"
+id = "chill-loops-64"
+group = "drums"
+
+[[samples]]
+file = "43.flac"
+key = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 661503
+end = 661500
+
+[[samples]]
+file = "42.flac"
+key = 42
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 661503
+end = 661500
+
+[[samples]]
+file = "41.flac"
+key = 41
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 661575
+end = 661572
+
+[[samples]]
+file = "40.flac"
+key = 40
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 661606
+end = 661603
+
+[[samples]]
+file = "39.flac"
+key = 39
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 661503
+end = 661500
+
+[[samples]]
+file = "38.flac"
+key = 38
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 661503
+end = 661500
+
+[[samples]]
+file = "37.flac"
+key = 37
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 661503
+end = 661500
+
+[[samples]]
+file = "36.flac"
+key = 36
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 661503
+end = 661500
+

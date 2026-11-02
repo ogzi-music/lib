@@ -1,0 +1,61 @@
+name = "Crandle"
+id = "crandle"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "43.flac"
+key = 43
+key-from = 0
+key-to = 48
+level = 127
+tune-fine = 68
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44080
+length = 4696
+end = 1897
+loop = 82
+
+[[samples]]
+file = "49.flac"
+key = 49
+key-to = 57
+level = 127
+tune-fine = 74
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44064
+length = 5376
+end = 5079
+loop = 3797
+
+[[samples]]
+file = "58.flac"
+key = 58
+key-to = 72
+level = 127
+tune-fine = 74
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44064
+length = 5904
+end = 5872
+loop = 5111
+
+[[samples]]
+file = "73.flac"
+key = 73
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 6568
+end = 6541
+loop = 6220
+

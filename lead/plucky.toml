@@ -1,0 +1,62 @@
+name = "Plucky"
+id = "plucky"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "43.flac"
+key = 43
+key-from = 0
+key-to = 46
+level = 127
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44119
+length = 9720
+end = 9682
+loop = 8785
+
+[[samples]]
+file = "49.flac"
+key = 49
+key-from = 47
+key-to = 52
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 6208
+end = 6175
+loop = 5539
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 53
+key-to = 64
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 5736
+end = 5709
+loop = 5257
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 65
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 3056
+end = 3027
+loop = 2799
+

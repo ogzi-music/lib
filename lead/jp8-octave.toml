@@ -1,0 +1,159 @@
+name = "JP8 Octave"
+id = "jp8-octave"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "96.flac"
+key = 96
+key-from = 94
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 73609
+end = 73570
+loop = 27
+
+[[samples]]
+file = "90.flac"
+key = 90
+key-from = 88
+key-to = 93
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 86203
+end = 85055
+loop = 28
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 82
+key-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 90880
+end = 90663
+loop = 110
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-from = 76
+key-to = 81
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 91990
+end = 91933
+loop = 162
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 70
+key-to = 75
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 95888
+end = 95769
+loop = 244
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 64
+key-to = 69
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 105740
+end = 105430
+loop = 933
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 58
+key-to = 63
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 104622
+end = 104431
+loop = 158
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-from = 52
+key-to = 57
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 108336
+end = 108145
+loop = 138
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 46
+key-to = 51
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 117234
+end = 116233
+loop = 1336
+
+[[samples]]
+file = "42.flac"
+key = 42
+key-from = 40
+key-to = 45
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 107356
+end = 106481
+loop = 776
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 0
+key-to = 39
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 130416
+end = 129837
+loop = 1149
+

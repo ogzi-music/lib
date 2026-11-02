@@ -1,0 +1,802 @@
+name = "VR Piano 60"
+id = "vr-piano-60"
+group = "piano"
+midi-program = 0
+
+[[samples]]
+file = "29.flac"
+key = 29
+key-from = 0
+key-to = 31
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 344598
+end = 344595
+loop = 343500
+
+[[samples]]
+file = "35.flac"
+key = 35
+key-from = 32
+key-to = 37
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 353838
+end = 353835
+loop = 353062
+
+[[samples]]
+file = "40.flac"
+key = 40
+key-from = 38
+key-to = 42
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 362416
+start = 1
+end = 362413
+loop = 361832
+
+[[samples]]
+file = "45.flac"
+key = 45
+key-from = 43
+key-to = 47
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 401117
+start = 1
+end = 401114
+loop = 400678
+
+[[samples]]
+file = "50.flac"
+key = 50
+key-from = 48
+key-to = 52
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 439628
+start = 1
+end = 439625
+loop = 438972
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 53
+key-to = 56
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 337881
+end = 337878
+loop = 337634
+
+[[samples]]
+file = "59.flac"
+key = 59
+key-from = 57
+key-to = 60
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 391570
+start = 1
+end = 391567
+loop = 391374
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-from = 61
+key-to = 63
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 374408
+end = 374405
+loop = 374242
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-from = 64
+key-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 422364
+end = 422361
+loop = 422224
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 67
+key-to = 70
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 392466
+start = 1
+end = 392463
+loop = 392354
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 71
+key-to = 74
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 282144
+end = 282141
+loop = 281958
+
+[[samples]]
+file = "77.flac"
+key = 77
+key-from = 75
+key-to = 79
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 236859
+end = 236856
+loop = 155124
+
+[[samples]]
+file = "83.flac"
+key = 83
+key-from = 80
+key-to = 85
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 154369
+start = 1
+end = 154366
+loop = 102706
+
+[[samples]]
+file = "88.flac"
+key = 88
+key-from = 86
+key-to = 90
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 154911
+start = 1
+end = 154908
+loop = 99542
+
+[[samples]]
+file = "93.flac"
+key = 93
+key-from = 91
+key-to = 95
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 199595
+end = 199592
+loop = 120246
+
+[[samples]]
+file = "98.flac"
+key = 98
+key-from = 96
+key-to = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 149428
+start = 1
+end = 149425
+loop = 104994
+
+[[samples]]
+file = "103.flac"
+key = 103
+key-from = 101
+key-to = 126
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 160680
+end = 160677
+loop = 70092
+
+[[samples]]
+file = "24.flac"
+key = 24
+key-from = 0
+key-to = 27
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 389019
+start = 1
+end = 389016
+loop = 387570
+
+[[samples]]
+file = "29_2.flac"
+key = 29
+key-from = 28
+key-to = 31
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 414697
+end = 414694
+loop = 412490
+
+[[samples]]
+file = "35_2.flac"
+key = 35
+key-from = 32
+key-to = 37
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 305002
+start = 1
+end = 304999
+loop = 303458
+
+[[samples]]
+file = "40_2.flac"
+key = 40
+key-from = 38
+key-to = 42
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 269034
+end = 269031
+loop = 268450
+
+[[samples]]
+file = "45_2.flac"
+key = 45
+key-from = 43
+key-to = 47
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 344129
+start = 1
+end = 344126
+loop = 343258
+
+[[samples]]
+file = "50_2.flac"
+key = 50
+key-from = 48
+key-to = 52
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 268216
+end = 268213
+loop = 266580
+
+[[samples]]
+file = "55_2.flac"
+key = 55
+key-from = 53
+key-to = 56
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 252576
+end = 252573
+loop = 250860
+
+[[samples]]
+file = "59_2.flac"
+key = 59
+key-from = 57
+key-to = 60
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 464971
+end = 464968
+loop = 270940
+
+[[samples]]
+file = "62_2.flac"
+key = 62
+key-from = 61
+key-to = 63
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 446578
+start = 1
+end = 446575
+loop = 338752
+
+[[samples]]
+file = "65_2.flac"
+key = 65
+key-from = 64
+key-to = 66
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 314023
+start = 1
+end = 314020
+loop = 220410
+
+[[samples]]
+file = "69_2.flac"
+key = 69
+key-from = 67
+key-to = 70
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 428035
+end = 428032
+loop = 345268
+
+[[samples]]
+file = "72_2.flac"
+key = 72
+key-from = 71
+key-to = 74
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 214023
+end = 214020
+loop = 147900
+
+[[samples]]
+file = "77_2.flac"
+key = 77
+key-from = 75
+key-to = 79
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 233823
+end = 233820
+loop = 151550
+
+[[samples]]
+file = "83_2.flac"
+key = 83
+key-from = 80
+key-to = 85
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 152431
+end = 152428
+loop = 102098
+
+[[samples]]
+file = "88_2.flac"
+key = 88
+key-from = 86
+key-to = 90
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 111569
+end = 111566
+loop = 47814
+
+[[samples]]
+file = "93_2.flac"
+key = 93
+key-from = 91
+key-to = 95
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 127186
+start = 1
+end = 127183
+loop = 66298
+
+[[samples]]
+file = "98_2.flac"
+key = 98
+key-from = 96
+key-to = 100
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 106929
+start = 1
+end = 106926
+loop = 64814
+
+[[samples]]
+file = "103_2.flac"
+key = 103
+key-from = 101
+key-to = 127
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 206468
+end = 206465
+loop = 145740
+
+[[samples]]
+file = "24_2.flac"
+key = 24
+key-from = 0
+key-to = 27
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 476687
+end = 476684
+loop = 474420
+
+[[samples]]
+file = "29_3.flac"
+key = 29
+key-from = 28
+key-to = 31
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 355515
+end = 355512
+loop = 354420
+
+[[samples]]
+file = "35_3.flac"
+key = 35
+key-from = 32
+key-to = 37
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 390457
+start = 1
+end = 390454
+loop = 389680
+
+[[samples]]
+file = "40_3.flac"
+key = 40
+key-from = 38
+key-to = 42
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 395913
+end = 395910
+loop = 395330
+
+[[samples]]
+file = "45_3.flac"
+key = 45
+key-from = 43
+key-to = 47
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 387553
+start = 1
+end = 387550
+loop = 318190
+
+[[samples]]
+file = "50_3.flac"
+key = 50
+key-from = 48
+key-to = 52
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 363670
+start = 1
+end = 363667
+loop = 363018
+
+[[samples]]
+file = "55_3.flac"
+key = 55
+key-from = 53
+key-to = 56
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 342648
+end = 342645
+loop = 341670
+
+[[samples]]
+file = "59_3.flac"
+key = 59
+key-from = 57
+key-to = 60
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 422346
+end = 422343
+loop = 362490
+
+[[samples]]
+file = "62_3.flac"
+key = 62
+key-from = 61
+key-to = 63
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 455823
+end = 455820
+loop = 318648
+
+[[samples]]
+file = "65_3.flac"
+key = 65
+key-from = 64
+key-to = 66
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 306979
+end = 306976
+loop = 212000
+
+[[samples]]
+file = "69_3.flac"
+key = 69
+key-from = 67
+key-to = 70
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 430596
+start = 1
+end = 430593
+loop = 276690
+
+[[samples]]
+file = "72_3.flac"
+key = 72
+key-from = 71
+key-to = 74
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 276680
+end = 276677
+loop = 170768
+
+[[samples]]
+file = "77_3.flac"
+key = 77
+key-from = 75
+key-to = 79
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 245075
+end = 245072
+loop = 146704
+
+[[samples]]
+file = "83_3.flac"
+key = 83
+key-from = 80
+key-to = 85
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 205527
+end = 205524
+loop = 116256
+
+[[samples]]
+file = "88_3.flac"
+key = 88
+key-from = 86
+key-to = 92
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 203152
+start = 1
+end = 203149
+loop = 114400
+
+[[samples]]
+file = "98_3.flac"
+key = 98
+key-from = 96
+key-to = 100
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 87355
+end = 87352
+loop = 63008
+
+[[samples]]
+file = "103_3.flac"
+key = 103
+key-from = 101
+key-to = 127
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 155233
+end = 155230
+loop = 128516
+
+[[samples]]
+file = "93_3.flac"
+key = 93
+key-from = 89
+key-to = 95
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 126007
+end = 126004
+loop = 84584
+

@@ -1,0 +1,33 @@
+name = "IntoTheLight"
+id = "intothelight"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 21
+key-to = 71
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 33500
+length = 5224
+end = 5200
+loop = 5182
+
+[[samples]]
+file = "96.flac"
+key = 96
+key-from = 72
+key-to = 103
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 41895
+length = 2536
+end = 2511
+loop = 2499
+

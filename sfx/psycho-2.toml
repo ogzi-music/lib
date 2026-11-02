@@ -1,0 +1,16 @@
+name = "Psycho"
+id = "psycho-2"
+group = "sfx"
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 30000
+length = 19304
+

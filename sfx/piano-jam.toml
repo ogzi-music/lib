@@ -1,0 +1,17 @@
+name = "Piano Jam"
+id = "piano-jam"
+group = "sfx"
+
+[[samples]]
+file = "70.flac"
+key = 70
+key-from = 0
+key-to = 127
+level = 127
+tune-coarse = 69
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 39000
+length = 17376
+

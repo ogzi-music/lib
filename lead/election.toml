@@ -1,0 +1,35 @@
+name = "Election"
+id = "election"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 0
+key-to = 46
+level = 127
+tune-fine = 68
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 11020
+length = 5496
+end = 5471
+loop = 5130
+
+[[samples]]
+file = "51.flac"
+key = 51
+key-from = 47
+key-to = 127
+level = 127
+tune-fine = 76
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 11023
+length = 6728
+end = 6725
+loop = 6582
+

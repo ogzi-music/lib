@@ -1,0 +1,154 @@
+name = "NylonFantasy"
+id = "nylonfantasy"
+group = "guitar"
+
+[[samples]]
+file = "26.flac"
+key = 26
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 26902
+length = 9760
+end = 9756
+
+[[samples]]
+file = "27.flac"
+key = 27
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 25563
+length = 12792
+
+[[samples]]
+file = "28.flac"
+key = 28
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 29916
+length = 12472
+
+[[samples]]
+file = "29.flac"
+key = 29
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 25395
+length = 6248
+end = 6243
+
+[[samples]]
+file = "30.flac"
+key = 30
+level = 91
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 28000
+length = 10400
+
+[[samples]]
+file = "31.flac"
+key = 31
+level = 116
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 28000
+length = 4936
+end = 4933
+
+[[samples]]
+file = "32.flac"
+key = 32
+level = 116
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 28000
+length = 11312
+end = 11309
+
+[[samples]]
+file = "33.flac"
+key = 33
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 28000
+length = 5584
+end = 5580
+
+[[samples]]
+file = "34.flac"
+key = 34
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 28000
+length = 6168
+
+[[samples]]
+file = "35.flac"
+key = 35
+level = 107
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 28000
+length = 384
+
+[[samples]]
+file = "59.flac"
+key = 59
+key-from = 36
+key-to = 64
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 30992
+length = 8204
+end = 8201
+loop = 7950
+
+[[samples]]
+file = "77.flac"
+key = 77
+key-from = 65
+key-to = 70
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31082
+length = 2474
+end = 2471
+loop = 2382
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 71
+key-to = 127
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31135
+length = 28840
+end = 28837
+loop = 28718
+

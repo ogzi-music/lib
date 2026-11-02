@@ -1,0 +1,93 @@
+name = "SFX02"
+id = "sfx02"
+group = "sfx"
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 21
+key-to = 59
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 176059
+end = 176049
+loop = 76049
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-to = 71
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 176132
+end = 176113
+loop = 76113
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 108
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 175833
+end = 166337
+loop = 66337
+
+[[samples]]
+file = "48_2.flac"
+key = 48
+key-from = 21
+key-to = 59
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 176059
+end = 176049
+loop = 76049
+
+[[samples]]
+file = "60_2.flac"
+key = 60
+key-to = 71
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 176132
+end = 176113
+loop = 76113
+
+[[samples]]
+file = "72_2.flac"
+key = 72
+key-to = 108
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 175833
+end = 166337
+loop = 66337
+

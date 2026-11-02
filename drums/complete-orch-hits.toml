@@ -1,0 +1,24 @@
+name = "Complete Orch Hits"
+id = "complete-orch-hits"
+group = "drums"
+
+[[samples]]
+file = "37_gong-stick.flac"
+key = 37
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 987159
+
+[[samples]]
+file = "49_mallet-crash.flac"
+key = 49
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 652939
+

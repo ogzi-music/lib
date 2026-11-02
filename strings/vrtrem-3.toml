@@ -1,0 +1,33 @@
+name = "VrTrem 3"
+id = "vrtrem-3"
+group = "strings"
+midi-program = 46
+
+[[samples]]
+file = "46.flac"
+key = 46
+key-from = 0
+key-to = 71
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 99750
+end = 99748
+loop = 29790
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 72
+key-to = 88
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 139664
+end = 139662
+loop = 40366
+

@@ -1,0 +1,112 @@
+name = "Zither Strum Minor"
+id = "zither-strum-minor"
+group = "guitar"
+midi-program = 23
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-to = 68
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 475490
+
+[[samples]]
+file = "66.flac"
+key = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 475490
+
+[[samples]]
+file = "62.flac"
+key = 62
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 540449
+
+[[samples]]
+file = "63.flac"
+key = 63
+key-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 540449
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 475490
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-to = 61
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 540449
+
+[[samples]]
+file = "71.flac"
+key = 71
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 475490
+
+[[samples]]
+file = "59.flac"
+key = 59
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 540449
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-to = 70
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 475490
+
+[[samples]]
+file = "57.flac"
+key = 57
+key-from = 0
+key-to = 58
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 540449
+

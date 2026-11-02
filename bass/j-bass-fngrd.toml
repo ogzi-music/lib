@@ -1,0 +1,94 @@
+name = "J-Bass Fngrd"
+id = "j-bass-fngrd"
+group = "bass"
+
+[[samples]]
+file = "28.flac"
+key = 28
+key-from = 0
+key-to = 30
+level = 127
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44088
+length = 83952
+end = 79248
+loop = 78177
+
+[[samples]]
+file = "33.flac"
+key = 33
+key-from = 31
+key-to = 35
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44136
+length = 84384
+end = 76680
+loop = 75880
+
+[[samples]]
+file = "38.flac"
+key = 38
+key-from = 36
+key-to = 41
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44136
+length = 84384
+end = 80288
+loop = 79689
+
+[[samples]]
+file = "43.flac"
+key = 43
+key-from = 42
+key-to = 45
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44136
+length = 84288
+end = 78183
+loop = 77734
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 46
+key-to = 50
+level = 127
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44122
+length = 84528
+end = 69245
+loop = 68908
+
+[[samples]]
+file = "53.flac"
+key = 53
+key-from = 51
+key-to = 72
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44074
+length = 84432
+start = 21
+end = 81035
+loop = 80530
+

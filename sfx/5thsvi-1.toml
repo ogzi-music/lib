@@ -1,0 +1,19 @@
+name = "5THSVI~1"
+id = "5thsvi-1"
+group = "sfx"
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 51
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 1800882
+end = 1782977
+loop = 166662
+

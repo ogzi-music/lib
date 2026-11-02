@@ -1,0 +1,14 @@
+name = "26-D-Tek-1"
+id = "26-d-tek-1"
+group = "sfx"
+
+[[samples]]
+file = "60.flac"
+key = 60
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 10516
+

@@ -1,0 +1,56 @@
+name = "Zurna Trl."
+id = "zurna-trl"
+group = "woodwinds"
+
+[[samples]]
+file = "75.flac"
+key = 75
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 33412
+end = 33408
+loop = 18102
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 0
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 33671
+end = 33667
+loop = 18825
+
+[[samples]]
+file = "74.flac"
+key = 74
+level = 127
+tune-fine = 74
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 35329
+end = 35325
+loop = 19840
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 73
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 43548
+end = 43544
+loop = 27802
+

@@ -1,0 +1,180 @@
+name = "Prima Domra"
+id = "prima-domra"
+group = "ethnic"
+
+[[samples]]
+file = "63.flac"
+key = 63
+key-from = 0
+level = 127
+tune-fine = 72
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44061
+length = 240368
+end = 240360
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 64
+level = 127
+tune-fine = 46
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44122
+length = 218120
+end = 218110
+
+[[samples]]
+file = "68.flac"
+key = 68
+level = 127
+tune-fine = 46
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44122
+length = 215768
+end = 215762
+
+[[samples]]
+file = "70.flac"
+key = 70
+key-from = 69
+level = 127
+tune-fine = 46
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44122
+length = 180984
+end = 180980
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 71
+level = 127
+tune-fine = 60
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44119
+length = 221400
+end = 221394
+
+[[samples]]
+file = "74.flac"
+key = 74
+key-from = 73
+level = 127
+tune-fine = 49
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44114
+length = 138248
+end = 138238
+
+[[samples]]
+file = "75.flac"
+key = 75
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 172552
+end = 172542
+
+[[samples]]
+file = "77.flac"
+key = 77
+key-from = 76
+level = 127
+tune-fine = 57
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44127
+length = 156840
+end = 156838
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 78
+level = 127
+tune-fine = 62
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44122
+length = 224296
+end = 224288
+
+[[samples]]
+file = "80.flac"
+key = 80
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 178184
+end = 178174
+
+[[samples]]
+file = "82.flac"
+key = 82
+key-from = 81
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 112904
+end = 112894
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 83
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 61192
+end = 61182
+
+[[samples]]
+file = "86.flac"
+key = 86
+key-from = 85
+level = 127
+tune-fine = 69
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44069
+length = 86536
+end = 86526
+
+[[samples]]
+file = "89.flac"
+key = 89
+key-from = 88
+key-to = 96
+level = 127
+tune-fine = 71
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44072
+length = 63752
+end = 63742
+

@@ -1,0 +1,129 @@
+name = "Asia Synth"
+id = "asia-synth-3"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 36
+key-to = 55
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 138329
+end = 138322
+loop = 116872
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 56
+key-to = 67
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 147317
+end = 147310
+loop = 107251
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 68
+key-to = 79
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 150835
+end = 150828
+loop = 110866
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 80
+key-to = 127
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 149319
+end = 149312
+loop = 116891
+
+[[samples]]
+file = "48_2.flac"
+key = 48
+key-from = 36
+key-to = 55
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 138329
+end = 138322
+loop = 116872
+
+[[samples]]
+file = "60_2.flac"
+key = 60
+key-from = 56
+key-to = 67
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 147317
+end = 147310
+loop = 107251
+
+[[samples]]
+file = "72_2.flac"
+key = 72
+key-from = 68
+key-to = 79
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 150835
+end = 150828
+loop = 110866
+
+[[samples]]
+file = "84_2.flac"
+key = 84
+key-from = 80
+key-to = 127
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 149319
+end = 149312
+loop = 116891
+

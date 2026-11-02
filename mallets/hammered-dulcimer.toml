@@ -1,0 +1,224 @@
+name = "Hammered Dulcimer"
+id = "hammered-dulcimer"
+group = "mallets"
+
+[[samples]]
+file = "80.flac"
+key = 80
+key-from = 79
+key-to = 127
+level = 127
+tune-fine = 61
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 145220
+end = 145218
+loop = 115962
+
+[[samples]]
+file = "75.flac"
+key = 75
+key-from = 74
+level = 127
+tune-fine = 44
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 85910
+end = 85908
+loop = 84653
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-from = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 140465
+end = 140463
+loop = 118894
+
+[[samples]]
+file = "73.flac"
+key = 73
+key-from = 72
+level = 127
+tune-fine = 43
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 92162
+end = 92160
+loop = 91533
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 70
+level = 127
+tune-fine = 62
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 198470
+end = 198468
+loop = 158774
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 68
+level = 127
+tune-fine = 61
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 122400
+end = 122398
+loop = 106270
+
+[[samples]]
+file = "67.flac"
+key = 67
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 111801
+end = 111799
+loop = 110897
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 65
+level = 127
+tune-fine = 65
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 61984
+end = 61982
+loop = 61026
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-from = 63
+level = 127
+tune-fine = 67
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 125482
+end = 125480
+loop = 124673
+
+[[samples]]
+file = "62.flac"
+key = 62
+level = 127
+tune-fine = 70
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 181045
+end = 181043
+loop = 180133
+
+[[samples]]
+file = "61.flac"
+key = 61
+key-from = 60
+level = 127
+tune-fine = 61
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 221710
+end = 221708
+loop = 177253
+
+[[samples]]
+file = "59.flac"
+key = 59
+key-from = 58
+level = 127
+tune-fine = 59
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 193710
+end = 193708
+loop = 192640
+
+[[samples]]
+file = "57.flac"
+key = 57
+level = 127
+tune-fine = 65
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 136160
+end = 136158
+loop = 134954
+
+[[samples]]
+file = "56.flac"
+key = 56
+key-from = 55
+level = 127
+tune-fine = 61
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 253418
+end = 253416
+loop = 252569
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-from = 53
+level = 127
+tune-fine = 58
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 109710
+end = 109708
+loop = 90628
+
+[[samples]]
+file = "52.flac"
+key = 52
+key-from = 0
+level = 127
+tune-fine = 65
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 213179
+end = 213177
+loop = 182799
+

@@ -1,0 +1,299 @@
+name = "FM EP8 Wurli"
+id = "fm-ep8-wurli"
+group = "piano"
+midi-program = 5
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 0
+key-to = 37
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 39171
+end = 38879
+loop = 38208
+
+[[samples]]
+file = "39.flac"
+key = 39
+key-from = 38
+key-to = 40
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 42483
+end = 41959
+loop = 40824
+
+[[samples]]
+file = "42.flac"
+key = 42
+key-from = 41
+key-to = 43
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 42283
+end = 41904
+loop = 40950
+
+[[samples]]
+file = "45.flac"
+key = 45
+key-from = 44
+key-to = 46
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 39931
+end = 39708
+loop = 39308
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 47
+key-to = 49
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 36027
+end = 35880
+loop = 35542
+
+[[samples]]
+file = "51.flac"
+key = 51
+key-from = 50
+key-to = 52
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 37395
+end = 37093
+loop = 36527
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-from = 53
+key-to = 55
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 36995
+end = 36516
+loop = 36278
+
+[[samples]]
+file = "57.flac"
+key = 57
+key-from = 56
+key-to = 58
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 36579
+end = 36210
+loop = 35208
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 59
+key-to = 61
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 36067
+end = 35752
+loop = 35415
+
+[[samples]]
+file = "63.flac"
+key = 63
+key-from = 62
+key-to = 64
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 35387
+end = 35010
+loop = 34585
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 65
+key-to = 67
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 36283
+end = 35894
+loop = 35775
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 68
+key-to = 70
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 31995
+end = 31702
+loop = 30800
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 71
+key-to = 73
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 31363
+end = 30780
+loop = 30190
+
+[[samples]]
+file = "75.flac"
+key = 75
+key-from = 74
+key-to = 76
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 31675
+end = 31309
+loop = 30813
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-from = 77
+key-to = 79
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 31995
+end = 31743
+loop = 31445
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 80
+key-to = 82
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 31315
+end = 31169
+loop = 30768
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 83
+key-to = 85
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 31467
+end = 30907
+loop = 30317
+
+[[samples]]
+file = "87.flac"
+key = 87
+key-from = 86
+key-to = 88
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 26659
+end = 26023
+loop = 25775
+
+[[samples]]
+file = "90.flac"
+key = 90
+key-from = 89
+key-to = 91
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 25923
+end = 25533
+loop = 25384
+
+[[samples]]
+file = "93.flac"
+key = 93
+key-from = 92
+key-to = 94
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 22131
+end = 21923
+loop = 21497
+
+[[samples]]
+file = "96.flac"
+key = 96
+key-from = 95
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 21803
+end = 21643
+loop = 21348
+

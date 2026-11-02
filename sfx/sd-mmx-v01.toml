@@ -1,0 +1,32 @@
+name = "SD_MMX V01"
+id = "sd-mmx-v01"
+group = "sfx"
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 127
+velocity-to = 100
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 22019
+end = 22017
+
+[[samples]]
+file = "60_2.flac"
+key = 60
+key-from = 0
+key-to = 127
+velocity-from = 101
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 27907
+end = 27905
+

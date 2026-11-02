@@ -1,0 +1,223 @@
+name = "Prima Domra Trem"
+id = "prima-domra-trem"
+group = "strings"
+midi-program = 46
+
+[[samples]]
+file = "63.flac"
+key = 63
+key-from = 0
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 30536
+end = 30035
+loop = 6868
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-from = 64
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 31368
+end = 30054
+loop = 6827
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 53768
+end = 53027
+loop = 12378
+
+[[samples]]
+file = "68.flac"
+key = 68
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 33160
+end = 32703
+loop = 53
+
+[[samples]]
+file = "70.flac"
+key = 70
+key-from = 69
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 28936
+end = 28312
+loop = 119
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 71
+level = 121
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 31808
+end = 31741
+loop = 11280
+
+[[samples]]
+file = "74.flac"
+key = 74
+key-from = 73
+level = 124
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 24016
+end = 23512
+loop = 4212
+
+[[samples]]
+file = "75.flac"
+key = 75
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 38664
+end = 32833
+loop = 11059
+
+[[samples]]
+file = "77.flac"
+key = 77
+key-from = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 43536
+end = 43094
+loop = 10279
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 78
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 49416
+end = 48462
+loop = 15167
+
+[[samples]]
+file = "80.flac"
+key = 80
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 60680
+end = 59711
+loop = 10917
+
+[[samples]]
+file = "82.flac"
+key = 82
+key-from = 81
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 41352
+end = 40284
+loop = 30
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 83
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 57992
+end = 56452
+loop = 7258
+
+[[samples]]
+file = "86.flac"
+key = 86
+key-from = 85
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 31176
+end = 30272
+loop = 6731
+
+[[samples]]
+file = "87.flac"
+key = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 63872
+end = 63701
+loop = 23301
+
+[[samples]]
+file = "89.flac"
+key = 89
+key-from = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 32240
+end = 28417
+loop = 4444
+
+[[samples]]
+file = "91.flac"
+key = 91
+key-from = 90
+key-to = 103
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 54784
+end = 54340
+loop = 30722
+

@@ -1,0 +1,47 @@
+name = "DadeezGAL:)"
+id = "dadeezgal"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "42.flac"
+key = 42
+key-from = 0
+key-to = 45
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 11239
+length = 14352
+end = 14324
+loop = 13836
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 46
+key-to = 53
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 11250
+length = 14055
+end = 14052
+loop = 13708
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 54
+key-to = 120
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 11250
+length = 14372
+end = 14369
+loop = 14197
+

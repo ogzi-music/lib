@@ -1,0 +1,16 @@
+name = "WackaParty83"
+id = "wackaparty83-4"
+group = "sfx"
+
+[[samples]]
+file = "86.flac"
+key = 86
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 41972
+length = 12312
+

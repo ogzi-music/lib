@@ -1,0 +1,57 @@
+name = "Balaban Slide"
+id = "balaban-slide"
+group = "woodwinds"
+midi-program = 71
+
+[[samples]]
+file = "79.flac"
+key = 79
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 104646
+end = 104642
+loop = 88784
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 66332
+end = 66330
+loop = 52087
+
+[[samples]]
+file = "77.flac"
+key = 77
+key-from = 76
+key-to = 78
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 89913
+start = 4
+loop = 75093
+
+[[samples]]
+file = "74.flac"
+key = 74
+key-from = 0
+key-to = 75
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 99172
+loop = 84588
+

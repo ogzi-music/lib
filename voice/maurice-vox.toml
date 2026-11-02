@@ -1,0 +1,76 @@
+name = "Maurice Vox"
+id = "maurice-vox"
+group = "voice"
+midi-program = 52
+
+[[samples]]
+file = "63.flac"
+key = 63
+key-from = 21
+key-to = 64
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48100
+length = 108904
+end = 108869
+loop = 24779
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 65
+key-to = 68
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48100
+length = 95008
+end = 94969
+loop = 36629
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 69
+key-to = 73
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48100
+length = 63648
+end = 63615
+loop = 9623
+
+[[samples]]
+file = "75.flac"
+key = 75
+key-from = 74
+key-to = 76
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48100
+length = 89568
+end = 89529
+loop = 19257
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 77
+key-to = 108
+level = 127
+tune-fine = 55
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48126
+length = 104584
+end = 104551
+loop = 17691
+

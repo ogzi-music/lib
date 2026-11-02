@@ -1,0 +1,93 @@
+name = "WAWIFLHEAD"
+id = "wawiflhead-2"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "49.flac"
+key = 49
+key-from = 0
+key-to = 54
+level = 127
+tune-coarse = 76
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24006
+length = 13008
+end = 12982
+loop = 12633
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-to = 63
+level = 127
+tune-coarse = 76
+tune-fine = 71
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 23985
+length = 13504
+end = 13478
+loop = 13230
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-to = 69
+level = 127
+tune-coarse = 76
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24064
+length = 5192
+end = 5163
+loop = 5015
+
+[[samples]]
+file = "70.flac"
+key = 70
+key-to = 75
+level = 127
+tune-coarse = 76
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24015
+length = 19528
+end = 19515
+loop = 18487
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-to = 81
+level = 127
+tune-coarse = 76
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24065
+length = 7352
+end = 7315
+loop = 7240
+
+[[samples]]
+file = "82.flac"
+key = 82
+key-to = 90
+level = 127
+tune-coarse = 76
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24242
+length = 3800
+end = 3775
+loop = 3721
+

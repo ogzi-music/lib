@@ -1,0 +1,57 @@
+name = "Cembalo 1M"
+id = "cembalo-1m"
+group = "piano"
+midi-program = 6
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 0
+key-to = 84
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 154196
+end = 154193
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 56
+key-to = 67
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 154292
+end = 154289
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 68
+key-to = 79
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 154323
+end = 154320
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 80
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 125928
+end = 125922
+

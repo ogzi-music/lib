@@ -1,0 +1,50 @@
+name = "New WhirlOdr"
+id = "new-whirlodr-2"
+group = "organ"
+midi-program = 14
+
+[[samples]]
+file = "46.flac"
+key = 46
+key-from = 51
+key-to = 51
+level = 127
+tune-fine = 79
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44085
+length = 12216
+end = 12177
+loop = 10650
+
+[[samples]]
+file = "52.flac"
+key = 52
+key-from = 60
+key-to = 60
+level = 127
+tune-fine = 77
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 29988
+length = 7368
+end = 7281
+loop = 6547
+
+[[samples]]
+file = "61.flac"
+key = 61
+key-from = 66
+key-to = 66
+level = 127
+tune-fine = 71
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 29981
+length = 9456
+end = 9426
+loop = 8988
+

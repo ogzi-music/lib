@@ -1,0 +1,17 @@
+name = "Wah Upper"
+id = "wah-upper"
+group = "sfx"
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 32930
+length = 12984
+end = 12980
+

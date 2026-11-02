@@ -1,0 +1,184 @@
+name = "LariV Mute M"
+id = "lariv-mute-m"
+group = "brass"
+midi-program = 57
+
+[[samples]]
+file = "40.flac"
+key = 40
+key-from = 0
+key-to = 42
+level = 127
+tune-fine = 61
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48036
+length = 20152
+end = 20150
+
+[[samples]]
+file = "45.flac"
+key = 45
+key-from = 43
+key-to = 47
+level = 127
+tune-fine = 62
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48024
+length = 12472
+end = 12466
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-to = 49
+level = 127
+tune-fine = 61
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48008
+length = 16032
+end = 16025
+
+[[samples]]
+file = "50.flac"
+key = 50
+key-to = 51
+level = 127
+tune-fine = 62
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48024
+length = 16272
+
+[[samples]]
+file = "52.flac"
+key = 52
+key-to = 53
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 16072
+end = 16068
+
+[[samples]]
+file = "57.flac"
+key = 57
+key-from = 54
+level = 127
+tune-fine = 65
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 47960
+length = 14832
+end = 14828
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 58
+key-to = 64
+level = 127
+tune-fine = 65
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 47987
+length = 17160
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-to = 67
+level = 127
+tune-fine = 67
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 47991
+length = 14264
+end = 14260
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 68
+key-to = 70
+level = 127
+tune-fine = 59
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48005
+length = 18720
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-to = 72
+level = 127
+tune-fine = 65
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 47987
+length = 16544
+
+[[samples]]
+file = "73.flac"
+key = 73
+level = 127
+tune-fine = 68
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 47979
+length = 16664
+end = 16659
+
+[[samples]]
+file = "74.flac"
+key = 74
+key-to = 75
+level = 127
+tune-fine = 66
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 47975
+length = 18384
+end = 18382
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-to = 77
+level = 127
+tune-fine = 67
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 47991
+length = 13856
+end = 13851
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 78
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 18600
+

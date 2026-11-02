@@ -1,0 +1,148 @@
+name = "5 Violas Spic"
+id = "5-violas-spic"
+group = "strings"
+midi-program = 46
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-to = 50
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 189536
+end = 189534
+
+[[samples]]
+file = "51.flac"
+key = 51
+key-to = 53
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 150480
+end = 150472
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-to = 57
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 121736
+end = 121728
+
+[[samples]]
+file = "58.flac"
+key = 58
+key-to = 60
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 154688
+end = 154680
+
+[[samples]]
+file = "61.flac"
+key = 61
+key-to = 64
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 109960
+end = 109954
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-to = 67
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 185736
+end = 185728
+
+[[samples]]
+file = "68.flac"
+key = 68
+key-to = 71
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 182352
+end = 182348
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 74
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 140440
+end = 140436
+
+[[samples]]
+file = "75.flac"
+key = 75
+key-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 172760
+end = 172754
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-to = 80
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 104792
+end = 104786
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-to = 83
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 105000
+end = 104990
+
+[[samples]]
+file = "84.flac"
+key = 84
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 168480
+end = 168474
+

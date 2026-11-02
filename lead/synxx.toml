@@ -1,0 +1,134 @@
+name = "Synxx"
+id = "synxx"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "84.flac"
+key = 84
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 108387
+end = 107265
+loop = 44032
+
+[[samples]]
+file = "78.flac"
+key = 78
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 53120
+end = 52913
+loop = 52436
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 53680
+end = 53583
+loop = 52403
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-to = 71
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 48000
+end = 47696
+loop = 47219
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 48768
+end = 48324
+loop = 47987
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-to = 59
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 46197
+end = 45856
+loop = 45380
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-to = 53
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 49664
+end = 49349
+loop = 48674
+
+[[samples]]
+file = "42.flac"
+key = 42
+key-to = 47
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 61060
+end = 60902
+loop = 59948
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-to = 41
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 57600
+end = 56540
+loop = 53843
+
+[[samples]]
+file = "30.flac"
+key = 30
+key-from = 0
+key-to = 35
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 38328
+end = 38118
+loop = 34304
+

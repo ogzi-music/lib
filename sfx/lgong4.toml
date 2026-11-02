@@ -1,0 +1,19 @@
+name = "LGONG4"
+id = "lgong4"
+group = "sfx"
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 90
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 643497
+end = 639041
+loop = 452504
+

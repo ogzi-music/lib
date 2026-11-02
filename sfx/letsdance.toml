@@ -1,0 +1,19 @@
+name = "LetsDance"
+id = "letsdance"
+group = "sfx"
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 0
+key-to = 127
+level = 127
+tune-coarse = 76
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 36018
+length = 66144
+end = 66138
+

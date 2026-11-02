@@ -1,0 +1,78 @@
+name = "Box O Bass"
+id = "box-o-bass"
+group = "bass"
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 83
+level = 117
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27523
+length = 1120
+end = 1070
+loop = 229
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-from = 84
+key-to = 95
+level = 125
+tune-coarse = 40
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 42193
+length = 272
+end = 243
+loop = 113
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 96
+key-to = 107
+level = 121
+tune-coarse = 40
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 42193
+length = 144
+end = 114
+loop = 48
+
+[[samples]]
+file = "88.flac"
+key = 88
+key-from = 108
+key-to = 119
+level = 121
+tune-coarse = 40
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 42193
+length = 80
+end = 51
+loop = 17
+
+[[samples]]
+file = "100.flac"
+key = 100
+key-from = 120
+key-to = 127
+level = 121
+tune-coarse = 40
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 42193
+length = 48
+end = 19
+loop = 1
+

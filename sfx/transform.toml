@@ -1,0 +1,19 @@
+name = "Transform"
+id = "transform"
+group = "sfx"
+
+[[samples]]
+file = "68.flac"
+key = 68
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 29915
+length = 8965
+end = 8962
+loop = 8926
+

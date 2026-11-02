@@ -1,0 +1,38 @@
+name = "Kix 2"
+id = "kix-2-2"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "104.flac"
+key = 104
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 32930
+length = 21904
+end = 21900
+
+[[samples]]
+file = "105.flac"
+key = 105
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 32930
+length = 3088
+
+[[samples]]
+file = "106.flac"
+key = 106
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 22000
+length = 7200
+end = 7195
+

@@ -1,0 +1,18 @@
+name = "Linky Fingaz"
+id = "linky-fingaz-2"
+group = "sfx"
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 93
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 26005
+length = 22952
+start = 2696
+

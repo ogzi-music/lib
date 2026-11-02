@@ -1,0 +1,18 @@
+name = "Distroy"
+id = "distroy"
+group = "sfx"
+
+[[samples]]
+file = "51.flac"
+key = 51
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 35058
+length = 2608
+end = 2596
+loop = 1696
+

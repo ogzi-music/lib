@@ -1,0 +1,47 @@
+name = "VrEnsBwd 3"
+id = "vrensbwd-3"
+group = "strings"
+midi-program = 46
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 0
+key-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 306904
+end = 306902
+loop = 40558
+
+[[samples]]
+file = "51.flac"
+key = 51
+key-from = 44
+key-to = 53
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 196928
+end = 196926
+loop = 9048
+
+[[samples]]
+file = "61.flac"
+key = 61
+key-from = 54
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 233685
+end = 233683
+loop = 25108
+

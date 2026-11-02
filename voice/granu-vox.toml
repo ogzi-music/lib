@@ -1,0 +1,103 @@
+name = "Granu Vox"
+id = "granu-vox"
+group = "voice"
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 127
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 100320
+end = 100197
+loop = 80
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-to = 127
+level = 127
+tune-fine = 96
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 101168
+end = 101040
+loop = 149
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 77
+level = 127
+tune-fine = 96
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 109413
+end = 109286
+loop = 85
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-to = 71
+level = 127
+tune-fine = 92
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 110464
+end = 109840
+loop = 339
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-to = 65
+level = 127
+tune-fine = 90
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 104320
+end = 104004
+loop = 963
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-to = 59
+level = 127
+tune-fine = 94
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 116280
+end = 115900
+loop = 402
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 0
+key-to = 53
+level = 127
+tune-fine = 95
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 102816
+end = 102658
+loop = 119
+

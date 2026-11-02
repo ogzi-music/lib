@@ -1,0 +1,99 @@
+name = "J-Bass Harmnx"
+id = "j-bass-harmnx"
+group = "sfx"
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 24
+key-to = 42
+level = 127
+tune-coarse = 84
+tune-fine = 71
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44072
+length = 82320
+end = 75215
+
+[[samples]]
+file = "60_2.flac"
+key = 60
+key-from = 43
+key-to = 47
+round-robin = 2
+level = 127
+tune-coarse = 79
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44111
+length = 77808
+end = 74299
+
+[[samples]]
+file = "60_3.flac"
+key = 60
+key-from = 48
+key-to = 52
+round-robin = 3
+level = 127
+tune-coarse = 74
+tune-fine = 61
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44107
+length = 82608
+end = 74407
+
+[[samples]]
+file = "60_4.flac"
+key = 60
+key-from = 53
+key-to = 58
+round-robin = 4
+level = 127
+tune-coarse = 69
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44063
+length = 82608
+end = 65599
+
+[[samples]]
+file = "60_5.flac"
+key = 60
+key-from = 59
+key-to = 63
+round-robin = 5
+level = 127
+tune-coarse = 62
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44088
+length = 83296
+end = 74687
+
+[[samples]]
+file = "60_6.flac"
+key = 60
+key-from = 64
+key-to = 127
+round-robin = 6
+level = 127
+tune-coarse = 57
+tune-fine = 66
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44077
+length = 83392
+end = 71991
+

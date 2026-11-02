@@ -1,0 +1,93 @@
+name = "BASS25"
+id = "bass25"
+group = "bass"
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 21
+key-to = 47
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 54989
+end = 54977
+loop = 38781
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-to = 59
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 52682
+end = 52673
+loop = 22080
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-to = 108
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 48177
+end = 48161
+loop = 25233
+
+[[samples]]
+file = "36_2.flac"
+key = 36
+key-from = 21
+key-to = 47
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 54989
+end = 54977
+loop = 38781
+
+[[samples]]
+file = "48_2.flac"
+key = 48
+key-to = 59
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 52682
+end = 52673
+loop = 22080
+
+[[samples]]
+file = "60_2.flac"
+key = 60
+key-to = 108
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 48177
+end = 48161
+loop = 25233
+

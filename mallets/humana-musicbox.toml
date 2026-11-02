@@ -1,0 +1,91 @@
+name = "Humana Music Box"
+id = "humana-musicbox"
+group = "mallets"
+midi-program = 9
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 0
+key-to = 54
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 18439
+end = 18432
+loop = 12030
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 55
+key-to = 67
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 22397
+end = 22389
+loop = 13966
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 68
+key-to = 74
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 29291
+end = 29283
+loop = 17322
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 75
+key-to = 90
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 20501
+start = 1
+end = 20494
+loop = 11944
+
+[[samples]]
+file = "96.flac"
+key = 96
+key-from = 91
+key-to = 99
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 11079
+start = 1
+end = 11072
+loop = 8638
+
+[[samples]]
+file = "102.flac"
+key = 102
+key-from = 100
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 15167
+end = 15160
+loop = 6720
+

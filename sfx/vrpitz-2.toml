@@ -1,0 +1,17 @@
+name = "VrPitz 2"
+id = "vrpitz-2"
+group = "sfx"
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 0
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 49068
+loop = 47212
+

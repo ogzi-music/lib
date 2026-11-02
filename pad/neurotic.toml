@@ -1,0 +1,20 @@
+name = "Neurotic"
+id = "neurotic"
+group = "pad"
+midi-program = 86
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 69
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 173056
+end = 171009
+loop = 52224
+

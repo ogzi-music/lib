@@ -1,0 +1,108 @@
+name = "Tongue Drums"
+id = "tongue-drums-4"
+group = "mallets"
+
+[[samples]]
+file = "50.flac"
+key = 50
+key-to = 51
+velocity-to = 111
+level = 127
+pan = 54
+tune-coarse = 59
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 48392
+end = 48386
+
+[[samples]]
+file = "50_2.flac"
+key = 50
+key-to = 51
+velocity-from = 112
+level = 127
+pan = 54
+tune-coarse = 59
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 48264
+end = 48254
+
+[[samples]]
+file = "52.flac"
+key = 52
+velocity-to = 111
+level = 127
+pan = 54
+tune-coarse = 59
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 53896
+end = 53886
+
+[[samples]]
+file = "53.flac"
+key = 53
+key-to = 54
+velocity-to = 110
+level = 127
+pan = 54
+tune-coarse = 59
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 48824
+end = 48818
+
+[[samples]]
+file = "53_2.flac"
+key = 53
+key-to = 54
+velocity-from = 111
+level = 127
+pan = 54
+tune-coarse = 59
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 41624
+end = 41620
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-to = 59
+velocity-to = 110
+level = 127
+pan = 54
+tune-coarse = 59
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 43648
+end = 43642
+
+[[samples]]
+file = "55_2.flac"
+key = 55
+key-to = 59
+velocity-from = 111
+level = 127
+pan = 54
+tune-coarse = 59
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 37768
+end = 37762
+

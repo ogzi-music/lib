@@ -1,0 +1,90 @@
+name = "MarkOther"
+id = "markother"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "43.flac"
+key = 43
+key-from = 0
+key-to = 49
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28507
+length = 12568
+end = 12530
+loop = 11370
+
+[[samples]]
+file = "52.flac"
+key = 52
+key-from = 50
+key-to = 57
+level = 127
+tune-fine = 76
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28495
+length = 15984
+end = 15952
+loop = 15255
+
+[[samples]]
+file = "58.flac"
+key = 58
+key-to = 63
+level = 127
+tune-fine = 72
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28475
+length = 15392
+end = 15369
+loop = 14874
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-to = 69
+level = 127
+tune-fine = 74
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28490
+length = 10008
+end = 9979
+loop = 9629
+
+[[samples]]
+file = "70.flac"
+key = 70
+key-to = 78
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28553
+length = 10008
+end = 9978
+loop = 9730
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-to = 127
+level = 127
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28629
+length = 9712
+end = 9683
+loop = 9535
+

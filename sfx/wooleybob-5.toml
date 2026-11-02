@@ -1,0 +1,19 @@
+name = "WooleyBOB!"
+id = "wooleybob-5"
+group = "sfx"
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 127
+level = 127
+tune-coarse = 71
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31003
+length = 12944
+end = 12820
+loop = 12344
+

@@ -1,0 +1,114 @@
+name = "BASS18"
+id = "bass18"
+group = "bass"
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 21
+key-to = 47
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 181585
+end = 181582
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-to = 59
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 179100
+end = 179097
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-to = 71
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 177121
+end = 177118
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 108
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 169623
+end = 169620
+
+[[samples]]
+file = "36_2.flac"
+key = 36
+key-from = 21
+key-to = 47
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 181585
+end = 181582
+
+[[samples]]
+file = "48_2.flac"
+key = 48
+key-to = 59
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 179100
+end = 179097
+
+[[samples]]
+file = "60_2.flac"
+key = 60
+key-to = 71
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 177121
+end = 177118
+
+[[samples]]
+file = "72_2.flac"
+key = 72
+key-to = 108
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 169623
+end = 169620
+

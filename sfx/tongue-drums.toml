@@ -1,0 +1,20 @@
+name = "Tongue Drums"
+id = "tongue-drums"
+group = "sfx"
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 52
+key-to = 52
+velocity-from = 111
+level = 127
+pan = 54
+tune-coarse = 59
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 51392
+end = 51384
+

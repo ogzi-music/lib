@@ -1,0 +1,19 @@
+name = "BedofFire"
+id = "bedoffire"
+group = "sfx"
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 0
+key-to = 96
+level = 127
+tune-coarse = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 25000
+length = 20800
+end = 20767
+loop = 15316
+

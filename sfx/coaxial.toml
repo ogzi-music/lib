@@ -1,0 +1,18 @@
+name = "Coaxial"
+id = "coaxial"
+group = "sfx"
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 65471
+end = 65464
+loop = 62
+

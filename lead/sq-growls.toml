@@ -1,0 +1,65 @@
+name = "SQ_GrowlS"
+id = "sq-growls"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 61
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 32530
+
+[[samples]]
+file = "63.flac"
+key = 63
+key-from = 62
+key-to = 64
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 32435
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 65
+key-to = 67
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 32211
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 68
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 32172
+
+[[samples]]
+file = "87.flac"
+key = 87
+key-from = 86
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 31314
+

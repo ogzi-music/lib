@@ -1,0 +1,53 @@
+name = "Synthetic"
+id = "synthetic"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-from = 0
+key-to = 59
+level = 124
+tune-coarse = 52
+tune-fine = 59
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 30020
+length = 60624
+end = 60587
+loop = 21416
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 60
+key-to = 71
+level = 127
+tune-coarse = 52
+tune-fine = 59
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 30020
+length = 55736
+end = 55701
+loop = 12654
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-from = 72
+key-to = 127
+level = 127
+tune-coarse = 52
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 30007
+length = 62600
+end = 62565
+loop = 23886
+

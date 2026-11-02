@@ -1,0 +1,17 @@
+name = "HH2CL_1Q"
+id = "hh2cl-1q"
+group = "sfx"
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 29955
+end = 29952
+

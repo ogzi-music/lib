@@ -1,0 +1,19 @@
+name = "StringLayer"
+id = "stringlayer"
+group = "sfx"
+
+[[samples]]
+file = "31.flac"
+key = 31
+key-from = 0
+key-to = 53
+level = 127
+tune-coarse = 88
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 36000
+length = 98264
+end = 98231
+loop = 40917
+

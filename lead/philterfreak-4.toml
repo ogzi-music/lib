@@ -1,0 +1,44 @@
+name = "PhilterFreak"
+id = "philterfreak-4"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "51.flac"
+key = 51
+key-from = 63
+key-to = 63
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 18000
+length = 2368
+end = 2366
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 84
+key-to = 84
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 12992
+end = 12985
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 86
+key-to = 86
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 29000
+length = 16672
+end = 16666
+

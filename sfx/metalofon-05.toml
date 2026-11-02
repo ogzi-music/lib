@@ -1,0 +1,35 @@
+name = "Metalofon 05"
+id = "metalofon-05"
+group = "sfx"
+
+[[samples]]
+file = "70.flac"
+key = 70
+key-from = 0
+key-to = 117
+velocity-to = 121
+level = 127
+pan = 56
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 37128
+end = 37118
+
+[[samples]]
+file = "70_2.flac"
+key = 70
+key-from = 0
+key-to = 117
+velocity-from = 122
+level = 127
+pan = 56
+tune-fine = 55
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44123
+length = 55816
+end = 55806
+

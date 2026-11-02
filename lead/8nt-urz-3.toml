@@ -1,0 +1,71 @@
+name = "8nt Urz"
+id = "8nt-urz-3"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "34.flac"
+key = 34
+key-from = 32
+key-to = 32
+level = 116
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 24000
+length = 11752
+end = 11749
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 34
+key-to = 34
+level = 116
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 28409
+length = 16312
+
+[[samples]]
+file = "41.flac"
+key = 41
+key-from = 39
+key-to = 39
+level = 116
+tune-coarse = 63
+tune-fine = 63
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 24006
+length = 14392
+
+[[samples]]
+file = "58.flac"
+key = 58
+key-from = 56
+key-to = 56
+level = 116
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 31423
+length = 16312
+
+[[samples]]
+file = "56.flac"
+key = 56
+key-from = 72
+key-to = 127
+level = 112
+tune-fine = 57
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24014
+length = 14392
+end = 2939
+loop = 2476
+

@@ -1,0 +1,19 @@
+name = "RaveSlave"
+id = "raveslave-2"
+group = "sfx"
+
+[[samples]]
+file = "75.flac"
+key = 75
+key-from = 0
+key-to = 127
+level = 127
+tune-coarse = 59
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 17500
+length = 17680
+end = 17642
+loop = 657
+

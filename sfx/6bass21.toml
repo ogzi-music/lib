@@ -1,0 +1,35 @@
+name = "6BASS21"
+id = "6bass21"
+group = "sfx"
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 0
+key-to = 127
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 92850
+end = 92833
+loop = 22614
+
+[[samples]]
+file = "48_2.flac"
+key = 48
+key-from = 0
+key-to = 127
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 92850
+end = 92833
+loop = 22614
+

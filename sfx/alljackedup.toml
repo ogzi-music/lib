@@ -1,0 +1,19 @@
+name = "AllJackedUp!"
+id = "alljackedup"
+group = "sfx"
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 72
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 21933
+length = 1192
+end = 1162
+loop = 1048
+

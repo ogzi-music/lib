@@ -1,0 +1,44 @@
+name = "DaPhattest"
+id = "daphattest-4"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "15.flac"
+key = 15
+key-from = 39
+key-to = 39
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28409
+length = 20616
+end = 20587
+loop = 26
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 69
+key-to = 69
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24509
+length = 25024
+end = 25019
+
+[[samples]]
+file = "82.flac"
+key = 82
+key-from = 70
+key-to = 70
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 21000
+length = 8504
+

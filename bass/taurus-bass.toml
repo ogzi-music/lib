@@ -1,0 +1,483 @@
+name = "Taurus Bass"
+id = "taurus-bass"
+group = "bass"
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 21
+level = 127
+tune-fine = 36
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44131
+length = 183800
+end = 178282
+loop = 15147
+
+[[samples]]
+file = "37.flac"
+key = 37
+level = 127
+tune-fine = 38
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44135
+length = 157128
+end = 152410
+loop = 5795
+
+[[samples]]
+file = "38.flac"
+key = 38
+level = 127
+tune-fine = 41
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44127
+length = 167624
+end = 165111
+loop = 91671
+
+[[samples]]
+file = "39.flac"
+key = 39
+level = 127
+tune-fine = 42
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44115
+length = 119320
+end = 118071
+loop = 49812
+
+[[samples]]
+file = "40.flac"
+key = 40
+level = 127
+tune-fine = 44
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44119
+length = 107696
+end = 105370
+loop = 39814
+
+[[samples]]
+file = "41.flac"
+key = 41
+level = 127
+tune-fine = 46
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44122
+length = 180560
+end = 177341
+loop = 116413
+
+[[samples]]
+file = "42.flac"
+key = 42
+level = 127
+tune-fine = 48
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44125
+length = 185024
+end = 181575
+loop = 60735
+
+[[samples]]
+file = "43.flac"
+key = 43
+level = 127
+tune-fine = 49
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44114
+length = 146816
+end = 143943
+loop = 36053
+
+[[samples]]
+file = "44.flac"
+key = 44
+level = 127
+tune-fine = 51
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44117
+length = 138864
+end = 135476
+loop = 31868
+
+[[samples]]
+file = "45.flac"
+key = 45
+level = 127
+tune-fine = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44131
+length = 148672
+end = 146765
+loop = 47279
+
+[[samples]]
+file = "46.flac"
+key = 46
+level = 127
+tune-fine = 53
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44120
+length = 124104
+end = 118541
+loop = 31342
+
+[[samples]]
+file = "47.flac"
+key = 47
+level = 127
+tune-fine = 55
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44123
+length = 118912
+end = 115719
+loop = 28385
+
+[[samples]]
+file = "48.flac"
+key = 48
+level = 127
+tune-fine = 56
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44138
+length = 130664
+end = 129831
+loop = 48698
+
+[[samples]]
+file = "49.flac"
+key = 49
+level = 127
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44122
+length = 106584
+end = 105370
+loop = 25309
+
+[[samples]]
+file = "50.flac"
+key = 50
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44136
+length = 104552
+end = 102548
+loop = 27546
+
+[[samples]]
+file = "51.flac"
+key = 51
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44136
+length = 89080
+end = 86554
+loop = 16884
+
+[[samples]]
+file = "52.flac"
+key = 52
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44125
+length = 93416
+end = 91258
+loop = 29218
+
+[[samples]]
+file = "53.flac"
+key = 53
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 97576
+end = 96903
+loop = 32249
+
+[[samples]]
+file = "54.flac"
+key = 54
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44074
+length = 155240
+end = 153351
+loop = 61757
+
+[[samples]]
+file = "55.flac"
+key = 55
+level = 127
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44063
+length = 79504
+end = 75735
+loop = 16277
+
+[[samples]]
+file = "56.flac"
+key = 56
+level = 127
+tune-fine = 66
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44077
+length = 72456
+end = 71501
+loop = 12372
+
+[[samples]]
+file = "57.flac"
+key = 57
+level = 127
+tune-fine = 66
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44077
+length = 63376
+end = 61153
+loop = 8154
+
+[[samples]]
+file = "58.flac"
+key = 58
+level = 127
+tune-fine = 67
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44066
+length = 70336
+end = 69149
+loop = 17585
+
+[[samples]]
+file = "59.flac"
+key = 59
+level = 127
+tune-fine = 67
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44066
+length = 71304
+end = 70090
+loop = 22482
+
+[[samples]]
+file = "60.flac"
+key = 60
+level = 127
+tune-fine = 67
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44066
+length = 82512
+end = 81380
+loop = 35421
+
+[[samples]]
+file = "61.flac"
+key = 61
+level = 127
+tune-fine = 70
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44084
+length = 100328
+end = 98785
+loop = 55346
+
+[[samples]]
+file = "62.flac"
+key = 62
+level = 127
+tune-fine = 69
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44069
+length = 48120
+end = 47511
+loop = 7727
+
+[[samples]]
+file = "63.flac"
+key = 63
+level = 127
+tune-fine = 69
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44069
+length = 66968
+end = 65386
+loop = 27838
+
+[[samples]]
+file = "64.flac"
+key = 64
+level = 127
+tune-fine = 70
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44084
+length = 73024
+end = 71972
+loop = 35448
+
+[[samples]]
+file = "65.flac"
+key = 65
+level = 127
+tune-fine = 70
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44084
+length = 89432
+end = 87495
+loop = 34253
+
+[[samples]]
+file = "66.flac"
+key = 66
+level = 127
+tune-fine = 70
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44084
+length = 66952
+end = 66327
+loop = 17035
+
+[[samples]]
+file = "67.flac"
+key = 67
+level = 127
+tune-fine = 70
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44084
+length = 79712
+end = 79028
+loop = 32956
+
+[[samples]]
+file = "68.flac"
+key = 68
+level = 127
+tune-fine = 70
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44084
+length = 51288
+end = 50333
+loop = 20700
+
+[[samples]]
+file = "69.flac"
+key = 69
+level = 127
+tune-fine = 70
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44084
+length = 56264
+end = 55037
+loop = 27069
+
+[[samples]]
+file = "70.flac"
+key = 70
+level = 127
+tune-fine = 70
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44084
+length = 56072
+end = 55508
+loop = 28916
+
+[[samples]]
+file = "71.flac"
+key = 71
+level = 127
+tune-fine = 70
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44084
+length = 69528
+end = 68209
+loop = 30559
+
+[[samples]]
+file = "72.flac"
+key = 72
+level = 127
+tune-fine = 70
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44084
+length = 64184
+end = 63034
+loop = 27328
+

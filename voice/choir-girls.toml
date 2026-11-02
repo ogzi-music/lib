@@ -1,0 +1,123 @@
+name = "Choir Girls"
+id = "choir-girls"
+group = "voice"
+midi-program = 50
+
+[[samples]]
+file = "52.flac"
+key = 52
+key-from = 21
+key-to = 53
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31300
+length = 74680
+end = 74647
+loop = 30525
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 54
+key-to = 56
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31300
+length = 69016
+end = 68979
+loop = 27559
+
+[[samples]]
+file = "58.flac"
+key = 58
+key-from = 57
+key-to = 59
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31281
+length = 47000
+end = 46968
+loop = 14908
+
+[[samples]]
+file = "61.flac"
+key = 61
+key-from = 60
+key-to = 63
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31300
+length = 63312
+end = 63279
+loop = 27081
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 64
+key-to = 71
+level = 127
+tune-fine = 54
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31324
+length = 77248
+end = 77213
+loop = 7683
+
+[[samples]]
+file = "73.flac"
+key = 73
+key-from = 72
+key-to = 74
+level = 127
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31274
+length = 58269
+end = 58266
+loop = 32893
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 75
+key-to = 77
+level = 127
+tune-coarse = 65
+tune-fine = 46
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31315
+length = 52192
+end = 52153
+loop = 15159
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 78
+key-to = 108
+level = 127
+tune-coarse = 65
+tune-fine = 47
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31307
+length = 29192
+end = 29149
+loop = 2128
+

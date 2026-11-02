@@ -1,0 +1,106 @@
+name = "DigiMono1"
+id = "digimono1"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 87552
+
+[[samples]]
+file = "57.flac"
+key = 57
+key-to = 59
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 86272
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-to = 56
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 87552
+
+[[samples]]
+file = "51.flac"
+key = 51
+key-to = 53
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 87040
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-to = 50
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 88064
+
+[[samples]]
+file = "45.flac"
+key = 45
+key-to = 47
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 87552
+
+[[samples]]
+file = "42.flac"
+key = 42
+key-to = 44
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 88320
+
+[[samples]]
+file = "39.flac"
+key = 39
+key-from = 38
+key-to = 41
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 88064
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 0
+key-to = 37
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 87468
+

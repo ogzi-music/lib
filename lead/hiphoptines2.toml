@@ -1,0 +1,50 @@
+name = "HipHopTines2"
+id = "hiphoptines2"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "52.flac"
+key = 52
+key-from = 0
+key-to = 65
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 42193
+length = 528
+end = 501
+loop = 243
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 66
+key-to = 88
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 42193
+length = 118
+end = 115
+loop = 50
+
+[[samples]]
+file = "100.flac"
+key = 100
+key-from = 89
+key-to = 127
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 42193
+length = 25
+end = 22
+loop = 6
+

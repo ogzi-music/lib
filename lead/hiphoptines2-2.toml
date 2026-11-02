@@ -1,0 +1,111 @@
+name = "HipHopTines2"
+id = "hiphoptines2-2"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "43.flac"
+key = 43
+key-from = 0
+key-to = 51
+velocity-from = 117
+level = 127
+tune-fine = 79
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 27491
+length = 20264
+end = 20227
+loop = 19662
+
+[[samples]]
+file = "52.flac"
+key = 52
+key-to = 57
+velocity-from = 117
+level = 127
+tune-fine = 74
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 29976
+length = 9192
+end = 9165
+loop = 8796
+
+[[samples]]
+file = "58.flac"
+key = 58
+key-to = 63
+velocity-from = 117
+level = 127
+tune-fine = 69
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 29979
+length = 7864
+end = 7835
+loop = 7575
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-to = 70
+velocity-from = 117
+level = 127
+tune-fine = 71
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 29981
+length = 9192
+end = 9160
+loop = 8975
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-to = 79
+velocity-from = 117
+level = 127
+tune-fine = 66
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 29984
+length = 17944
+end = 17919
+loop = 17795
+
+[[samples]]
+file = "80.flac"
+key = 80
+key-to = 85
+velocity-from = 117
+level = 127
+tune-fine = 60
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 30012
+length = 5104
+end = 5074
+loop = 5000
+
+[[samples]]
+file = "86.flac"
+key = 86
+key-to = 127
+velocity-from = 117
+level = 127
+tune-fine = 63
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 29966
+length = 2712
+end = 2682
+loop = 2629
+

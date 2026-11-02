@@ -1,0 +1,18 @@
+name = "Atmo Fx2"
+id = "atmo-fx2"
+group = "sfx"
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 0
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 201600
+end = 200704
+loop = 4096
+

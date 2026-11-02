@@ -1,0 +1,149 @@
+name = "OB_Brassy"
+id = "ob-brassy"
+group = "brass"
+midi-program = 59
+
+[[samples]]
+file = "90.flac"
+key = 90
+key-to = 95
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 92792
+end = 92721
+loop = 48
+
+[[samples]]
+file = "96.flac"
+key = 96
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 96000
+end = 95233
+loop = 768
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-to = 89
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 92928
+end = 92161
+loop = 512
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-to = 83
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 98560
+end = 98493
+loop = 188
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 98304
+end = 96769
+loop = 512
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-to = 71
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 98816
+end = 98217
+loop = 424
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 92576
+end = 92469
+loop = 308
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-to = 59
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 91712
+end = 91549
+loop = 412
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-to = 53
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 91104
+end = 90913
+loop = 288
+
+[[samples]]
+file = "42.flac"
+key = 42
+key-to = 47
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 93440
+end = 92928
+loop = 768
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 0
+key-to = 41
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 102784
+end = 102401
+loop = 1024
+

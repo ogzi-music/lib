@@ -1,0 +1,60 @@
+name = "Section Strings"
+id = "section-strings-4"
+group = "strings"
+midi-program = 46
+
+[[samples]]
+file = "37.flac"
+key = 37
+level = 124
+pan = 54
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 139456
+end = 139423
+loop = 62113
+
+[[samples]]
+file = "39.flac"
+key = 39
+key-from = 38
+level = 124
+pan = 54
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 145904
+end = 145866
+loop = 51831
+
+[[samples]]
+file = "40.flac"
+key = 40
+key-to = 41
+level = 127
+pan = 54
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 200928
+end = 200896
+loop = 120965
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 74
+level = 120
+pan = 58
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 148976
+end = 148942
+loop = 64637
+

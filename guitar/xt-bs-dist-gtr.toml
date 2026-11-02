@@ -1,0 +1,229 @@
+name = "Xt Bs Dist Gtr"
+id = "xt-bs-dist-gtr"
+group = "guitar"
+
+[[samples]]
+file = "56.flac"
+key = 56
+key-to = 60
+level = 127
+tune-coarse = 61
+tune-fine = 67
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44066
+length = 326494
+end = 275960
+loop = 275780
+
+[[samples]]
+file = "42.flac"
+key = 42
+key-from = 0
+key-to = 43
+level = 127
+tune-fine = 68
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44080
+length = 355844
+end = 355841
+loop = 353933
+
+[[samples]]
+file = "45.flac"
+key = 45
+key-from = 44
+key-to = 47
+level = 127
+tune-fine = 66
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44077
+length = 417796
+end = 417793
+loop = 416590
+
+[[samples]]
+file = "49.flac"
+key = 49
+key-from = 48
+key-to = 50
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44074
+length = 422348
+end = 422345
+loop = 414720
+
+[[samples]]
+file = "52.flac"
+key = 52
+key-from = 51
+key-to = 55
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 309764
+end = 309761
+loop = 308692
+
+[[samples]]
+file = "61.flac"
+key = 61
+key-to = 62
+level = 127
+tune-fine = 66
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44077
+length = 201732
+end = 201729
+loop = 200136
+
+[[samples]]
+file = "63.flac"
+key = 63
+key-to = 64
+level = 127
+tune-fine = 67
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44092
+length = 240644
+end = 240641
+loop = 239220
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 65
+key-to = 67
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44125
+length = 225402
+end = 225399
+loop = 225280
+
+[[samples]]
+file = "68.flac"
+key = 68
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44111
+length = 315552
+end = 204792
+loop = 204685
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-to = 71
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44125
+length = 151300
+end = 151297
+loop = 150296
+
+[[samples]]
+file = "73.flac"
+key = 73
+key-from = 72
+key-to = 74
+level = 127
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44063
+length = 121604
+end = 121601
+loop = 120409
+
+[[samples]]
+file = "75.flac"
+key = 75
+level = 127
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44088
+length = 97028
+end = 97025
+loop = 95396
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-to = 78
+level = 127
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44063
+length = 125188
+end = 125185
+loop = 124382
+
+[[samples]]
+file = "80.flac"
+key = 80
+key-from = 79
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44074
+length = 141306
+end = 141303
+loop = 141250
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-to = 83
+level = 127
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44122
+length = 170500
+end = 170497
+loop = 169949
+
+[[samples]]
+file = "85.flac"
+key = 85
+key-from = 84
+key-to = 127
+level = 127
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44063
+length = 110084
+end = 110081
+loop = 108808
+

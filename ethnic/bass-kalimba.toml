@@ -1,0 +1,211 @@
+name = "Bass Kalimba"
+id = "bass-kalimba"
+group = "ethnic"
+midi-program = 106
+
+[[samples]]
+file = "41.flac"
+key = 41
+key-from = 0
+key-to = 46
+velocity-to = 120
+level = 127
+tune-coarse = 65
+tune-fine = 55
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44123
+length = 201232
+end = 201228
+
+[[samples]]
+file = "41_2.flac"
+key = 41
+key-from = 0
+key-to = 46
+velocity-from = 121
+level = 127
+tune-coarse = 65
+tune-fine = 55
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44123
+length = 211448
+end = 211442
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 47
+key-to = 50
+velocity-to = 120
+level = 127
+tune-coarse = 65
+tune-fine = 47
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44111
+length = 109864
+end = 109860
+
+[[samples]]
+file = "48_2.flac"
+key = 48
+key-from = 47
+key-to = 50
+velocity-from = 121
+level = 127
+tune-coarse = 65
+tune-fine = 47
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44111
+length = 172200
+end = 172192
+
+[[samples]]
+file = "51.flac"
+key = 51
+velocity-to = 120
+level = 127
+tune-fine = 57
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44127
+length = 156784
+end = 156774
+
+[[samples]]
+file = "51_2.flac"
+key = 51
+velocity-from = 121
+level = 127
+tune-fine = 57
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44127
+length = 153352
+end = 153342
+
+[[samples]]
+file = "52.flac"
+key = 52
+key-to = 54
+velocity-to = 120
+level = 127
+tune-fine = 90
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44090
+length = 176776
+end = 176768
+
+[[samples]]
+file = "52_2.flac"
+key = 52
+key-to = 54
+velocity-from = 121
+level = 127
+tune-fine = 90
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44090
+length = 176840
+end = 176836
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-to = 62
+velocity-to = 120
+level = 127
+tune-coarse = 65
+tune-fine = 69
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44069
+length = 138608
+end = 138604
+
+[[samples]]
+file = "55_2.flac"
+key = 55
+key-to = 62
+velocity-from = 121
+level = 127
+tune-coarse = 65
+tune-fine = 69
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44069
+length = 130424
+end = 130418
+
+[[samples]]
+file = "63.flac"
+key = 63
+key-to = 67
+velocity-to = 120
+level = 127
+tune-coarse = 65
+tune-fine = 56
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44112
+length = 124168
+end = 124158
+
+[[samples]]
+file = "63_2.flac"
+key = 63
+key-to = 67
+velocity-from = 121
+level = 127
+tune-coarse = 65
+tune-fine = 56
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44112
+length = 80184
+end = 80178
+
+[[samples]]
+file = "68.flac"
+key = 68
+key-to = 84
+velocity-to = 120
+level = 127
+tune-fine = 88
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44061
+length = 109064
+end = 109054
+
+[[samples]]
+file = "68_2.flac"
+key = 68
+key-to = 84
+velocity-from = 121
+level = 127
+tune-fine = 88
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44061
+length = 95816
+end = 95814
+

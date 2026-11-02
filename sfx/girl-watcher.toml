@@ -1,0 +1,17 @@
+name = "Girl Watcher"
+id = "girl-watcher"
+group = "sfx"
+
+[[samples]]
+file = "37.flac"
+key = 37
+key-from = 0
+key-to = 1
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 38958
+length = 1392
+end = 1389
+

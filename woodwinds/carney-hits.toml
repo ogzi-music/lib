@@ -1,0 +1,72 @@
+name = "Carney Hits"
+id = "carney-hits"
+group = "woodwinds"
+midi-program = 71
+
+[[samples]]
+file = "43.flac"
+key = 43
+key-from = 0
+key-to = 47
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 23002
+length = 15368
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 48
+key-to = 59
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24509
+length = 12400
+end = 12397
+
+[[samples]]
+file = "67_2.flac"
+key = 67
+key-from = 60
+key-to = 71
+round-robin = 2
+level = 127
+tune-coarse = 69
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24509
+length = 37168
+end = 37166
+
+[[samples]]
+file = "77.flac"
+key = 77
+key-from = 72
+key-to = 83
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24000
+length = 28824
+end = 28817
+
+[[samples]]
+file = "91.flac"
+key = 91
+key-from = 84
+key-to = 127
+level = 127
+tune-coarse = 70
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24000
+length = 16976
+end = 16969
+

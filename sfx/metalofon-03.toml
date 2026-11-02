@@ -1,0 +1,34 @@
+name = "Metalofon 03"
+id = "metalofon-03"
+group = "sfx"
+
+[[samples]]
+file = "77.flac"
+key = 77
+key-from = 0
+key-to = 117
+velocity-to = 121
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 52616
+end = 52606
+
+[[samples]]
+file = "77_2.flac"
+key = 77
+key-from = 0
+key-to = 117
+velocity-from = 122
+level = 127
+tune-coarse = 65
+tune-fine = 45
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44107
+length = 331280
+end = 331276
+

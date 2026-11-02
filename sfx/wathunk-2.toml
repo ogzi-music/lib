@@ -1,0 +1,17 @@
+name = "WaThunk"
+id = "wathunk-2"
+group = "sfx"
+
+[[samples]]
+file = "90.flac"
+key = 90
+key-from = 24
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 26016
+length = 3592
+end = 3590
+

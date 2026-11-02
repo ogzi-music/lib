@@ -1,0 +1,18 @@
+name = "Spirit Call"
+id = "spirit-call-3"
+group = "sfx"
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-from = 0
+key-to = 103
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 38072
+length = 5464
+end = 5430
+loop = 4497
+

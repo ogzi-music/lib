@@ -1,0 +1,19 @@
+name = "Sirren"
+id = "sirren"
+group = "sfx"
+
+[[samples]]
+file = "63.flac"
+key = 63
+key-from = 36
+key-to = 96
+level = 127
+tune-fine = 48
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48027
+length = 218544
+end = 218510
+loop = 3988
+

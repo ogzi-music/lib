@@ -1,0 +1,109 @@
+name = "Renaissance Pizzicato"
+id = "strings-pizzicato-2"
+group = "strings"
+midi-program = 43
+
+[[samples]]
+file = "31.flac"
+key = 31
+key-from = 0
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 119432
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 33
+key-to = 37
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 119500
+loop = 117000
+
+[[samples]]
+file = "41.flac"
+key = 41
+key-from = 38
+key-to = 44
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 119370
+loop = 117392
+
+[[samples]]
+file = "86.flac"
+key = 86
+key-from = 83
+key-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 37004
+loop = 35148
+
+[[samples]]
+file = "51.flac"
+key = 51
+key-from = 45
+key-to = 52
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 119183
+loop = 117276
+
+[[samples]]
+file = "56.flac"
+key = 56
+key-from = 53
+key-to = 57
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 119121
+loop = 117624
+
+[[samples]]
+file = "61.flac"
+key = 61
+key-from = 58
+key-to = 62
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 68904
+loop = 67048
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 63
+key-to = 67
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 57754
+start = 1
+loop = 55894
+

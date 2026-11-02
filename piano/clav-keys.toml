@@ -1,0 +1,57 @@
+name = "Clav Keys"
+id = "clav-keys"
+group = "piano"
+midi-program = 7
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 0
+key-to = 55
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 154241
+end = 154238
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 56
+key-to = 67
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 154265
+end = 154262
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 68
+key-to = 79
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 154277
+end = 154274
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 80
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 154326
+end = 154323
+

@@ -1,0 +1,141 @@
+name = "Ney2"
+id = "ney2"
+group = "woodwinds"
+midi-program = 71
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 66150
+end = 65969
+loop = 52970
+
+[[samples]]
+file = "70.flac"
+key = 70
+key-to = 71
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 30870
+end = 30227
+loop = 10867
+
+[[samples]]
+file = "69.flac"
+key = 69
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 133189
+end = 132348
+loop = 97088
+
+[[samples]]
+file = "68.flac"
+key = 68
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 52241
+end = 51920
+loop = 30474
+
+[[samples]]
+file = "67.flac"
+key = 67
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 61122
+end = 60267
+loop = 38804
+
+[[samples]]
+file = "66.flac"
+key = 66
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 60452
+end = 58936
+loop = 37648
+
+[[samples]]
+file = "65.flac"
+key = 65
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 51798
+end = 51097
+loop = 28349
+
+[[samples]]
+file = "64.flac"
+key = 64
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 209529
+end = 208172
+loop = 140836
+
+[[samples]]
+file = "63.flac"
+key = 63
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 100537
+end = 98829
+loop = 57386
+
+[[samples]]
+file = "62.flac"
+key = 62
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 99136
+end = 97147
+loop = 66664
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 61
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 124402
+end = 123504
+loop = 84718
+

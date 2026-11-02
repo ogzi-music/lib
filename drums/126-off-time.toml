@@ -1,0 +1,17 @@
+name = "126 Off-Time"
+id = "126-off-time"
+group = "drums"
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 61
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 336001
+

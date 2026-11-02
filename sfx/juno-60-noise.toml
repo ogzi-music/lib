@@ -1,0 +1,18 @@
+name = "Juno 60 Noise"
+id = "juno-60-noise"
+group = "sfx"
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 96
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 277376
+end = 277344
+loop = 71472
+

@@ -1,0 +1,123 @@
+name = "SYNTH13"
+id = "synth13"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "24.flac"
+key = 24
+key-from = 21
+key-to = 35
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 73070
+end = 73057
+loop = 36578
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-to = 47
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 115015
+end = 114993
+loop = 50316
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-to = 59
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 114935
+end = 114913
+loop = 40952
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-to = 108
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 86307
+end = 86289
+loop = 50437
+
+[[samples]]
+file = "24_2.flac"
+key = 24
+key-from = 21
+key-to = 35
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 73070
+end = 73057
+loop = 36578
+
+[[samples]]
+file = "36_2.flac"
+key = 36
+key-to = 47
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 115015
+end = 114993
+loop = 50316
+
+[[samples]]
+file = "48_2.flac"
+key = 48
+key-to = 59
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 114935
+end = 114913
+loop = 40952
+
+[[samples]]
+file = "60_2.flac"
+key = 60
+key-to = 108
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 86307
+end = 86289
+loop = 50437
+

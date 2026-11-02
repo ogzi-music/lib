@@ -1,0 +1,17 @@
+name = "Obsession"
+id = "obsession"
+group = "sfx"
+
+[[samples]]
+file = "27.flac"
+key = 27
+key-from = 39
+key-to = 39
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 30537
+length = 10424
+end = 10421
+

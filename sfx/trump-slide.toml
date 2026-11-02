@@ -1,0 +1,19 @@
+name = "Trump Slide"
+id = "trump-slide"
+group = "sfx"
+
+[[samples]]
+file = "74.flac"
+key = 74
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 72
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 23979
+length = 22096
+end = 22063
+loop = 16512
+

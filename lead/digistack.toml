@@ -1,0 +1,50 @@
+name = "Digistack"
+id = "digistack"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 66
+level = 127
+tune-fine = 70
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 63367
+end = 63360
+loop = 29952
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 67
+key-to = 81
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 67679
+start = 1
+end = 67672
+loop = 39476
+
+[[samples]]
+file = "90.flac"
+key = 90
+key-from = 82
+key-to = 127
+level = 127
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 65825
+end = 65817
+loop = 30454
+

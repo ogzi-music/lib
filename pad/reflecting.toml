@@ -1,0 +1,33 @@
+name = "Reflecting"
+id = "reflecting"
+group = "pad"
+midi-program = 86
+
+[[samples]]
+file = "58.flac"
+key = 58
+key-from = 55
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 130432
+end = 130180
+loop = 460
+
+[[samples]]
+file = "49.flac"
+key = 49
+key-from = 0
+key-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 139004
+end = 135832
+loop = 664
+

@@ -1,0 +1,49 @@
+name = "Voicyst"
+id = "voicyst-2"
+group = "voice"
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 0
+key-to = 66
+level = 115
+tune-coarse = 76
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24000
+length = 22224
+end = 22219
+
+[[samples]]
+file = "73.flac"
+key = 73
+key-from = 72
+key-to = 79
+level = 127
+pan = 127
+tune-fine = 59
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28019
+length = 49240
+end = 49204
+loop = 37314
+
+[[samples]]
+file = "82.flac"
+key = 82
+key-from = 80
+key-to = 96
+level = 124
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28000
+length = 63248
+end = 63212
+loop = 39163
+

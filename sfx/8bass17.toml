@@ -1,0 +1,33 @@
+name = "8BASS17"
+id = "8bass17"
+group = "sfx"
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 0
+key-to = 127
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 131687
+end = 131684
+
+[[samples]]
+file = "48_2.flac"
+key = 48
+key-from = 0
+key-to = 127
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 131687
+end = 131684
+

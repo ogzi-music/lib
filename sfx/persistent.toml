@@ -1,0 +1,19 @@
+name = "Persistent"
+id = "persistent"
+group = "sfx"
+
+[[samples]]
+file = "52.flac"
+key = 52
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 79
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44085
+length = 22088
+end = 22055
+loop = 20977
+

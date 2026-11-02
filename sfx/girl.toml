@@ -1,0 +1,19 @@
+name = "Girl"
+id = "girl"
+group = "sfx"
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 83
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 76544
+end = 75904
+loop = 21888
+

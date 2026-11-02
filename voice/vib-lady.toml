@@ -1,0 +1,19 @@
+name = "Vib Lady"
+id = "vib-lady"
+group = "voice"
+midi-program = 52
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 21
+key-to = 108
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 29800
+length = 146696
+end = 146657
+loop = 16527
+

@@ -1,0 +1,68 @@
+name = "SOOTCaSE 300"
+id = "sootcase-300"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "40.flac"
+key = 40
+key-from = 0
+key-to = 46
+level = 127
+tune-coarse = 76
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28000
+length = 51528
+end = 51492
+loop = 50813
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 47
+key-to = 54
+level = 127
+tune-coarse = 76
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 30037
+length = 42190
+end = 42187
+loop = 41728
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 55
+key-to = 63
+level = 127
+tune-coarse = 76
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 30100
+length = 40179
+end = 40176
+loop = 39946
+
+[[samples]]
+file = "68.flac"
+key = 68
+key-from = 64
+key-to = 127
+level = 127
+tune-coarse = 76
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 30123
+length = 26323
+end = 26320
+loop = 26175
+

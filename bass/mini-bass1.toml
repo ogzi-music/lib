@@ -1,0 +1,88 @@
+name = "Mini Bass1"
+id = "mini-bass1"
+group = "bass"
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-from = 52
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 16470
+end = 16361
+loop = 7803
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 46
+key-to = 51
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 17780
+end = 17701
+loop = 6615
+
+[[samples]]
+file = "42.flac"
+key = 42
+key-from = 40
+key-to = 45
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 18327
+end = 18194
+loop = 7257
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 33
+key-to = 39
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 20301
+end = 20125
+loop = 8710
+
+[[samples]]
+file = "30.flac"
+key = 30
+key-from = 29
+key-to = 32
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 23552
+end = 23373
+loop = 8192
+
+[[samples]]
+file = "27.flac"
+key = 27
+key-from = 0
+key-to = 28
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 22272
+end = 21639
+loop = 10368
+

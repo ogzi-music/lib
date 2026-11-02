@@ -1,0 +1,173 @@
+name = "Elektro 1"
+id = "elektro-1"
+group = "guitar"
+
+[[samples]]
+file = "91.flac"
+key = 91
+key-to = 127
+level = 127
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 36313
+end = 36310
+loop = 36254
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-to = 80
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 47223
+loop = 46323
+
+[[samples]]
+file = "89.flac"
+key = 89
+key-to = 90
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 55892
+loop = 54502
+
+[[samples]]
+file = "88.flac"
+key = 88
+level = 127
+tune-fine = 68
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 52219
+loop = 51346
+
+[[samples]]
+file = "86.flac"
+key = 86
+key-to = 87
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 37020
+loop = 36569
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-to = 85
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 50117
+loop = 49527
+
+[[samples]]
+file = "82.flac"
+key = 82
+key-to = 83
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 31356
+loop = 30788
+
+[[samples]]
+file = "81.flac"
+key = 81
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 47046
+loop = 46744
+
+[[samples]]
+file = "77.flac"
+key = 77
+key-to = 78
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 56465
+loop = 54694
+
+[[samples]]
+file = "75.flac"
+key = 75
+key-to = 76
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 35334
+loop = 35050
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 74
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 47049
+loop = 46374
+
+[[samples]]
+file = "70.flac"
+key = 70
+key-to = 71
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 38102
+loop = 37343
+
+[[samples]]
+file = "69.flac"
+key = 69
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 39789
+loop = 39387
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 0
+key-to = 68
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 43674
+loop = 42772
+

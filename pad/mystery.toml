@@ -1,0 +1,51 @@
+name = "Mystery"
+id = "mystery"
+group = "pad"
+midi-program = 86
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 0
+key-to = 73
+level = 127
+tune-fine = 58
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 69983
+end = 69976
+loop = 72
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 74
+key-to = 81
+level = 127
+tune-fine = 56
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 70455
+start = 1
+end = 70448
+loop = 36
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 82
+key-to = 127
+level = 127
+tune-fine = 59
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 47199
+end = 47192
+loop = 10328
+

@@ -1,0 +1,17 @@
+name = "Dissed Hit"
+id = "dissed-hit"
+group = "sfx"
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 26016
+length = 3952
+end = 3950
+

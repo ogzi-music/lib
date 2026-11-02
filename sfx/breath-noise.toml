@@ -1,0 +1,20 @@
+name = "Breath Noise"
+id = "breath-noise"
+group = "sfx"
+midi-program = 119
+
+[[samples]]
+file = "68.flac"
+key = 68
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 54298
+end = 54294
+loop = 20594
+

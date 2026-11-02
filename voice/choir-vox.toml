@@ -1,0 +1,20 @@
+name = "Choir Vox"
+id = "choir-vox"
+group = "voice"
+midi-program = 50
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 36
+key-to = 96
+level = 127
+tune-fine = 71
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 47970
+length = 119152
+end = 119114
+loop = 2
+

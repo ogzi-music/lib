@@ -1,0 +1,19 @@
+name = "Biggg"
+id = "biggg-4"
+group = "sfx"
+
+[[samples]]
+file = "83.flac"
+key = 83
+key-from = 0
+key-to = 127
+level = 127
+tune-coarse = 63
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24921
+length = 14176
+end = 14174
+

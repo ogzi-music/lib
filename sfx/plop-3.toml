@@ -1,0 +1,18 @@
+name = "Plop"
+id = "plop-3"
+group = "sfx"
+
+[[samples]]
+file = "41.flac"
+key = 41
+key-from = 21
+key-to = 108
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 31250
+length = 33992
+end = 33986
+

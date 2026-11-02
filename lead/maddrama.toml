@@ -1,0 +1,33 @@
+name = "MadDramA"
+id = "maddrama"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 21
+key-to = 60
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24995
+length = 2760
+end = 2728
+loop = 1964
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 61
+key-to = 108
+level = 117
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24986
+length = 600
+end = 572
+loop = 379
+

@@ -1,0 +1,47 @@
+name = "ProphetLine"
+id = "prophetline"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "51.flac"
+key = 51
+key-from = 0
+key-to = 56
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 30000
+length = 49720
+end = 49687
+loop = 24334
+
+[[samples]]
+file = "63.flac"
+key = 63
+key-from = 57
+key-to = 67
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 30000
+length = 41104
+end = 41070
+loop = 24073
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 68
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 30000
+length = 47152
+end = 47115
+loop = 28034
+

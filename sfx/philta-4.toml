@@ -1,0 +1,18 @@
+name = "Philta"
+id = "philta-4"
+group = "sfx"
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 71
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 30518
+length = 7128
+end = 7125
+

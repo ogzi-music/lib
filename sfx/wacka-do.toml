@@ -1,0 +1,17 @@
+name = "Wacka Do"
+id = "wacka-do"
+group = "sfx"
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24000
+length = 12760
+end = 12757
+

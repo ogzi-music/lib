@@ -1,0 +1,31 @@
+name = "WideOne"
+id = "wideone-6"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "24.flac"
+key = 24
+key-from = 0
+key-to = 0
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24000
+length = 1560
+end = 1557
+
+[[samples]]
+file = "96.flac"
+key = 96
+key-from = 127
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24000
+length = 9920
+end = 9916
+

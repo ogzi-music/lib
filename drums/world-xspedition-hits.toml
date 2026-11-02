@@ -1,0 +1,16 @@
+name = "World Xspedition Hits"
+id = "world-xspedition-hits"
+group = "drums"
+
+[[samples]]
+file = "41_surdo-drum-082.flac"
+key = 41
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 27778
+length = 33376
+end = 33374
+

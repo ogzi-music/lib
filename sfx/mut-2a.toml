@@ -1,0 +1,18 @@
+name = "MUT#2A"
+id = "mut-2a"
+group = "sfx"
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-from = 0
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 1367382
+end = 1357249
+loop = 14989
+

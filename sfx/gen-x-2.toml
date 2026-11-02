@@ -1,0 +1,20 @@
+name = "Gen X"
+id = "gen-x-2"
+group = "sfx"
+
+[[samples]]
+file = "75.flac"
+key = 75
+key-from = 0
+key-to = 127
+level = 127
+tune-coarse = 78
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31423
+length = 29160
+start = 4587
+end = 29126
+loop = 12710
+

@@ -1,0 +1,17 @@
+name = "Glo BabieeS"
+id = "glo-babiees"
+group = "sfx"
+
+[[samples]]
+file = "34.flac"
+key = 34
+key-from = 27
+key-to = 27
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24000
+length = 7424
+end = 7420
+

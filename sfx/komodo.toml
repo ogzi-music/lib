@@ -1,0 +1,19 @@
+name = "Komodo"
+id = "komodo"
+group = "sfx"
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 131455
+start = 1
+end = 131448
+loop = 476
+

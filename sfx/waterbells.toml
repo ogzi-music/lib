@@ -1,0 +1,19 @@
+name = "Waterbells"
+id = "waterbells"
+group = "sfx"
+
+[[samples]]
+file = "96.flac"
+key = 96
+key-from = 21
+key-to = 108
+level = 127
+pan = 54
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 41667
+length = 65016
+end = 64972
+loop = 11
+

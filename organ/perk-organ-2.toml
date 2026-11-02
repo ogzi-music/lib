@@ -1,0 +1,61 @@
+name = "Perk Organ"
+id = "perk-organ-2"
+group = "organ"
+midi-program = 14
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 0
+key-to = 47
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24000
+length = 57840
+end = 57802
+loop = 11347
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 48
+key-to = 59
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24000
+length = 51312
+end = 51276
+loop = 14277
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 60
+key-to = 71
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24000
+length = 32208
+end = 32175
+loop = 13555
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 115
+level = 127
+tune-coarse = 76
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24000
+length = 28728
+end = 28695
+loop = 14512
+

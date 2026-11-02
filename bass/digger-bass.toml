@@ -1,0 +1,89 @@
+name = "Digger Bass"
+id = "digger-bass"
+group = "bass"
+
+[[samples]]
+file = "42.flac"
+key = 42
+key-from = 0
+key-to = 50
+level = 127
+tune-fine = 72
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44061
+length = 50216
+end = 50177
+loop = 49216
+
+[[samples]]
+file = "51.flac"
+key = 51
+key-to = 56
+level = 127
+tune-fine = 68
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44080
+length = 40008
+end = 39976
+loop = 39407
+
+[[samples]]
+file = "57.flac"
+key = 57
+key-to = 62
+level = 127
+tune-fine = 69
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44069
+length = 37112
+end = 37089
+loop = 36684
+
+[[samples]]
+file = "63.flac"
+key = 63
+key-to = 68
+level = 127
+tune-fine = 72
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44061
+length = 36888
+end = 36855
+loop = 36568
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-to = 74
+level = 127
+tune-fine = 56
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44138
+length = 46376
+end = 46341
+loop = 46139
+
+[[samples]]
+file = "75.flac"
+key = 75
+key-to = 108
+level = 127
+tune-fine = 68
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44080
+length = 30576
+end = 30553
+loop = 30409
+

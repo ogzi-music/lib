@@ -1,0 +1,218 @@
+name = "VR Piano 21"
+id = "vr-piano-21"
+group = "piano"
+midi-program = 0
+
+[[samples]]
+file = "24.flac"
+key = 24
+key-from = 0
+key-to = 25
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 357113
+start = 1
+end = 357110
+loop = 355660
+
+[[samples]]
+file = "29.flac"
+key = 29
+key-from = 26
+key-to = 30
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 420301
+end = 420298
+loop = 419198
+
+[[samples]]
+file = "35.flac"
+key = 35
+key-from = 31
+key-to = 34
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 690303
+end = 690300
+loop = 534600
+
+[[samples]]
+file = "40.flac"
+key = 40
+key-from = 35
+key-to = 41
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 385232
+start = 1
+end = 385229
+loop = 384066
+
+[[samples]]
+file = "45.flac"
+key = 45
+key-from = 42
+key-to = 46
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 473869
+end = 473866
+loop = 473428
+
+[[samples]]
+file = "50.flac"
+key = 50
+key-from = 47
+key-to = 51
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 356661
+end = 356658
+loop = 355358
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 52
+key-to = 56
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 479908
+start = 1
+end = 479905
+loop = 477466
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 57
+key-to = 61
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 455601
+end = 455598
+loop = 296868
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-from = 62
+key-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 471523
+end = 471520
+loop = 287964
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 67
+key-to = 74
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 501933
+end = 501930
+loop = 324480
+
+[[samples]]
+file = "107.flac"
+key = 107
+key-from = 104
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 121075
+end = 121072
+loop = 117782
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 75
+key-to = 90
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 298767
+end = 298764
+loop = 195316
+
+[[samples]]
+file = "101.flac"
+key = 101
+key-from = 98
+key-to = 103
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 165156
+start = 1
+end = 165153
+loop = 162374
+
+[[samples]]
+file = "91.flac"
+key = 91
+key-to = 92
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 250227
+end = 250224
+loop = 131040
+
+[[samples]]
+file = "96.flac"
+key = 96
+key-from = 93
+key-to = 97
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 207938
+end = 207935
+loop = 206570
+

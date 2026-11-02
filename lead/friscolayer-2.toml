@@ -1,0 +1,79 @@
+name = "FriscoLayer"
+id = "friscolayer-2"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "27.flac"
+key = 27
+key-from = 39
+key-to = 39
+level = 123
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 25000
+length = 33656
+end = 33075
+loop = 6599
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 54
+key-to = 54
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 34000
+length = 11432
+end = 11427
+
+[[samples]]
+file = "65.flac"
+key = 65
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 4240
+end = 4236
+
+[[samples]]
+file = "67.flac"
+key = 67
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 26902
+length = 12992
+end = 12988
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 69
+key-to = 69
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 26016
+length = 8184
+
+[[samples]]
+file = "82.flac"
+key = 82
+key-from = 70
+key-to = 70
+level = 124
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 31000
+length = 4544
+end = 4542
+

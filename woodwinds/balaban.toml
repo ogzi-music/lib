@@ -1,0 +1,133 @@
+name = "Balaban"
+id = "balaban"
+group = "woodwinds"
+midi-program = 71
+
+[[samples]]
+file = "86.flac"
+key = 86
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 52877
+loop = 30033
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-to = 85
+level = 127
+tune-fine = 66
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 55099
+loop = 38435
+
+[[samples]]
+file = "83.flac"
+key = 83
+level = 127
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 53598
+loop = 37216
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-to = 82
+level = 127
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 55974
+loop = 40809
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-to = 80
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 61768
+loop = 46134
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-from = 77
+level = 127
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 60935
+loop = 39013
+
+[[samples]]
+file = "76.flac"
+key = 76
+level = 127
+tune-fine = 61
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 61331
+loop = 44881
+
+[[samples]]
+file = "74.flac"
+key = 74
+key-to = 75
+level = 127
+tune-fine = 59
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 59634
+end = 59631
+loop = 44545
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 73
+level = 127
+tune-fine = 61
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 66942
+loop = 53005
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 0
+level = 127
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 56572
+end = 56569
+loop = 47341
+

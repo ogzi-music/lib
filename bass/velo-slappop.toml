@@ -1,0 +1,119 @@
+name = "Velo SlapPop"
+id = "velo-slappop"
+group = "bass"
+
+[[samples]]
+file = "42.flac"
+key = 42
+key-from = 0
+key-to = 43
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31007
+length = 35168
+end = 35132
+loop = 34461
+
+[[samples]]
+file = "46.flac"
+key = 46
+key-from = 44
+key-to = 47
+level = 127
+tune-fine = 69
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 30978
+length = 36340
+end = 36337
+loop = 35805
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-to = 50
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31000
+length = 32336
+end = 31805
+loop = 31329
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-from = 51
+key-to = 57
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31007
+length = 18144
+end = 18121
+loop = 17784
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 58
+key-to = 62
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31000
+length = 20470
+end = 20467
+loop = 20228
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 63
+key-to = 68
+level = 127
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 30992
+length = 16912
+end = 16889
+loop = 16720
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 69
+key-to = 74
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31000
+length = 6896
+end = 6872
+loop = 6633
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-from = 75
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31000
+length = 19696
+end = 19672
+loop = 19586
+

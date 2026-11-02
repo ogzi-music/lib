@@ -1,0 +1,21 @@
+name = "Voxpad"
+id = "voxpad"
+group = "pad"
+midi-program = 86
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 127
+level = 127
+tune-coarse = 63
+tune-fine = 57
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 32000
+length = 19452
+end = 19265
+loop = 276
+

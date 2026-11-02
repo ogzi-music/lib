@@ -1,0 +1,62 @@
+name = "It Too"
+id = "it-too"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 0
+key-to = 63
+level = 127
+tune-fine = 79
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44085
+length = 9800
+end = 9782
+loop = 8875
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-to = 69
+level = 127
+tune-fine = 74
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44064
+length = 7192
+end = 7160
+loop = 6623
+
+[[samples]]
+file = "70.flac"
+key = 70
+key-to = 75
+level = 127
+tune-fine = 69
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44069
+length = 7672
+end = 7647
+loop = 7265
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-to = 127
+level = 127
+tune-fine = 71
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44072
+length = 12680
+end = 12657
+loop = 12386
+

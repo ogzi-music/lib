@@ -1,0 +1,28 @@
+name = "The Wiz"
+id = "the-wiz-5"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "39.flac"
+key = 39
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 18000
+length = 2368
+end = 2366
+
+[[samples]]
+file = "57.flac"
+key = 57
+key-from = 69
+key-to = 69
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 32930
+length = 3088
+

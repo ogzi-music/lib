@@ -1,0 +1,106 @@
+name = "K5 St Fng 2DPrf2"
+id = "k5-st-fng-2dprf2-3"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 0
+level = 127
+tune-fine = 61
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44107
+length = 658568
+end = 620928
+loop = 616531
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 70
+key-to = 72
+level = 127
+tune-fine = 72
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44087
+length = 244723
+end = 244720
+loop = 243644
+
+[[samples]]
+file = "74.flac"
+key = 74
+key-from = 73
+key-to = 75
+level = 127
+tune-fine = 54
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44109
+length = 542845
+end = 542842
+loop = 540460
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-to = 77
+level = 127
+tune-fine = 59
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44130
+length = 635310
+end = 635307
+loop = 632374
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 78
+key-to = 80
+level = 127
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44088
+length = 575773
+end = 575770
+loop = 573966
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-to = 84
+level = 127
+tune-fine = 61
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44107
+length = 689609
+end = 689606
+loop = 687008
+
+[[samples]]
+file = "86.flac"
+key = 86
+key-from = 85
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44074
+length = 149152
+end = 149149
+loop = 148699
+

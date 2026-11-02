@@ -1,0 +1,426 @@
+name = "5 Violas Pizz"
+id = "5-violas-pizz"
+group = "strings"
+midi-program = 46
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 24
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 243936
+end = 243934
+
+[[samples]]
+file = "49.flac"
+key = 49
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 130568
+end = 130558
+
+[[samples]]
+file = "50.flac"
+key = 50
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 156168
+end = 156158
+
+[[samples]]
+file = "51.flac"
+key = 51
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 133640
+end = 133630
+
+[[samples]]
+file = "52.flac"
+key = 52
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 172552
+end = 172542
+
+[[samples]]
+file = "53.flac"
+key = 53
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 134664
+end = 134654
+
+[[samples]]
+file = "54.flac"
+key = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 139784
+end = 139774
+
+[[samples]]
+file = "55.flac"
+key = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 336392
+end = 336382
+
+[[samples]]
+file = "56.flac"
+key = 56
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 176648
+end = 176638
+
+[[samples]]
+file = "57.flac"
+key = 57
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 136712
+end = 136702
+
+[[samples]]
+file = "58.flac"
+key = 58
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 166408
+end = 166398
+
+[[samples]]
+file = "59.flac"
+key = 59
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 146952
+end = 146942
+
+[[samples]]
+file = "60.flac"
+key = 60
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 172552
+end = 172542
+
+[[samples]]
+file = "61.flac"
+key = 61
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 140808
+end = 140798
+
+[[samples]]
+file = "62.flac"
+key = 62
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 299528
+end = 299518
+
+[[samples]]
+file = "63.flac"
+key = 63
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 176648
+end = 176638
+
+[[samples]]
+file = "64.flac"
+key = 64
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 130568
+end = 130558
+
+[[samples]]
+file = "65.flac"
+key = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 145928
+end = 145918
+
+[[samples]]
+file = "66.flac"
+key = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 160264
+end = 160254
+
+[[samples]]
+file = "67.flac"
+key = 67
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 102920
+end = 102910
+
+[[samples]]
+file = "68.flac"
+key = 68
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 131592
+end = 131582
+
+[[samples]]
+file = "69.flac"
+key = 69
+level = 127
+tune-fine = 54
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48038
+length = 132864
+end = 132862
+
+[[samples]]
+file = "70.flac"
+key = 70
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 139328
+end = 139324
+
+[[samples]]
+file = "71.flac"
+key = 71
+level = 127
+tune-fine = 76
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 47965
+length = 168968
+end = 168958
+
+[[samples]]
+file = "72.flac"
+key = 72
+level = 124
+tune-fine = 67
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 47963
+length = 159712
+end = 159708
+
+[[samples]]
+file = "73.flac"
+key = 73
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 210888
+end = 210878
+
+[[samples]]
+file = "74.flac"
+key = 74
+level = 127
+tune-fine = 82
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 47975
+length = 140784
+end = 140776
+
+[[samples]]
+file = "75.flac"
+key = 75
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 80376
+end = 80370
+
+[[samples]]
+file = "76.flac"
+key = 76
+level = 127
+tune-fine = 75
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 47977
+length = 174768
+end = 174764
+
+[[samples]]
+file = "77.flac"
+key = 77
+level = 127
+tune-fine = 79
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 47984
+length = 138976
+end = 138974
+
+[[samples]]
+file = "78.flac"
+key = 78
+level = 127
+tune-coarse = 65
+tune-fine = 38
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48010
+length = 171928
+end = 171918
+
+[[samples]]
+file = "79.flac"
+key = 79
+level = 127
+tune-fine = 93
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 47980
+length = 165248
+end = 165244
+
+[[samples]]
+file = "80.flac"
+key = 80
+level = 127
+tune-fine = 78
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 47968
+length = 165840
+end = 165834
+
+[[samples]]
+file = "81.flac"
+key = 81
+level = 127
+tune-fine = 74
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 47961
+length = 154176
+end = 154172
+
+[[samples]]
+file = "82.flac"
+key = 82
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 127384
+end = 127378
+
+[[samples]]
+file = "83.flac"
+key = 83
+level = 127
+tune-fine = 83
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 47963
+length = 116848
+end = 116844
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 129792
+end = 129784
+

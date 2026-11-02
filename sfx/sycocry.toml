@@ -1,0 +1,18 @@
+name = "SyCoCry"
+id = "sycocry"
+group = "sfx"
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 80
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 18017
+length = 8960
+end = 8958
+

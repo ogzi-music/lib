@@ -1,0 +1,44 @@
+name = "Nylon 2"
+id = "nylon-2"
+group = "guitar"
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 36
+key-to = 70
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 64994
+end = 64991
+loop = 64766
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-to = 75
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 39017
+length = 29373
+end = 29370
+loop = 29212
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 35931
+length = 47647
+end = 47644
+loop = 47535
+

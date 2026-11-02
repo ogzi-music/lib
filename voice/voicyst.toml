@@ -1,0 +1,19 @@
+name = "Voicyst"
+id = "voicyst"
+group = "voice"
+midi-program = 52
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 0
+key-to = 96
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24000
+length = 46648
+end = 46611
+loop = 30289
+

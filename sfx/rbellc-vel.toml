@@ -1,0 +1,77 @@
+name = "RbellC Vel"
+id = "rbellc-vel"
+group = "sfx"
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 127
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 197492
+end = 197490
+
+[[samples]]
+file = "60_2.flac"
+key = 60
+key-from = 0
+key-to = 127
+velocity-from = 56
+velocity-to = 73
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 154517
+end = 154515
+
+[[samples]]
+file = "60_3.flac"
+key = 60
+key-from = 0
+key-to = 127
+velocity-from = 74
+velocity-to = 91
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 169775
+end = 169773
+
+[[samples]]
+file = "60_4.flac"
+key = 60
+key-from = 0
+key-to = 127
+velocity-from = 92
+velocity-to = 109
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 173013
+end = 173011
+
+[[samples]]
+file = "60_5.flac"
+key = 60
+key-from = 0
+key-to = 127
+velocity-from = 110
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 325069
+end = 325067
+

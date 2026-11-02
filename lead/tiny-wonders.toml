@@ -1,0 +1,213 @@
+name = "Tiny Wonders"
+id = "tiny-wonders"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "45.flac"
+key = 45
+key-from = 5
+key-to = 55
+level = 127
+tune-coarse = 59
+tune-fine = 56
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27023
+length = 10760
+end = 10734
+loop = 10487
+
+[[samples]]
+file = "51.flac"
+key = 51
+key-from = 56
+key-to = 64
+level = 127
+tune-coarse = 59
+tune-fine = 56
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27023
+length = 7992
+end = 7965
+loop = 7616
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 65
+key-to = 67
+level = 127
+tune-coarse = 59
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 26959
+length = 4740
+end = 4737
+loop = 4633
+
+[[samples]]
+file = "63.flac"
+key = 63
+key-from = 68
+key-to = 70
+level = 127
+tune-coarse = 59
+tune-fine = 56
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 26781
+length = 4293
+end = 4290
+loop = 4203
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 71
+key-to = 73
+level = 127
+tune-coarse = 59
+tune-fine = 54
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 26661
+length = 4319
+end = 4316
+loop = 4244
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 74
+key-to = 76
+level = 127
+tune-coarse = 59
+tune-fine = 54
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 26862
+length = 3913
+end = 3910
+loop = 3849
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 77
+key-to = 79
+level = 127
+tune-coarse = 59
+tune-fine = 54
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 26707
+length = 3245
+end = 3242
+loop = 3191
+
+[[samples]]
+file = "75.flac"
+key = 75
+key-from = 80
+key-to = 82
+level = 127
+tune-coarse = 59
+tune-fine = 57
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 26779
+length = 3083
+end = 3080
+loop = 3037
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-from = 83
+key-to = 85
+level = 127
+tune-coarse = 59
+tune-fine = 56
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 26667
+length = 2500
+end = 2497
+loop = 2461
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 86
+key-to = 88
+level = 127
+tune-coarse = 59
+tune-fine = 57
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 26420
+length = 2991
+end = 2988
+loop = 2958
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 89
+key-to = 91
+level = 127
+tune-coarse = 59
+tune-fine = 57
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 26180
+length = 1531
+end = 1528
+loop = 1503
+
+[[samples]]
+file = "87.flac"
+key = 87
+key-from = 92
+key-to = 94
+level = 127
+tune-coarse = 59
+tune-fine = 57
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 26163
+length = 3306
+end = 3303
+loop = 3282
+
+[[samples]]
+file = "90.flac"
+key = 90
+key-from = 95
+key-to = 127
+level = 127
+tune-coarse = 59
+tune-fine = 57
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 26662
+length = 1515
+end = 1512
+loop = 1494
+

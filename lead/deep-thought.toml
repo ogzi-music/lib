@@ -1,0 +1,187 @@
+name = "Deep Thought"
+id = "deep-thought"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "45.flac"
+key = 45
+key-from = 0
+key-to = 47
+level = 127
+tune-fine = 71
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 25984
+length = 7588
+end = 7585
+loop = 7348
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-to = 50
+level = 127
+tune-fine = 59
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 26017
+length = 7861
+end = 7858
+loop = 7659
+
+[[samples]]
+file = "51.flac"
+key = 51
+key-to = 53
+level = 127
+tune-fine = 59
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 25997
+length = 4159
+end = 4156
+loop = 3989
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-to = 59
+level = 127
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 26011
+length = 5600
+end = 5597
+loop = 5456
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-to = 62
+level = 127
+tune-fine = 57
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 25917
+length = 5829
+end = 5826
+loop = 5727
+
+[[samples]]
+file = "63.flac"
+key = 63
+key-to = 68
+level = 127
+tune-fine = 57
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 25840
+length = 4207
+end = 4204
+loop = 4121
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-to = 71
+level = 127
+tune-fine = 57
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 26015
+length = 3927
+end = 3924
+loop = 3865
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 74
+level = 127
+tune-fine = 56
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 25665
+length = 3328
+end = 3325
+loop = 3276
+
+[[samples]]
+file = "75.flac"
+key = 75
+key-to = 77
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 25517
+length = 3286
+end = 3283
+loop = 3242
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-to = 80
+level = 127
+tune-fine = 54
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 25920
+length = 2993
+end = 2990
+loop = 2955
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-to = 83
+level = 127
+tune-fine = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 25526
+length = 1811
+end = 1808
+loop = 1779
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-to = 86
+level = 127
+tune-fine = 59
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 25135
+length = 2065
+end = 2062
+loop = 2038
+
+[[samples]]
+file = "87.flac"
+key = 87
+key-to = 127
+level = 127
+tune-fine = 56
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24920
+length = 2907
+end = 2904
+loop = 2884
+

@@ -1,0 +1,18 @@
+name = "Grumblin"
+id = "grumblin"
+group = "sfx"
+
+[[samples]]
+file = "53.flac"
+key = 53
+key-from = 0
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 332048
+end = 331776
+loop = 51200
+

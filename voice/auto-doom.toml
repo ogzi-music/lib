@@ -1,0 +1,72 @@
+name = "Auto Doom"
+id = "auto-doom"
+group = "voice"
+
+[[samples]]
+file = "46.flac"
+key = 46
+key-from = 0
+key-to = 51
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 20000
+length = 16656
+end = 16622
+loop = 14565
+
+[[samples]]
+file = "70.flac"
+key = 70
+key-to = 75
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 19987
+length = 17208
+end = 17173
+loop = 15972
+
+[[samples]]
+file = "77.flac"
+key = 77
+key-from = 76
+key-to = 81
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 19994
+length = 15680
+end = 15653
+loop = 15193
+
+[[samples]]
+file = "82.flac"
+key = 82
+key-to = 87
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 19929
+length = 17624
+end = 17615
+loop = 17102
+
+[[samples]]
+file = "89.flac"
+key = 89
+key-from = 88
+key-to = 103
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 32144
+length = 22960
+end = 22928
+loop = 21088
+

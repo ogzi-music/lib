@@ -1,0 +1,183 @@
+name = "VrVlnSpc 1"
+id = "vrvlnspc-1"
+group = "strings"
+midi-program = 46
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 0
+key-to = 127
+velocity-from = 23
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 49954
+start = 1
+
+[[samples]]
+file = "57.flac"
+key = 57
+key-from = 56
+velocity-from = 23
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 42670
+
+[[samples]]
+file = "59.flac"
+key = 59
+key-from = 58
+velocity-from = 23
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 42458
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-from = 60
+key-to = 65
+velocity-from = 23
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 42804
+start = 1
+
+[[samples]]
+file = "102.flac"
+key = 102
+key-from = 101
+key-to = 127
+velocity-from = 23
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 39500
+
+[[samples]]
+file = "98.flac"
+key = 98
+key-from = 97
+velocity-from = 23
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 39544
+start = 1
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 66
+velocity-from = 23
+level = 123
+tune-fine = 66
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 49832
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 70
+key-to = 74
+velocity-from = 23
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 48202
+
+[[samples]]
+file = "100.flac"
+key = 100
+key-from = 99
+velocity-from = 23
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 35952
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 75
+velocity-from = 23
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 49712
+start = 1
+
+[[samples]]
+file = "83.flac"
+key = 83
+key-from = 80
+velocity-from = 23
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 42900
+
+[[samples]]
+file = "90.flac"
+key = 90
+key-from = 88
+velocity-from = 23
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 38258
+
+[[samples]]
+file = "93.flac"
+key = 93
+key-from = 91
+velocity-from = 23
+level = 123
+tune-fine = 74
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 39886
+
+[[samples]]
+file = "96.flac"
+key = 96
+key-from = 94
+velocity-from = 23
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 41950
+

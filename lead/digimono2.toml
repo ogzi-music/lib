@@ -1,0 +1,71 @@
+name = "DigiMono2"
+id = "digimono2"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 89088
+end = 88449
+loop = 25344
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-to = 59
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 93240
+end = 92797
+loop = 27676
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-to = 53
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 87552
+end = 86913
+loop = 28800
+
+[[samples]]
+file = "42.flac"
+key = 42
+key-to = 47
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 94144
+end = 93696
+loop = 26112
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 0
+key-to = 41
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 88275
+end = 87954
+loop = 27606
+

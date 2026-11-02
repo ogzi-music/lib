@@ -1,0 +1,454 @@
+name = "Rock Vox"
+id = "rock-vox"
+group = "voice"
+midi-program = 52
+
+[[samples]]
+file = "33.flac"
+key = 33
+key-from = 22
+key-to = 35
+level = 127
+tune-fine = 74
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28377
+length = 29856
+end = 29823
+loop = 9945
+
+[[samples]]
+file = "37.flac"
+key = 37
+key-from = 36
+key-to = 38
+level = 127
+tune-fine = 75
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28386
+length = 29688
+end = 29650
+loop = 9982
+
+[[samples]]
+file = "40.flac"
+key = 40
+key-from = 39
+key-to = 41
+level = 127
+tune-fine = 74
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28377
+length = 30640
+end = 30604
+loop = 10042
+
+[[samples]]
+file = "44.flac"
+key = 44
+key-from = 42
+level = 127
+tune-coarse = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28416
+length = 31432
+end = 31394
+loop = 12308
+
+[[samples]]
+file = "46.flac"
+key = 46
+key-from = 45
+key-to = 47
+level = 127
+tune-fine = 86
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28389
+length = 29704
+end = 29671
+loop = 10033
+
+[[samples]]
+file = "49.flac"
+key = 49
+key-from = 48
+key-to = 50
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28409
+length = 30032
+end = 29997
+loop = 9681
+
+[[samples]]
+file = "52.flac"
+key = 52
+key-from = 51
+key-to = 53
+level = 127
+tune-fine = 74
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28377
+length = 28776
+end = 28744
+loop = 10422
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-to = 56
+level = 127
+tune-fine = 92
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28379
+length = 29000
+end = 28965
+loop = 10021
+
+[[samples]]
+file = "57.flac"
+key = 57
+key-to = 61
+level = 127
+tune-fine = 74
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28377
+length = 29560
+end = 29526
+loop = 10102
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 62
+key-to = 71
+level = 127
+tune-fine = 86
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28389
+length = 25224
+end = 25190
+loop = 11502
+
+[[samples]]
+file = "73.flac"
+key = 73
+key-from = 72
+key-to = 74
+level = 127
+tune-fine = 74
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28377
+length = 26560
+end = 26523
+loop = 13183
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 75
+key-to = 77
+level = 127
+tune-coarse = 65
+tune-fine = 46
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28414
+length = 31696
+end = 31662
+loop = 13130
+
+[[samples]]
+file = "80.flac"
+key = 80
+key-from = 78
+level = 127
+tune-coarse = 65
+tune-fine = 70
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28389
+length = 38416
+end = 38384
+loop = 20108
+
+[[samples]]
+file = "82.flac"
+key = 82
+key-from = 81
+key-to = 83
+level = 127
+tune-fine = 85
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28380
+length = 31656
+end = 31622
+loop = 12662
+
+[[samples]]
+file = "85.flac"
+key = 85
+key-from = 84
+key-to = 86
+level = 127
+tune-fine = 89
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28384
+length = 31160
+end = 31125
+loop = 11573
+
+[[samples]]
+file = "88.flac"
+key = 88
+key-from = 87
+key-to = 89
+level = 127
+tune-fine = 86
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28389
+length = 29136
+end = 29098
+loop = 12008
+
+[[samples]]
+file = "91.flac"
+key = 91
+key-from = 90
+key-to = 92
+level = 127
+tune-fine = 89
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28384
+length = 25512
+end = 25479
+loop = 13639
+
+[[samples]]
+file = "93.flac"
+key = 93
+key-to = 108
+level = 127
+tune-fine = 81
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28376
+length = 29664
+end = 29625
+loop = 9995
+
+[[samples]]
+file = "38.flac"
+key = 38
+key-from = 21
+key-to = 39
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28400
+length = 49656
+end = 49617
+loop = 16689
+
+[[samples]]
+file = "44_2.flac"
+key = 44
+key-from = 40
+key-to = 45
+round-robin = 2
+level = 127
+tune-fine = 103
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28410
+length = 45968
+end = 45933
+loop = 17161
+
+[[samples]]
+file = "49_2.flac"
+key = 49
+key-from = 46
+key-to = 50
+round-robin = 2
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28400
+length = 45064
+end = 45032
+loop = 11854
+
+[[samples]]
+file = "54_2.flac"
+key = 54
+key-from = 51
+key-to = 55
+round-robin = 2
+level = 127
+tune-coarse = 65
+tune-fine = 35
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28411
+length = 54384
+end = 54351
+loop = 12381
+
+[[samples]]
+file = "57_2.flac"
+key = 57
+key-from = 56
+key-to = 61
+round-robin = 2
+level = 127
+tune-fine = 73
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28384
+length = 31680
+end = 31647
+loop = 12609
+
+[[samples]]
+file = "70.flac"
+key = 70
+key-from = 62
+key-to = 73
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28400
+length = 79800
+end = 79764
+loop = 21994
+
+[[samples]]
+file = "76_2.flac"
+key = 76
+key-from = 74
+key-to = 77
+round-robin = 2
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28400
+length = 64048
+end = 64016
+loop = 21142
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-to = 80
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28400
+length = 46736
+end = 46704
+loop = 11290
+
+[[samples]]
+file = "83.flac"
+key = 83
+key-from = 81
+level = 127
+tune-coarse = 65
+tune-fine = 53
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28413
+length = 58456
+end = 58417
+loop = 17107
+
+[[samples]]
+file = "85_2.flac"
+key = 85
+key-from = 84
+key-to = 86
+round-robin = 2
+level = 127
+tune-fine = 74
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28377
+length = 37024
+end = 36985
+loop = 6039
+
+[[samples]]
+file = "88_2.flac"
+key = 88
+key-from = 87
+key-to = 89
+round-robin = 2
+level = 127
+tune-fine = 80
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28383
+length = 50256
+end = 50221
+loop = 9945
+
+[[samples]]
+file = "91_2.flac"
+key = 91
+key-from = 90
+key-to = 108
+round-robin = 2
+level = 127
+tune-fine = 84
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28387
+length = 47408
+end = 47373
+loop = 7783
+

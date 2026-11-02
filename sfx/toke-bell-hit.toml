@@ -1,0 +1,19 @@
+name = "Toke Bell Hit"
+id = "toke-bell-hit"
+group = "sfx"
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 0
+key-to = 108
+level = 127
+tune-coarse = 65
+tune-fine = 42
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44115
+length = 72840
+end = 72830
+

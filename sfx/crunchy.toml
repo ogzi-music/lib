@@ -1,0 +1,17 @@
+name = "Crunchy"
+id = "crunchy"
+group = "sfx"
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24462
+length = 4296
+end = 4291
+

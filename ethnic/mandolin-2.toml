@@ -1,0 +1,84 @@
+name = "Mandolin"
+id = "mandolin-2"
+group = "ethnic"
+
+[[samples]]
+file = "43.flac"
+key = 43
+key-from = 21
+key-to = 47
+level = 127
+pan = 63
+tune-fine = 45
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27799
+length = 70432
+end = 70385
+loop = 63211
+
+[[samples]]
+file = "53.flac"
+key = 53
+key-from = 48
+key-to = 59
+level = 127
+pan = 63
+tune-fine = 45
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27799
+length = 73760
+end = 73715
+loop = 60242
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-from = 60
+key-to = 65
+level = 127
+pan = 63
+tune-fine = 45
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27799
+length = 83280
+end = 83231
+loop = 70297
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 66
+key-to = 77
+level = 127
+pan = 63
+tune-fine = 45
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27799
+length = 38824
+end = 38779
+loop = 29437
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 78
+key-to = 108
+level = 127
+pan = 63
+tune-fine = 45
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27799
+length = 10728
+end = 10673
+loop = 10609
+

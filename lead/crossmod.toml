@@ -1,0 +1,197 @@
+name = "CrossMod"
+id = "crossmod"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 0
+key-to = 42
+level = 127
+pan = 1
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 75438
+end = 75425
+loop = 160
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 43
+key-to = 54
+level = 127
+pan = 1
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 49370
+end = 49360
+loop = 172
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 55
+key-to = 66
+level = 127
+pan = 1
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 44342
+end = 44330
+loop = 220
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 67
+key-to = 78
+level = 127
+pan = 1
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 49726
+start = 3
+end = 49714
+loop = 44
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 79
+key-to = 90
+level = 127
+pan = 1
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 50810
+start = 2
+end = 50799
+loop = 88
+
+[[samples]]
+file = "96.flac"
+key = 96
+key-from = 91
+key-to = 127
+level = 127
+pan = 1
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 51234
+start = 3
+end = 51223
+loop = 24
+
+[[samples]]
+file = "36_2.flac"
+key = 36
+key-from = 0
+key-to = 42
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 75438
+end = 75425
+loop = 160
+
+[[samples]]
+file = "48_2.flac"
+key = 48
+key-from = 43
+key-to = 54
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 49370
+end = 49360
+loop = 172
+
+[[samples]]
+file = "60_2.flac"
+key = 60
+key-from = 55
+key-to = 66
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 44342
+end = 44330
+loop = 220
+
+[[samples]]
+file = "72_2.flac"
+key = 72
+key-from = 67
+key-to = 78
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 49726
+start = 3
+end = 49714
+loop = 44
+
+[[samples]]
+file = "84_2.flac"
+key = 84
+key-from = 79
+key-to = 90
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 50810
+start = 2
+end = 50799
+loop = 88
+
+[[samples]]
+file = "96_2.flac"
+key = 96
+key-from = 91
+key-to = 127
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 51234
+start = 3
+end = 51223
+loop = 24
+

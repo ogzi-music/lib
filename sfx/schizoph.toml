@@ -1,0 +1,18 @@
+name = "Schizoph"
+id = "schizoph"
+group = "sfx"
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 684578
+end = 684565
+loop = 20
+

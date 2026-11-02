@@ -1,0 +1,72 @@
+name = "ClasikStudio"
+id = "clasikstudio-2"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "34.flac"
+key = 34
+level = 111
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24000
+length = 7424
+end = 7420
+
+[[samples]]
+file = "99.flac"
+key = 99
+level = 124
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 1336
+end = 1331
+
+[[samples]]
+file = "100.flac"
+key = 100
+level = 124
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24000
+length = 4528
+end = 4524
+
+[[samples]]
+file = "101.flac"
+key = 101
+level = 124
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24000
+length = 9856
+end = 9852
+
+[[samples]]
+file = "102.flac"
+key = 102
+level = 124
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 34437
+length = 12032
+end = 12030
+
+[[samples]]
+file = "104.flac"
+key = 104
+key-to = 127
+level = 112
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24000
+length = 9808
+end = 4610
+

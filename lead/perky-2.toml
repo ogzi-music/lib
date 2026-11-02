@@ -1,0 +1,28 @@
+name = "Perky"
+id = "perky-2"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "34.flac"
+key = 34
+level = 109
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 24000
+length = 11752
+end = 11749
+
+[[samples]]
+file = "91.flac"
+key = 91
+key-from = 96
+key-to = 96
+level = 117
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 41000
+length = 11752
+

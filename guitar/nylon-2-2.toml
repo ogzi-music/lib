@@ -1,0 +1,129 @@
+name = "Nylon 2"
+id = "nylon-2-2"
+group = "guitar"
+
+[[samples]]
+file = "26.flac"
+key = 26
+level = 111
+tune-coarse = 61
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 26895
+length = 9760
+end = 9756
+
+[[samples]]
+file = "27.flac"
+key = 27
+level = 111
+tune-coarse = 61
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 25556
+length = 12792
+
+[[samples]]
+file = "28.flac"
+key = 28
+level = 111
+tune-coarse = 61
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 29908
+length = 12472
+
+[[samples]]
+file = "29.flac"
+key = 29
+level = 111
+tune-coarse = 61
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 25388
+length = 6248
+end = 6243
+
+[[samples]]
+file = "30.flac"
+key = 30
+level = 64
+tune-coarse = 61
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 27992
+length = 10400
+
+[[samples]]
+file = "31.flac"
+key = 31
+level = 100
+tune-coarse = 61
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 27992
+length = 4936
+end = 4933
+
+[[samples]]
+file = "32.flac"
+key = 32
+level = 100
+tune-coarse = 61
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 27992
+length = 11312
+end = 11309
+
+[[samples]]
+file = "33.flac"
+key = 33
+level = 111
+tune-coarse = 61
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 27992
+length = 5584
+end = 5580
+
+[[samples]]
+file = "34.flac"
+key = 34
+level = 111
+tune-coarse = 61
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 27992
+length = 6168
+
+[[samples]]
+file = "35.flac"
+key = 35
+level = 91
+tune-coarse = 61
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 27992
+length = 384
+

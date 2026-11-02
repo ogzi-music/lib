@@ -1,0 +1,128 @@
+name = "FM Bass 2"
+id = "fm-bass-2"
+group = "bass"
+
+[[samples]]
+file = "38.flac"
+key = 38
+key-from = 0
+key-to = 43
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 223124
+end = 223117
+loop = 173634
+
+[[samples]]
+file = "47.flac"
+key = 47
+key-from = 44
+key-to = 52
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 212995
+end = 212988
+loop = 165366
+
+[[samples]]
+file = "56.flac"
+key = 56
+key-from = 53
+key-to = 61
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 225526
+end = 225519
+loop = 183969
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-from = 62
+key-to = 127
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 216942
+end = 216935
+loop = 179835
+
+[[samples]]
+file = "38_2.flac"
+key = 38
+key-from = 0
+key-to = 127
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 223124
+end = 223117
+loop = 173634
+
+[[samples]]
+file = "47_2.flac"
+key = 47
+key-from = 44
+key-to = 52
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 212995
+end = 212988
+loop = 165366
+
+[[samples]]
+file = "56_2.flac"
+key = 56
+key-from = 53
+key-to = 61
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 225526
+end = 225519
+loop = 183969
+
+[[samples]]
+file = "65_2.flac"
+key = 65
+key-from = 62
+key-to = 84
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 216942
+end = 216935
+loop = 179835
+

@@ -1,0 +1,16 @@
+name = "95 ReverseGroove5"
+id = "95-reversegroove5"
+group = "drums"
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 127
+level = 114
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 25217
+

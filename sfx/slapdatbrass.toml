@@ -1,0 +1,18 @@
+name = "SlapdatBrass"
+id = "slapdatbrass"
+group = "sfx"
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 0
+key-to = 127
+level = 127
+tune-coarse = 62
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24509
+length = 12160
+end = 12155
+

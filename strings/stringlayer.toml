@@ -1,0 +1,50 @@
+name = "StringLayer"
+id = "stringlayer"
+group = "strings"
+midi-program = 46
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 45
+key-to = 67
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 36000
+length = 59856
+end = 59836
+loop = 22387
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 68
+key-to = 81
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 36000
+length = 69624
+end = 69615
+loop = 26855
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 82
+key-to = 127
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 36000
+length = 60672
+end = 60662
+loop = 15346
+

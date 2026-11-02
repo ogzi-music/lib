@@ -1,0 +1,118 @@
+name = "Violins Detache"
+id = "violins-detache"
+group = "strings"
+midi-program = 46
+
+[[samples]]
+file = "58.flac"
+key = 58
+key-from = 55
+level = 118
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 104912
+end = 104904
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 59
+key-to = 61
+level = 127
+tune-fine = 68
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 47979
+length = 113096
+end = 113086
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-to = 63
+level = 126
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 114752
+end = 114746
+
+[[samples]]
+file = "70.flac"
+key = 70
+key-from = 64
+level = 126
+tune-fine = 68
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 47979
+length = 120168
+end = 120160
+
+[[samples]]
+file = "71.flac"
+key = 71
+level = 126
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 108680
+end = 108672
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 73
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 129320
+end = 129314
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 74
+key-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 102032
+end = 102022
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 78
+level = 112
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 101328
+end = 101322
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 80
+key-to = 127
+level = 125
+tune-fine = 66
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 47975
+length = 121056
+end = 121048
+

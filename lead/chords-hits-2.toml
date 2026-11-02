@@ -1,0 +1,31 @@
+name = "Chords&Hits"
+id = "chords-hits-2"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "37.flac"
+key = 37
+key-from = 36
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24000
+length = 28240
+end = 28208
+loop = 15371
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24000
+length = 28240
+end = 28208
+loop = 15371
+

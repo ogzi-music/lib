@@ -1,0 +1,19 @@
+name = "EPENTG~1"
+id = "epentg-1"
+group = "sfx"
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 38
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 1247810
+end = 1229185
+loop = 68263
+

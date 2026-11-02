@@ -1,0 +1,47 @@
+name = "SD1 Vel N"
+id = "sd1-vel-n"
+group = "sfx"
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 127
+velocity-to = 72
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 75011
+end = 75008
+
+[[samples]]
+file = "60_2.flac"
+key = 60
+key-from = 0
+key-to = 127
+velocity-from = 73
+velocity-to = 99
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 61699
+end = 61696
+
+[[samples]]
+file = "60_3.flac"
+key = 60
+key-from = 0
+key-to = 127
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 64515
+end = 64512
+

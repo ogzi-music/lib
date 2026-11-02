@@ -1,0 +1,197 @@
+name = "House"
+id = "house"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "24.flac"
+key = 24
+key-from = 0
+key-to = 27
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 15470
+start = 2
+end = 15459
+loop = 11416
+
+[[samples]]
+file = "30.flac"
+key = 30
+key-from = 28
+key-to = 33
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 16482
+start = 2
+end = 16469
+loop = 11700
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 34
+key-to = 39
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 16326
+start = 3
+end = 16316
+loop = 11596
+
+[[samples]]
+file = "42.flac"
+key = 42
+key-from = 40
+key-to = 45
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 16338
+end = 16326
+loop = 12036
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 46
+key-to = 51
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 15882
+start = 2
+end = 15870
+loop = 11824
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-from = 52
+key-to = 57
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 16274
+start = 2
+end = 16261
+loop = 11732
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 58
+key-to = 63
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 16602
+start = 2
+end = 16591
+loop = 12208
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 64
+key-to = 69
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 16722
+start = 1
+end = 16709
+loop = 12180
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 70
+key-to = 75
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 16470
+start = 1
+end = 16458
+loop = 12160
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-from = 76
+key-to = 81
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 16718
+end = 16706
+loop = 12116
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 82
+key-to = 87
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 16550
+start = 1
+end = 16537
+loop = 12112
+
+[[samples]]
+file = "90.flac"
+key = 90
+key-from = 88
+key-to = 93
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 15610
+start = 2
+end = 15598
+loop = 11516
+
+[[samples]]
+file = "96.flac"
+key = 96
+key-from = 94
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 15571
+end = 15563
+loop = 11160
+

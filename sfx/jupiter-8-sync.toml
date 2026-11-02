@@ -1,0 +1,17 @@
+name = "Jupiter 8 Sync"
+id = "jupiter-8-sync"
+group = "sfx"
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-to = 96
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 156520
+end = 154292
+loop = 130542
+

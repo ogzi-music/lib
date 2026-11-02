@@ -1,0 +1,37 @@
+name = "VrVlnsVb 1"
+id = "vrvlnsvb-1"
+group = "strings"
+midi-program = 46
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 0
+key-to = 127
+level = 123
+tune-fine = 69
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 21168
+start = 1
+end = 21166
+loop = 9492
+
+[[samples]]
+file = "93.flac"
+key = 93
+key-from = 91
+key-to = 94
+level = 123
+tune-fine = 69
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 27239
+start = 1
+end = 27237
+loop = 10176
+

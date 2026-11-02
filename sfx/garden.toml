@@ -1,0 +1,93 @@
+name = "Garden"
+id = "garden"
+group = "sfx"
+
+[[samples]]
+file = "40.flac"
+key = 40
+key-from = 21
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27778
+length = 55768
+end = 55720
+loop = 5001
+
+[[samples]]
+file = "49.flac"
+key = 49
+key-from = 41
+key-to = 50
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27778
+length = 25136
+end = 25089
+loop = 10625
+
+[[samples]]
+file = "58.flac"
+key = 58
+key-from = 51
+key-to = 65
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27778
+length = 19056
+end = 19013
+loop = 5169
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 66
+key-to = 70
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 41667
+length = 65016
+end = 64972
+loop = 11
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 71
+key-to = 89
+level = 127
+pan = 63
+tune-fine = 74
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 27755
+length = 120048
+end = 120042
+
+[[samples]]
+file = "92.flac"
+key = 92
+key-from = 90
+key-to = 108
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 20000
+length = 23952
+end = 19144
+loop = 1138
+

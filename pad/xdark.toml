@@ -1,0 +1,75 @@
+name = "Xdark"
+id = "xdark"
+group = "pad"
+midi-program = 86
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 70
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 176002
+end = 174361
+loop = 580
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 65
+key-to = 69
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 183424
+end = 182691
+loop = 667
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 58
+key-to = 64
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 169950
+end = 167971
+loop = 2696
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-from = 53
+key-to = 57
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 196672
+end = 196217
+loop = 466
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 0
+key-to = 52
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 174440
+end = 173881
+loop = 1165
+

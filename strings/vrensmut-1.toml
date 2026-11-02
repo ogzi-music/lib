@@ -1,0 +1,106 @@
+name = "VrEnsMut 1"
+id = "vrensmut-1"
+group = "strings"
+midi-program = 46
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 0
+key-to = 43
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 101700
+end = 101698
+loop = 31186
+
+[[samples]]
+file = "51.flac"
+key = 51
+key-from = 44
+key-to = 52
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 213489
+start = 1
+end = 213487
+loop = 41456
+
+[[samples]]
+file = "56.flac"
+key = 56
+key-from = 53
+key-to = 57
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 270893
+end = 270891
+loop = 53152
+
+[[samples]]
+file = "61.flac"
+key = 61
+key-from = 58
+key-to = 62
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 213238
+end = 213236
+loop = 37870
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 63
+key-to = 72
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 218731
+start = 1
+end = 218729
+loop = 54164
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 73
+key-to = 77
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 226285
+start = 1
+end = 226283
+loop = 53300
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 78
+key-to = 127
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 234630
+end = 234628
+loop = 89428
+

@@ -1,0 +1,68 @@
+name = "Slap Pop"
+id = "slap-pop-2"
+group = "bass"
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 0
+key-to = 49
+velocity-from = 103
+level = 127
+tune-fine = 69
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44069
+length = 64088
+end = 64050
+loop = 63374
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-from = 50
+key-to = 56
+velocity-from = 103
+level = 127
+tune-fine = 83
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 30976
+length = 31376
+end = 31351
+loop = 31010
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 57
+key-to = 62
+velocity-from = 103
+level = 127
+tune-fine = 69
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 30978
+length = 32944
+end = 32931
+loop = 32218
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-from = 63
+key-to = 127
+velocity-from = 103
+level = 127
+tune-fine = 71
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 30980
+length = 27176
+end = 27144
+loop = 26953
+

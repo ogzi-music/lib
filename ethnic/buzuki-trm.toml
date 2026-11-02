@@ -1,0 +1,224 @@
+name = "Buzuki Trm."
+id = "buzuki-trm"
+group = "ethnic"
+
+[[samples]]
+file = "96.flac"
+key = 96
+key-to = 127
+level = 127
+tune-fine = 51
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 23364
+end = 23361
+loop = 3698
+
+[[samples]]
+file = "93.flac"
+key = 93
+key-from = 92
+key-to = 95
+level = 127
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 20688
+loop = 25
+
+[[samples]]
+file = "88.flac"
+key = 88
+key-from = 87
+key-to = 91
+level = 127
+tune-fine = 61
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 26032
+end = 26029
+loop = 108
+
+[[samples]]
+file = "86.flac"
+key = 86
+level = 127
+tune-fine = 53
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 27073
+end = 27070
+loop = 4627
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-to = 85
+level = 127
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 34061
+end = 34058
+loop = 9286
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-to = 83
+level = 127
+tune-fine = 61
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 32909
+end = 32906
+loop = 7383
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-to = 80
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 27078
+end = 27075
+loop = 3739
+
+[[samples]]
+file = "77.flac"
+key = 77
+key-to = 78
+level = 127
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 35680
+end = 35677
+loop = 4309
+
+[[samples]]
+file = "74.flac"
+key = 74
+key-to = 76
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 47807
+end = 47804
+loop = 4708
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-to = 73
+level = 127
+tune-fine = 59
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 47732
+end = 47729
+loop = 12961
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-to = 70
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 28772
+end = 28769
+loop = 7239
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-to = 68
+level = 127
+tune-fine = 57
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 25466
+end = 25463
+loop = 4040
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-to = 66
+level = 127
+tune-fine = 70
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 27033
+end = 27030
+loop = 4194
+
+[[samples]]
+file = "64.flac"
+key = 64
+level = 127
+tune-fine = 59
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 53745
+end = 53742
+loop = 10459
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-to = 63
+level = 127
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 29360
+end = 29357
+loop = 3094
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 61
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 36715
+end = 36712
+loop = 12178
+

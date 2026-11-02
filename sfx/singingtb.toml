@@ -1,0 +1,19 @@
+name = "SingingTB"
+id = "singingtb"
+group = "sfx"
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 0
+key-to = 127
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 23958
+length = 5200
+end = 5173
+loop = 4912
+

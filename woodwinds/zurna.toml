@@ -1,0 +1,122 @@
+name = "Zurna"
+id = "zurna"
+group = "woodwinds"
+
+[[samples]]
+file = "86.flac"
+key = 86
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 57932
+end = 57928
+loop = 25267
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 83
+key-to = 85
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 54955
+end = 54951
+loop = 36832
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 80
+key-to = 82
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 62778
+end = 62774
+loop = 44973
+
+[[samples]]
+file = "77.flac"
+key = 77
+key-to = 79
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 26289
+end = 26285
+loop = 9630
+
+[[samples]]
+file = "76.flac"
+key = 76
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 44845
+end = 44841
+loop = 21075
+
+[[samples]]
+file = "74.flac"
+key = 74
+key-to = 75
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 30402
+end = 30398
+loop = 14348
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 73
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 40784
+end = 40780
+loop = 16571
+
+[[samples]]
+file = "71.flac"
+key = 71
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 40545
+end = 40541
+loop = 25279
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 0
+key-to = 70
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 34598
+end = 34594
+loop = 18493
+

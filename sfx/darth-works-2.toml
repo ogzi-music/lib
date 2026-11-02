@@ -1,0 +1,19 @@
+name = "Darth Works"
+id = "darth-works-2"
+group = "sfx"
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 12
+key-to = 127
+level = 127
+tune-coarse = 53
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24000
+length = 33128
+end = 33094
+loop = 26547
+

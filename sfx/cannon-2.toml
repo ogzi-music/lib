@@ -1,0 +1,27 @@
+name = "Cannon 2"
+id = "cannon-2"
+group = "sfx"
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 86040
+
+[[samples]]
+file = "60_2.flac"
+key = 60
+round-robin = 2
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 257529
+

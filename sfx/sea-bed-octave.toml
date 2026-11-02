@@ -1,0 +1,18 @@
+name = "SEA BED OCTAVE"
+id = "sea-bed-octave"
+group = "sfx"
+
+[[samples]]
+file = "63.flac"
+key = 63
+key-from = 0
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 422915
+end = 409665
+loop = 26907
+

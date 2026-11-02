@@ -1,0 +1,19 @@
+name = "Crunchy"
+id = "crunchy-3"
+group = "sfx"
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 74
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 32903
+length = 36752
+end = 36739
+loop = 20443
+

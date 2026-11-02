@@ -1,0 +1,33 @@
+name = "Deep Tiny"
+id = "deep-tiny"
+group = "pad"
+midi-program = 86
+
+[[samples]]
+file = "77.flac"
+key = 77
+key-from = 0
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 100169
+end = 98853
+loop = 77
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-from = 0
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 89200
+end = 89152
+loop = 63
+

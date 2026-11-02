@@ -1,0 +1,80 @@
+name = "Synth Carilln St"
+id = "synth-carilln-st"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "43.flac"
+key = 43
+key-from = 21
+key-to = 49
+level = 127
+pan = 126
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31250
+length = 62544
+end = 62500
+loop = 48099
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 50
+key-to = 61
+level = 127
+pan = 126
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31250
+length = 58272
+end = 58222
+loop = 38040
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 62
+key-to = 73
+level = 127
+pan = 126
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31250
+length = 62288
+end = 62241
+loop = 47363
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 74
+key-to = 85
+level = 127
+pan = 126
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31250
+length = 62016
+end = 61972
+loop = 47812
+
+[[samples]]
+file = "91.flac"
+key = 91
+key-from = 86
+key-to = 108
+level = 127
+pan = 126
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31250
+length = 62104
+end = 62053
+loop = 47803
+

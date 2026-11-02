@@ -1,0 +1,19 @@
+name = "Monks"
+id = "monks"
+group = "voice"
+midi-program = 50
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 36
+key-to = 96
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 179784
+end = 179752
+loop = 3510
+

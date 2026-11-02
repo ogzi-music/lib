@@ -1,0 +1,109 @@
+name = "Pretteeee"
+id = "pretteeee"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "45.flac"
+key = 45
+key-from = 0
+key-to = 47
+level = 127
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28014
+length = 25328
+end = 25217
+loop = 24961
+
+[[samples]]
+file = "51.flac"
+key = 51
+key-from = 48
+key-to = 52
+level = 127
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28014
+length = 12136
+end = 12106
+loop = 11924
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-from = 53
+key-to = 57
+level = 127
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27950
+length = 9784
+end = 9759
+loop = 9606
+
+[[samples]]
+file = "61.flac"
+key = 61
+key-from = 58
+key-to = 62
+level = 127
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28014
+length = 29448
+end = 29417
+loop = 29314
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 63
+key-to = 71
+level = 127
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27743
+length = 14016
+end = 13988
+loop = 13911
+
+[[samples]]
+file = "73.flac"
+key = 73
+key-from = 72
+key-to = 79
+level = 127
+tune-fine = 59
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28019
+length = 49240
+end = 49204
+loop = 37314
+
+[[samples]]
+file = "82.flac"
+key = 82
+key-from = 80
+key-to = 108
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28000
+length = 63248
+end = 63212
+loop = 39163
+

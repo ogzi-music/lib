@@ -1,0 +1,204 @@
+name = "Sweet Trumpet"
+id = "sweet-trumpet"
+group = "brass"
+midi-program = 54
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-from = 56
+key-to = 59
+level = 127
+tune-fine = 56
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 33168
+start = 1
+end = 33163
+loop = 26388
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 60
+key-to = 63
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 30068
+start = 2
+end = 30064
+loop = 23540
+
+[[samples]]
+file = "73.flac"
+key = 73
+key-from = 64
+key-to = 67
+level = 127
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 28648
+start = 2
+end = 28642
+loop = 21912
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 68
+key-to = 69
+level = 127
+tune-fine = 68
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 32352
+end = 32346
+loop = 25704
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 70
+key-to = 72
+level = 127
+tune-fine = 57
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 18208
+start = 1
+end = 18203
+loop = 11220
+
+[[samples]]
+file = "83.flac"
+key = 83
+key-from = 73
+key-to = 76
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 21908
+start = 2
+end = 21901
+loop = 14600
+
+[[samples]]
+file = "86.flac"
+key = 86
+key-from = 77
+key-to = 81
+level = 127
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 26724
+start = 3
+end = 26720
+loop = 20052
+
+[[samples]]
+file = "90.flac"
+key = 90
+key-from = 82
+key-to = 84
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 28212
+end = 28207
+loop = 21500
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 55
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 6452
+start = 3
+end = 6446
+loop = 5772
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 85
+key-to = 94
+level = 127
+tune-fine = 89
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 3164
+end = 3159
+loop = 3068
+
+[[samples]]
+file = "60_2.flac"
+key = 60
+key-from = 95
+key-to = 103
+round-robin = 2
+level = 127
+tune-fine = 66
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 6140
+end = 6136
+loop = 5968
+
+[[samples]]
+file = "89.flac"
+key = 89
+key-from = 104
+key-to = 108
+level = 123
+tune-fine = 79
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 36
+end = 32
+
+[[samples]]
+file = "77.flac"
+key = 77
+key-from = 109
+key-to = 127
+level = 121
+tune-fine = 79
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 1124
+end = 1120
+loop = 1056
+

@@ -1,0 +1,103 @@
+name = "Uuhs"
+id = "uuhs"
+group = "voice"
+midi-program = 51
+
+[[samples]]
+file = "63.flac"
+key = 63
+key-from = 21
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 283736
+end = 283702
+loop = 59544
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-from = 64
+key-to = 66
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 212968
+end = 212929
+loop = 59625
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 67
+key-to = 71
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 337840
+end = 337801
+loop = 138363
+
+[[samples]]
+file = "73.flac"
+key = 73
+key-from = 72
+key-to = 75
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 411640
+end = 411602
+loop = 47356
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 76
+level = 127
+tune-fine = 40
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48041
+length = 198784
+end = 198747
+loop = 140306
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 80
+key-to = 82
+level = 127
+tune-fine = 55
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48026
+length = 185648
+end = 185616
+loop = 139678
+
+[[samples]]
+file = "85.flac"
+key = 85
+key-from = 83
+key-to = 108
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 178752
+end = 178718
+loop = 107222
+

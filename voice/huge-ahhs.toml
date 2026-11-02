@@ -1,0 +1,108 @@
+name = "Huge Ahhs"
+id = "huge-ahhs"
+group = "voice"
+midi-program = 50
+
+[[samples]]
+file = "57.flac"
+key = 57
+key-from = 21
+key-to = 58
+level = 127
+tune-fine = 71
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 47970
+length = 192552
+end = 192519
+loop = 29421
+
+[[samples]]
+file = "61.flac"
+key = 61
+key-from = 59
+key-to = 62
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 199616
+end = 199583
+loop = 37165
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-from = 63
+key-to = 66
+level = 127
+tune-fine = 71
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 47970
+length = 218488
+end = 218450
+loop = 32034
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 67
+key-to = 70
+level = 127
+tune-fine = 94
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 47968
+length = 228784
+end = 228746
+loop = 39382
+
+[[samples]]
+file = "73.flac"
+key = 73
+key-from = 71
+key-to = 74
+level = 127
+tune-fine = 74
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 47961
+length = 233848
+end = 233810
+loop = 21724
+
+[[samples]]
+file = "77.flac"
+key = 77
+key-from = 75
+key-to = 78
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 212320
+end = 212287
+loop = 21081
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 79
+key-to = 96
+level = 127
+tune-fine = 67
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 47963
+length = 195952
+end = 195920
+loop = 33796
+

@@ -1,0 +1,34 @@
+name = "Compuvox"
+id = "compuvox"
+group = "voice"
+midi-program = 52
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 59
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 89712
+end = 89648
+loop = 127
+
+[[samples]]
+file = "57.flac"
+key = 57
+key-from = 0
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 88096
+end = 87969
+loop = 128
+

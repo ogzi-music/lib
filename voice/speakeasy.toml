@@ -1,0 +1,79 @@
+name = "Speakeasy"
+id = "speakeasy"
+group = "voice"
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 0
+key-to = 39
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44111
+length = 5168
+end = 5131
+loop = 3785
+
+[[samples]]
+file = "45.flac"
+key = 45
+key-from = 40
+key-to = 50
+level = 127
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44088
+length = 6192
+end = 6051
+loop = 5250
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-from = 51
+key-to = 58
+level = 127
+tune-fine = 68
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44080
+length = 5664
+end = 5637
+loop = 5157
+
+[[samples]]
+file = "63.flac"
+key = 63
+key-from = 59
+key-to = 67
+level = 127
+tune-fine = 66
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44077
+length = 5640
+end = 5610
+loop = 5324
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 68
+key-to = 127
+level = 127
+tune-fine = 77
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44082
+length = 5664
+end = 5636
+loop = 5464
+

@@ -1,0 +1,37 @@
+name = "Gen X"
+id = "gen-x"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 0
+key-to = 72
+level = 127
+tune-coarse = 71
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 30000
+length = 76408
+start = 6014
+end = 76374
+loop = 30384
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 73
+key-to = 127
+level = 127
+tune-coarse = 71
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 30000
+length = 71312
+start = 5612
+end = 71279
+loop = 11946
+

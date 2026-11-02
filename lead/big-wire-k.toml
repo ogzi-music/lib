@@ -1,0 +1,129 @@
+name = "Big Wire K"
+id = "big-wire-k"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "43.flac"
+key = 43
+key-from = 24
+key-to = 50
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 153635
+end = 153628
+loop = 119088
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 51
+key-to = 62
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 154314
+end = 154307
+loop = 114103
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 63
+key-to = 74
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 153962
+end = 153955
+loop = 119101
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 75
+key-to = 127
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 153096
+end = 153089
+loop = 123187
+
+[[samples]]
+file = "43_2.flac"
+key = 43
+key-from = 24
+key-to = 50
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 153635
+end = 153628
+loop = 119088
+
+[[samples]]
+file = "55_2.flac"
+key = 55
+key-from = 51
+key-to = 62
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 154314
+end = 154307
+loop = 114103
+
+[[samples]]
+file = "67_2.flac"
+key = 67
+key-from = 63
+key-to = 74
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 153962
+end = 153955
+loop = 119101
+
+[[samples]]
+file = "79_2.flac"
+key = 79
+key-from = 75
+key-to = 127
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 153096
+end = 153089
+loop = 123187
+

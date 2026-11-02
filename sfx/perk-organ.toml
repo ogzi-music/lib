@@ -1,0 +1,17 @@
+name = "Perk Organ"
+id = "perk-organ"
+group = "sfx"
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24000
+length = 29896
+end = 29857
+loop = 15816
+

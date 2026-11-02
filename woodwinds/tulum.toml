@@ -1,0 +1,89 @@
+name = "Tulum"
+id = "tulum"
+group = "woodwinds"
+midi-program = 71
+
+[[samples]]
+file = "88.flac"
+key = 88
+key-to = 127
+level = 127
+tune-fine = 50
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 354
+end = 351
+loop = 285
+
+[[samples]]
+file = "86.flac"
+key = 86
+key-to = 87
+level = 127
+tune-fine = 49
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 1800
+end = 1797
+loop = 1723
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-to = 85
+level = 127
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 7214
+end = 7211
+loop = 7127
+
+[[samples]]
+file = "83.flac"
+key = 83
+level = 127
+tune-fine = 68
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 12029
+end = 12026
+loop = 11847
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-to = 82
+level = 127
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 21461
+end = 21458
+loop = 21358
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 0
+key-to = 80
+level = 127
+tune-fine = 50
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 294
+end = 291
+loop = 180
+

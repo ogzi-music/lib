@@ -1,0 +1,19 @@
+name = "HRM22F~1"
+id = "hrm22f-1"
+group = "sfx"
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 66
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 2035208
+end = 2015617
+loop = 107349
+

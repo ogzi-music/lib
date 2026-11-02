@@ -1,0 +1,19 @@
+name = "Hybrid"
+id = "hybrid"
+group = "sfx"
+
+[[samples]]
+file = "59.flac"
+key = 59
+key-from = 0
+key-to = 103
+level = 127
+tune-coarse = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 74448
+end = 72831
+loop = 7430
+

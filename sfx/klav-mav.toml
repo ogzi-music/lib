@@ -1,0 +1,19 @@
+name = "Klav Mav"
+id = "klav-mav"
+group = "sfx"
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 67
+key-to = 115
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31399
+length = 5307
+end = 5304
+loop = 5244
+

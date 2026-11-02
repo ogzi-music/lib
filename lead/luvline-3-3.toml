@@ -1,0 +1,44 @@
+name = "Luvline 3"
+id = "luvline-3-3"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "46.flac"
+key = 46
+key-from = 70
+key-to = 70
+level = 124
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 31000
+length = 4544
+end = 4542
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 84
+key-to = 84
+level = 121
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 37451
+length = 48448
+end = 48445
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 86
+key-to = 86
+level = 124
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24000
+length = 15400
+end = 15397
+

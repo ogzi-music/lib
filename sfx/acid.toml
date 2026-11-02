@@ -1,0 +1,19 @@
+name = "Acid"
+id = "acid"
+group = "sfx"
+
+[[samples]]
+file = "61.flac"
+key = 61
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 26029
+length = 24280
+end = 17498
+loop = 17121
+

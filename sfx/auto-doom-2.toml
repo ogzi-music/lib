@@ -1,0 +1,19 @@
+name = "Auto Doom"
+id = "auto-doom-2"
+group = "sfx"
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 0
+key-to = 91
+level = 127
+tune-coarse = 76
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24000
+length = 30312
+end = 30273
+loop = 8041
+

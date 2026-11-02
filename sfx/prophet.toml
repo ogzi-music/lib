@@ -1,0 +1,19 @@
+name = "Prophet"
+id = "prophet"
+group = "sfx"
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 66
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44077
+length = 9048
+end = 9025
+loop = 8621
+

@@ -1,0 +1,87 @@
+name = "Contrabass Spiccato"
+id = "contrabass-spiccato"
+group = "strings"
+midi-program = 41
+
+[[samples]]
+file = "28.flac"
+key = 28
+key-from = 0
+key-to = 127
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 54869
+
+[[samples]]
+file = "30.flac"
+key = 30
+key-from = 29
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 89836
+
+[[samples]]
+file = "32.flac"
+key = 32
+key-from = 31
+key-to = 34
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 61198
+
+[[samples]]
+file = "47.flac"
+key = 47
+key-from = 44
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 61490
+
+[[samples]]
+file = "37.flac"
+key = 37
+key-from = 35
+key-to = 38
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 50199
+
+[[samples]]
+file = "49.flac"
+key = 49
+key-from = 48
+key-to = 52
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 39836
+
+[[samples]]
+file = "42.flac"
+key = 42
+key-from = 39
+key-to = 43
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 62620
+

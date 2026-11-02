@@ -1,0 +1,37 @@
+name = "Metalofon 02"
+id = "metalofon-02"
+group = "sfx"
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-from = 0
+key-to = 117
+velocity-to = 121
+level = 121
+pan = 56
+tune-coarse = 63
+tune-fine = 83
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44092
+length = 51848
+end = 51838
+
+[[samples]]
+file = "78_2.flac"
+key = 78
+key-from = 0
+key-to = 117
+velocity-from = 122
+level = 127
+pan = 56
+tune-fine = 32
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 456864
+end = 456856
+

@@ -1,0 +1,19 @@
+name = "Gen X"
+id = "gen-x"
+group = "sfx"
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 0
+key-to = 127
+level = 127
+tune-coarse = 57
+tune-fine = 59
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24525
+length = 6360
+start = 701
+

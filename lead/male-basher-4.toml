@@ -1,0 +1,58 @@
+name = "MALE BASHER"
+id = "male-basher-4"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 29
+key-to = 30
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 14248
+end = 14246
+
+[[samples]]
+file = "50.flac"
+key = 50
+key-from = 31
+key-to = 32
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 39000
+length = 11864
+end = 10517
+loop = 231
+
+[[samples]]
+file = "52.flac"
+key = 52
+key-from = 33
+key-to = 33
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 8016
+
+[[samples]]
+file = "53.flac"
+key = 53
+key-from = 34
+key-to = 35
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31000
+length = 9240
+end = 9208
+loop = 77
+

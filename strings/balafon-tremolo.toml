@@ -1,0 +1,176 @@
+name = "Balafon Tremolo"
+id = "balafon-tremolo"
+group = "strings"
+midi-program = 46
+
+[[samples]]
+file = "63.flac"
+key = 63
+key-from = 0
+level = 127
+tune-fine = 91
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44079
+length = 119160
+end = 37814
+loop = 23783
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-from = 64
+key-to = 67
+level = 127
+tune-fine = 91
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44079
+length = 113624
+end = 51632
+loop = 28605
+
+[[samples]]
+file = "68.flac"
+key = 68
+key-to = 69
+level = 127
+tune-coarse = 65
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44125
+length = 89056
+end = 35978
+loop = 19418
+
+[[samples]]
+file = "70.flac"
+key = 70
+key-to = 71
+level = 127
+tune-fine = 87
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44098
+length = 94408
+end = 33658
+loop = 9450
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 74
+level = 127
+tune-fine = 34
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44103
+length = 102520
+end = 23407
+loop = 8853
+
+[[samples]]
+file = "75.flac"
+key = 75
+key-to = 76
+level = 127
+tune-fine = 80
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44074
+length = 96720
+end = 33982
+loop = 15336
+
+[[samples]]
+file = "77.flac"
+key = 77
+key-to = 79
+level = 127
+tune-fine = 42
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44115
+length = 102232
+end = 46201
+loop = 26707
+
+[[samples]]
+file = "80.flac"
+key = 80
+key-to = 81
+level = 127
+tune-coarse = 65
+tune-fine = 61
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44133
+length = 108376
+end = 46640
+loop = 12064
+
+[[samples]]
+file = "82.flac"
+key = 82
+key-to = 83
+level = 127
+tune-fine = 80
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44074
+length = 88472
+end = 36513
+loop = 15876
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-to = 86
+level = 127
+tune-fine = 61
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44107
+length = 94184
+end = 44711
+loop = 20273
+
+[[samples]]
+file = "87.flac"
+key = 87
+key-to = 88
+level = 127
+tune-coarse = 65
+tune-fine = 47
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44136
+length = 88024
+end = 45474
+loop = 16615
+
+[[samples]]
+file = "89.flac"
+key = 89
+key-to = 103
+level = 127
+tune-fine = 91
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44079
+length = 76200
+end = 25045
+loop = 8622
+

@@ -1,0 +1,30 @@
+name = "OnDaStreet"
+id = "ondastreet-3"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "29.flac"
+key = 29
+key-from = 39
+key-to = 39
+level = 119
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 29030
+length = 6960
+end = 6958
+
+[[samples]]
+file = "92.flac"
+key = 92
+key-from = 127
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 29000
+length = 6960
+

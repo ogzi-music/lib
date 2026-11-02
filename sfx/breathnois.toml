@@ -1,0 +1,19 @@
+name = "BreathNois"
+id = "breathnois"
+group = "sfx"
+
+[[samples]]
+file = "68.flac"
+key = 68
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 54301
+end = 54294
+loop = 20594
+

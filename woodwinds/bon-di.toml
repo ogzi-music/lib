@@ -1,0 +1,202 @@
+name = "Bon Di"
+id = "bon-di"
+group = "woodwinds"
+midi-program = 69
+
+[[samples]]
+file = "59.flac"
+key = 59
+key-from = 0
+key-to = 60
+level = 127
+tune-fine = 63
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44111
+length = 44336
+end = 44300
+loop = 34654
+
+[[samples]]
+file = "61.flac"
+key = 61
+key-to = 62
+level = 127
+tune-fine = 63
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44111
+length = 83704
+end = 83670
+loop = 69511
+
+[[samples]]
+file = "63.flac"
+key = 63
+level = 127
+tune-coarse = 65
+tune-fine = 33
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44114
+length = 144648
+end = 131401
+loop = 117521
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-to = 65
+level = 127
+tune-coarse = 65
+tune-fine = 38
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44135
+length = 136080
+end = 126465
+loop = 101801
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-to = 67
+level = 127
+tune-fine = 87
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44098
+length = 88784
+end = 82930
+loop = 45633
+
+[[samples]]
+file = "68.flac"
+key = 68
+key-to = 69
+level = 127
+tune-fine = 93
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44082
+length = 55432
+end = 51073
+loop = 49669
+
+[[samples]]
+file = "70.flac"
+key = 70
+level = 127
+tune-coarse = 65
+tune-fine = 38
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44135
+length = 68304
+end = 58961
+loop = 57123
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-to = 72
+level = 127
+tune-fine = 74
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44065
+length = 149616
+end = 148616
+loop = 66842
+
+[[samples]]
+file = "73.flac"
+key = 73
+key-to = 74
+level = 127
+tune-fine = 88
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44061
+length = 122240
+end = 122201
+loop = 53600
+
+[[samples]]
+file = "75.flac"
+key = 75
+level = 127
+tune-fine = 93
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44082
+length = 101584
+end = 99950
+loop = 85023
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-to = 77
+level = 127
+tune-fine = 71
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44072
+length = 99560
+end = 99357
+loop = 75773
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-to = 80
+level = 127
+tune-fine = 60
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44119
+length = 74984
+end = 74951
+loop = 45971
+
+[[samples]]
+file = "82.flac"
+key = 82
+key-from = 81
+level = 127
+tune-fine = 62
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44122
+length = 113728
+end = 113695
+loop = 67216
+
+[[samples]]
+file = "83.flac"
+key = 83
+key-to = 103
+level = 127
+tune-fine = 71
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44072
+length = 135648
+end = 135613
+loop = 105542
+

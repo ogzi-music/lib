@@ -1,0 +1,34 @@
+name = "VrEnsMut 2"
+id = "vrensmut-2"
+group = "strings"
+midi-program = 46
+
+[[samples]]
+file = "41.flac"
+key = 41
+key-from = 0
+key-to = 127
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 188409
+start = 1
+end = 188407
+loop = 80356
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 68
+key-to = 72
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 196620
+end = 196618
+loop = 51154
+

@@ -1,0 +1,33 @@
+name = "D-Bell Choir"
+id = "d-bell-choir"
+group = "mallets"
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 21
+key-to = 108
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 102880
+end = 102843
+loop = 36041
+
+[[samples]]
+file = "72_2.flac"
+key = 72
+key-from = 21
+key-to = 108
+round-robin = 2
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44066
+length = 102896
+end = 102843
+loop = 36041
+

@@ -1,0 +1,246 @@
+name = "Sculpture1"
+id = "sculpture1"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "95.flac"
+key = 95
+key-to = 127
+level = 127
+tune-fine = 74
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 6768
+
+[[samples]]
+file = "92.flac"
+key = 92
+key-to = 94
+level = 127
+tune-fine = 31
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 7767
+
+[[samples]]
+file = "89.flac"
+key = 89
+key-to = 91
+level = 127
+tune-fine = 37
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 10016
+
+[[samples]]
+file = "86.flac"
+key = 86
+key-to = 88
+level = 127
+tune-fine = 46
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11264
+
+[[samples]]
+file = "83.flac"
+key = 83
+key-to = 85
+level = 127
+tune-fine = 74
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 12608
+
+[[samples]]
+file = "80.flac"
+key = 80
+key-to = 82
+level = 127
+tune-fine = 32
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 10656
+
+[[samples]]
+file = "77.flac"
+key = 77
+key-to = 79
+level = 127
+tune-fine = 46
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 17088
+
+[[samples]]
+file = "74.flac"
+key = 74
+key-to = 76
+level = 127
+tune-fine = 46
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 17612
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-to = 73
+level = 127
+tune-fine = 46
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 17792
+
+[[samples]]
+file = "68.flac"
+key = 68
+key-to = 70
+level = 127
+tune-fine = 33
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11284
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-to = 67
+level = 127
+tune-fine = 41
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 19008
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-to = 64
+level = 127
+tune-fine = 46
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 16640
+
+[[samples]]
+file = "59.flac"
+key = 59
+key-to = 61
+level = 127
+tune-fine = 41
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 17212
+
+[[samples]]
+file = "56.flac"
+key = 56
+key-to = 58
+level = 127
+tune-fine = 25
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 16384
+
+[[samples]]
+file = "53.flac"
+key = 53
+key-to = 55
+level = 127
+tune-fine = 45
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 13900
+
+[[samples]]
+file = "50.flac"
+key = 50
+key-to = 52
+level = 127
+tune-fine = 46
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 10051
+
+[[samples]]
+file = "47.flac"
+key = 47
+key-to = 49
+level = 127
+tune-fine = 42
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 13152
+
+[[samples]]
+file = "44.flac"
+key = 44
+key-to = 46
+level = 127
+tune-fine = 46
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 12137
+
+[[samples]]
+file = "41.flac"
+key = 41
+key-to = 43
+level = 127
+tune-fine = 46
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 12256
+
+[[samples]]
+file = "38.flac"
+key = 38
+key-from = 0
+key-to = 40
+level = 127
+tune-fine = 46
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 9693
+

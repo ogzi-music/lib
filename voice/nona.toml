@@ -1,0 +1,19 @@
+name = "Nona"
+id = "nona"
+group = "voice"
+midi-program = 52
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 21
+key-to = 108
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48100
+length = 174600
+end = 174563
+loop = 88565
+

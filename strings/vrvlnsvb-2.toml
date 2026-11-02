@@ -1,0 +1,227 @@
+name = "VrVlnsVb 2"
+id = "vrvlnsvb-2"
+group = "strings"
+midi-program = 46
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 0
+level = 123
+tune-fine = 65
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 17818
+end = 17816
+loop = 15856
+
+[[samples]]
+file = "59.flac"
+key = 59
+key-from = 56
+level = 123
+tune-fine = 71
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 32694
+end = 32692
+loop = 22910
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-to = 61
+level = 123
+tune-fine = 75
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 25047
+end = 25045
+loop = 15194
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-from = 62
+key-to = 65
+level = 123
+tune-fine = 70
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 22205
+start = 1
+end = 22203
+loop = 11636
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 66
+level = 123
+tune-fine = 68
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 16629
+end = 16627
+loop = 6684
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 77
+level = 123
+tune-fine = 67
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 22676
+start = 1
+end = 22674
+loop = 5880
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-from = 77
+key-to = 82
+level = 123
+tune-fine = 62
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 18175
+start = 1
+end = 18173
+loop = 10376
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 83
+key-to = 93
+level = 123
+tune-fine = 61
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 15431
+start = 1
+end = 15429
+loop = 4958
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 75
+level = 123
+tune-fine = 70
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 14935
+start = 1
+end = 14933
+loop = 6242
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 79
+key-to = 82
+level = 123
+tune-fine = 65
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 29398
+start = 1
+end = 29396
+loop = 10100
+
+[[samples]]
+file = "95.flac"
+key = 95
+key-from = 94
+key-to = 127
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 51120
+end = 51118
+loop = 16790
+
+[[samples]]
+file = "86.flac"
+key = 86
+key-from = 85
+level = 123
+tune-fine = 68
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 23910
+start = 1
+end = 23908
+loop = 4910
+
+[[samples]]
+file = "88.flac"
+key = 88
+key-from = 87
+level = 123
+tune-fine = 66
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 34678
+end = 34676
+loop = 14906
+
+[[samples]]
+file = "90.flac"
+key = 90
+key-from = 89
+level = 123
+tune-fine = 68
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 43068
+end = 43066
+loop = 25012
+
+[[samples]]
+file = "74.flac"
+key = 74
+key-from = 73
+level = 123
+tune-fine = 69
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 19173
+start = 1
+end = 19171
+loop = 10050
+

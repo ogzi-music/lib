@@ -1,0 +1,18 @@
+name = "One Shot"
+id = "one-shot"
+group = "sfx"
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 51
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 34450
+length = 11992
+end = 11990
+

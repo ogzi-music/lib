@@ -1,0 +1,30 @@
+name = "10HiHatMode"
+id = "10hihatmode-3"
+group = "pad"
+midi-program = 86
+
+[[samples]]
+file = "34.flac"
+key = 34
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 34437
+length = 5456
+end = 5452
+
+[[samples]]
+file = "101.flac"
+key = 101
+key-from = 96
+key-to = 127
+level = 105
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 23749
+length = 5888
+end = 5863
+loop = 5827
+

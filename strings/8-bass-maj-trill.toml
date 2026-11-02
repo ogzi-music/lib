@@ -1,0 +1,193 @@
+name = "8 Bass Maj Trill"
+id = "8-bass-maj-trill"
+group = "strings"
+midi-program = 46
+
+[[samples]]
+file = "28.flac"
+key = 28
+key-from = 24
+key-to = 29
+level = 127
+tune-fine = 66
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 47975
+length = 166016
+end = 165961
+loop = 43777
+
+[[samples]]
+file = "33.flac"
+key = 33
+key-from = 30
+key-to = 35
+level = 127
+tune-fine = 66
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 47975
+length = 151256
+end = 151207
+loop = 45557
+
+[[samples]]
+file = "34.flac"
+key = 34
+key-from = 36
+key-to = 36
+level = 127
+tune-fine = 66
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 47975
+length = 135000
+end = 134951
+loop = 33496
+
+[[samples]]
+file = "37.flac"
+key = 37
+key-to = 40
+level = 127
+tune-fine = 66
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 47975
+length = 152008
+end = 151952
+loop = 38525
+
+[[samples]]
+file = "41.flac"
+key = 41
+level = 127
+tune-fine = 66
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 47975
+length = 158912
+end = 158860
+loop = 43150
+
+[[samples]]
+file = "46.flac"
+key = 46
+key-from = 42
+level = 127
+tune-fine = 66
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 47975
+length = 149288
+end = 149232
+loop = 35028
+
+[[samples]]
+file = "47.flac"
+key = 47
+key-to = 48
+level = 127
+tune-fine = 66
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 47975
+length = 151544
+end = 151494
+loop = 49029
+
+[[samples]]
+file = "49.flac"
+key = 49
+level = 127
+tune-fine = 66
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 47975
+length = 167448
+end = 167394
+loop = 53928
+
+[[samples]]
+file = "52.flac"
+key = 52
+key-from = 50
+key-to = 53
+level = 127
+tune-fine = 89
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 47974
+length = 170544
+end = 170494
+loop = 36501
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 54
+key-to = 56
+level = 127
+tune-fine = 87
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 47970
+length = 134728
+end = 134677
+loop = 37472
+
+[[samples]]
+file = "58.flac"
+key = 58
+key-from = 57
+key-to = 59
+level = 127
+tune-fine = 87
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 47970
+length = 160136
+end = 160084
+loop = 40650
+
+[[samples]]
+file = "61.flac"
+key = 61
+key-from = 60
+key-to = 62
+level = 127
+tune-fine = 87
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 47970
+length = 150304
+end = 150249
+loop = 49169
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-from = 63
+key-to = 67
+level = 127
+tune-fine = 94
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 47968
+length = 158424
+end = 158375
+loop = 36624
+

@@ -1,0 +1,92 @@
+name = "Dulcimer/Koto"
+id = "dulcimer-koto"
+group = "mallets"
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-from = 21
+key-to = 66
+level = 127
+pan = 63
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27790
+length = 47296
+end = 47248
+loop = 32302
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-to = 70
+level = 127
+pan = 63
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27801
+length = 39904
+end = 39853
+loop = 25826
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-to = 75
+level = 127
+pan = 63
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27790
+length = 37968
+end = 37922
+loop = 24762
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-to = 80
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27778
+length = 39544
+end = 39496
+loop = 26715
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-to = 85
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27778
+length = 49984
+end = 49936
+loop = 23362
+
+[[samples]]
+file = "86.flac"
+key = 86
+key-to = 108
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27778
+length = 36792
+end = 36747
+loop = 27668
+

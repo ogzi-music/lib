@@ -1,0 +1,17 @@
+name = "OnDaStreet"
+id = "ondastreet"
+group = "sfx"
+
+[[samples]]
+file = "93.flac"
+key = 93
+key-from = 127
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24000
+length = 9856
+end = 9852
+

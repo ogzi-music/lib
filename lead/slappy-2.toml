@@ -1,0 +1,67 @@
+name = "Slappy"
+id = "slappy-2"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "33.flac"
+key = 33
+key-from = 34
+key-to = 34
+level = 109
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 24000
+length = 6352
+end = 6347
+
+[[samples]]
+file = "45.flac"
+key = 45
+key-from = 39
+key-to = 39
+level = 119
+pan = 99
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 29030
+length = 6960
+end = 6958
+
+[[samples]]
+file = "56.flac"
+key = 56
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 6960
+end = 1944
+
+[[samples]]
+file = "92.flac"
+key = 92
+key-from = 84
+key-to = 84
+level = 112
+pan = 91
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 37451
+length = 6960
+
+[[samples]]
+file = "92_2.flac"
+key = 92
+round-robin = 2
+level = 111
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24000
+length = 1944
+

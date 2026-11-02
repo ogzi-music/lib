@@ -1,0 +1,20 @@
+name = "SOOTCaSE 000"
+id = "sootcase-000"
+group = "sfx"
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 0
+key-to = 127
+level = 127
+tune-coarse = 70
+tune-fine = 34
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 39002
+length = 55608
+end = 55596
+loop = 26179
+

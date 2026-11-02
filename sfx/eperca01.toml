@@ -1,0 +1,18 @@
+name = "EPercA01"
+id = "eperca01"
+group = "sfx"
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 20671
+start = 1
+end = 20664
+

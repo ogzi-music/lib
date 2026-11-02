@@ -1,0 +1,49 @@
+name = "Chime Release"
+id = "chime-release"
+group = "mallets"
+midi-program = 9
+
+[[samples]]
+file = "63.flac"
+key = 63
+key-from = 21
+key-to = 71
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27778
+length = 45064
+end = 45019
+loop = 32923
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 80
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27778
+length = 45960
+end = 45914
+loop = 33975
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 81
+key-to = 108
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27778
+length = 43808
+end = 43759
+loop = 32124
+

@@ -1,0 +1,17 @@
+name = "Nice Under"
+id = "nice-under"
+group = "sfx"
+
+[[samples]]
+file = "70.flac"
+key = 70
+key-from = 0
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 16974
+length = 10176
+end = 10171
+

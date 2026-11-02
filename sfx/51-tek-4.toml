@@ -1,0 +1,14 @@
+name = "51-tek-4"
+id = "51-tek-4"
+group = "sfx"
+
+[[samples]]
+file = "60.flac"
+key = 60
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 52314
+

@@ -1,0 +1,34 @@
+name = "Square Oscillators"
+id = "square-oscillators"
+group = "lead"
+midi-program = 78
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 3953
+end = 3950
+loop = 1088
+
+[[samples]]
+file = "60_2.flac"
+key = 60
+key-from = 0
+key-to = 127
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 53454
+end = 53451
+loop = 31766
+

@@ -1,0 +1,19 @@
+name = "FINALF~1"
+id = "finalf-1"
+group = "sfx"
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 50
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 838982
+end = 830657
+loop = 21194
+

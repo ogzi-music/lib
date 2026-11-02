@@ -1,0 +1,415 @@
+name = "5 Violins Spic"
+id = "5-violins-spic"
+group = "strings"
+midi-program = 46
+
+[[samples]]
+file = "55.flac"
+key = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 137816
+end = 137814
+
+[[samples]]
+file = "56.flac"
+key = 56
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 155744
+end = 155736
+
+[[samples]]
+file = "57.flac"
+key = 57
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 130664
+end = 130658
+
+[[samples]]
+file = "58.flac"
+key = 58
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 107808
+end = 107800
+
+[[samples]]
+file = "59.flac"
+key = 59
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 141680
+end = 141674
+
+[[samples]]
+file = "60.flac"
+key = 60
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 123304
+end = 123298
+
+[[samples]]
+file = "61.flac"
+key = 61
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 120648
+end = 120646
+
+[[samples]]
+file = "62.flac"
+key = 62
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 122128
+end = 122120
+
+[[samples]]
+file = "63.flac"
+key = 63
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 161824
+end = 161820
+
+[[samples]]
+file = "64.flac"
+key = 64
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 135336
+end = 135328
+
+[[samples]]
+file = "65.flac"
+key = 65
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 132664
+end = 132660
+
+[[samples]]
+file = "66.flac"
+key = 66
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 107880
+end = 107870
+
+[[samples]]
+file = "67.flac"
+key = 67
+level = 124
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 155632
+end = 155624
+
+[[samples]]
+file = "68.flac"
+key = 68
+level = 124
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 129856
+end = 129850
+
+[[samples]]
+file = "69.flac"
+key = 69
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 124928
+end = 124918
+
+[[samples]]
+file = "70.flac"
+key = 70
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 156160
+end = 156154
+
+[[samples]]
+file = "71.flac"
+key = 71
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 122512
+end = 122508
+
+[[samples]]
+file = "72.flac"
+key = 72
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 182992
+end = 182986
+
+[[samples]]
+file = "73.flac"
+key = 73
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 126728
+end = 126724
+
+[[samples]]
+file = "74.flac"
+key = 74
+level = 124
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 134200
+end = 134194
+
+[[samples]]
+file = "75.flac"
+key = 75
+level = 124
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 166048
+end = 166042
+
+[[samples]]
+file = "76.flac"
+key = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 169888
+end = 169882
+
+[[samples]]
+file = "77.flac"
+key = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 172848
+end = 172838
+
+[[samples]]
+file = "78.flac"
+key = 78
+level = 124
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 168864
+end = 168854
+
+[[samples]]
+file = "79.flac"
+key = 79
+level = 124
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 149968
+end = 149962
+
+[[samples]]
+file = "80.flac"
+key = 80
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 179288
+end = 179280
+
+[[samples]]
+file = "81.flac"
+key = 81
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 161760
+end = 161758
+
+[[samples]]
+file = "82.flac"
+key = 82
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 160904
+end = 160896
+
+[[samples]]
+file = "83.flac"
+key = 83
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 134912
+end = 134908
+
+[[samples]]
+file = "84.flac"
+key = 84
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 150952
+end = 150946
+
+[[samples]]
+file = "85.flac"
+key = 85
+level = 124
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 135136
+end = 135130
+
+[[samples]]
+file = "86.flac"
+key = 86
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 168280
+end = 168276
+
+[[samples]]
+file = "87.flac"
+key = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 145296
+end = 145290
+
+[[samples]]
+file = "88.flac"
+key = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 127360
+end = 127352
+
+[[samples]]
+file = "89.flac"
+key = 89
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 112728
+end = 112722
+
+[[samples]]
+file = "90.flac"
+key = 90
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 163112
+end = 163106
+
+[[samples]]
+file = "91.flac"
+key = 91
+key-from = 62
+key-to = 127
+level = 127
+tune-fine = 65
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 47960
+length = 138296
+end = 138292
+

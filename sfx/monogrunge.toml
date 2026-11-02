@@ -1,0 +1,19 @@
+name = "MonoGrunge"
+id = "monogrunge"
+group = "sfx"
+
+[[samples]]
+file = "57.flac"
+key = 57
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 74
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31974
+length = 4312
+end = 4278
+loop = 3699
+

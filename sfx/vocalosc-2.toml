@@ -1,0 +1,18 @@
+name = "VocalOsc 2"
+id = "vocalosc-2"
+group = "sfx"
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 56400
+end = 55849
+loop = 12253
+

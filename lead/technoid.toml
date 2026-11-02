@@ -1,0 +1,68 @@
+name = "Technoid"
+id = "technoid"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "52.flac"
+key = 52
+key-from = 12
+key-to = 77
+level = 127
+tune-coarse = 52
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 42182
+length = 528
+end = 501
+loop = 243
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 78
+key-to = 100
+level = 127
+tune-coarse = 52
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 42182
+length = 120
+end = 90
+loop = 24
+
+[[samples]]
+file = "100.flac"
+key = 100
+key-from = 101
+key-to = 119
+level = 127
+tune-coarse = 52
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 42182
+length = 48
+end = 25
+loop = 7
+
+[[samples]]
+file = "112.flac"
+key = 112
+key-from = 120
+key-to = 127
+level = 127
+tune-coarse = 52
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 42182
+length = 32
+end = 8
+

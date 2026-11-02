@@ -1,0 +1,20 @@
+name = "SprinkleItOn"
+id = "sprinkleiton-2"
+group = "sfx"
+
+[[samples]]
+file = "70.flac"
+key = 70
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 25407
+length = 59424
+start = 5939
+end = 59387
+loop = 42999
+

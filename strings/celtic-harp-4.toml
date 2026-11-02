@@ -1,0 +1,57 @@
+name = "Celtic Harp"
+id = "celtic-harp-4"
+group = "strings"
+midi-program = 44
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 75
+key-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 43511
+length = 110064
+end = 110062
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 78
+key-to = 80
+level = 127
+tune-fine = 72
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 43865
+length = 86280
+end = 86270
+
+[[samples]]
+file = "83.flac"
+key = 83
+key-from = 82
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 43462
+length = 87936
+end = 87926
+
+[[samples]]
+file = "89.flac"
+key = 89
+key-from = 87
+key-to = 90
+level = 120
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 73224
+end = 73214
+

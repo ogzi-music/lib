@@ -1,0 +1,21 @@
+name = "D-Pad"
+id = "d-pad"
+group = "pad"
+midi-program = 86
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 0
+key-to = 127
+level = 127
+tune-coarse = 63
+tune-fine = 57
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 32000
+length = 24636
+end = 24513
+loop = 169
+

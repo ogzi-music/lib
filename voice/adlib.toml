@@ -1,0 +1,44 @@
+name = "Ad Lib"
+id = "adlib"
+group = "voice"
+midi-program = 52
+
+[[samples]]
+file = "56.flac"
+key = 56
+key-from = 21
+key-to = 60
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 31300
+length = 18184
+end = 18175
+
+[[samples]]
+file = "87.flac"
+key = 87
+key-from = 61
+key-to = 89
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 22300
+length = 31440
+end = 31431
+
+[[samples]]
+file = "92.flac"
+key = 92
+key-from = 90
+key-to = 108
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 14900
+length = 34144
+end = 34135
+

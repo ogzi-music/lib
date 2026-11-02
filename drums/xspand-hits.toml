@@ -1,0 +1,15 @@
+name = "Xspand Hits"
+id = "xspand-hits"
+group = "drums"
+
+[[samples]]
+file = "36_e-bd-comp6.flac"
+key = 36
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 23051
+end = 23044
+

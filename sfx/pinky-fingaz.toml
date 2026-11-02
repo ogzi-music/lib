@@ -1,0 +1,17 @@
+name = "Pinky Fingaz"
+id = "pinky-fingaz"
+group = "sfx"
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 0
+key-to = 96
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 27523
+length = 13032
+end = 13029
+

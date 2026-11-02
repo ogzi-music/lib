@@ -1,0 +1,17 @@
+name = "121 ReverseLoop23"
+id = "121-reverseloop23"
+group = "drums"
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 353860
+end = 353704
+

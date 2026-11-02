@@ -1,0 +1,65 @@
+name = "BRASS10"
+id = "brass10"
+group = "brass"
+midi-program = 59
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 21
+key-to = 47
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 137990
+end = 137969
+loop = 123573
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-to = 108
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 168724
+end = 168705
+loop = 138467
+
+[[samples]]
+file = "36_2.flac"
+key = 36
+key-from = 21
+key-to = 47
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 137990
+end = 137969
+loop = 123573
+
+[[samples]]
+file = "48_2.flac"
+key = 48
+key-to = 108
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 168724
+end = 168705
+loop = 138467
+

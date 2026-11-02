@@ -1,0 +1,220 @@
+name = "6AGGRESS 0"
+id = "6aggress-0"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 21
+key-to = 47
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 220083
+end = 220065
+loop = 132098
+
+[[samples]]
+file = "60_2.flac"
+key = 60
+key-from = 48
+key-to = 48
+round-robin = 2
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 220083
+end = 220065
+loop = 132098
+
+[[samples]]
+file = "60_3.flac"
+key = 60
+key-from = 49
+key-to = 59
+round-robin = 3
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 220083
+end = 220065
+loop = 132098
+
+[[samples]]
+file = "60_4.flac"
+key = 60
+round-robin = 4
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 220083
+end = 220065
+loop = 132098
+
+[[samples]]
+file = "60_5.flac"
+key = 60
+key-from = 61
+key-to = 108
+round-robin = 5
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 220083
+end = 220065
+loop = 132098
+
+[[samples]]
+file = "60_6.flac"
+key = 60
+key-from = 21
+key-to = 47
+round-robin = 6
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 220083
+end = 220065
+loop = 132098
+
+[[samples]]
+file = "60_7.flac"
+key = 60
+key-from = 48
+key-to = 48
+round-robin = 7
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 220083
+end = 220065
+loop = 132098
+
+[[samples]]
+file = "60_8.flac"
+key = 60
+key-from = 49
+key-to = 59
+round-robin = 8
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 220083
+end = 220065
+loop = 132098
+
+[[samples]]
+file = "60_9.flac"
+key = 60
+round-robin = 9
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 220083
+end = 220065
+loop = 132098
+
+[[samples]]
+file = "60_10.flac"
+key = 60
+key-from = 61
+key-to = 108
+round-robin = 10
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 220083
+end = 220065
+loop = 132098
+
+[[samples]]
+file = "60_11.flac"
+key = 60
+key-from = 48
+key-to = 48
+round-robin = 11
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 220083
+end = 220065
+loop = 132098
+
+[[samples]]
+file = "60_12.flac"
+key = 60
+round-robin = 12
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 220083
+end = 220065
+loop = 132098
+
+[[samples]]
+file = "60_13.flac"
+key = 60
+key-from = 48
+key-to = 48
+round-robin = 13
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 220083
+end = 220065
+loop = 132098
+
+[[samples]]
+file = "60_14.flac"
+key = 60
+round-robin = 14
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 220083
+end = 220065
+loop = 132098
+

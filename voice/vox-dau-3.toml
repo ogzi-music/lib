@@ -1,0 +1,267 @@
+name = "Vox Dau"
+id = "vox-dau-3"
+group = "voice"
+midi-program = 52
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 0
+key-to = 53
+level = 127
+pan = 1
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 25282
+end = 25271
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 54
+key-to = 55
+level = 127
+pan = 1
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 22418
+start = 1
+end = 22407
+
+[[samples]]
+file = "63.flac"
+key = 63
+key-from = 56
+key-to = 59
+level = 125
+pan = 1
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 23774
+start = 3
+end = 23762
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 60
+key-to = 63
+level = 125
+pan = 1
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 24618
+end = 24608
+loop = 24416
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 64
+key-to = 68
+level = 125
+pan = 1
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 24810
+end = 24800
+
+[[samples]]
+file = "77.flac"
+key = 77
+key-from = 69
+key-to = 74
+level = 127
+pan = 1
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 24466
+end = 24453
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 75
+key-to = 78
+level = 127
+pan = 1
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 26638
+start = 1
+end = 26627
+
+[[samples]]
+file = "88.flac"
+key = 88
+key-from = 79
+key-to = 127
+level = 125
+pan = 1
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 19295
+start = 1
+end = 19287
+loop = 19034
+
+[[samples]]
+file = "56.flac"
+key = 56
+key-from = 0
+key-to = 53
+level = 127
+pan = 127
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 23886
+end = 23876
+
+[[samples]]
+file = "61.flac"
+key = 61
+key-from = 54
+key-to = 58
+level = 127
+pan = 127
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 24182
+start = 2
+end = 24170
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-from = 59
+key-to = 61
+level = 127
+pan = 127
+tune-fine = 103
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 26370
+end = 26360
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 62
+key-to = 64
+level = 127
+pan = 127
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 24138
+end = 24128
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 65
+key-to = 67
+level = 127
+pan = 127
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 24050
+end = 24040
+
+[[samples]]
+file = "75.flac"
+key = 75
+key-from = 68
+key-to = 73
+level = 127
+pan = 127
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 24686
+end = 24676
+
+[[samples]]
+file = "77_2.flac"
+key = 77
+key-from = 74
+key-to = 79
+round-robin = 2
+level = 127
+pan = 127
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 27850
+end = 27840
+
+[[samples]]
+file = "80.flac"
+key = 80
+key-to = 86
+level = 127
+pan = 127
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 28366
+start = 1
+end = 28354
+
+[[samples]]
+file = "87.flac"
+key = 87
+key-to = 127
+level = 127
+pan = 127
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 26487
+end = 26480
+

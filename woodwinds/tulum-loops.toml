@@ -1,0 +1,41 @@
+name = "Tulum Loops"
+id = "tulum-loops"
+group = "woodwinds"
+midi-program = 71
+
+[[samples]]
+file = "38.flac"
+key = 38
+level = 127
+tune-fine = 59
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 307732
+loop = 305932
+
+[[samples]]
+file = "37.flac"
+key = 37
+level = 127
+tune-fine = 56
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 309185
+loop = 306298
+
+[[samples]]
+file = "36.flac"
+key = 36
+level = 127
+tune-fine = 59
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 257006
+loop = 255008
+

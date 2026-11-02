@@ -1,0 +1,17 @@
+name = "126 ReverseGroove17"
+id = "126-reversegroove17"
+group = "drums"
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 50835
+end = 46584
+

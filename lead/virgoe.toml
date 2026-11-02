@@ -1,0 +1,35 @@
+name = "VIRGOE"
+id = "virgoe"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "43.flac"
+key = 43
+key-from = 0
+key-to = 53
+level = 127
+pan = 1
+tune-coarse = 76
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 36000
+length = 98264
+end = 98231
+loop = 40917
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 54
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 11250
+length = 14400
+end = 14371
+loop = 14197
+

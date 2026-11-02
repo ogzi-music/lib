@@ -1,0 +1,17 @@
+name = "MuSic2DrIvBy"
+id = "music2drivby"
+group = "sfx"
+
+[[samples]]
+file = "46.flac"
+key = 46
+key-from = 70
+key-to = 70
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 31000
+length = 4544
+end = 4542
+

@@ -1,0 +1,78 @@
+name = "Violetta"
+id = "violetta"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-from = 0
+key-to = 57
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28120
+length = 15832
+end = 15829
+loop = 15753
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 58
+key-to = 63
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27216
+length = 16376
+end = 16373
+loop = 16321
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 64
+key-to = 69
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28127
+length = 14945
+end = 14942
+loop = 14904
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 70
+key-to = 75
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27216
+length = 11399
+end = 11396
+loop = 11370
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-from = 76
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28120
+length = 9206
+end = 9203
+loop = 9184
+

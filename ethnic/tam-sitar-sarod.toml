@@ -1,0 +1,85 @@
+name = "Tam/Sitar/Sarod"
+id = "tam-sitar-sarod"
+group = "ethnic"
+
+[[samples]]
+file = "37.flac"
+key = 37
+key-from = 21
+key-to = 54
+level = 127
+pan = 63
+tune-fine = 54
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27800
+length = 117392
+end = 117343
+loop = 17596
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-from = 55
+key-to = 64
+level = 127
+pan = 63
+tune-fine = 54
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27800
+length = 112976
+end = 112926
+loop = 93382
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 65
+key-to = 71
+level = 127
+pan = 63
+tune-fine = 54
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27800
+length = 101256
+end = 101208
+loop = 85643
+
+[[samples]]
+file = "73.flac"
+key = 73
+key-from = 72
+key-to = 83
+level = 127
+pan = 63
+tune-coarse = 63
+tune-fine = 81
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27770
+length = 106048
+end = 105794
+loop = 81300
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-to = 108
+level = 127
+pan = 63
+tune-coarse = 63
+tune-fine = 81
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27770
+length = 67312
+end = 67266
+loop = 46920
+

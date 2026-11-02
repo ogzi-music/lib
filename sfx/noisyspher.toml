@@ -1,0 +1,18 @@
+name = "NoisySpher"
+id = "noisyspher"
+group = "sfx"
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 0
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 315136
+end = 313345
+loop = 6144
+

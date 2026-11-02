@@ -1,0 +1,35 @@
+name = "SOOTCaSE 000"
+id = "sootcase-000"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "50.flac"
+key = 50
+key-from = 0
+key-to = 56
+level = 127
+tune-coarse = 69
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27972
+length = 8088
+end = 8059
+loop = 7676
+
+[[samples]]
+file = "57.flac"
+key = 57
+key-to = 127
+level = 127
+tune-coarse = 69
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28483
+length = 5680
+end = 5657
+loop = 5396
+

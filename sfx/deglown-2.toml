@@ -1,0 +1,19 @@
+name = "DeGlown"
+id = "deglown-2"
+group = "sfx"
+
+[[samples]]
+file = "56.flac"
+key = 56
+key-from = 0
+key-to = 96
+level = 127
+tune-fine = 57
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24014
+length = 2968
+end = 2939
+loop = 2476
+

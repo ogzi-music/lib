@@ -1,0 +1,17 @@
+name = "Chickn'1"
+id = "chickn-1"
+group = "sfx"
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 26016
+length = 12856
+end = 12851
+

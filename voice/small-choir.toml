@@ -1,0 +1,49 @@
+name = "Small Choir"
+id = "small-choir"
+group = "voice"
+midi-program = 50
+
+[[samples]]
+file = "52.flac"
+key = 52
+key-from = 21
+key-to = 56
+level = 127
+tune-fine = 73
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48073
+length = 98824
+end = 98791
+loop = 16085
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-from = 57
+level = 127
+tune-fine = 73
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48073
+length = 129032
+end = 128998
+loop = 27320
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 66
+key-to = 108
+level = 127
+tune-fine = 73
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48073
+length = 71823
+end = 71820
+loop = 15848
+

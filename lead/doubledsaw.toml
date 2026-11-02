@@ -1,0 +1,92 @@
+name = "DoubledSaw"
+id = "doubledsaw"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 0
+key-to = 42
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 193202
+end = 193190
+loop = 676
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 43
+key-to = 54
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 103482
+end = 103470
+loop = 1516
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 55
+key-to = 66
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 55486
+end = 55476
+loop = 168
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 67
+key-to = 78
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 38342
+start = 3
+end = 38329
+loop = 88
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 79
+key-to = 90
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 15298
+start = 2
+end = 15288
+loop = 44
+
+[[samples]]
+file = "96.flac"
+key = 96
+key-from = 91
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 8966
+start = 2
+end = 8955
+loop = 56
+

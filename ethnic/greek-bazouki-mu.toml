@@ -1,0 +1,252 @@
+name = "Greek Bazouki Mu"
+id = "greek-bazouki-mu"
+group = "ethnic"
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 0
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 25936
+end = 25926
+
+[[samples]]
+file = "50.flac"
+key = 50
+key-from = 49
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 53480
+end = 53472
+
+[[samples]]
+file = "52.flac"
+key = 52
+key-from = 51
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 44552
+end = 44542
+
+[[samples]]
+file = "53.flac"
+key = 53
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 48944
+end = 48936
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 38536
+end = 38526
+
+[[samples]]
+file = "57.flac"
+key = 57
+key-from = 56
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 33936
+end = 33930
+
+[[samples]]
+file = "59.flac"
+key = 59
+key-from = 58
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 30992
+end = 30984
+
+[[samples]]
+file = "60.flac"
+key = 60
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 30144
+end = 30138
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-from = 61
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 28560
+end = 28554
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-from = 63
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 23072
+end = 23066
+
+[[samples]]
+file = "65.flac"
+key = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 32840
+end = 32830
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 37008
+end = 37006
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 68
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 30720
+end = 30716
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 70
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 34128
+end = 34124
+
+[[samples]]
+file = "72.flac"
+key = 72
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 18704
+end = 18694
+
+[[samples]]
+file = "74.flac"
+key = 74
+key-from = 73
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 14624
+end = 14618
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 75
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11264
+end = 11254
+
+[[samples]]
+file = "77.flac"
+key = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 21152
+end = 21148
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 78
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 24264
+end = 24254
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 80
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 23872
+end = 23870
+
+[[samples]]
+file = "83.flac"
+key = 83
+key-from = 82
+key-to = 96
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 26184
+end = 26174
+

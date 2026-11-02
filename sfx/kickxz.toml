@@ -1,0 +1,17 @@
+name = "KickXZ"
+id = "kickxz"
+group = "sfx"
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 0
+key-to = 127
+level = 127
+tune-coarse = 40
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 7904
+

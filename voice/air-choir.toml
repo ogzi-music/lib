@@ -1,0 +1,74 @@
+name = "Air Choir"
+id = "air-choir"
+group = "voice"
+midi-program = 50
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-from = 21
+key-to = 68
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31300
+length = 88840
+end = 88806
+loop = 35034
+
+[[samples]]
+file = "77.flac"
+key = 77
+key-from = 69
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48100
+length = 172224
+end = 172188
+loop = 70510
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 78
+key-to = 108
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48100
+length = 106504
+end = 106472
+loop = 49578
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 21
+key-to = 78
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 96040
+end = 96007
+loop = 28657
+
+[[samples]]
+file = "83.flac"
+key = 83
+key-from = 79
+key-to = 108
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 95928
+end = 95893
+loop = 70241
+

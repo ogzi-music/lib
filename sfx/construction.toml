@@ -1,0 +1,15 @@
+name = "Construction"
+id = "construction"
+group = "sfx"
+
+[[samples]]
+file = "39.flac"
+key = 39
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 31000
+length = 7928
+end = 7921
+

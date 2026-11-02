@@ -1,0 +1,16 @@
+name = "54-Roll1-2"
+id = "54-roll1-2"
+group = "sfx"
+
+[[samples]]
+file = "60.flac"
+key = 60
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 16696
+end = 16642
+loop = 404
+

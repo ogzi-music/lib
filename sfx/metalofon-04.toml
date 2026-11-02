@@ -1,0 +1,37 @@
+name = "Metalofon 04"
+id = "metalofon-04"
+group = "sfx"
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 0
+key-to = 117
+velocity-to = 121
+level = 127
+pan = 56
+tune-coarse = 63
+tune-fine = 83
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44092
+length = 89608
+end = 89598
+
+[[samples]]
+file = "76_2.flac"
+key = 76
+key-from = 0
+key-to = 117
+velocity-from = 122
+level = 127
+pan = 56
+tune-fine = 32
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 176648
+end = 176638
+

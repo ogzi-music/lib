@@ -1,0 +1,89 @@
+name = "My Main Man"
+id = "my-main-man-2"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "15.flac"
+key = 15
+key-from = 39
+key-to = 39
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28409
+length = 20616
+end = 20587
+loop = 26
+
+[[samples]]
+file = "46.flac"
+key = 46
+key-from = 51
+key-to = 51
+level = 127
+tune-fine = 84
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44080
+length = 12216
+end = 12177
+loop = 10650
+
+[[samples]]
+file = "52.flac"
+key = 52
+key-from = 60
+key-to = 60
+level = 127
+tune-fine = 82
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 29984
+length = 7368
+end = 7281
+loop = 6547
+
+[[samples]]
+file = "61.flac"
+key = 61
+key-from = 66
+key-to = 66
+level = 127
+tune-fine = 76
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 29978
+length = 9456
+end = 9426
+loop = 8988
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 69
+key-to = 69
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24509
+length = 25024
+end = 25019
+
+[[samples]]
+file = "82.flac"
+key = 82
+key-from = 70
+key-to = 70
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 21000
+length = 8504
+

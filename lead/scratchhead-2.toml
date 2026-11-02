@@ -1,0 +1,30 @@
+name = "ScratchHead"
+id = "scratchhead-2"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 0
+key-to = 35
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 22050
+length = 2632
+end = 2626
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 76
+key-to = 95
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 31000
+length = 16968
+

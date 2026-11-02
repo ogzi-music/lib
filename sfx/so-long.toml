@@ -1,0 +1,19 @@
+name = "So long"
+id = "so-long"
+group = "sfx"
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 76
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 69264
+end = 67710
+loop = 3552
+

@@ -1,0 +1,68 @@
+name = "Koto"
+id = "koto"
+group = "ethnic"
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-from = 21
+key-to = 70
+level = 127
+pan = 63
+tune-fine = 68
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27765
+length = 31440
+end = 31382
+loop = 31191
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 71
+key-to = 79
+level = 127
+pan = 63
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27790
+length = 25928
+end = 25873
+loop = 25788
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 80
+key-to = 84
+level = 127
+pan = 63
+tune-fine = 60
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27790
+length = 22376
+end = 22317
+loop = 22253
+
+[[samples]]
+file = "86.flac"
+key = 86
+key-from = 85
+key-to = 108
+level = 127
+pan = 63
+tune-fine = 54
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27800
+length = 28384
+end = 28328
+loop = 28280
+

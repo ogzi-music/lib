@@ -1,0 +1,19 @@
+name = "QuietTime"
+id = "quiettime"
+group = "sfx"
+
+[[samples]]
+file = "70.flac"
+key = 70
+key-from = 0
+key-to = 115
+level = 127
+tune-coarse = 40
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 32044
+length = 30792
+end = 30758
+loop = 12964
+

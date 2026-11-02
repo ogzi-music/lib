@@ -1,0 +1,19 @@
+name = "BoogieBAbY"
+id = "boogiebaby"
+group = "sfx"
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 23002
+length = 28784
+start = 4532
+end = 28548
+loop = 87
+

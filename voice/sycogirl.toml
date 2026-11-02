@@ -1,0 +1,34 @@
+name = "SycoGirL"
+id = "sycogirl"
+group = "voice"
+
+[[samples]]
+file = "63.flac"
+key = 63
+key-from = 21
+key-to = 84
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 43563
+length = 816
+end = 791
+loop = 719
+
+[[samples]]
+file = "87.flac"
+key = 87
+key-from = 85
+key-to = 108
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 42314
+length = 752
+end = 722
+loop = 703
+

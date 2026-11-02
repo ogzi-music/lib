@@ -1,0 +1,19 @@
+name = "FemmeDoTell"
+id = "femmedotell"
+group = "sfx"
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 0
+key-to = 99
+level = 127
+tune-coarse = 68
+tune-fine = 79
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24501
+length = 6824
+end = 6818
+

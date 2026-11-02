@@ -1,0 +1,161 @@
+name = "FM Brass 1"
+id = "fm-brass-1"
+group = "brass"
+midi-program = 59
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 24
+key-to = 43
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 153963
+end = 153956
+loop = 96068
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 44
+key-to = 55
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 148851
+end = 148844
+loop = 91817
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 56
+key-to = 67
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 150222
+end = 150215
+loop = 92041
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 68
+key-to = 79
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 140235
+end = 140228
+loop = 92018
+
+[[samples]]
+file = "72_2.flac"
+key = 72
+key-from = 80
+key-to = 96
+round-robin = 2
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 140235
+end = 140228
+loop = 92018
+
+[[samples]]
+file = "36_2.flac"
+key = 36
+key-from = 24
+key-to = 43
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 153963
+end = 153956
+loop = 96068
+
+[[samples]]
+file = "48_2.flac"
+key = 48
+key-from = 44
+key-to = 55
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 148851
+end = 148844
+loop = 91817
+
+[[samples]]
+file = "60_2.flac"
+key = 60
+key-from = 56
+key-to = 67
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 150222
+end = 150215
+loop = 92041
+
+[[samples]]
+file = "72_3.flac"
+key = 72
+key-from = 68
+key-to = 79
+round-robin = 3
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 140235
+end = 140228
+loop = 92018
+
+[[samples]]
+file = "72_4.flac"
+key = 72
+key-from = 80
+key-to = 96
+round-robin = 4
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 140235
+end = 140228
+loop = 92018
+

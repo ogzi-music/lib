@@ -44,8 +44,8 @@ Ogzi TOML Fields
 - `id`: Internal name, should be the same as the audio files directory name.
 - `group` (_optional_): Instrument group the library belongs to. Groups follow the
   General MIDI instrument families and mirror the sections of `index.toml`:
-  `bass`, `brass`, `drums`, `ethnic`, `guitar`, `mallets`, `organ`, `pad`,
-  `piano`, `strings`, `woodwinds`.
+  `bass`, `brass`, `drums`, `ethnic`, `guitar`, `lead`, `mallets`, `organ`,
+  `pad`, `piano`, `sfx`, `strings`, `voice`, `woodwinds`.
 - `midi-program` (_optional_): General MIDI program number, from `0` to `127`,
   identifying the instrument the samples represent (e.g. `64` for a tenor sax).
   Omitted for instruments that have no natural GM counterpart (drum kits, effects).

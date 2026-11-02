@@ -1,0 +1,19 @@
+name = "MeltingHartz"
+id = "meltinghartz-2"
+group = "sfx"
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 0
+key-to = 103
+level = 127
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24012
+length = 20328
+end = 20290
+loop = 17126
+

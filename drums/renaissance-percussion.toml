@@ -1,0 +1,106 @@
+name = "Renaissance Percussion"
+id = "renaissance-percussion"
+group = "drums"
+
+[[samples]]
+file = "35_stomp.flac"
+key = 35
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 211502
+
+[[samples]]
+file = "36_slam.flac"
+key = 36
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 21715
+
+[[samples]]
+file = "39_humanclap1.flac"
+key = 39
+round-robin = 1
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 1928
+
+[[samples]]
+file = "39_humanclap2.flac"
+key = 39
+round-robin = 2
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 800
+
+[[samples]]
+file = "83_hurdygearcrank-a.flac"
+key = 83
+round-robin = 1
+level = 127
+tune-coarse = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 120590
+end = 111502
+loop = 4452
+
+[[samples]]
+file = "83_hurdygearcrank-b.flac"
+key = 83
+round-robin = 2
+level = 127
+tune-coarse = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 120590
+end = 116941
+loop = 1971
+
+[[samples]]
+file = "82_mechanism.flac"
+key = 82
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 58091
+end = 57360
+
+[[samples]]
+file = "76_castintrol.flac"
+key = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 15405
+
+[[samples]]
+file = "39_largeclaps.flac"
+key = 39
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11247
+

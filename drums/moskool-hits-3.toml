@@ -1,0 +1,37 @@
+name = "Moskool Hits"
+id = "moskool-hits-3"
+group = "drums"
+
+[[samples]]
+file = "39_dryclaps.flac"
+key = 39
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 10200
+
+[[samples]]
+file = "42_whatimabout.flac"
+key = 42
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 45714
+
+[[samples]]
+file = "42_knowwhatvcdr.flac"
+key = 42
+round-robin = 2
+level = 127
+tune-coarse = 59
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 59072
+

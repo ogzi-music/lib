@@ -1,0 +1,19 @@
+name = "JoVox"
+id = "jovox"
+group = "sfx"
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 32044
+length = 5664
+start = 798
+end = 5628
+loop = 1938
+

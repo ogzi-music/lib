@@ -1,0 +1,14 @@
+name = "17-F-Dum"
+id = "17-f-dum"
+group = "sfx"
+
+[[samples]]
+file = "60.flac"
+key = 60
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 15910
+

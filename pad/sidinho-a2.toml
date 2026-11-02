@@ -1,0 +1,14 @@
+name = "Sidinho A2"
+id = "sidinho-a2"
+group = "pad"
+
+[[samples]]
+file = "57.flac"
+key = 57
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 208088
+

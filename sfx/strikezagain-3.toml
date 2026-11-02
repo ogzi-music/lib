@@ -1,0 +1,18 @@
+name = "StrikezAgain"
+id = "strikezagain-3"
+group = "sfx"
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24012
+length = 8480
+end = 8477
+

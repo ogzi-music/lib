@@ -1,0 +1,50 @@
+name = "Funk Pop 2"
+id = "funk-pop-2"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "40.flac"
+key = 40
+key-from = 0
+key-to = 44
+level = 127
+tune-fine = 66
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 30984
+length = 63776
+end = 63738
+loop = 62985
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 45
+key-to = 51
+level = 127
+tune-fine = 57
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 31019
+length = 50648
+end = 50604
+loop = 50129
+
+[[samples]]
+file = "56.flac"
+key = 56
+key-from = 52
+key-to = 127
+level = 127
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 30992
+length = 45272
+end = 45243
+loop = 44942
+

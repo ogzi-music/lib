@@ -1,0 +1,19 @@
+name = "Ambi-Shak"
+id = "ambi-shak"
+group = "sfx"
+
+[[samples]]
+file = "57.flac"
+key = 57
+key-from = 21
+key-to = 108
+level = 127
+pan = 63
+tune-fine = 74
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 27755
+length = 120048
+end = 120042
+

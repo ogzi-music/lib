@@ -1,0 +1,130 @@
+name = "DialTone"
+id = "dialtone-2"
+group = "woodwinds"
+midi-program = 63
+
+[[samples]]
+file = "15.flac"
+key = 15
+key-from = 39
+key-to = 39
+level = 123
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28409
+length = 20616
+end = 20587
+loop = 26
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 69
+key-to = 69
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24509
+length = 25024
+end = 25019
+
+[[samples]]
+file = "82.flac"
+key = 82
+key-from = 70
+key-to = 70
+level = 124
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 21000
+length = 8504
+
+[[samples]]
+file = "108.flac"
+key = 108
+key-from = 73
+key-to = 73
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 30538
+length = 13744
+
+[[samples]]
+file = "82_2.flac"
+key = 82
+round-robin = 2
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 31000
+length = 10936
+end = 10929
+
+[[samples]]
+file = "84.flac"
+key = 84
+level = 121
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 37451
+length = 48448
+end = 48445
+
+[[samples]]
+file = "85.flac"
+key = 85
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 18481
+length = 9536
+end = 9529
+
+[[samples]]
+file = "91.flac"
+key = 91
+key-from = 86
+key-to = 86
+level = 124
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 26902
+length = 11416
+end = 11409
+
+[[samples]]
+file = "81_2.flac"
+key = 81
+key-from = 87
+key-to = 87
+round-robin = 2
+level = 124
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 24000
+length = 23200
+
+[[samples]]
+file = "116.flac"
+key = 116
+key-from = 104
+key-to = 104
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 32044
+length = 20280
+end = 20246
+loop = 12
+

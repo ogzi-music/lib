@@ -1,0 +1,250 @@
+name = "Dcp Free Hits"
+id = "dcp-free-hits"
+group = "drums"
+
+[[samples]]
+file = "42_knowwhati-msayin.flac"
+key = 42
+round-robin = 1
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 39877
+
+[[samples]]
+file = "49_crash-1-s.flac"
+key = 49
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 317650
+
+[[samples]]
+file = "42_hihatsabian-slosh.flac"
+key = 42
+round-robin = 2
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 155900
+
+[[samples]]
+file = "42_hihatsabian-shank-1.flac"
+key = 42
+round-robin = 3
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 21453
+
+[[samples]]
+file = "42_hihatsabian-tip-1-3.flac"
+key = 42
+velocity-to = 94
+round-robin = 4
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11133
+
+[[samples]]
+file = "42_hihatsabian-tip-1-3_2.flac"
+key = 42
+velocity-from = 95
+velocity-to = 116
+round-robin = 4
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11782
+
+[[samples]]
+file = "42_hihatsabian-tip-1-3_3.flac"
+key = 42
+velocity-from = 117
+round-robin = 4
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 15726
+
+[[samples]]
+file = "42_hihatsabianfoot-cl.flac"
+key = 42
+round-robin = 5
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 8269
+
+[[samples]]
+file = "42_hihatzldjianfootopn2.flac"
+key = 42
+round-robin = 6
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 391169
+
+[[samples]]
+file = "49_cym16-crash.flac"
+key = 49
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 557147
+
+[[samples]]
+file = "51_cym20-ride-bel.flac"
+key = 51
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 1041492
+
+[[samples]]
+file = "51_cym20-brsh-ride.flac"
+key = 51
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 620470
+
+[[samples]]
+file = "37_tom-slngr-rim-1.flac"
+key = 37
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 168053
+
+[[samples]]
+file = "37_tom-slngr-rim-2.flac"
+key = 37
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 172738
+
+[[samples]]
+file = "39_clap-single-1.flac"
+key = 39
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 37125
+
+[[samples]]
+file = "54_tambourine-hit.flac"
+key = 54
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 17526
+
+[[samples]]
+file = "51_cym16-ping-ride.flac"
+key = 51
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 547671
+
+[[samples]]
+file = "51_cym16-ride-bel-1-2.flac"
+key = 51
+velocity-from = 108
+round-robin = 4
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 562618
+
+[[samples]]
+file = "51_cym16-ride-bel-1-2_2.flac"
+key = 51
+velocity-to = 107
+round-robin = 4
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 525632
+
+[[samples]]
+file = "47_tom-dw-hi.flac"
+key = 47
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 304802
+
+[[samples]]
+file = "47_tom-dw-flr.flac"
+key = 47
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 466819
+
+[[samples]]
+file = "47_tomgretsch-hi.flac"
+key = 47
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 148365
+

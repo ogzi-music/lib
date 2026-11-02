@@ -1,0 +1,82 @@
+name = "Duz Zurna"
+id = "duz-zurna"
+group = "woodwinds"
+
+[[samples]]
+file = "83.flac"
+key = 83
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 25018
+end = 24413
+loop = 23041
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 80
+key-to = 82
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 54171
+end = 53426
+loop = 51974
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-to = 79
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 32223
+end = 31354
+loop = 29211
+
+[[samples]]
+file = "77.flac"
+key = 77
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 39690
+end = 39091
+loop = 37512
+
+[[samples]]
+file = "75.flac"
+key = 75
+key-to = 76
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 69379
+end = 68844
+loop = 65654
+
+[[samples]]
+file = "74.flac"
+key = 74
+key-from = 0
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 87486
+end = 87321
+loop = 81462
+

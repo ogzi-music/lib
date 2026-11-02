@@ -1,0 +1,129 @@
+name = "VrVlaSpc"
+id = "vrvlaspc"
+group = "strings"
+midi-program = 46
+
+[[samples]]
+file = "59.flac"
+key = 59
+key-from = 58
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 41575
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 0
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 86738
+
+[[samples]]
+file = "50.flac"
+key = 50
+key-from = 49
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 55610
+
+[[samples]]
+file = "52.flac"
+key = 52
+key-from = 51
+key-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 65003
+
+[[samples]]
+file = "57.flac"
+key = 57
+key-from = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 60156
+
+[[samples]]
+file = "60.flac"
+key = 60
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 49937
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-from = 61
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 73359
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-from = 63
+key-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 41449
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 67
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 46394
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 70
+key-to = 73
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 47612
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 74
+key-to = 120
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 38160
+

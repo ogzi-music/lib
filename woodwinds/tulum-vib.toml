@@ -1,0 +1,48 @@
+name = "Tulum Vib."
+id = "tulum-vib"
+group = "woodwinds"
+midi-program = 71
+
+[[samples]]
+file = "86.flac"
+key = 86
+key-to = 127
+level = 127
+tune-fine = 56
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 28621
+end = 28618
+loop = 11999
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-to = 85
+level = 127
+tune-fine = 66
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 24267
+end = 24264
+loop = 3111
+
+[[samples]]
+file = "82.flac"
+key = 82
+key-from = 0
+key-to = 83
+level = 127
+tune-fine = 35
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 33845
+end = 33842
+loop = 13119
+

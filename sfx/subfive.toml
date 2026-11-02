@@ -1,0 +1,19 @@
+name = "SubFive"
+id = "subfive"
+group = "sfx"
+
+[[samples]]
+file = "112.flac"
+key = 112
+key-from = 127
+key-to = 127
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 42193
+length = 48
+end = 19
+loop = 1
+

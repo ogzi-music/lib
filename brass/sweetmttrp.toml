@@ -1,0 +1,303 @@
+name = "SweetMtTrp"
+id = "sweetmttrp"
+group = "brass"
+midi-program = 57
+
+[[samples]]
+file = "59.flac"
+key = 59
+key-from = 0
+key-to = 55
+level = 121
+tune-fine = 82
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 48638
+start = 3
+end = 48626
+loop = 39924
+
+[[samples]]
+file = "61.flac"
+key = 61
+key-from = 56
+key-to = 58
+level = 121
+tune-fine = 94
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 40058
+end = 40048
+loop = 31380
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-from = 59
+key-to = 59
+level = 121
+tune-fine = 91
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 35318
+start = 1
+end = 35307
+loop = 26712
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-from = 60
+key-to = 62
+level = 121
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 34366
+start = 3
+end = 34356
+loop = 25412
+
+[[samples]]
+file = "68.flac"
+key = 68
+key-from = 63
+key-to = 64
+level = 123
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 39626
+start = 3
+end = 39616
+loop = 31648
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 65
+key-to = 65
+level = 123
+tune-fine = 91
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 39186
+start = 3
+end = 39174
+loop = 30560
+
+[[samples]]
+file = "70.flac"
+key = 70
+key-from = 66
+key-to = 67
+level = 123
+tune-fine = 96
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 32850
+start = 1
+end = 32837
+loop = 24376
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 68
+key-to = 68
+level = 125
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 38986
+start = 1
+end = 38974
+loop = 30564
+
+[[samples]]
+file = "73.flac"
+key = 73
+key-from = 69
+key-to = 70
+level = 123
+tune-fine = 96
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 38254
+start = 1
+end = 38243
+loop = 30556
+
+[[samples]]
+file = "75.flac"
+key = 75
+key-from = 71
+key-to = 73
+level = 123
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 47534
+start = 2
+end = 47523
+loop = 39216
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 74
+key-to = 76
+level = 121
+tune-fine = 93
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 38767
+start = 1
+end = 38760
+loop = 31304
+
+[[samples]]
+file = "82.flac"
+key = 82
+key-from = 77
+key-to = 79
+level = 121
+tune-fine = 86
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 42350
+end = 42340
+loop = 34236
+
+[[samples]]
+file = "85.flac"
+key = 85
+key-from = 80
+key-to = 81
+level = 123
+tune-fine = 93
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 34094
+start = 3
+end = 34084
+loop = 26016
+
+[[samples]]
+file = "86.flac"
+key = 86
+key-from = 82
+key-to = 84
+level = 121
+tune-fine = 90
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 38774
+start = 1
+end = 38761
+loop = 30924
+
+[[samples]]
+file = "88.flac"
+key = 88
+key-from = 85
+level = 123
+tune-fine = 90
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 33801
+start = 1
+end = 33794
+loop = 25168
+
+[[samples]]
+file = "88_2.flac"
+key = 88
+key-from = 89
+key-to = 93
+round-robin = 2
+level = 127
+tune-fine = 91
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 7689
+end = 7682
+loop = 7408
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 94
+key-to = 102
+level = 127
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 6143
+end = 6136
+loop = 5968
+
+[[samples]]
+file = "89.flac"
+key = 89
+key-from = 103
+key-to = 108
+level = 123
+tune-fine = 80
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 1895
+end = 1888
+loop = 1856
+
+[[samples]]
+file = "77.flac"
+key = 77
+key-from = 109
+key-to = 127
+level = 121
+tune-fine = 80
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 1127
+end = 1120
+loop = 1056
+

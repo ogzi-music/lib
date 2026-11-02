@@ -1,0 +1,18 @@
+name = "NoMoreKlav"
+id = "nomoreklav"
+group = "sfx"
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 0
+key-to = 103
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 32000
+length = 18784
+end = 18758
+loop = 18431
+

@@ -1,0 +1,90 @@
+name = "VrTrem 2"
+id = "vrtrem-2"
+group = "strings"
+midi-program = 46
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-from = 0
+key-to = 50
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 126082
+end = 126080
+loop = 19842
+
+[[samples]]
+file = "56.flac"
+key = 56
+key-from = 51
+key-to = 59
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 96999
+end = 96997
+loop = 13886
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 60
+key-to = 70
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 106554
+end = 106552
+loop = 19114
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 71
+key-to = 85
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 125475
+end = 125473
+loop = 33458
+
+[[samples]]
+file = "91.flac"
+key = 91
+key-from = 86
+key-to = 95
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 115136
+end = 115134
+loop = 41886
+
+[[samples]]
+file = "101.flac"
+key = 101
+key-from = 96
+key-to = 127
+level = 123
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 204223
+start = 1
+end = 204221
+loop = 38754
+

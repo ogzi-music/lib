@@ -1,0 +1,33 @@
+name = "Strings Sordino"
+id = "strings-sordino"
+group = "strings"
+midi-program = 46
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-from = 66
+key-to = 127
+level = 127
+tune-fine = 73
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 9992
+loop = 9714
+
+[[samples]]
+file = "41.flac"
+key = 41
+key-from = 24
+key-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 12648
+start = 1
+loop = 12098
+

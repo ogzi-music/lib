@@ -1,0 +1,19 @@
+name = "Forma Vox"
+id = "forma-vox"
+group = "voice"
+midi-program = 52
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 0
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 119443
+end = 119384
+loop = 122
+

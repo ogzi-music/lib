@@ -1,0 +1,19 @@
+name = "VINYL 73"
+id = "vinyl-73"
+group = "sfx"
+
+[[samples]]
+file = "68.flac"
+key = 68
+key-from = 0
+key-to = 127
+level = 127
+tune-coarse = 69
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 30000
+length = 35600
+end = 35563
+loop = 25141
+

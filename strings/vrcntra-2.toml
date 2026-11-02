@@ -1,0 +1,34 @@
+name = "VrCntra 2"
+id = "vrcntra-2"
+group = "strings"
+midi-program = 46
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-from = 0
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 57843
+start = 1
+end = 57841
+loop = 40150
+
+[[samples]]
+file = "35.flac"
+key = 35
+key-from = 24
+key-to = 34
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 84971
+end = 84969
+loop = 72484
+

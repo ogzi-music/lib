@@ -1,0 +1,20 @@
+name = "Deep Atmo"
+id = "deep-atmo"
+group = "pad"
+midi-program = 86
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 74
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 89664
+end = 89563
+loop = 204
+

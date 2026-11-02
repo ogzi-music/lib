@@ -1,0 +1,19 @@
+name = "Narwhal"
+id = "narwhal"
+group = "sfx"
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-from = 0
+key-to = 127
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28121
+length = 1172
+end = 1169
+loop = 1131
+

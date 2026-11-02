@@ -1,0 +1,102 @@
+name = "Crunch Klav"
+id = "crunch-klav"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "49.flac"
+key = 49
+key-from = 0
+key-to = 54
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24006
+length = 13008
+start = 819
+end = 12982
+loop = 12633
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-to = 63
+level = 127
+tune-fine = 71
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 23985
+length = 12629
+end = 12626
+loop = 12380
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-to = 69
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24064
+length = 4838
+end = 4835
+loop = 4689
+
+[[samples]]
+file = "70.flac"
+key = 70
+key-to = 75
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24015
+length = 19528
+start = 1229
+end = 19515
+loop = 18487
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-to = 81
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24065
+length = 6854
+end = 6851
+loop = 6778
+
+[[samples]]
+file = "82.flac"
+key = 82
+key-to = 90
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24242
+length = 3537
+end = 3534
+loop = 3482
+
+[[samples]]
+file = "91.flac"
+key = 91
+key-to = 103
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24308
+length = 4658
+end = 4655
+loop = 4624
+

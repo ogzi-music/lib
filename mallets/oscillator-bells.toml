@@ -1,0 +1,15 @@
+name = "Oscillator Bells"
+id = "oscillator-bells"
+group = "mallets"
+midi-program = 8
+
+[[samples]]
+file = "84.flac"
+key = 84
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 255744
+

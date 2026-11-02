@@ -1,0 +1,19 @@
+name = "EPENT"
+id = "epent"
+group = "sfx"
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 67
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 1068908
+end = 1050689
+loop = 39346
+

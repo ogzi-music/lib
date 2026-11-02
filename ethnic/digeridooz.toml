@@ -1,0 +1,34 @@
+name = "Digeridooz"
+id = "digeridooz"
+group = "ethnic"
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 21
+key-to = 63
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27778
+length = 61536
+end = 61490
+loop = 9
+
+[[samples]]
+file = "88.flac"
+key = 88
+key-from = 64
+key-to = 108
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27778
+length = 83576
+end = 83527
+loop = 22023
+

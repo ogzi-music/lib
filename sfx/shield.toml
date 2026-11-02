@@ -1,0 +1,18 @@
+name = "Shield"
+id = "shield"
+group = "sfx"
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 26016
+length = 5304
+end = 5272
+loop = 1421
+

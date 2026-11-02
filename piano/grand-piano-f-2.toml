@@ -1,0 +1,203 @@
+name = "Grand Piano F"
+id = "grand-piano-f-2"
+group = "piano"
+midi-program = 0
+
+[[samples]]
+file = "85.flac"
+key = 85
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 167128
+end = 167089
+loop = 92101
+
+[[samples]]
+file = "87.flac"
+key = 87
+key-from = 86
+level = 126
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 166368
+end = 166333
+loop = 112077
+
+[[samples]]
+file = "89.flac"
+key = 89
+key-from = 88
+level = 125
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 170368
+end = 170333
+loop = 93208
+
+[[samples]]
+file = "91.flac"
+key = 91
+key-from = 90
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 120784
+end = 120751
+loop = 87556
+
+[[samples]]
+file = "93.flac"
+key = 93
+key-from = 92
+level = 126
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 102832
+end = 102826
+
+[[samples]]
+file = "95.flac"
+key = 95
+key-from = 94
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 89472
+end = 89464
+
+[[samples]]
+file = "97.flac"
+key = 97
+key-from = 96
+level = 126
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 89768
+end = 89758
+
+[[samples]]
+file = "99.flac"
+key = 99
+key-from = 98
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 105256
+end = 105246
+
+[[samples]]
+file = "100.flac"
+key = 100
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 91208
+end = 91204
+
+[[samples]]
+file = "101.flac"
+key = 101
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 107016
+end = 107006
+
+[[samples]]
+file = "102.flac"
+key = 102
+level = 124
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 83256
+end = 83246
+
+[[samples]]
+file = "103.flac"
+key = 103
+level = 121
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 90328
+end = 90320
+
+[[samples]]
+file = "104.flac"
+key = 104
+level = 124
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 79840
+end = 79832
+
+[[samples]]
+file = "105.flac"
+key = 105
+level = 124
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 78440
+end = 78430
+
+[[samples]]
+file = "106.flac"
+key = 106
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 59392
+end = 59386
+
+[[samples]]
+file = "107.flac"
+key = 107
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 66080
+end = 66078
+
+[[samples]]
+file = "108.flac"
+key = 108
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 50648
+end = 50642
+

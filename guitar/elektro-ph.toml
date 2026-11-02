@@ -1,0 +1,140 @@
+name = "Elektro Ph+"
+id = "elektro-ph"
+group = "guitar"
+
+[[samples]]
+file = "95.flac"
+key = 95
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 27967
+end = 27964
+loop = 27250
+
+[[samples]]
+file = "93.flac"
+key = 93
+key-to = 94
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 34373
+end = 34370
+loop = 33768
+
+[[samples]]
+file = "91.flac"
+key = 91
+key-from = 90
+key-to = 92
+level = 127
+tune-fine = 71
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 49986
+end = 49983
+loop = 49306
+
+[[samples]]
+file = "89.flac"
+key = 89
+key-from = 88
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 29779
+end = 29776
+loop = 28765
+
+[[samples]]
+file = "86.flac"
+key = 86
+key-to = 87
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 29054
+end = 29051
+loop = 28151
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 83
+key-to = 85
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 48285
+end = 48282
+loop = 47440
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-to = 82
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 41647
+end = 41644
+loop = 40844
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 78
+key-to = 80
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 37475
+end = 37472
+loop = 36798
+
+[[samples]]
+file = "74.flac"
+key = 74
+key-from = 73
+key-to = 77
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 41745
+end = 41742
+loop = 41142
+
+[[samples]]
+file = "70.flac"
+key = 70
+key-from = 0
+key-to = 72
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 56268
+end = 56265
+loop = 53616
+

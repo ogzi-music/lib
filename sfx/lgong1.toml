@@ -1,0 +1,17 @@
+name = "LGONG1"
+id = "lgong1"
+group = "sfx"
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 0
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 1552213
+end = 1552210
+

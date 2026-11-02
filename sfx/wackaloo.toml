@@ -1,0 +1,18 @@
+name = "Wackaloo"
+id = "wackaloo"
+group = "sfx"
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 22045
+length = 23456
+end = 23417
+loop = 10
+

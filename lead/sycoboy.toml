@@ -1,0 +1,81 @@
+name = "SycoBoy"
+id = "sycoboy"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 0
+level = 127
+tune-coarse = 76
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 38057
+length = 872
+end = 807
+loop = 226
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 49
+level = 127
+tune-coarse = 76
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 39104
+length = 2136
+end = 2066
+loop = 1765
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 61
+level = 127
+tune-coarse = 76
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 41328
+length = 2072
+end = 1861
+loop = 1701
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 73
+level = 127
+tune-coarse = 76
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 42377
+length = 1736
+end = 1692
+loop = 1609
+
+[[samples]]
+file = "96.flac"
+key = 96
+key-from = 85
+key-to = 127
+level = 127
+tune-coarse = 76
+tune-fine = 65
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 35581
+length = 1624
+end = 1565
+loop = 1529
+

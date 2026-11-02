@@ -1,0 +1,36 @@
+name = "Psycho"
+id = "psycho"
+group = "sfx"
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 0
+key-to = 127
+level = 127
+tune-coarse = 63
+tune-fine = 62
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 32000
+length = 29372
+end = 29313
+loop = 37
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-from = 0
+key-to = 127
+level = 127
+tune-coarse = 63
+tune-fine = 57
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 32000
+length = 26428
+end = 26369
+loop = 44
+

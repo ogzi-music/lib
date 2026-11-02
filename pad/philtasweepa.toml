@@ -1,0 +1,33 @@
+name = "PhiltaSweepa"
+id = "philtasweepa"
+group = "pad"
+midi-program = 86
+
+[[samples]]
+file = "65.flac"
+key = 65
+key-from = 0
+key-to = 59
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 35972
+length = 24857
+end = 24854
+loop = 24648
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 60
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 36105
+length = 24511
+end = 24508
+loop = 24370
+

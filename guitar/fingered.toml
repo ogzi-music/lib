@@ -1,0 +1,146 @@
+name = "Fingered"
+id = "fingered"
+group = "guitar"
+
+[[samples]]
+file = "40.flac"
+key = 40
+key-from = 0
+key-to = 43
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 34001
+length = 5904
+end = 5871
+loop = 5047
+
+[[samples]]
+file = "45.flac"
+key = 45
+key-from = 44
+key-to = 48
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27940
+length = 3632
+end = 3596
+loop = 3088
+
+[[samples]]
+file = "50.flac"
+key = 50
+key-from = 49
+key-to = 53
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27942
+length = 5256
+end = 5227
+loop = 4844
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 54
+key-to = 58
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 33908
+length = 5008
+end = 4736
+loop = 4388
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 59
+key-to = 64
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27994
+length = 3232
+end = 3205
+loop = 2989
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 65
+key-to = 70
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 28028
+length = 2760
+end = 2731
+loop = 2586
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 71
+key-to = 74
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27994
+length = 3096
+end = 3072
+loop = 2963
+
+[[samples]]
+file = "77.flac"
+key = 77
+key-from = 75
+key-to = 92
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27939
+length = 2344
+end = 2317
+loop = 2235
+
+[[samples]]
+file = "101.flac"
+key = 101
+key-from = 93
+key-to = 108
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 25145
+length = 472
+end = 443
+loop = 423
+
+[[samples]]
+file = "112.flac"
+key = 112
+key-from = 120
+key-to = 127
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 42193
+length = 48
+end = 19
+loop = 1
+

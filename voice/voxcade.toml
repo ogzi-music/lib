@@ -1,0 +1,37 @@
+name = "Voxcade"
+id = "voxcade"
+group = "voice"
+midi-program = 52
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 0
+key-to = 72
+level = 127
+pan = 60
+tune-coarse = 71
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 260344
+end = 260305
+loop = 62256
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 73
+key-to = 103
+level = 127
+pan = 60
+tune-coarse = 70
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 48000
+length = 240728
+end = 240695
+loop = 34254
+

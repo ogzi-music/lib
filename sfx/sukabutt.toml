@@ -1,0 +1,18 @@
+name = "SuKaButt"
+id = "sukabutt"
+group = "sfx"
+
+[[samples]]
+file = "57.flac"
+key = 57
+key-from = 0
+key-to = 127
+level = 127
+tune-coarse = 83
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 26016
+length = 6712
+start = 1298
+

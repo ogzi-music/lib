@@ -1,0 +1,19 @@
+name = "Grunge"
+id = "grunge"
+group = "sfx"
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 0
+key-to = 127
+level = 127
+tune-fine = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 24006
+length = 9615
+end = 9612
+loop = 9539
+

@@ -1,0 +1,18 @@
+name = "WeirdVox2"
+id = "weirdvox2-2"
+group = "sfx"
+
+[[samples]]
+file = "77.flac"
+key = 77
+key-from = 0
+key-to = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 23749
+length = 5888
+end = 5863
+loop = 5827
+

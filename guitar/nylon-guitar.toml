@@ -1,0 +1,324 @@
+name = "Renaissance Nylon Guitar"
+id = "nylon-guitar"
+group = "guitar"
+midi-program = 22
+
+[[samples]]
+file = "83.flac"
+key = 83
+key-from = 82
+key-to = 127
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 9255
+end = 9253
+loop = 9118
+
+[[samples]]
+file = "81.flac"
+key = 81
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 14172
+end = 14170
+loop = 13819
+
+[[samples]]
+file = "80.flac"
+key = 80
+key-from = 79
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 22121
+end = 22119
+loop = 21853
+
+[[samples]]
+file = "78.flac"
+key = 78
+key-from = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 13647
+end = 13645
+loop = 13348
+
+[[samples]]
+file = "76.flac"
+key = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 14687
+end = 14685
+loop = 14150
+
+[[samples]]
+file = "75.flac"
+key = 75
+key-from = 74
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 26069
+end = 26067
+loop = 25783
+
+[[samples]]
+file = "73.flac"
+key = 73
+key-from = 72
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 14964
+end = 14962
+loop = 14564
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 70
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 22706
+end = 22704
+loop = 22346
+
+[[samples]]
+file = "69.flac"
+key = 69
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 31869
+end = 31867
+loop = 31466
+
+[[samples]]
+file = "68.flac"
+key = 68
+key-from = 67
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 34322
+end = 34320
+loop = 33896
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 18431
+end = 18429
+loop = 18073
+
+[[samples]]
+file = "64.flac"
+key = 64
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 31761
+end = 31759
+loop = 31360
+
+[[samples]]
+file = "63.flac"
+key = 63
+key-from = 62
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 24137
+end = 24135
+loop = 23708
+
+[[samples]]
+file = "61.flac"
+key = 61
+key-from = 60
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 52525
+end = 52523
+loop = 52042
+
+[[samples]]
+file = "59.flac"
+key = 59
+key-from = 58
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 34444
+end = 34442
+loop = 33905
+
+[[samples]]
+file = "57.flac"
+key = 57
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 64798
+end = 64796
+loop = 64394
+
+[[samples]]
+file = "56.flac"
+key = 56
+key-from = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 69336
+end = 69334
+loop = 68158
+
+[[samples]]
+file = "54.flac"
+key = 54
+key-from = 53
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 62806
+end = 62804
+loop = 61849
+
+[[samples]]
+file = "52.flac"
+key = 52
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 102366
+end = 102364
+loop = 101291
+
+[[samples]]
+file = "50.flac"
+key = 50
+key-to = 51
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 147911
+end = 147909
+loop = 147006
+
+[[samples]]
+file = "49.flac"
+key = 49
+key-from = 48
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 125904
+end = 125902
+loop = 124947
+
+[[samples]]
+file = "47.flac"
+key = 47
+key-from = 46
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 106000
+end = 105998
+loop = 105284
+
+[[samples]]
+file = "45.flac"
+key = 45
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 51159
+end = 51157
+loop = 50755
+
+[[samples]]
+file = "44.flac"
+key = 44
+key-from = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 62226
+end = 62224
+loop = 59672
+
+[[samples]]
+file = "42.flac"
+key = 42
+key-from = 0
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 151759
+end = 151757
+loop = 148886
+

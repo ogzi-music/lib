@@ -1,0 +1,30 @@
+name = "Hive Jiver"
+id = "hive-jiver-2"
+group = "lead"
+midi-program = 79
+
+[[samples]]
+file = "45.flac"
+key = 45
+key-from = 39
+key-to = 39
+level = 119
+pan = 99
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 29030
+length = 6960
+end = 6958
+
+[[samples]]
+file = "56.flac"
+key = 56
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 6960
+end = 1944
+

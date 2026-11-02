@@ -1,0 +1,19 @@
+name = "Gourd Scrape"
+id = "gourd-scrape"
+group = "sfx"
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-from = 21
+key-to = 108
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27778
+length = 92616
+end = 83963
+loop = 71670
+

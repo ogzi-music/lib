@@ -1,0 +1,17 @@
+name = "Brazit 1"
+id = "brazit-1"
+group = "sfx"
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 0
+key-to = 127
+level = 127
+tune-coarse = 62
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 23002
+length = 15368
+

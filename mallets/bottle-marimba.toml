@@ -1,0 +1,125 @@
+name = "Bottle Marimba"
+id = "bottle-marimba"
+group = "mallets"
+midi-program = 11
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-from = 21
+key-to = 52
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27778
+length = 27816
+end = 6902
+loop = 6692
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 53
+key-to = 58
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27778
+length = 27816
+end = 6942
+loop = 6800
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-from = 59
+key-to = 64
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27778
+length = 27816
+end = 5959
+loop = 5852
+
+[[samples]]
+file = "67.flac"
+key = 67
+key-from = 65
+key-to = 69
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27778
+length = 27816
+end = 7047
+loop = 6694
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 70
+key-to = 76
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27778
+length = 27816
+end = 7120
+loop = 6908
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 77
+key-to = 81
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27778
+length = 27816
+end = 8163
+loop = 8021
+
+[[samples]]
+file = "84.flac"
+key = 84
+key-from = 82
+key-to = 88
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27778
+length = 27816
+end = 7675
+loop = 7595
+
+[[samples]]
+file = "91.flac"
+key = 91
+key-from = 89
+key-to = 108
+level = 127
+pan = 63
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 27778
+length = 27816
+end = 6807
+loop = 6718
+

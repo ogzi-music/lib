@@ -1,0 +1,152 @@
+name = "BRASS08"
+id = "brass08"
+group = "brass"
+midi-program = 59
+
+[[samples]]
+file = "24.flac"
+key = 24
+key-from = 21
+key-to = 35
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 115767
+end = 115745
+loop = 19126
+
+[[samples]]
+file = "36.flac"
+key = 36
+key-to = 47
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 80467
+end = 80449
+loop = 27402
+
+[[samples]]
+file = "48.flac"
+key = 48
+key-to = 59
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 53935
+end = 53921
+loop = 18019
+
+[[samples]]
+file = "60.flac"
+key = 60
+key-to = 71
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 49597
+end = 49585
+loop = 35213
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-to = 108
+level = 127
+pan = 0
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 39617
+end = 39601
+loop = 30599
+
+[[samples]]
+file = "24_2.flac"
+key = 24
+key-from = 21
+key-to = 35
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 115767
+end = 115745
+loop = 19126
+
+[[samples]]
+file = "36_2.flac"
+key = 36
+key-to = 47
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 80467
+end = 80449
+loop = 27402
+
+[[samples]]
+file = "48_2.flac"
+key = 48
+key-to = 59
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 53935
+end = 53921
+loop = 18019
+
+[[samples]]
+file = "60_2.flac"
+key = 60
+key-to = 71
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 49597
+end = 49585
+loop = 35213
+
+[[samples]]
+file = "72_2.flac"
+key = 72
+key-to = 108
+round-robin = 2
+level = 127
+pan = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 39617
+end = 39601
+loop = 30599
+
