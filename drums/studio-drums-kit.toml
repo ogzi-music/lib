@@ -1,0 +1,363 @@
+name = "Studio Drums Kit"
+id = "studio-drums-kit"
+group = "drums"
+
+[[samples]]
+file = "36_kick-ambient.flac"
+key = 36
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 89113
+
+[[samples]]
+file = "38_snrambient-1-3.flac"
+key = 38
+velocity-to = 94
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 101939
+
+[[samples]]
+file = "38_snrambient-1-3_2.flac"
+key = 38
+velocity-from = 95
+velocity-to = 118
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 89075
+
+[[samples]]
+file = "38_snrambient-1-3_3.flac"
+key = 38
+velocity-from = 119
+level = 127
+tune-fine = 25
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 81611
+
+[[samples]]
+file = "39_snrambient-soft.flac"
+key = 39
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 101939
+
+[[samples]]
+file = "40_snrambient-med.flac"
+key = 40
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 89075
+
+[[samples]]
+file = "41_snrambient-hard.flac"
+key = 41
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 81611
+
+[[samples]]
+file = "37_snr-sidestik-1.flac"
+key = 37
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 107791
+
+[[samples]]
+file = "42_snr-sidestik-2.flac"
+key = 42
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 41249
+
+[[samples]]
+file = "43_snr-sidestik-3.flac"
+key = 43
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 39269
+
+[[samples]]
+file = "44_hihatzldjianhalf-1-3.flac"
+key = 44
+velocity-to = 104
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 34706
+
+[[samples]]
+file = "44_hihatzldjianhalf-1-3_2.flac"
+key = 44
+velocity-from = 105
+velocity-to = 117
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 74612
+
+[[samples]]
+file = "44_hihatzldjianhalf-1-3_3.flac"
+key = 44
+velocity-from = 118
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 146938
+
+[[samples]]
+file = "45_hihatzldjian-tip-1-2.flac"
+key = 45
+velocity-to = 116
+round-robin = 1
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 14435
+
+[[samples]]
+file = "45_hihatzldjian-tip-1-2_2.flac"
+key = 45
+velocity-from = 116
+round-robin = 2
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 15510
+
+[[samples]]
+file = "46_hihatzldjian-cl-1-4.flac"
+key = 46
+velocity-to = 90
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 17724
+
+[[samples]]
+file = "46_hihatzldjian-cl-1-4_2.flac"
+key = 46
+velocity-from = 91
+velocity-to = 112
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 37506
+
+[[samples]]
+file = "46_hihatzldjian-cl-1-4_3.flac"
+key = 46
+velocity-from = 114
+velocity-to = 120
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 33174
+
+[[samples]]
+file = "46_hihatzldjian-cl-1-4_4.flac"
+key = 46
+velocity-from = 121
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 12421
+
+[[samples]]
+file = "47_hihatzldjian-slosh-1.flac"
+key = 47
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 74612
+
+[[samples]]
+file = "48_hihatzldjian-slosh-2.flac"
+key = 48
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 146938
+
+[[samples]]
+file = "49_hihatzldjianfootcl-1.flac"
+key = 49
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 15710
+
+[[samples]]
+file = "50_hihatzldjianfootcl-2.flac"
+key = 50
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11393
+
+[[samples]]
+file = "51_hihatzldjianfootopn1.flac"
+key = 51
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 555569
+
+[[samples]]
+file = "52_hihatzldjianfootopn2.flac"
+key = 52
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 391169
+
+[[samples]]
+file = "53_cym18-crash.flac"
+key = 53
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 633646
+
+[[samples]]
+file = "54_cym20-ride-bel.flac"
+key = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 1041492
+
+[[samples]]
+file = "55_cym20-bel.flac"
+key = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 1134425
+
+[[samples]]
+file = "56_cym-splash.flac"
+key = 56
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 264928
+
+[[samples]]
+file = "57_cym20-ride-soft.flac"
+key = 57
+level = 124
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 846636
+
+[[samples]]
+file = "58_kick-ambient-2.flac"
+key = 58
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 114002
+
+[[samples]]
+file = "59_tom-dw-hi.flac"
+key = 59
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 304802
+
+[[samples]]
+file = "60_tom-dw-mid.flac"
+key = 60
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 323167
+
+[[samples]]
+file = "61_tom-dw-flr.flac"
+key = 61
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 466819
+

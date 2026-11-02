@@ -1,0 +1,171 @@
+name = "Studio Drums Gretsch"
+id = "studio-drums-gretsch"
+group = "drums"
+
+[[samples]]
+file = "38_snrgretsch-1-4.flac"
+key = 38
+velocity-from = 117
+round-robin = 1
+level = 127
+tune-fine = 68
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 155766
+
+[[samples]]
+file = "38_snrgretsch-1-4_2.flac"
+key = 38
+velocity-to = 69
+round-robin = 1
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 88717
+
+[[samples]]
+file = "38_snrgretsch-1-4_3.flac"
+key = 38
+velocity-from = 70
+velocity-to = 103
+round-robin = 1
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 98579
+
+[[samples]]
+file = "38_snrgretsch-1-4_4.flac"
+key = 38
+velocity-from = 104
+velocity-to = 116
+round-robin = 1
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 98080
+
+[[samples]]
+file = "38_snrgretsch-soft.flac"
+key = 38
+round-robin = 2
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 88717
+
+[[samples]]
+file = "38_snrgretsch-med.flac"
+key = 38
+round-robin = 3
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 98579
+
+[[samples]]
+file = "38_snrgretsch-med_2.flac"
+key = 38
+round-robin = 4
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 88717
+
+[[samples]]
+file = "82_snrgretsch-hard.flac"
+key = 82
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 98080
+
+[[samples]]
+file = "37_snrgretsch-rimshot-1.flac"
+key = 37
+round-robin = 1
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 155766
+
+[[samples]]
+file = "37_snrgretsch-rimshot-2.flac"
+key = 37
+round-robin = 2
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 94835
+
+[[samples]]
+file = "38_snrgretsch-drag.flac"
+key = 38
+round-robin = 6
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 54727
+
+[[samples]]
+file = "36_kick-gretsch.flac"
+key = 36
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 250348
+
+[[samples]]
+file = "50_tomgretsch-hi.flac"
+key = 50
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 148365
+
+[[samples]]
+file = "48_tomgretsch-mid.flac"
+key = 48
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 198880
+
+[[samples]]
+file = "43_tomgretsch-lo.flac"
+key = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 259709
+

@@ -1,0 +1,1548 @@
+name = "Drum Masters JB Snare"
+id = "drum-masters-jb-snare"
+group = "drums"
+
+[[samples]]
+file = "29_jb-sonar-kick-snare.flac"
+key = 29
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 124928
+
+[[samples]]
+file = "29_jb-sonar-kick-snare_2.flac"
+key = 29
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 130048
+
+[[samples]]
+file = "29_jb-sonar-kick-snare_3.flac"
+key = 29
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 130048
+
+[[samples]]
+file = "29_jb-sonar-kick-snare_4.flac"
+key = 29
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 128000
+
+[[samples]]
+file = "29_jb-sonar-kick-snare_5.flac"
+key = 29
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 130048
+
+[[samples]]
+file = "29_jb-sonar-kick-snare_6.flac"
+key = 29
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 107520
+
+[[samples]]
+file = "29_jb-sonar-kick-snare_7.flac"
+key = 29
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 107520
+
+[[samples]]
+file = "35_jb-sonar-kick-snare.flac"
+key = 35
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 137357
+
+[[samples]]
+file = "35_jb-sonar-kick-snare_2.flac"
+key = 35
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 127008
+
+[[samples]]
+file = "35_jb-sonar-kick-snare_3.flac"
+key = 35
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 126068
+
+[[samples]]
+file = "35_jb-sonar-kick-snare_4.flac"
+key = 35
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 111956
+
+[[samples]]
+file = "35_jb-sonar-kick-snare_5.flac"
+key = 35
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 114778
+
+[[samples]]
+file = "35_jb-sonar-kick-snare_6.flac"
+key = 35
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 113837
+
+[[samples]]
+file = "35_jb-sonar-kick-snare_7.flac"
+key = 35
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 103488
+
+[[samples]]
+file = "36_jb-sonar-kick-snare.flac"
+key = 36
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 144884
+
+[[samples]]
+file = "36_jb-sonar-kick-snare_2.flac"
+key = 36
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 127949
+
+[[samples]]
+file = "36_jb-sonar-kick-snare_3.flac"
+key = 36
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 127949
+
+[[samples]]
+file = "36_jb-sonar-kick-snare_4.flac"
+key = 36
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 126068
+
+[[samples]]
+file = "36_jb-sonar-kick-snare_5.flac"
+key = 36
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 106311
+
+[[samples]]
+file = "36_jb-sonar-kick-snare_6.flac"
+key = 36
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 104429
+
+[[samples]]
+file = "36_jb-sonar-kick-snare_7.flac"
+key = 36
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 98760
+
+[[samples]]
+file = "37_jb-sonar-kick-snare.flac"
+key = 37
+velocity-from = 100
+level = 114
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 145824
+
+[[samples]]
+file = "37_jb-sonar-kick-snare_2.flac"
+key = 37
+velocity-from = 88
+velocity-to = 99
+level = 113
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 145824
+
+[[samples]]
+file = "37_jb-sonar-kick-snare_3.flac"
+key = 37
+velocity-from = 77
+velocity-to = 87
+level = 113
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 142061
+
+[[samples]]
+file = "37_jb-sonar-kick-snare_4.flac"
+key = 37
+velocity-from = 66
+velocity-to = 76
+level = 109
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 155232
+
+[[samples]]
+file = "37_jb-sonar-kick-snare_5.flac"
+key = 37
+velocity-from = 55
+velocity-to = 65
+level = 108
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 155232
+
+[[samples]]
+file = "37_jb-sonar-kick-snare_6.flac"
+key = 37
+velocity-from = 44
+velocity-to = 54
+level = 109
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 147706
+
+[[samples]]
+file = "37_jb-sonar-kick-snare_7.flac"
+key = 37
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 108192
+
+[[samples]]
+file = "38_jb-sonar-kick-snare.flac"
+key = 38
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 158996
+
+[[samples]]
+file = "38_jb-sonar-kick-snare_2.flac"
+key = 38
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 166522
+
+[[samples]]
+file = "38_jb-sonar-kick-snare_3.flac"
+key = 38
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 166522
+
+[[samples]]
+file = "38_jb-sonar-kick-snare_4.flac"
+key = 38
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 139239
+
+[[samples]]
+file = "38_jb-sonar-kick-snare_5.flac"
+key = 38
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 136416
+
+[[samples]]
+file = "38_jb-sonar-kick-snare_6.flac"
+key = 38
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 112896
+
+[[samples]]
+file = "38_jb-sonar-kick-snare_7.flac"
+key = 38
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 85613
+
+[[samples]]
+file = "40_jb-sonar-kick-snare.flac"
+key = 40
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 137357
+
+[[samples]]
+file = "40_jb-sonar-kick-snare_2.flac"
+key = 40
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 138298
+
+[[samples]]
+file = "40_jb-sonar-kick-snare_3.flac"
+key = 40
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 146765
+
+[[samples]]
+file = "40_jb-sonar-kick-snare_4.flac"
+key = 40
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 143002
+
+[[samples]]
+file = "40_jb-sonar-kick-snare_5.flac"
+key = 40
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 125127
+
+[[samples]]
+file = "40_jb-sonar-kick-snare_6.flac"
+key = 40
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 99712
+
+[[samples]]
+file = "40_jb-sonar-kick-snare_7.flac"
+key = 40
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 85595
+
+[[samples]]
+file = "42_jb-sonar-hi-hats.flac"
+key = 42
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 131712
+
+[[samples]]
+file = "42_jb-sonar-hi-hats_2.flac"
+key = 42
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 125127
+
+[[samples]]
+file = "42_jb-sonar-hi-hats_3.flac"
+key = 42
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 113837
+
+[[samples]]
+file = "42_jb-sonar-hi-hats_4.flac"
+key = 42
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 61151
+
+[[samples]]
+file = "42_jb-sonar-hi-hats_5.flac"
+key = 42
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 61144
+
+[[samples]]
+file = "42_jb-sonar-hi-hats_6.flac"
+key = 42
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 52673
+
+[[samples]]
+file = "42_jb-sonar-hi-hats_7.flac"
+key = 42
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 47973
+
+[[samples]]
+file = "44_jb-sonar-hi-hats.flac"
+key = 44
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 109133
+
+[[samples]]
+file = "44_jb-sonar-hi-hats_2.flac"
+key = 44
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 97844
+
+[[samples]]
+file = "44_jb-sonar-hi-hats_3.flac"
+key = 44
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 95962
+
+[[samples]]
+file = "44_jb-sonar-hi-hats_4.flac"
+key = 44
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 49860
+
+[[samples]]
+file = "46_jb-sonar-hi-hats.flac"
+key = 46
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 326458
+
+[[samples]]
+file = "46_jb-sonar-hi-hats_2.flac"
+key = 46
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 508973
+
+[[samples]]
+file = "46_jb-sonar-hi-hats_3.flac"
+key = 46
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 478868
+
+[[samples]]
+file = "46_jb-sonar-hi-hats_4.flac"
+key = 46
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 507091
+
+[[samples]]
+file = "46_jb-sonar-hi-hats_5.flac"
+key = 46
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 301970
+
+[[samples]]
+file = "46_jb-sonar-hi-hats_6.flac"
+key = 46
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 197553
+
+[[samples]]
+file = "46_jb-sonar-hi-hats_7.flac"
+key = 46
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 126985
+
+[[samples]]
+file = "51_jb-sonar-bell-ride.flac"
+key = 51
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 619988
+
+[[samples]]
+file = "51_jb-sonar-bell-ride_2.flac"
+key = 51
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 619984
+
+[[samples]]
+file = "51_jb-sonar-bell-ride_3.flac"
+key = 51
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 526848
+
+[[samples]]
+file = "51_jb-sonar-bell-ride_4.flac"
+key = 51
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 578583
+
+[[samples]]
+file = "51_jb-sonar-bell-ride_5.flac"
+key = 51
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 404493
+
+[[samples]]
+file = "51_jb-sonar-bell-ride_6.flac"
+key = 51
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 206851
+
+[[samples]]
+file = "51_jb-sonar-bell-ride_7.flac"
+key = 51
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 97722
+
+[[samples]]
+file = "53_jb-sonar-bell-ride.flac"
+key = 53
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 631248
+
+[[samples]]
+file = "53_jb-sonar-bell-ride_2.flac"
+key = 53
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 585152
+
+[[samples]]
+file = "53_jb-sonar-bell-ride_3.flac"
+key = 53
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 583270
+
+[[samples]]
+file = "53_jb-sonar-bell-ride_4.flac"
+key = 53
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 550289
+
+[[samples]]
+file = "53_jb-sonar-bell-ride_5.flac"
+key = 53
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 480630
+
+[[samples]]
+file = "53_jb-sonar-bell-ride_6.flac"
+key = 53
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 274586
+
+[[samples]]
+file = "59_jb-sonar-bell-ride.flac"
+key = 59
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 672661
+
+[[samples]]
+file = "59_jb-sonar-bell-ride_2.flac"
+key = 59
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 609625
+
+[[samples]]
+file = "59_jb-sonar-bell-ride_3.flac"
+key = 59
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 607741
+
+[[samples]]
+file = "59_jb-sonar-bell-ride_4.flac"
+key = 59
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 442052
+
+[[samples]]
+file = "59_jb-sonar-bell-ride_5.flac"
+key = 59
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 57225
+
+[[samples]]
+file = "41_jb-sonar-toms.flac"
+key = 41
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 218266
+
+[[samples]]
+file = "41_jb-sonar-toms_2.flac"
+key = 41
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 214503
+
+[[samples]]
+file = "41_jb-sonar-toms_3.flac"
+key = 41
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 220148
+
+[[samples]]
+file = "41_jb-sonar-toms_4.flac"
+key = 41
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 222029
+
+[[samples]]
+file = "41_jb-sonar-toms_5.flac"
+key = 41
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 179693
+
+[[samples]]
+file = "41_jb-sonar-toms_6.flac"
+key = 41
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 183456
+
+[[samples]]
+file = "41_jb-sonar-toms_7.flac"
+key = 41
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 166522
+
+[[samples]]
+file = "43_jb-sonar-toms.flac"
+key = 43
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 221088
+
+[[samples]]
+file = "43_jb-sonar-toms_2.flac"
+key = 43
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 220148
+
+[[samples]]
+file = "43_jb-sonar-toms_3.flac"
+key = 43
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 220148
+
+[[samples]]
+file = "43_jb-sonar-toms_4.flac"
+key = 43
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 219207
+
+[[samples]]
+file = "43_jb-sonar-toms_5.flac"
+key = 43
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 218266
+
+[[samples]]
+file = "45_jb-sonar-toms.flac"
+key = 45
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 233319
+
+[[samples]]
+file = "45_jb-sonar-toms_2.flac"
+key = 45
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 202272
+
+[[samples]]
+file = "45_jb-sonar-toms_3.flac"
+key = 45
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 202272
+
+[[samples]]
+file = "45_jb-sonar-toms_4.flac"
+key = 45
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 210740
+
+[[samples]]
+file = "45_jb-sonar-toms_5.flac"
+key = 45
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 207917
+
+[[samples]]
+file = "45_jb-sonar-toms_6.flac"
+key = 45
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 210740
+
+[[samples]]
+file = "45_jb-sonar-toms_7.flac"
+key = 45
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 197568
+
+[[samples]]
+file = "47_jb-sonar-toms.flac"
+key = 47
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 218266
+
+[[samples]]
+file = "47_jb-sonar-toms_2.flac"
+key = 47
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 205095
+
+[[samples]]
+file = "47_jb-sonar-toms_3.flac"
+key = 47
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 205095
+
+[[samples]]
+file = "47_jb-sonar-toms_4.flac"
+key = 47
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 216384
+
+[[samples]]
+file = "47_jb-sonar-toms_5.flac"
+key = 47
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 215444
+
+[[samples]]
+file = "47_jb-sonar-toms_6.flac"
+key = 47
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 222029
+
+[[samples]]
+file = "47_jb-sonar-toms_7.flac"
+key = 47
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 214503
+
+[[samples]]
+file = "48_jb-sonar-toms.flac"
+key = 48
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 165581
+
+[[samples]]
+file = "48_jb-sonar-toms_2.flac"
+key = 48
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 176871
+
+[[samples]]
+file = "48_jb-sonar-toms_3.flac"
+key = 48
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 187220
+
+[[samples]]
+file = "48_jb-sonar-toms_4.flac"
+key = 48
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 161818
+
+[[samples]]
+file = "48_jb-sonar-toms_5.flac"
+key = 48
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 165581
+
+[[samples]]
+file = "48_jb-sonar-toms_6.flac"
+key = 48
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 156173
+
+[[samples]]
+file = "48_jb-sonar-toms_7.flac"
+key = 48
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 159936
+
+[[samples]]
+file = "50_jb-sonar-toms.flac"
+key = 50
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 188160
+
+[[samples]]
+file = "50_jb-sonar-toms_2.flac"
+key = 50
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 193805
+
+[[samples]]
+file = "50_jb-sonar-toms_3.flac"
+key = 50
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 178752
+
+[[samples]]
+file = "50_jb-sonar-toms_4.flac"
+key = 50
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 161818
+
+[[samples]]
+file = "50_jb-sonar-toms_5.flac"
+key = 50
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 158996
+
+[[samples]]
+file = "50_jb-sonar-toms_6.flac"
+key = 50
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 151466
+
+[[samples]]
+file = "50_jb-sonar-toms_7.flac"
+key = 50
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 138297
+
+[[samples]]
+file = "49_jb-sonar-crashes.flac"
+key = 49
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 603053
+
+[[samples]]
+file = "49_jb-sonar-crashes_2.flac"
+key = 49
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 603053
+
+[[samples]]
+file = "49_jb-sonar-crashes_3.flac"
+key = 49
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 778970
+
+[[samples]]
+file = "49_jb-sonar-crashes_4.flac"
+key = 49
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 479762
+
+[[samples]]
+file = "49_jb-sonar-crashes_5.flac"
+key = 49
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 433685
+
+[[samples]]
+file = "49_jb-sonar-crashes_6.flac"
+key = 49
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 346191
+
+[[samples]]
+file = "49_jb-sonar-crashes_7.flac"
+key = 49
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 293150
+
+[[samples]]
+file = "57_jb-sonar-crashes.flac"
+key = 57
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 725356
+
+[[samples]]
+file = "57_jb-sonar-crashes_2.flac"
+key = 57
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 724416
+
+[[samples]]
+file = "57_jb-sonar-crashes_3.flac"
+key = 57
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 722534
+
+[[samples]]
+file = "57_jb-sonar-crashes_4.flac"
+key = 57
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 747936
+
+[[samples]]
+file = "57_jb-sonar-crashes_5.flac"
+key = 57
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 746994
+
+[[samples]]
+file = "57_jb-sonar-crashes_6.flac"
+key = 57
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 510769
+
+[[samples]]
+file = "57_jb-sonar-crashes_7.flac"
+key = 57
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 400669
+

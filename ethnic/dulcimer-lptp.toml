@@ -1,0 +1,166 @@
+name = "Dulcimer LpTp"
+id = "dulcimer-lptp"
+group = "ethnic"
+
+[[samples]]
+file = "55.flac"
+key = 55
+key-from = 0
+key-to = 56
+level = 127
+tune-coarse = 65
+tune-fine = 94
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 177148
+start = 1
+end = 177144
+loop = 137726
+
+[[samples]]
+file = "59.flac"
+key = 59
+key-from = 57
+key-to = 60
+level = 127
+tune-coarse = 66
+tune-fine = 32
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 153550
+end = 153546
+loop = 113446
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-from = 61
+key-to = 65
+level = 127
+tune-coarse = 65
+tune-fine = 93
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 113142
+start = 1
+end = 113138
+loop = 90534
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 66
+level = 127
+tune-coarse = 65
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 159376
+start = 1
+end = 159373
+loop = 130232
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 70
+key-to = 73
+level = 127
+tune-coarse = 65
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 107990
+start = 1
+end = 107987
+loop = 80936
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 74
+key-to = 77
+level = 127
+tune-coarse = 66
+tune-fine = 33
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 93533
+end = 93529
+loop = 71042
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 78
+key-to = 80
+level = 127
+tune-coarse = 66
+tune-fine = 34
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 70598
+end = 70594
+loop = 54812
+
+[[samples]]
+file = "82.flac"
+key = 82
+key-from = 81
+key-to = 83
+level = 127
+tune-coarse = 66
+tune-fine = 36
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 62786
+start = 1
+end = 62783
+loop = 51804
+
+[[samples]]
+file = "86.flac"
+key = 86
+key-from = 84
+key-to = 108
+level = 127
+tune-coarse = 65
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 62219
+end = 62215
+loop = 42616
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 109
+key-to = 127
+level = 118
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 452
+end = 448
+loop = 7
+

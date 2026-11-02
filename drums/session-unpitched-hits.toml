@@ -1,0 +1,464 @@
+name = "Session Unpitched Hits"
+id = "session-unpitched-hits"
+group = "drums"
+
+[[samples]]
+file = "88_002-uhi1-wav.flac"
+key = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11226
+
+[[samples]]
+file = "89_004-uhi1-wav.flac"
+key = 89
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 23936
+
+[[samples]]
+file = "90_010-uhi1-wav.flac"
+key = 90
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 47782
+
+[[samples]]
+file = "91_011-uhi1-wav.flac"
+key = 91
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 42642
+
+[[samples]]
+file = "92_033-uhi1-wav.flac"
+key = 92
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 21169
+
+[[samples]]
+file = "93_036-uhi1-wav.flac"
+key = 93
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 21790
+
+[[samples]]
+file = "94_041-uhi1-wav.flac"
+key = 94
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 31926
+
+[[samples]]
+file = "95_042-uhi1-wav.flac"
+key = 95
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 26760
+
+[[samples]]
+file = "96_051-uhi1-wav.flac"
+key = 96
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 36573
+
+[[samples]]
+file = "97_067-uhi1-wav.flac"
+key = 97
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 44187
+
+[[samples]]
+file = "98_068-uhi1-wav.flac"
+key = 98
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 22651
+
+[[samples]]
+file = "99_075-uhi1-wav.flac"
+key = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 44312
+
+[[samples]]
+file = "100_089-uhi1-wav.flac"
+key = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 21489
+
+[[samples]]
+file = "101_090-uhi1-wav.flac"
+key = 101
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 21408
+
+[[samples]]
+file = "102_095-uhi1-wav.flac"
+key = 102
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 49827
+
+[[samples]]
+file = "103_096-uhi1-wav.flac"
+key = 103
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 21712
+
+[[samples]]
+file = "104_004-uhb1-wav.flac"
+key = 104
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 18780
+
+[[samples]]
+file = "105_009-uhb1-wav.flac"
+key = 105
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 31682
+
+[[samples]]
+file = "106_011-uhb1-wav.flac"
+key = 106
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 17904
+
+[[samples]]
+file = "107_018-uhb1-wav.flac"
+key = 107
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 31683
+
+[[samples]]
+file = "108_019-uhb1-wav.flac"
+key = 108
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 7217
+
+[[samples]]
+file = "109_046-uhb1-wav.flac"
+key = 109
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 13060
+
+[[samples]]
+file = "110_055-uhb1-wav.flac"
+key = 110
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 33747
+
+[[samples]]
+file = "111_069-uhb1-wav.flac"
+key = 111
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 16901
+
+[[samples]]
+file = "112_076-uhb1-wav.flac"
+key = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 22686
+
+[[samples]]
+file = "113_090-uhb1-wav.flac"
+key = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 6888
+
+[[samples]]
+file = "114_091-uhb1-wav.flac"
+key = 114
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 45564
+
+[[samples]]
+file = "115_097-uhb1-wav.flac"
+key = 115
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 16933
+
+[[samples]]
+file = "116_098-uhb1-wav.flac"
+key = 116
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 21393
+
+[[samples]]
+file = "117_101-uhb1-wav.flac"
+key = 117
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 59387
+
+[[samples]]
+file = "118_115-uhb1-wav.flac"
+key = 118
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 44254
+
+[[samples]]
+file = "119_002-ukh1-wav.flac"
+key = 119
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 19704
+
+[[samples]]
+file = "120_003-ukh1-wav.flac"
+key = 120
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 42400
+
+[[samples]]
+file = "121_009-ukh1-wav.flac"
+key = 121
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 9417
+
+[[samples]]
+file = "122_016-ukh1-wav.flac"
+key = 122
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 17710
+
+[[samples]]
+file = "123_023-ukh1-wav.flac"
+key = 123
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 28800
+
+[[samples]]
+file = "124_024-ukh1-wav.flac"
+key = 124
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 39369
+
+[[samples]]
+file = "125_027-ukh1-wav.flac"
+key = 125
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 16912
+
+[[samples]]
+file = "126_028-ukh1-wav.flac"
+key = 126
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 30850
+
+[[samples]]
+file = "127_068-ukh1-wav.flac"
+key = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 25123
+
+[[samples]]
+file = "0_082-ukh1-wav.flac"
+key = 0
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 22050
+length = 9365
+
+[[samples]]
+file = "1_096-ukh1-wav.flac"
+key = 1
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 21598
+
+[[samples]]
+file = "2_115-ukhh-wav.flac"
+key = 2
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 16107
+
+[[samples]]
+file = "3_116-ukhh-wav.flac"
+key = 3
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 17501
+
+[[samples]]
+file = "4_124-ukhh-wav.flac"
+key = 4
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 17888
+
+[[samples]]
+file = "5_127-ukhh-wav.flac"
+key = 5
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 30984
+

@@ -1,0 +1,1644 @@
+name = "Drum Masters Motown"
+id = "drum-masters-motown"
+group = "drums"
+
+[[samples]]
+file = "29_motown-kick-snare.flac"
+key = 29
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 545789
+
+[[samples]]
+file = "29_motown-kick-snare_2.flac"
+key = 29
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 216059
+
+[[samples]]
+file = "29_motown-kick-snare_3.flac"
+key = 29
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 223226
+
+[[samples]]
+file = "29_motown-kick-snare_4.flac"
+key = 29
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 195580
+
+[[samples]]
+file = "29_motown-kick-snare_5.flac"
+key = 29
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 186363
+
+[[samples]]
+file = "29_motown-kick-snare_6.flac"
+key = 29
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 197626
+
+[[samples]]
+file = "29_motown-kick-snare_7.flac"
+key = 29
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 244730
+
+[[samples]]
+file = "35_motown-kick-snare.flac"
+key = 35
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 391373
+
+[[samples]]
+file = "35_motown-kick-snare_2.flac"
+key = 35
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 390432
+
+[[samples]]
+file = "35_motown-kick-snare_3.flac"
+key = 35
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 324576
+
+[[samples]]
+file = "35_motown-kick-snare_4.flac"
+key = 35
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 320813
+
+[[samples]]
+file = "35_motown-kick-snare_5.flac"
+key = 35
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 319872
+
+[[samples]]
+file = "35_motown-kick-snare_6.flac"
+key = 35
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 221088
+
+[[samples]]
+file = "35_motown-kick-snare_7.flac"
+key = 35
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 135473
+
+[[samples]]
+file = "36_motown-kick-snare.flac"
+key = 36
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 386669
+
+[[samples]]
+file = "36_motown-kick-snare_2.flac"
+key = 36
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 385728
+
+[[samples]]
+file = "36_motown-kick-snare_3.flac"
+key = 36
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 343392
+
+[[samples]]
+file = "36_motown-kick-snare_4.flac"
+key = 36
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 342452
+
+[[samples]]
+file = "36_motown-kick-snare_5.flac"
+key = 36
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 336807
+
+[[samples]]
+file = "36_motown-kick-snare_6.flac"
+key = 36
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 180634
+
+[[samples]]
+file = "36_motown-kick-snare_7.flac"
+key = 36
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 141120
+
+[[samples]]
+file = "37_motown-kick-snare.flac"
+key = 37
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 225786
+
+[[samples]]
+file = "37_motown-kick-snare_2.flac"
+key = 37
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 205080
+
+[[samples]]
+file = "37_motown-kick-snare_3.flac"
+key = 37
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 203198
+
+[[samples]]
+file = "37_motown-kick-snare_4.flac"
+key = 37
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 211668
+
+[[samples]]
+file = "37_motown-kick-snare_5.flac"
+key = 37
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 83719
+
+[[samples]]
+file = "37_motown-kick-snare_6.flac"
+key = 37
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 190026
+
+[[samples]]
+file = "37_motown-kick-snare_7.flac"
+key = 37
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 75249
+
+[[samples]]
+file = "38_motown-kick-snare.flac"
+key = 38
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 193803
+
+[[samples]]
+file = "38_motown-kick-snare_2.flac"
+key = 38
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 216381
+
+[[samples]]
+file = "38_motown-kick-snare_3.flac"
+key = 38
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 194741
+
+[[samples]]
+file = "38_motown-kick-snare_4.flac"
+key = 38
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 76189
+
+[[samples]]
+file = "38_motown-kick-snare_5.flac"
+key = 38
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 66782
+
+[[samples]]
+file = "38_motown-kick-snare_6.flac"
+key = 38
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 61140
+
+[[samples]]
+file = "38_motown-kick-snare_7.flac"
+key = 38
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 55490
+
+[[samples]]
+file = "40_motown-kick-snare.flac"
+key = 40
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 201330
+
+[[samples]]
+file = "40_motown-kick-snare_2.flac"
+key = 40
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 211679
+
+[[samples]]
+file = "40_motown-kick-snare_3.flac"
+key = 40
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 204151
+
+[[samples]]
+file = "40_motown-kick-snare_4.flac"
+key = 40
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 90309
+
+[[samples]]
+file = "40_motown-kick-snare_5.flac"
+key = 40
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 80897
+
+[[samples]]
+file = "40_motown-kick-snare_6.flac"
+key = 40
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 65844
+
+[[samples]]
+file = "40_motown-kick-snare_7.flac"
+key = 40
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 61122
+
+[[samples]]
+file = "42_motown-hi-hats.flac"
+key = 42
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 107252
+
+[[samples]]
+file = "42_motown-hi-hats_2.flac"
+key = 42
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 106311
+
+[[samples]]
+file = "42_motown-hi-hats_3.flac"
+key = 42
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 87494
+
+[[samples]]
+file = "42_motown-hi-hats_4.flac"
+key = 42
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 74315
+
+[[samples]]
+file = "42_motown-hi-hats_5.flac"
+key = 42
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 59263
+
+[[samples]]
+file = "42_motown-hi-hats_6.flac"
+key = 42
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 56437
+
+[[samples]]
+file = "42_motown-hi-hats_7.flac"
+key = 42
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 49852
+
+[[samples]]
+file = "44_motown-hi-hats.flac"
+key = 44
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 182516
+
+[[samples]]
+file = "44_motown-hi-hats_2.flac"
+key = 44
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 156173
+
+[[samples]]
+file = "44_motown-hi-hats_3.flac"
+key = 44
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 161811
+
+[[samples]]
+file = "44_motown-hi-hats_4.flac"
+key = 44
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 58329
+
+[[samples]]
+file = "44_motown-hi-hats_5.flac"
+key = 44
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 52674
+
+[[samples]]
+file = "44_motown-hi-hats_6.flac"
+key = 44
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 50792
+
+[[samples]]
+file = "44_motown-hi-hats_7.flac"
+key = 44
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 47956
+
+[[samples]]
+file = "46_motown-hi-hats.flac"
+key = 46
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 739469
+
+[[samples]]
+file = "46_motown-hi-hats_2.flac"
+key = 46
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 698066
+
+[[samples]]
+file = "46_motown-hi-hats_3.flac"
+key = 46
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 426153
+
+[[samples]]
+file = "46_motown-hi-hats_4.flac"
+key = 46
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 329248
+
+[[samples]]
+file = "46_motown-hi-hats_5.flac"
+key = 46
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 229522
+
+[[samples]]
+file = "46_motown-hi-hats_6.flac"
+key = 46
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 170249
+
+[[samples]]
+file = "46_motown-hi-hats_7.flac"
+key = 46
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 117555
+
+[[samples]]
+file = "51_motown-bell-ride.flac"
+key = 51
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 731943
+
+[[samples]]
+file = "51_motown-bell-ride_2.flac"
+key = 51
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 553183
+
+[[samples]]
+file = "51_motown-bell-ride_3.flac"
+key = 51
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 548479
+
+[[samples]]
+file = "51_motown-bell-ride_4.flac"
+key = 51
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 459110
+
+[[samples]]
+file = "51_motown-bell-ride_5.flac"
+key = 51
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 350911
+
+[[samples]]
+file = "51_motown-bell-ride_6.flac"
+key = 51
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 135455
+
+[[samples]]
+file = "51_motown-bell-ride_7.flac"
+key = 51
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 79945
+
+[[samples]]
+file = "53_motown-bell-ride.flac"
+key = 53
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 718771
+
+[[samples]]
+file = "53_motown-bell-ride_2.flac"
+key = 53
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 495801
+
+[[samples]]
+file = "53_motown-bell-ride_3.flac"
+key = 53
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 494859
+
+[[samples]]
+file = "53_motown-bell-ride_4.flac"
+key = 53
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 400780
+
+[[samples]]
+file = "53_motown-bell-ride_5.flac"
+key = 53
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 298224
+
+[[samples]]
+file = "53_motown-bell-ride_6.flac"
+key = 53
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 75248
+
+[[samples]]
+file = "53_motown-bell-ride_7.flac"
+key = 53
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 57369
+
+[[samples]]
+file = "59_motown-bell-ride.flac"
+key = 59
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 570125
+
+[[samples]]
+file = "59_motown-bell-ride_2.flac"
+key = 59
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 575770
+
+[[samples]]
+file = "59_motown-bell-ride_3.flac"
+key = 59
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 572947
+
+[[samples]]
+file = "59_motown-bell-ride_4.flac"
+key = 59
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 457220
+
+[[samples]]
+file = "59_motown-bell-ride_5.flac"
+key = 59
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 351857
+
+[[samples]]
+file = "59_motown-bell-ride_6.flac"
+key = 59
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 238956
+
+[[samples]]
+file = "59_motown-bell-ride_7.flac"
+key = 59
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 151461
+
+[[samples]]
+file = "41_motown-toms.flac"
+key = 41
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 466637
+
+[[samples]]
+file = "41_motown-toms_2.flac"
+key = 41
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 422420
+
+[[samples]]
+file = "41_motown-toms_3.flac"
+key = 41
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 422420
+
+[[samples]]
+file = "41_motown-toms_4.flac"
+key = 41
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 422420
+
+[[samples]]
+file = "41_motown-toms_5.flac"
+key = 41
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 422420
+
+[[samples]]
+file = "41_motown-toms_6.flac"
+key = 41
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 421479
+
+[[samples]]
+file = "41_motown-toms_7.flac"
+key = 41
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 419597
+
+[[samples]]
+file = "43_motown-toms.flac"
+key = 43
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 485453
+
+[[samples]]
+file = "43_motown-toms_2.flac"
+key = 43
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 425242
+
+[[samples]]
+file = "43_motown-toms_3.flac"
+key = 43
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 425242
+
+[[samples]]
+file = "43_motown-toms_4.flac"
+key = 43
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 424301
+
+[[samples]]
+file = "43_motown-toms_5.flac"
+key = 43
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 424301
+
+[[samples]]
+file = "43_motown-toms_6.flac"
+key = 43
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 420537
+
+[[samples]]
+file = "43_motown-toms_7.flac"
+key = 43
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 410133
+
+[[samples]]
+file = "45_motown-toms.flac"
+key = 45
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 440295
+
+[[samples]]
+file = "45_motown-toms_2.flac"
+key = 45
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 365972
+
+[[samples]]
+file = "45_motown-toms_3.flac"
+key = 45
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 365031
+
+[[samples]]
+file = "45_motown-toms_4.flac"
+key = 45
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 361268
+
+[[samples]]
+file = "45_motown-toms_5.flac"
+key = 45
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 359385
+
+[[samples]]
+file = "45_motown-toms_6.flac"
+key = 45
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 329277
+
+[[samples]]
+file = "45_motown-toms_7.flac"
+key = 45
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 260599
+
+[[samples]]
+file = "47_motown-toms.flac"
+key = 47
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 437472
+
+[[samples]]
+file = "47_motown-toms_2.flac"
+key = 47
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 383847
+
+[[samples]]
+file = "47_motown-toms_3.flac"
+key = 47
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 383847
+
+[[samples]]
+file = "47_motown-toms_4.flac"
+key = 47
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 382906
+
+[[samples]]
+file = "47_motown-toms_5.flac"
+key = 47
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 382906
+
+[[samples]]
+file = "47_motown-toms_6.flac"
+key = 47
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 379142
+
+[[samples]]
+file = "47_motown-toms_7.flac"
+key = 47
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 370626
+
+[[samples]]
+file = "48_motown-toms.flac"
+key = 48
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 355623
+
+[[samples]]
+file = "48_motown-toms_2.flac"
+key = 48
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 352800
+
+[[samples]]
+file = "48_motown-toms_3.flac"
+key = 48
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 251194
+
+[[samples]]
+file = "48_motown-toms_4.flac"
+key = 48
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 251194
+
+[[samples]]
+file = "48_motown-toms_5.flac"
+key = 48
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 251194
+
+[[samples]]
+file = "48_motown-toms_6.flac"
+key = 48
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 249312
+
+[[samples]]
+file = "48_motown-toms_7.flac"
+key = 48
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 247430
+
+[[samples]]
+file = "50_motown-toms.flac"
+key = 50
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 317991
+
+[[samples]]
+file = "50_motown-toms_2.flac"
+key = 50
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 344333
+
+[[samples]]
+file = "50_motown-toms_3.flac"
+key = 50
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 344333
+
+[[samples]]
+file = "50_motown-toms_4.flac"
+key = 50
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 344333
+
+[[samples]]
+file = "50_motown-toms_5.flac"
+key = 50
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 344333
+
+[[samples]]
+file = "50_motown-toms_6.flac"
+key = 50
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 339629
+
+[[samples]]
+file = "50_motown-toms_7.flac"
+key = 50
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 219207
+
+[[samples]]
+file = "49_motown-crash.flac"
+key = 49
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 571059
+
+[[samples]]
+file = "49_motown-crash_2.flac"
+key = 49
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 508032
+
+[[samples]]
+file = "49_motown-crash_3.flac"
+key = 49
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 499565
+
+[[samples]]
+file = "49_motown-crash_4.flac"
+key = 49
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 334924
+
+[[samples]]
+file = "49_motown-crash_5.flac"
+key = 49
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 272830
+
+[[samples]]
+file = "49_motown-crash_6.flac"
+key = 49
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 107246
+
+[[samples]]
+file = "49_motown-crash_7.flac"
+key = 49
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 67733
+
+[[samples]]
+file = "57_motown-crash.flac"
+key = 57
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 597408
+
+[[samples]]
+file = "57_motown-crash_2.flac"
+key = 57
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 593644
+
+[[samples]]
+file = "57_motown-crash_3.flac"
+key = 57
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 590816
+
+[[samples]]
+file = "57_motown-crash_4.flac"
+key = 57
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 387589
+
+[[samples]]
+file = "57_motown-crash_5.flac"
+key = 57
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 297264
+
+[[samples]]
+file = "57_motown-crash_6.flac"
+key = 57
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 236106
+
+[[samples]]
+file = "57_motown-crash_7.flac"
+key = 57
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 188121
+

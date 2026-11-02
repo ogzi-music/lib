@@ -1,0 +1,349 @@
+name = "Session Hand Drums"
+id = "session-hand-drums"
+group = "drums"
+
+[[samples]]
+file = "41_djembe-mute.flac"
+key = 41
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 60376
+end = 60320
+
+[[samples]]
+file = "43_djembe-open.flac"
+key = 43
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 87932
+end = 87876
+
+[[samples]]
+file = "45_djembe-slap.flac"
+key = 45
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 77624
+start = 1
+end = 77568
+
+[[samples]]
+file = "47_djembeszl-mute.flac"
+key = 47
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 52902
+start = 1
+end = 52846
+
+[[samples]]
+file = "48_djembeszl-open.flac"
+key = 48
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 77040
+start = 1
+end = 76984
+
+[[samples]]
+file = "50_djembeszl-slap.flac"
+key = 50
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 47842
+start = 1
+end = 47786
+
+[[samples]]
+file = "37_cubacajon-ghost1.flac"
+key = 37
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 14546
+end = 14490
+
+[[samples]]
+file = "38_cubacajon-ghost2.flac"
+key = 38
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 14806
+start = 1
+end = 14750
+
+[[samples]]
+file = "39_cubacajon-ghost3.flac"
+key = 39
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 13034
+start = 1
+end = 12978
+
+[[samples]]
+file = "40_cubacajon-ghost4.flac"
+key = 40
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 13068
+end = 13012
+
+[[samples]]
+file = "36_cubacajon-lo.flac"
+key = 36
+velocity-to = 64
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 46263
+end = 46259
+
+[[samples]]
+file = "36_cubacajon-lo_2.flac"
+key = 36
+velocity-from = 65
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 44906
+start = 1
+end = 44850
+
+[[samples]]
+file = "42_cubacajon-mute.flac"
+key = 42
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 14942
+start = 1
+end = 14886
+
+[[samples]]
+file = "44_cubacajon-slap.flac"
+key = 44
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 39464
+start = 1
+end = 39408
+
+[[samples]]
+file = "46_cubacajon-tip.flac"
+key = 46
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 21030
+end = 20974
+
+[[samples]]
+file = "49_potdrum-bodyhit-mp.flac"
+key = 49
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 24979
+end = 24975
+
+[[samples]]
+file = "51_potdrum-bodyhit-mf.flac"
+key = 51
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 34354
+end = 34350
+
+[[samples]]
+file = "52_potdrum-bodyhit-f.flac"
+key = 52
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 33390
+end = 33386
+
+[[samples]]
+file = "53_potdrum-close.flac"
+key = 53
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 51408
+start = 1
+end = 51352
+
+[[samples]]
+file = "54_potdrum-open.flac"
+key = 54
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 104222
+end = 104166
+
+[[samples]]
+file = "55_talkingdrum-bend-p.flac"
+key = 55
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 40736
+end = 40680
+
+[[samples]]
+file = "56_talkingdrum-bend-mp.flac"
+key = 56
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 35402
+end = 35346
+
+[[samples]]
+file = "57_talkingdrum-bend-mf.flac"
+key = 57
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 30910
+end = 30854
+
+[[samples]]
+file = "58_talkingdrum-bend-f.flac"
+key = 58
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 35942
+start = 1
+end = 35886
+
+[[samples]]
+file = "59_talkingdrum-mute.flac"
+key = 59
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 21491
+end = 21487
+
+[[samples]]
+file = "60_talkingdrum-open.flac"
+key = 60
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 43986
+end = 43982
+
+[[samples]]
+file = "61_talkingdrum-slap.flac"
+key = 61
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 17534
+end = 17530
+
+[[samples]]
+file = "62_sambatambourim-mute.flac"
+key = 62
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 12270
+end = 12266
+loop = 12262
+
+[[samples]]
+file = "63_sambatambourim-open.flac"
+key = 63
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 8268
+end = 8212
+
+[[samples]]
+file = "64_sambatambourim-rim.flac"
+key = 64
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 3774
+start = 1
+end = 3718
+

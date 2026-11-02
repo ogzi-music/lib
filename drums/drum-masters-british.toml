@@ -1,0 +1,1608 @@
+name = "Drum Masters British"
+id = "drum-masters-british"
+group = "drums"
+
+[[samples]]
+file = "29_british-snare-kick.flac"
+key = 29
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 177151
+
+[[samples]]
+file = "29_british-snare-kick_2.flac"
+key = 29
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 207872
+
+[[samples]]
+file = "29_british-snare-kick_3.flac"
+key = 29
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 184301
+
+[[samples]]
+file = "29_british-snare-kick_4.flac"
+key = 29
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 190461
+
+[[samples]]
+file = "29_british-snare-kick_5.flac"
+key = 29
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 212973
+
+[[samples]]
+file = "29_british-snare-kick_6.flac"
+key = 29
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 205803
+
+[[samples]]
+file = "29_british-snare-kick_7.flac"
+key = 29
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 143351
+
+[[samples]]
+file = "37_british-snare-kick.flac"
+key = 37
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 184397
+
+[[samples]]
+file = "37_british-snare-kick_2.flac"
+key = 37
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 189099
+
+[[samples]]
+file = "37_british-snare-kick_3.flac"
+key = 37
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 197564
+
+[[samples]]
+file = "37_british-snare-kick_4.flac"
+key = 37
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 197562
+
+[[samples]]
+file = "37_british-snare-kick_5.flac"
+key = 37
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 210726
+
+[[samples]]
+file = "37_british-snare-kick_6.flac"
+key = 37
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 193792
+
+[[samples]]
+file = "40_british-snare-kick.flac"
+key = 40
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 187219
+
+[[samples]]
+file = "40_british-snare-kick_2.flac"
+key = 40
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 188154
+
+[[samples]]
+file = "40_british-snare-kick_3.flac"
+key = 40
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 183456
+
+[[samples]]
+file = "40_british-snare-kick_4.flac"
+key = 40
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 173091
+
+[[samples]]
+file = "40_british-snare-kick_5.flac"
+key = 40
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 192863
+
+[[samples]]
+file = "40_british-snare-kick_6.flac"
+key = 40
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 232366
+
+[[samples]]
+file = "40_british-snare-kick_7.flac"
+key = 40
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 204150
+
+[[samples]]
+file = "38_british-snare-kick.flac"
+key = 38
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 199440
+
+[[samples]]
+file = "38_british-snare-kick_2.flac"
+key = 38
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 190028
+
+[[samples]]
+file = "38_british-snare-kick_3.flac"
+key = 38
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 174043
+
+[[samples]]
+file = "38_british-snare-kick_4.flac"
+key = 38
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 183424
+
+[[samples]]
+file = "38_british-snare-kick_5.flac"
+key = 38
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 229556
+
+[[samples]]
+file = "38_british-snare-kick_6.flac"
+key = 38
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 224828
+
+[[samples]]
+file = "38_british-snare-kick_7.flac"
+key = 38
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 205071
+
+[[samples]]
+file = "36_british-snare-kick.flac"
+key = 36
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 106311
+
+[[samples]]
+file = "36_british-snare-kick_2.flac"
+key = 36
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 114778
+
+[[samples]]
+file = "36_british-snare-kick_3.flac"
+key = 36
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 116655
+
+[[samples]]
+file = "36_british-snare-kick_4.flac"
+key = 36
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 115712
+
+[[samples]]
+file = "36_british-snare-kick_5.flac"
+key = 36
+velocity-from = 66
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 116651
+
+[[samples]]
+file = "36_british-snare-kick_6.flac"
+key = 36
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 115709
+
+[[samples]]
+file = "36_british-snare-kick_7.flac"
+key = 36
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 116650
+
+[[samples]]
+file = "35_british-snare-kick.flac"
+key = 35
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 113837
+
+[[samples]]
+file = "35_british-snare-kick_2.flac"
+key = 35
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 102548
+
+[[samples]]
+file = "35_british-snare-kick_3.flac"
+key = 35
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 110070
+
+[[samples]]
+file = "35_british-snare-kick_4.flac"
+key = 35
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 110070
+
+[[samples]]
+file = "35_british-snare-kick_5.flac"
+key = 35
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 112891
+
+[[samples]]
+file = "35_british-snare-kick_6.flac"
+key = 35
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 111952
+
+[[samples]]
+file = "35_british-snare-kick_7.flac"
+key = 35
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 112887
+
+[[samples]]
+file = "46_british-hi-hats.flac"
+key = 46
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 613397
+
+[[samples]]
+file = "46_british-hi-hats_2.flac"
+key = 46
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 529669
+
+[[samples]]
+file = "46_british-hi-hats_3.flac"
+key = 46
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 548471
+
+[[samples]]
+file = "46_british-hi-hats_4.flac"
+key = 46
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 569173
+
+[[samples]]
+file = "46_british-hi-hats_5.flac"
+key = 46
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 428051
+
+[[samples]]
+file = "46_british-hi-hats_6.flac"
+key = 46
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 183437
+
+[[samples]]
+file = "46_british-hi-hats_7.flac"
+key = 46
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 47840
+
+[[samples]]
+file = "44_british-hi-hats.flac"
+key = 44
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 178738
+
+[[samples]]
+file = "44_british-hi-hats_2.flac"
+key = 44
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 128879
+
+[[samples]]
+file = "44_british-hi-hats_3.flac"
+key = 44
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 64885
+
+[[samples]]
+file = "44_british-hi-hats_4.flac"
+key = 44
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 63937
+
+[[samples]]
+file = "44_british-hi-hats_5.flac"
+key = 44
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 54478
+
+[[samples]]
+file = "44_british-hi-hats_6.flac"
+key = 44
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 54477
+
+[[samples]]
+file = "44_british-hi-hats_7.flac"
+key = 44
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 53497
+
+[[samples]]
+file = "42_british-hi-hats.flac"
+key = 42
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 171219
+
+[[samples]]
+file = "42_british-hi-hats_2.flac"
+key = 42
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 120420
+
+[[samples]]
+file = "42_british-hi-hats_3.flac"
+key = 42
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 90312
+
+[[samples]]
+file = "42_british-hi-hats_4.flac"
+key = 42
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 66789
+
+[[samples]]
+file = "42_british-hi-hats_5.flac"
+key = 42
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 53604
+
+[[samples]]
+file = "42_british-hi-hats_6.flac"
+key = 42
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 49852
+
+[[samples]]
+file = "42_british-hi-hats_7.flac"
+key = 42
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 45969
+
+[[samples]]
+file = "59_british-bell-ride.flac"
+key = 59
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 564480
+
+[[samples]]
+file = "59_british-bell-ride_2.flac"
+key = 59
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 570125
+
+[[samples]]
+file = "59_british-bell-ride_3.flac"
+key = 59
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 561658
+
+[[samples]]
+file = "59_british-bell-ride_4.flac"
+key = 59
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 511796
+
+[[samples]]
+file = "59_british-bell-ride_5.flac"
+key = 59
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 401722
+
+[[samples]]
+file = "59_british-bell-ride_6.flac"
+key = 59
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 359386
+
+[[samples]]
+file = "59_british-bell-ride_7.flac"
+key = 59
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 344331
+
+[[samples]]
+file = "53_british-bell-ride.flac"
+key = 53
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 718772
+
+[[samples]]
+file = "53_british-bell-ride_2.flac"
+key = 53
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 717831
+
+[[samples]]
+file = "53_british-bell-ride_3.flac"
+key = 53
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 720653
+
+[[samples]]
+file = "53_british-bell-ride_4.flac"
+key = 53
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 670790
+
+[[samples]]
+file = "53_british-bell-ride_5.flac"
+key = 53
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 632217
+
+[[samples]]
+file = "53_british-bell-ride_6.flac"
+key = 53
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 616223
+
+[[samples]]
+file = "53_british-bell-ride_7.flac"
+key = 53
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 718772
+
+[[samples]]
+file = "51_british-bell-ride.flac"
+key = 51
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 683021
+
+[[samples]]
+file = "51_british-bell-ride_2.flac"
+key = 51
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 553190
+
+[[samples]]
+file = "51_british-bell-ride_3.flac"
+key = 51
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 530612
+
+[[samples]]
+file = "51_british-bell-ride_4.flac"
+key = 51
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 505209
+
+[[samples]]
+file = "51_british-bell-ride_5.flac"
+key = 51
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 465687
+
+[[samples]]
+file = "51_british-bell-ride_6.flac"
+key = 51
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 380063
+
+[[samples]]
+file = "51_british-bell-ride_7.flac"
+key = 51
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 507091
+
+[[samples]]
+file = "43_british-toms.flac"
+key = 43
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 301997
+
+[[samples]]
+file = "43_british-toms_2.flac"
+key = 43
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 275655
+
+[[samples]]
+file = "43_british-toms_3.flac"
+key = 43
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 315164
+
+[[samples]]
+file = "43_british-toms_4.flac"
+key = 43
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 311403
+
+[[samples]]
+file = "43_british-toms_5.flac"
+key = 43
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 285995
+
+[[samples]]
+file = "43_british-toms_6.flac"
+key = 43
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 308580
+
+[[samples]]
+file = "43_british-toms_7.flac"
+key = 43
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 281282
+
+[[samples]]
+file = "48_british-toms.flac"
+key = 48
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 285063
+
+[[samples]]
+file = "48_british-toms_2.flac"
+key = 48
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 295411
+
+[[samples]]
+file = "48_british-toms_3.flac"
+key = 48
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 287881
+
+[[samples]]
+file = "48_british-toms_4.flac"
+key = 48
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 292575
+
+[[samples]]
+file = "48_british-toms_5.flac"
+key = 48
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 316098
+
+[[samples]]
+file = "48_british-toms_6.flac"
+key = 48
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 309515
+
+[[samples]]
+file = "47_british-toms.flac"
+key = 47
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 281298
+
+[[samples]]
+file = "47_british-toms_2.flac"
+key = 47
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 238022
+
+[[samples]]
+file = "47_british-toms_3.flac"
+key = 47
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 305759
+
+[[samples]]
+file = "47_british-toms_4.flac"
+key = 47
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 341501
+
+[[samples]]
+file = "47_british-toms_5.flac"
+key = 47
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 270944
+
+[[samples]]
+file = "47_british-toms_6.flac"
+key = 47
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 261540
+
+[[samples]]
+file = "45_british-toms.flac"
+key = 45
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 259614
+
+[[samples]]
+file = "45_british-toms_2.flac"
+key = 45
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 279414
+
+[[samples]]
+file = "45_british-toms_3.flac"
+key = 45
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 262463
+
+[[samples]]
+file = "45_british-toms_4.flac"
+key = 45
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 319861
+
+[[samples]]
+file = "45_british-toms_5.flac"
+key = 45
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 268119
+
+[[samples]]
+file = "45_british-toms_6.flac"
+key = 45
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 273771
+
+[[samples]]
+file = "45_british-toms_7.flac"
+key = 45
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 286004
+
+[[samples]]
+file = "41_british-toms.flac"
+key = 41
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 319860
+
+[[samples]]
+file = "41_british-toms_2.flac"
+key = 41
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 302929
+
+[[samples]]
+file = "41_british-toms_3.flac"
+key = 41
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 328336
+
+[[samples]]
+file = "41_british-toms_4.flac"
+key = 41
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 306696
+
+[[samples]]
+file = "41_british-toms_5.flac"
+key = 41
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 319869
+
+[[samples]]
+file = "41_british-toms_6.flac"
+key = 41
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 291648
+
+[[samples]]
+file = "41_british-toms_7.flac"
+key = 41
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 256838
+
+[[samples]]
+file = "50_british-toms.flac"
+key = 50
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 258718
+
+[[samples]]
+file = "50_british-toms_2.flac"
+key = 50
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 288825
+
+[[samples]]
+file = "50_british-toms_3.flac"
+key = 50
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 272830
+
+[[samples]]
+file = "50_british-toms_4.flac"
+key = 50
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 286940
+
+[[samples]]
+file = "50_british-toms_5.flac"
+key = 50
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 327391
+
+[[samples]]
+file = "50_british-toms_6.flac"
+key = 50
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 284113
+
+[[samples]]
+file = "50_british-toms_7.flac"
+key = 50
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 324564
+
+[[samples]]
+file = "57_british-crash-1-2.flac"
+key = 57
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 727225
+
+[[samples]]
+file = "57_british-crash-1-2_2.flac"
+key = 57
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 771442
+
+[[samples]]
+file = "57_british-crash-1-2_3.flac"
+key = 57
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 850460
+
+[[samples]]
+file = "57_british-crash-1-2_4.flac"
+key = 57
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 847635
+
+[[samples]]
+file = "57_british-crash-1-2_5.flac"
+key = 57
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 524011
+
+[[samples]]
+file = "57_british-crash-1-2_6.flac"
+key = 57
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 448748
+
+[[samples]]
+file = "57_british-crash-1-2_7.flac"
+key = 57
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 387595
+
+[[samples]]
+file = "49_british-crash-1-2.flac"
+key = 49
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 634099
+
+[[samples]]
+file = "49_british-crash-1-2_2.flac"
+key = 49
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 560716
+
+[[samples]]
+file = "49_british-crash-1-2_3.flac"
+key = 49
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 519319
+
+[[samples]]
+file = "49_british-crash-1-2_4.flac"
+key = 49
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 512734
+
+[[samples]]
+file = "49_british-crash-1-2_5.flac"
+key = 49
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 459109
+
+[[samples]]
+file = "49_british-crash-1-2_6.flac"
+key = 49
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 378200
+
+[[samples]]
+file = "49_british-crash-1-2_7.flac"
+key = 49
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 288824
+

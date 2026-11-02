@@ -1,0 +1,1644 @@
+name = "Drum Masters Premier"
+id = "drum-masters-premier"
+group = "drums"
+
+[[samples]]
+file = "29_premtim-kick-snare.flac"
+key = 29
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 128000
+
+[[samples]]
+file = "29_premtim-kick-snare_2.flac"
+key = 29
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 135168
+
+[[samples]]
+file = "29_premtim-kick-snare_3.flac"
+key = 29
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 139264
+
+[[samples]]
+file = "29_premtim-kick-snare_4.flac"
+key = 29
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 126976
+
+[[samples]]
+file = "29_premtim-kick-snare_5.flac"
+key = 29
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 128000
+
+[[samples]]
+file = "29_premtim-kick-snare_6.flac"
+key = 29
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 133120
+
+[[samples]]
+file = "29_premtim-kick-snare_7.flac"
+key = 29
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 123904
+
+[[samples]]
+file = "40_premtim-kick-snare.flac"
+key = 40
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 216384
+
+[[samples]]
+file = "40_premtim-kick-snare_2.flac"
+key = 40
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 197568
+
+[[samples]]
+file = "40_premtim-kick-snare_3.flac"
+key = 40
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 198509
+
+[[samples]]
+file = "40_premtim-kick-snare_4.flac"
+key = 40
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 196628
+
+[[samples]]
+file = "40_premtim-kick-snare_5.flac"
+key = 40
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 157114
+
+[[samples]]
+file = "40_premtim-kick-snare_6.flac"
+key = 40
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 139239
+
+[[samples]]
+file = "40_premtim-kick-snare_7.flac"
+key = 40
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 123245
+
+[[samples]]
+file = "38_premtim-kick-snare.flac"
+key = 38
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 195687
+
+[[samples]]
+file = "38_premtim-kick-snare_2.flac"
+key = 38
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 204154
+
+[[samples]]
+file = "38_premtim-kick-snare_3.flac"
+key = 38
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 213562
+
+[[samples]]
+file = "38_premtim-kick-snare_4.flac"
+key = 38
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 179693
+
+[[samples]]
+file = "38_premtim-kick-snare_5.flac"
+key = 38
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 167463
+
+[[samples]]
+file = "38_premtim-kick-snare_6.flac"
+key = 38
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 177812
+
+[[samples]]
+file = "38_premtim-kick-snare_7.flac"
+key = 38
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 130772
+
+[[samples]]
+file = "36_premtim-kick-snare.flac"
+key = 36
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 138298
+
+[[samples]]
+file = "36_premtim-kick-snare_2.flac"
+key = 36
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 159936
+
+[[samples]]
+file = "36_premtim-kick-snare_3.flac"
+key = 36
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 106311
+
+[[samples]]
+file = "36_premtim-kick-snare_4.flac"
+key = 36
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 133594
+
+[[samples]]
+file = "36_premtim-kick-snare_5.flac"
+key = 36
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 126068
+
+[[samples]]
+file = "36_premtim-kick-snare_6.flac"
+key = 36
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 121364
+
+[[samples]]
+file = "36_premtim-kick-snare_7.flac"
+key = 36
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 121364
+
+[[samples]]
+file = "37_premtim-kick-snare.flac"
+key = 37
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 150528
+
+[[samples]]
+file = "37_premtim-kick-snare_2.flac"
+key = 37
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 145824
+
+[[samples]]
+file = "37_premtim-kick-snare_3.flac"
+key = 37
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 145824
+
+[[samples]]
+file = "37_premtim-kick-snare_4.flac"
+key = 37
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 148647
+
+[[samples]]
+file = "37_premtim-kick-snare_5.flac"
+key = 37
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 153351
+
+[[samples]]
+file = "37_premtim-kick-snare_6.flac"
+key = 37
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 133594
+
+[[samples]]
+file = "37_premtim-kick-snare_7.flac"
+key = 37
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 118541
+
+[[samples]]
+file = "35_premtim-kick-snare.flac"
+key = 35
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 148647
+
+[[samples]]
+file = "35_premtim-kick-snare_2.flac"
+key = 35
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 119482
+
+[[samples]]
+file = "35_premtim-kick-snare_3.flac"
+key = 35
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 153351
+
+[[samples]]
+file = "35_premtim-kick-snare_4.flac"
+key = 35
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 109133
+
+[[samples]]
+file = "35_premtim-kick-snare_5.flac"
+key = 35
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 109133
+
+[[samples]]
+file = "35_premtim-kick-snare_6.flac"
+key = 35
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 109133
+
+[[samples]]
+file = "35_premtim-kick-snare_7.flac"
+key = 35
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 127949
+
+[[samples]]
+file = "44_premtim-hi-hats.flac"
+key = 44
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 146765
+
+[[samples]]
+file = "44_premtim-hi-hats_2.flac"
+key = 44
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 105370
+
+[[samples]]
+file = "44_premtim-hi-hats_3.flac"
+key = 44
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 96903
+
+[[samples]]
+file = "44_premtim-hi-hats_4.flac"
+key = 44
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 80909
+
+[[samples]]
+file = "44_premtim-hi-hats_5.flac"
+key = 44
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 76205
+
+[[samples]]
+file = "44_premtim-hi-hats_6.flac"
+key = 44
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 63033
+
+[[samples]]
+file = "44_premtim-hi-hats_7.flac"
+key = 44
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 57378
+
+[[samples]]
+file = "42_premtim-hi-hats.flac"
+key = 42
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 128890
+
+[[samples]]
+file = "42_premtim-hi-hats_2.flac"
+key = 42
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 128890
+
+[[samples]]
+file = "42_premtim-hi-hats_3.flac"
+key = 42
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 136416
+
+[[samples]]
+file = "42_premtim-hi-hats_4.flac"
+key = 42
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 103488
+
+[[samples]]
+file = "42_premtim-hi-hats_5.flac"
+key = 42
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 79968
+
+[[samples]]
+file = "42_premtim-hi-hats_6.flac"
+key = 42
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 59271
+
+[[samples]]
+file = "42_premtim-hi-hats_7.flac"
+key = 42
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 54567
+
+[[samples]]
+file = "46_premtim-hi-hats.flac"
+key = 46
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 253076
+
+[[samples]]
+file = "46_premtim-hi-hats_2.flac"
+key = 46
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 216384
+
+[[samples]]
+file = "46_premtim-hi-hats_3.flac"
+key = 46
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 216384
+
+[[samples]]
+file = "46_premtim-hi-hats_4.flac"
+key = 46
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 139239
+
+[[samples]]
+file = "46_premtim-hi-hats_5.flac"
+key = 46
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 135476
+
+[[samples]]
+file = "46_premtim-hi-hats_6.flac"
+key = 46
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 115719
+
+[[samples]]
+file = "46_premtim-hi-hats_7.flac"
+key = 46
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 99725
+
+[[samples]]
+file = "53_premtim-bell-ride.flac"
+key = 53
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 566362
+
+[[samples]]
+file = "53_premtim-bell-ride_2.flac"
+key = 53
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 387610
+
+[[samples]]
+file = "53_premtim-bell-ride_3.flac"
+key = 53
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 379143
+
+[[samples]]
+file = "53_premtim-bell-ride_4.flac"
+key = 53
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 292589
+
+[[samples]]
+file = "53_premtim-bell-ride_5.flac"
+key = 53
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 201332
+
+[[samples]]
+file = "53_premtim-bell-ride_6.flac"
+key = 53
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 174048
+
+[[samples]]
+file = "53_premtim-bell-ride_7.flac"
+key = 53
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 139239
+
+[[samples]]
+file = "51_premtim-bell-ride.flac"
+key = 51
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 511796
+
+[[samples]]
+file = "51_premtim-bell-ride_2.flac"
+key = 51
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 483572
+
+[[samples]]
+file = "51_premtim-bell-ride_3.flac"
+key = 51
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 483572
+
+[[samples]]
+file = "51_premtim-bell-ride_4.flac"
+key = 51
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 400781
+
+[[samples]]
+file = "51_premtim-bell-ride_5.flac"
+key = 51
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 341511
+
+[[samples]]
+file = "51_premtim-bell-ride_6.flac"
+key = 51
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 329280
+
+[[samples]]
+file = "51_premtim-bell-ride_7.flac"
+key = 51
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 270010
+
+[[samples]]
+file = "59_premtim-bell-ride.flac"
+key = 59
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 445940
+
+[[samples]]
+file = "59_premtim-bell-ride_2.flac"
+key = 59
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 506151
+
+[[samples]]
+file = "59_premtim-bell-ride_3.flac"
+key = 59
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 443117
+
+[[samples]]
+file = "59_premtim-bell-ride_4.flac"
+key = 59
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 326458
+
+[[samples]]
+file = "59_premtim-bell-ride_5.flac"
+key = 59
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 247431
+
+[[samples]]
+file = "59_premtim-bell-ride_6.flac"
+key = 59
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 197568
+
+[[samples]]
+file = "59_premtim-bell-ride_7.flac"
+key = 59
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 147706
+
+[[samples]]
+file = "43_premtim-toms.flac"
+key = 43
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 196628
+
+[[samples]]
+file = "43_premtim-toms_2.flac"
+key = 43
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 234260
+
+[[samples]]
+file = "43_premtim-toms_3.flac"
+key = 43
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 243668
+
+[[samples]]
+file = "43_premtim-toms_4.flac"
+key = 43
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 199450
+
+[[samples]]
+file = "43_premtim-toms_5.flac"
+key = 43
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 196628
+
+[[samples]]
+file = "43_premtim-toms_6.flac"
+key = 43
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 189101
+
+[[samples]]
+file = "43_premtim-toms_7.flac"
+key = 43
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 174989
+
+[[samples]]
+file = "41_premtim-toms.flac"
+key = 41
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 212621
+
+[[samples]]
+file = "41_premtim-toms_2.flac"
+key = 41
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 250253
+
+[[samples]]
+file = "41_premtim-toms_3.flac"
+key = 41
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 207917
+
+[[samples]]
+file = "41_premtim-toms_4.flac"
+key = 41
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 199450
+
+[[samples]]
+file = "41_premtim-toms_5.flac"
+key = 41
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 189101
+
+[[samples]]
+file = "41_premtim-toms_6.flac"
+key = 41
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 195687
+
+[[samples]]
+file = "41_premtim-toms_7.flac"
+key = 41
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 157114
+
+[[samples]]
+file = "50_premtim-toms.flac"
+key = 50
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 190042
+
+[[samples]]
+file = "50_premtim-toms_2.flac"
+key = 50
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 190042
+
+[[samples]]
+file = "50_premtim-toms_3.flac"
+key = 50
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 205095
+
+[[samples]]
+file = "50_premtim-toms_4.flac"
+key = 50
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 188160
+
+[[samples]]
+file = "50_premtim-toms_5.flac"
+key = 50
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 188160
+
+[[samples]]
+file = "50_premtim-toms_6.flac"
+key = 50
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 162759
+
+[[samples]]
+file = "50_premtim-toms_7.flac"
+key = 50
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 162759
+
+[[samples]]
+file = "48_premtim-toms.flac"
+key = 48
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 210740
+
+[[samples]]
+file = "48_premtim-toms_2.flac"
+key = 48
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 210740
+
+[[samples]]
+file = "48_premtim-toms_3.flac"
+key = 48
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 197568
+
+[[samples]]
+file = "48_premtim-toms_4.flac"
+key = 48
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 174989
+
+[[samples]]
+file = "48_premtim-toms_5.flac"
+key = 48
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 174989
+
+[[samples]]
+file = "48_premtim-toms_6.flac"
+key = 48
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 140180
+
+[[samples]]
+file = "48_premtim-toms_7.flac"
+key = 48
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 140180
+
+[[samples]]
+file = "47_premtim-toms.flac"
+key = 47
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 167463
+
+[[samples]]
+file = "47_premtim-toms_2.flac"
+key = 47
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 148647
+
+[[samples]]
+file = "47_premtim-toms_3.flac"
+key = 47
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 161818
+
+[[samples]]
+file = "47_premtim-toms_4.flac"
+key = 47
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 147706
+
+[[samples]]
+file = "47_premtim-toms_5.flac"
+key = 47
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 148647
+
+[[samples]]
+file = "47_premtim-toms_6.flac"
+key = 47
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 141120
+
+[[samples]]
+file = "47_premtim-toms_7.flac"
+key = 47
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 125127
+
+[[samples]]
+file = "45_premtim-toms.flac"
+key = 45
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 169344
+
+[[samples]]
+file = "45_premtim-toms_2.flac"
+key = 45
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 192864
+
+[[samples]]
+file = "45_premtim-toms_3.flac"
+key = 45
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 171226
+
+[[samples]]
+file = "45_premtim-toms_4.flac"
+key = 45
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 164640
+
+[[samples]]
+file = "45_premtim-toms_5.flac"
+key = 45
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 163700
+
+[[samples]]
+file = "45_premtim-toms_6.flac"
+key = 45
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 145824
+
+[[samples]]
+file = "45_premtim-toms_7.flac"
+key = 45
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 133594
+
+[[samples]]
+file = "49_premtim-cymbals.flac"
+key = 49
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 341511
+
+[[samples]]
+file = "49_premtim-cymbals_2.flac"
+key = 49
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 406426
+
+[[samples]]
+file = "49_premtim-cymbals_3.flac"
+key = 49
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 405485
+
+[[samples]]
+file = "49_premtim-cymbals_4.flac"
+key = 49
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 327399
+
+[[samples]]
+file = "49_premtim-cymbals_5.flac"
+key = 49
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 325517
+
+[[samples]]
+file = "49_premtim-cymbals_6.flac"
+key = 49
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 294471
+
+[[samples]]
+file = "49_premtim-cymbals_7.flac"
+key = 49
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 206036
+
+[[samples]]
+file = "57_premtim-cymbals.flac"
+key = 57
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 351860
+
+[[samples]]
+file = "57_premtim-cymbals_2.flac"
+key = 57
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 391373
+
+[[samples]]
+file = "57_premtim-cymbals_3.flac"
+key = 57
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 385728
+
+[[samples]]
+file = "57_premtim-cymbals_4.flac"
+key = 57
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 329280
+
+[[samples]]
+file = "57_premtim-cymbals_5.flac"
+key = 57
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 326458
+
+[[samples]]
+file = "57_premtim-cymbals_6.flac"
+key = 57
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 319872
+
+[[samples]]
+file = "57_premtim-cymbals_7.flac"
+key = 57
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 216384
+

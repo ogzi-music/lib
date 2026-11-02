@@ -1,0 +1,1385 @@
+name = "Session Latin Percussion"
+id = "session-latin-percussion"
+group = "drums"
+
+[[samples]]
+file = "87_surdo-opn.flac"
+key = 87
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 122022
+start = 1
+end = 122019
+loop = 116052
+
+[[samples]]
+file = "86_surdo-mute.flac"
+key = 86
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 21484
+end = 21480
+loop = 21476
+
+[[samples]]
+file = "60_stdcongahi-heel.flac"
+key = 60
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 21440
+start = 1
+end = 21384
+
+[[samples]]
+file = "61_stdcongahi-mute.flac"
+key = 61
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 21520
+end = 21464
+
+[[samples]]
+file = "63_stdcongahi-open.flac"
+key = 63
+velocity-to = 60
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 36198
+start = 1
+end = 36142
+
+[[samples]]
+file = "63_stdcongahi-open_2.flac"
+key = 63
+velocity-from = 61
+velocity-to = 100
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 35364
+end = 35308
+
+[[samples]]
+file = "63_stdcongahi-open_3.flac"
+key = 63
+velocity-from = 101
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 31968
+start = 1
+end = 31912
+
+[[samples]]
+file = "62_stdcongahi-slap.flac"
+key = 62
+velocity-to = 60
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 35230
+end = 35174
+
+[[samples]]
+file = "62_stdcongahi-slap_2.flac"
+key = 62
+velocity-from = 61
+velocity-to = 100
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 36226
+start = 1
+end = 36170
+
+[[samples]]
+file = "62_stdcongahi-slap_3.flac"
+key = 62
+velocity-from = 101
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 40494
+end = 40438
+
+[[samples]]
+file = "65_stdcongahi-tip.flac"
+key = 65
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 33404
+end = 33348
+
+[[samples]]
+file = "66_stdcongalo-heel.flac"
+key = 66
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 22296
+start = 1
+end = 22240
+
+[[samples]]
+file = "67_stdcongalo-mute.flac"
+key = 67
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 29976
+start = 1
+end = 29920
+
+[[samples]]
+file = "64_stdcongalo-open.flac"
+key = 64
+velocity-to = 60
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 39066
+start = 1
+end = 39010
+
+[[samples]]
+file = "64_stdcongalo-open_2.flac"
+key = 64
+velocity-from = 61
+velocity-to = 100
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 39618
+start = 1
+end = 39562
+
+[[samples]]
+file = "64_stdcongalo-open_3.flac"
+key = 64
+velocity-from = 101
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 36766
+end = 36710
+
+[[samples]]
+file = "68_stdcongalo-tip.flac"
+key = 68
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 28636
+start = 1
+end = 28580
+
+[[samples]]
+file = "85_castanet.flac"
+key = 85
+level = 127
+tune-coarse = 48
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 1086
+end = 1082
+
+[[samples]]
+file = "69_smallagogo-hi.flac"
+key = 69
+level = 127
+tune-coarse = 54
+tune-fine = 32
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 6889
+end = 6885
+loop = 5683
+
+[[samples]]
+file = "70_smallagogo-lo.flac"
+key = 70
+level = 127
+tune-coarse = 53
+tune-fine = 86
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 12918
+end = 12914
+loop = 11413
+
+[[samples]]
+file = "82_caxixi-hit.flac"
+key = 82
+level = 127
+tune-coarse = 60
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 7017
+end = 7013
+
+[[samples]]
+file = "83_caxixi-shake.flac"
+key = 83
+level = 127
+tune-coarse = 60
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 3815
+end = 3811
+
+[[samples]]
+file = "88_pandiero-heel.flac"
+key = 88
+level = 127
+tune-coarse = 60
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 10575
+end = 10571
+
+[[samples]]
+file = "89_pandiero-open.flac"
+key = 89
+level = 127
+tune-coarse = 60
+tune-fine = 72
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 12526
+end = 12522
+loop = 10723
+
+[[samples]]
+file = "90_pandiero-tip.flac"
+key = 90
+level = 127
+tune-coarse = 60
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 9853
+end = 9849
+
+[[samples]]
+file = "84_shekere-down.flac"
+key = 84
+level = 127
+tune-coarse = 60
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 8054
+end = 8050
+
+[[samples]]
+file = "91_shekere-hit.flac"
+key = 91
+level = 127
+tune-coarse = 60
+tune-fine = 80
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 10048
+end = 10044
+loop = 10034
+
+[[samples]]
+file = "92_shekere-up.flac"
+key = 92
+level = 127
+tune-coarse = 60
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 8235
+end = 8231
+
+[[samples]]
+file = "41_rotarytom-hi.flac"
+key = 41
+velocity-to = 80
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 59126
+end = 59123
+loop = 44240
+
+[[samples]]
+file = "41_rotarytom-hi_2.flac"
+key = 41
+velocity-from = 81
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 60072
+start = 1
+end = 60069
+loop = 48372
+
+[[samples]]
+file = "42_rotarytom-lo.flac"
+key = 42
+velocity-to = 80
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 79672
+start = 1
+end = 79669
+loop = 60032
+
+[[samples]]
+file = "42_rotarytom-lo_2.flac"
+key = 42
+velocity-from = 81
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 79522
+end = 79519
+loop = 61146
+
+[[samples]]
+file = "43_rotarytom-mid.flac"
+key = 43
+velocity-to = 80
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 79360
+start = 1
+end = 79356
+loop = 59520
+
+[[samples]]
+file = "43_rotarytom-mid_2.flac"
+key = 43
+velocity-from = 81
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 79672
+end = 79668
+loop = 60192
+
+[[samples]]
+file = "93_shaker1-hit.flac"
+key = 93
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 7182
+end = 7178
+loop = 7166
+
+[[samples]]
+file = "94_shaker1-shke.flac"
+key = 94
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 7160
+end = 7156
+loop = 7144
+
+[[samples]]
+file = "95_shaker2-hit.flac"
+key = 95
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 9546
+end = 9542
+
+[[samples]]
+file = "96_shaker2-shke.flac"
+key = 96
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 8152
+end = 8148
+loop = 8136
+
+[[samples]]
+file = "97_shaker3-hit.flac"
+key = 97
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 8453
+end = 8449
+loop = 8437
+
+[[samples]]
+file = "98_shaker3-shake.flac"
+key = 98
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 8242
+end = 8238
+loop = 8226
+
+[[samples]]
+file = "99_shaker4.flac"
+key = 99
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 8127
+end = 8123
+loop = 8111
+
+[[samples]]
+file = "56_cowbell01.flac"
+key = 56
+level = 127
+tune-coarse = 60
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 9176
+end = 9172
+loop = 6978
+
+[[samples]]
+file = "58_vibraslap.flac"
+key = 58
+level = 127
+tune-coarse = 50
+tune-fine = 84
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 9936
+end = 9932
+loop = 8466
+
+[[samples]]
+file = "71_bongohi-heel.flac"
+key = 71
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 9670
+end = 9614
+
+[[samples]]
+file = "72_bongohi-open-mp.flac"
+key = 72
+velocity-to = 90
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 8704
+end = 8648
+
+[[samples]]
+file = "72_bongohi-open-mp_2.flac"
+key = 72
+velocity-from = 91
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 9014
+start = 1
+end = 8958
+
+[[samples]]
+file = "73_bongohi-open-f.flac"
+key = 73
+velocity-to = 90
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 8816
+end = 8760
+
+[[samples]]
+file = "73_bongohi-open-f_2.flac"
+key = 73
+velocity-from = 91
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 9916
+start = 1
+end = 9860
+
+[[samples]]
+file = "74_bongohi-rim.flac"
+key = 74
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 9780
+end = 9724
+
+[[samples]]
+file = "75_bongohi-open-tip.flac"
+key = 75
+velocity-to = 90
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 9256
+start = 1
+end = 9200
+
+[[samples]]
+file = "75_bongohi-open-tip_2.flac"
+key = 75
+velocity-from = 91
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 9766
+end = 9710
+
+[[samples]]
+file = "54_tambourine1-hit.flac"
+key = 54
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 58341
+end = 58337
+
+[[samples]]
+file = "55_tambourine1-shake.flac"
+key = 55
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 32583
+end = 32579
+
+[[samples]]
+file = "76_largeagogo-hi.flac"
+key = 76
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 54552
+end = 54548
+
+[[samples]]
+file = "77_largeagogo-lo.flac"
+key = 77
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 128329
+end = 128325
+
+[[samples]]
+file = "78_cabasa1.flac"
+key = 78
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11694
+end = 11690
+
+[[samples]]
+file = "79_maracas1.flac"
+key = 79
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 7309
+end = 7305
+
+[[samples]]
+file = "80_whistle.flac"
+key = 80
+level = 127
+tune-coarse = 50
+tune-fine = 84
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 2713
+end = 2709
+loop = 1941
+
+[[samples]]
+file = "81_guiro-short.flac"
+key = 81
+level = 127
+tune-coarse = 58
+tune-fine = 93
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 6274
+end = 6270
+
+[[samples]]
+file = "100_guiro-long.flac"
+key = 100
+level = 127
+tune-coarse = 53
+tune-fine = 94
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11815
+end = 11811
+
+[[samples]]
+file = "101_claves.flac"
+key = 101
+level = 127
+tune-coarse = 60
+tune-fine = 81
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 6892
+end = 6888
+
+[[samples]]
+file = "102_resinblock-small.flac"
+key = 102
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 12648
+start = 1
+end = 12592
+
+[[samples]]
+file = "103_resinblock-large.flac"
+key = 103
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 12056
+end = 12000
+
+[[samples]]
+file = "104_cuica-hi.flac"
+key = 104
+level = 127
+tune-coarse = 41
+tune-fine = 94
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 2851
+end = 2847
+
+[[samples]]
+file = "105_cuica-lo.flac"
+key = 105
+level = 127
+tune-coarse = 41
+tune-fine = 94
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 2938
+end = 2880
+
+[[samples]]
+file = "57_tambourine2-hit.flac"
+key = 57
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 49702
+end = 49698
+
+[[samples]]
+file = "59_tambourine2-shake.flac"
+key = 59
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 49656
+end = 49652
+
+[[samples]]
+file = "106_tambourine3-hit.flac"
+key = 106
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 53159
+end = 53155
+
+[[samples]]
+file = "107_tambourine3-shake.flac"
+key = 107
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 42475
+end = 42471
+
+[[samples]]
+file = "108_belltree.flac"
+key = 108
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 26804
+end = 26800
+loop = 25243
+
+[[samples]]
+file = "109_bongolo-opn-mp.flac"
+key = 109
+velocity-to = 90
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 12522
+end = 12466
+
+[[samples]]
+file = "109_bongolo-opn-mp_2.flac"
+key = 109
+velocity-from = 91
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 12710
+start = 1
+end = 12654
+
+[[samples]]
+file = "110_bongolo-opn-f.flac"
+key = 110
+velocity-to = 60
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 14306
+end = 14250
+
+[[samples]]
+file = "110_bongolo-opn-f_2.flac"
+key = 110
+velocity-from = 61
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 15030
+start = 1
+end = 14974
+
+[[samples]]
+file = "111_bongolo-rim.flac"
+key = 111
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 12396
+end = 12340
+
+[[samples]]
+file = "112_bongolo-tip.flac"
+key = 112
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 10486
+start = 1
+end = 10430
+
+[[samples]]
+file = "113_timbalehipaila.flac"
+key = 113
+level = 123
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 43827
+end = 43823
+
+[[samples]]
+file = "114_timbalelopaila.flac"
+key = 114
+level = 123
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 45193
+end = 45189
+
+[[samples]]
+file = "115_timbalehi-opn-mp.flac"
+key = 115
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 54552
+start = 1
+end = 54548
+loop = 50174
+
+[[samples]]
+file = "116_timbalehi-opn-mf.flac"
+key = 116
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 49598
+start = 1
+end = 49594
+loop = 37854
+
+[[samples]]
+file = "117_timbalehi-opn-f.flac"
+key = 117
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 49310
+end = 49307
+loop = 38668
+
+[[samples]]
+file = "118_timbalehi-opnrim.flac"
+key = 118
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 54820
+end = 54764
+
+[[samples]]
+file = "119_timbalelo-opn-mf.flac"
+key = 119
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 59908
+end = 59904
+loop = 55139
+
+[[samples]]
+file = "120_timbalelo-opn-f.flac"
+key = 120
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 80244
+start = 1
+end = 80240
+loop = 64282
+
+[[samples]]
+file = "121_timbalelo-edge.flac"
+key = 121
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 55820
+start = 1
+end = 55816
+loop = 51454
+
+[[samples]]
+file = "122_shaker5-hit.flac"
+key = 122
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11801
+end = 11797
+
+[[samples]]
+file = "123_shaker6-shake.flac"
+key = 123
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11558
+end = 11554
+
+[[samples]]
+file = "39_fingersnap.flac"
+key = 39
+level = 127
+tune-coarse = 60
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 5389
+end = 5385
+
+[[samples]]
+file = "124_castanet2.flac"
+key = 124
+level = 127
+tune-coarse = 60
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 5710
+end = 5706
+
+[[samples]]
+file = "40_handclap.flac"
+key = 40
+level = 127
+tune-coarse = 61
+tune-fine = 54
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 9993
+end = 9989
+loop = 9980
+
+[[samples]]
+file = "125_tambourine4-hit.flac"
+key = 125
+level = 127
+tune-coarse = 61
+tune-fine = 54
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 20070
+end = 20066
+
+[[samples]]
+file = "126_tambourine4-shake.flac"
+key = 126
+level = 127
+tune-coarse = 61
+tune-fine = 54
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 18995
+end = 18991
+
+[[samples]]
+file = "127_cowbell02-mute.flac"
+key = 127
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 7602
+start = 1
+end = 7546
+
+[[samples]]
+file = "0_cowbell02-open.flac"
+key = 0
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 14668
+end = 14612
+
+[[samples]]
+file = "1_cowbell03-mute.flac"
+key = 1
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 24842
+end = 24838
+
+[[samples]]
+file = "2_cowbell03-open.flac"
+key = 2
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 40826
+start = 1
+end = 40770
+
+[[samples]]
+file = "3_cowbell04-mute.flac"
+key = 3
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11486
+end = 11430
+
+[[samples]]
+file = "4_cowbell04-open.flac"
+key = 4
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 36326
+end = 36270
+
+[[samples]]
+file = "5_cowbell05-mute.flac"
+key = 5
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 19492
+end = 19488
+
+[[samples]]
+file = "6_cowbell05-open.flac"
+key = 6
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 25284
+end = 25228
+
+[[samples]]
+file = "7_woodblock01.flac"
+key = 7
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 9212
+end = 9208
+loop = 9204
+
+[[samples]]
+file = "53_wahbell.flac"
+key = 53
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 87521
+end = 87517
+loop = 59502
+
+[[samples]]
+file = "8_sleighbell01.flac"
+key = 8
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 99117
+end = 99113
+
+[[samples]]
+file = "9_sleighbell02.flac"
+key = 9
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 98361
+end = 98357
+
+[[samples]]
+file = "10_trianglelarge-mute.flac"
+key = 10
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 7006
+end = 7002
+
+[[samples]]
+file = "11_trianglelarge-open.flac"
+key = 11
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 68508
+end = 68504
+loop = 55423
+
+[[samples]]
+file = "12_trianglemiddium-mute.flac"
+key = 12
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 5148
+end = 5144
+
+[[samples]]
+file = "13_trianglemiddium-open.flac"
+key = 13
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 55492
+end = 55488
+loop = 41226
+
+[[samples]]
+file = "14_trianglesmall-mute.flac"
+key = 14
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 7753
+end = 7749
+
+[[samples]]
+file = "15_triangle-small-open.flac"
+key = 15
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 45847
+end = 45843
+loop = 40012
+
+[[samples]]
+file = "16_woodblocklarge.flac"
+key = 16
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 12886
+start = 1
+end = 12830
+
+[[samples]]
+file = "17_woodblocksmall.flac"
+key = 17
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11572
+end = 11516
+
+[[samples]]
+file = "18_windchime01.flac"
+key = 18
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 299240
+end = 299236
+loop = 259344
+

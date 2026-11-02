@@ -1,0 +1,787 @@
+name = "Session Power Kit"
+id = "session-power-kit"
+group = "drums"
+
+[[samples]]
+file = "36_powerbd-open.flac"
+key = 36
+velocity-to = 64
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 50312
+start = 1
+end = 50309
+loop = 39346
+
+[[samples]]
+file = "36_powerbd-open_2.flac"
+key = 36
+velocity-from = 65
+velocity-to = 99
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 81688
+start = 1
+end = 81684
+loop = 65714
+
+[[samples]]
+file = "36_powerbd-open_3.flac"
+key = 36
+velocity-from = 100
+velocity-to = 110
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 74562
+start = 1
+end = 74558
+loop = 59740
+
+[[samples]]
+file = "36_powerbd-open_4.flac"
+key = 36
+velocity-from = 111
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 86344
+start = 1
+end = 86341
+loop = 72522
+
+[[samples]]
+file = "35_powerbd-close.flac"
+key = 35
+velocity-to = 64
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 70956
+end = 70953
+loop = 57758
+
+[[samples]]
+file = "35_powerbd-close_2.flac"
+key = 35
+velocity-from = 65
+velocity-to = 99
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 89446
+start = 1
+end = 89442
+loop = 72762
+
+[[samples]]
+file = "35_powerbd-close_3.flac"
+key = 35
+velocity-from = 100
+velocity-to = 110
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 89548
+start = 1
+end = 89544
+loop = 72852
+
+[[samples]]
+file = "35_powerbd-close_4.flac"
+key = 35
+velocity-from = 111
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 89964
+start = 1
+end = 89960
+loop = 68582
+
+[[samples]]
+file = "38_powesd-center.flac"
+key = 38
+velocity-to = 20
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 88324
+end = 88268
+
+[[samples]]
+file = "38_powesd-center_2.flac"
+key = 38
+velocity-from = 21
+velocity-to = 41
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 95472
+end = 95416
+
+[[samples]]
+file = "38_powesd-center_3.flac"
+key = 38
+velocity-from = 42
+velocity-to = 64
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 108558
+start = 1
+end = 108502
+
+[[samples]]
+file = "38_powesd-center_4.flac"
+key = 38
+velocity-from = 65
+velocity-to = 74
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 123340
+end = 123284
+
+[[samples]]
+file = "38_powesd-center_5.flac"
+key = 38
+velocity-from = 75
+velocity-to = 84
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 134884
+end = 134828
+
+[[samples]]
+file = "38_powesd-center_6.flac"
+key = 38
+velocity-from = 85
+velocity-to = 99
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 134958
+end = 134902
+
+[[samples]]
+file = "38_powesd-center_7.flac"
+key = 38
+velocity-from = 100
+velocity-to = 120
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 145996
+end = 145940
+
+[[samples]]
+file = "38_powesd-center_8.flac"
+key = 38
+velocity-from = 121
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 147442
+end = 147386
+
+[[samples]]
+file = "39_powersdsnappyoff-cntr.flac"
+key = 39
+velocity-to = 20
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 100462
+start = 1
+end = 100406
+
+[[samples]]
+file = "39_powersdsnappyoff-cntr_2.flac"
+key = 39
+velocity-from = 21
+velocity-to = 42
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 103718
+start = 1
+end = 103662
+
+[[samples]]
+file = "39_powersdsnappyoff-cntr_3.flac"
+key = 39
+velocity-from = 43
+velocity-to = 64
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 131078
+start = 1
+end = 131022
+
+[[samples]]
+file = "39_powersdsnappyoff-cntr_4.flac"
+key = 39
+velocity-from = 65
+velocity-to = 99
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 133202
+start = 1
+end = 133146
+
+[[samples]]
+file = "39_powersdsnappyoff-cntr_5.flac"
+key = 39
+velocity-from = 100
+velocity-to = 120
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 143150
+end = 143094
+
+[[samples]]
+file = "39_powersdsnappyoff-cntr_6.flac"
+key = 39
+velocity-from = 121
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 143054
+end = 142998
+
+[[samples]]
+file = "40_powersd-openrim.flac"
+key = 40
+velocity-to = 72
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 98972
+end = 98916
+
+[[samples]]
+file = "40_powersd-openrim_2.flac"
+key = 40
+velocity-from = 73
+velocity-to = 99
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 118254
+start = 1
+end = 118198
+
+[[samples]]
+file = "40_powersd-openrim_3.flac"
+key = 40
+velocity-from = 100
+velocity-to = 117
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 127748
+start = 1
+end = 127692
+
+[[samples]]
+file = "40_powersd-openrim_4.flac"
+key = 40
+velocity-from = 118
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 140570
+end = 140514
+
+[[samples]]
+file = "37_powersd-clsrim.flac"
+key = 37
+velocity-to = 72
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 22644
+end = 22588
+
+[[samples]]
+file = "37_powersd-clsrim_2.flac"
+key = 37
+velocity-from = 73
+velocity-to = 99
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 29242
+end = 29238
+
+[[samples]]
+file = "37_powersd-clsrim_3.flac"
+key = 37
+velocity-from = 100
+velocity-to = 117
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 29572
+end = 29568
+
+[[samples]]
+file = "37_powersd-clsrim_4.flac"
+key = 37
+velocity-from = 118
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 29581
+end = 29577
+
+[[samples]]
+file = "41_powerfloortom.flac"
+key = 41
+velocity-to = 64
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 93396
+end = 93393
+loop = 75598
+
+[[samples]]
+file = "41_powerfloortom_2.flac"
+key = 41
+velocity-from = 65
+velocity-to = 99
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 94890
+end = 94887
+loop = 73174
+
+[[samples]]
+file = "41_powerfloortom_3.flac"
+key = 41
+velocity-from = 100
+velocity-to = 110
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 95712
+start = 1
+end = 95708
+loop = 77914
+
+[[samples]]
+file = "41_powerfloortom_4.flac"
+key = 41
+velocity-from = 111
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 94362
+start = 1
+end = 94359
+loop = 77954
+
+[[samples]]
+file = "45_powerlotom.flac"
+key = 45
+velocity-to = 64
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 93684
+start = 1
+end = 93680
+loop = 78480
+
+[[samples]]
+file = "45_powerlotom_2.flac"
+key = 45
+velocity-from = 65
+velocity-to = 99
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 92964
+end = 92960
+loop = 73878
+
+[[samples]]
+file = "45_powerlotom_3.flac"
+key = 45
+velocity-from = 100
+velocity-to = 110
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 94664
+start = 1
+end = 94661
+loop = 77056
+
+[[samples]]
+file = "45_powerlotom_4.flac"
+key = 45
+velocity-from = 111
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 93274
+end = 93270
+loop = 73642
+
+[[samples]]
+file = "50_powerhitom.flac"
+key = 50
+velocity-to = 64
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 88128
+start = 1
+end = 88124
+loop = 71140
+
+[[samples]]
+file = "50_powerhitom_2.flac"
+key = 50
+velocity-from = 65
+velocity-to = 99
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 74178
+end = 74175
+loop = 61856
+
+[[samples]]
+file = "50_powerhitom_3.flac"
+key = 50
+velocity-from = 100
+velocity-to = 110
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 101578
+start = 1
+end = 101574
+loop = 74524
+
+[[samples]]
+file = "50_powerhitom_4.flac"
+key = 50
+velocity-from = 111
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 99596
+end = 99592
+loop = 74212
+
+[[samples]]
+file = "47_powermidtom.flac"
+key = 47
+velocity-to = 64
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 88128
+start = 1
+end = 88124
+loop = 71140
+
+[[samples]]
+file = "47_powermidtom_2.flac"
+key = 47
+velocity-from = 65
+velocity-to = 99
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 74178
+end = 74175
+loop = 61856
+
+[[samples]]
+file = "47_powermidtom_3.flac"
+key = 47
+velocity-from = 100
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 101578
+start = 1
+end = 101574
+loop = 74524
+
+[[samples]]
+file = "42_powerhh-close.flac"
+key = 42
+velocity-to = 72
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 23489
+end = 23485
+
+[[samples]]
+file = "42_powerhh-close_2.flac"
+key = 42
+velocity-from = 73
+velocity-to = 100
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 22728
+end = 22724
+
+[[samples]]
+file = "42_powerhh-close_3.flac"
+key = 42
+velocity-from = 101
+velocity-to = 112
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 17169
+end = 17165
+
+[[samples]]
+file = "42_powerhh-close_4.flac"
+key = 42
+velocity-from = 113
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 19446
+end = 19442
+
+[[samples]]
+file = "46_powerhh-open.flac"
+key = 46
+velocity-to = 110
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 70008
+end = 70004
+loop = 50688
+
+[[samples]]
+file = "46_powerhh-open_2.flac"
+key = 46
+velocity-from = 111
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 70008
+end = 70004
+loop = 50185
+
+[[samples]]
+file = "44_powerhh-footcls.flac"
+key = 44
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 17153
+end = 17149
+
+[[samples]]
+file = "53_powerdrmride-cup.flac"
+key = 53
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 129953
+end = 129949
+loop = 103531
+
+[[samples]]
+file = "51_powerdrmride-bow.flac"
+key = 51
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 175593
+end = 175589
+loop = 147160
+
+[[samples]]
+file = "59_powerdrmride-edge.flac"
+key = 59
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 175614
+end = 175610
+loop = 147308
+
+[[samples]]
+file = "49_powercrashcym.flac"
+key = 49
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 130385
+end = 130381
+loop = 104460
+
+[[samples]]
+file = "55_powersplashcym.flac"
+key = 55
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 71538
+end = 71534
+loop = 49765
+
+[[samples]]
+file = "52_powerchinacym.flac"
+key = 52
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 88346
+end = 88342
+loop = 67176
+
+[[samples]]
+file = "58_powerdora.flac"
+key = 58
+level = 127
+tune-coarse = 42
+tune-fine = 75
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 86242
+end = 86238
+loop = 78588
+

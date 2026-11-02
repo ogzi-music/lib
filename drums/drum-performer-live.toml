@@ -1,0 +1,1931 @@
+name = "Drum Performer Live"
+id = "drum-performer-live"
+group = "drums"
+
+[[samples]]
+file = "36_bd1-hc.flac"
+key = 36
+velocity-from = 85
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 22403
+end = 22400
+
+[[samples]]
+file = "36_bd1-hn.flac"
+key = 36
+velocity-from = 85
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 53763
+end = 53760
+
+[[samples]]
+file = "36_bd1-lc.flac"
+key = 36
+velocity-to = 42
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 23299
+end = 23296
+
+[[samples]]
+file = "36_bd1-mc.flac"
+key = 36
+velocity-from = 43
+velocity-to = 84
+round-robin = 4
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 22659
+end = 22656
+
+[[samples]]
+file = "35_bd2-hc.flac"
+key = 35
+velocity-from = 85
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 44163
+end = 44160
+
+[[samples]]
+file = "35_bd2-hn.flac"
+key = 35
+velocity-from = 85
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 71171
+end = 71168
+
+[[samples]]
+file = "35_bd2-lc.flac"
+key = 35
+velocity-to = 42
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 49155
+end = 49152
+
+[[samples]]
+file = "35_bd2-mc.flac"
+key = 35
+velocity-from = 43
+velocity-to = 84
+round-robin = 4
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 43651
+end = 43648
+
+[[samples]]
+file = "34_bd3-h1n.flac"
+key = 34
+velocity-from = 85
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 81795
+end = 81792
+
+[[samples]]
+file = "34_bd3-h2c.flac"
+key = 34
+velocity-from = 85
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 59139
+end = 59136
+
+[[samples]]
+file = "34_bd3-h2n.flac"
+key = 34
+velocity-from = 85
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 79491
+end = 79488
+
+[[samples]]
+file = "34_bd3-lc.flac"
+key = 34
+velocity-to = 42
+round-robin = 4
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 53763
+end = 53760
+
+[[samples]]
+file = "34_bd3-mc.flac"
+key = 34
+velocity-from = 43
+velocity-to = 84
+round-robin = 5
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 59907
+end = 59904
+
+[[samples]]
+file = "33_bd4-h1c1.flac"
+key = 33
+velocity-from = 85
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 44099
+end = 44096
+
+[[samples]]
+file = "33_bd4-h1c2.flac"
+key = 33
+velocity-from = 85
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 35203
+end = 35200
+
+[[samples]]
+file = "33_bd4-h1c3.flac"
+key = 33
+velocity-from = 85
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 57603
+end = 57600
+
+[[samples]]
+file = "33_bd4-h1hi.flac"
+key = 33
+velocity-from = 85
+round-robin = 4
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 44047
+end = 44044
+
+[[samples]]
+file = "33_bd4-h1n.flac"
+key = 33
+velocity-from = 85
+round-robin = 5
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 59267
+end = 59264
+
+[[samples]]
+file = "33_bd4-h2hi.flac"
+key = 33
+velocity-from = 85
+round-robin = 6
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 54531
+end = 54528
+
+[[samples]]
+file = "33_bd4-h2n.flac"
+key = 33
+velocity-from = 85
+round-robin = 7
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 55043
+end = 55040
+
+[[samples]]
+file = "33_bd4-l1c.flac"
+key = 33
+velocity-to = 42
+round-robin = 8
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 57091
+end = 57088
+
+[[samples]]
+file = "33_bd4-m1c.flac"
+key = 33
+velocity-from = 43
+velocity-to = 84
+round-robin = 9
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 62851
+end = 62848
+
+[[samples]]
+file = "37_rim1-vel-c.flac"
+key = 37
+velocity-to = 89
+round-robin = 1
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 49795
+end = 49792
+
+[[samples]]
+file = "37_rim1-vel-c_2.flac"
+key = 37
+velocity-from = 90
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 35459
+end = 35456
+
+[[samples]]
+file = "37_rim1-vel-n.flac"
+key = 37
+velocity-to = 90
+round-robin = 2
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 57027
+end = 57024
+
+[[samples]]
+file = "37_rim1-vel-n_2.flac"
+key = 37
+velocity-from = 90
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 58371
+end = 58368
+
+[[samples]]
+file = "37_rim1-vel-q.flac"
+key = 37
+velocity-to = 99
+round-robin = 5
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 63107
+end = 63104
+
+[[samples]]
+file = "37_rim1-vel-q_2.flac"
+key = 37
+velocity-from = 90
+round-robin = 6
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 35075
+end = 35072
+
+[[samples]]
+file = "37_rim1-l2n.flac"
+key = 37
+round-robin = 8
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 87811
+end = 87808
+
+[[samples]]
+file = "37_rim1-l2q.flac"
+key = 37
+round-robin = 9
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 88835
+end = 88832
+
+[[samples]]
+file = "37_rim1-m1c.flac"
+key = 37
+round-robin = 10
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 43139
+end = 43136
+
+[[samples]]
+file = "37_rim1-m1n.flac"
+key = 37
+round-robin = 11
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 36099
+end = 36096
+
+[[samples]]
+file = "37_rim1-m1q.flac"
+key = 37
+round-robin = 12
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 44291
+end = 44288
+
+[[samples]]
+file = "40_rim2-h1n.flac"
+key = 40
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 77699
+end = 77696
+
+[[samples]]
+file = "40_rim2-h1q.flac"
+key = 40
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 61443
+end = 61440
+
+[[samples]]
+file = "40_rim2-vel-n.flac"
+key = 40
+velocity-to = 89
+round-robin = 3
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 77827
+end = 77824
+
+[[samples]]
+file = "40_rim2-vel-n_2.flac"
+key = 40
+velocity-from = 90
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 77955
+end = 77952
+
+[[samples]]
+file = "40_rim2-vel-q.flac"
+key = 40
+velocity-to = 89
+round-robin = 4
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 67331
+end = 67328
+
+[[samples]]
+file = "40_rim2-vel-q_2.flac"
+key = 40
+velocity-from = 90
+round-robin = 4
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 48771
+end = 48768
+
+[[samples]]
+file = "38_sd1-vel-c.flac"
+key = 38
+velocity-to = 72
+round-robin = 1
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 71171
+end = 71168
+
+[[samples]]
+file = "38_sd1-vel-c_2.flac"
+key = 38
+velocity-from = 73
+velocity-to = 99
+round-robin = 1
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 44163
+end = 44160
+
+[[samples]]
+file = "38_sd1-vel-c_3.flac"
+key = 38
+velocity-from = 100
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 56707
+end = 56704
+
+[[samples]]
+file = "38_sd1-vel-n.flac"
+key = 38
+velocity-to = 72
+round-robin = 2
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 75011
+end = 75008
+
+[[samples]]
+file = "38_sd1-vel-n_2.flac"
+key = 38
+velocity-from = 73
+velocity-to = 99
+round-robin = 2
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 61699
+end = 61696
+
+[[samples]]
+file = "38_sd1-vel-n_3.flac"
+key = 38
+velocity-from = 100
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 64515
+end = 64512
+
+[[samples]]
+file = "38_sd1-vel-q.flac"
+key = 38
+velocity-to = 72
+round-robin = 3
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 73731
+end = 73728
+
+[[samples]]
+file = "38_sd1-vel-q_2.flac"
+key = 38
+velocity-from = 73
+velocity-to = 99
+round-robin = 3
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 41859
+end = 41856
+
+[[samples]]
+file = "38_sd1-vel-q_3.flac"
+key = 38
+velocity-from = 100
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 63363
+end = 63360
+
+[[samples]]
+file = "38_sd1-h2c.flac"
+key = 38
+velocity-from = 85
+round-robin = 4
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 66051
+end = 66048
+
+[[samples]]
+file = "38_sd1-h2n.flac"
+key = 38
+velocity-from = 85
+round-robin = 5
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 81411
+end = 81408
+
+[[samples]]
+file = "38_sd1-h2q.flac"
+key = 38
+velocity-from = 85
+round-robin = 6
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 53123
+end = 53120
+
+[[samples]]
+file = "38_sd1-l2c.flac"
+key = 38
+velocity-to = 42
+round-robin = 7
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 61059
+end = 61056
+
+[[samples]]
+file = "38_sd1-l2n.flac"
+key = 38
+velocity-to = 42
+round-robin = 8
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 54019
+end = 54016
+
+[[samples]]
+file = "38_sd1-m2c.flac"
+key = 38
+velocity-from = 43
+velocity-to = 84
+round-robin = 9
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 59523
+end = 59520
+
+[[samples]]
+file = "38_sd1-m2n.flac"
+key = 38
+velocity-from = 43
+velocity-to = 84
+round-robin = 10
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 75267
+end = 75264
+
+[[samples]]
+file = "38_sd1-m3n.flac"
+key = 38
+velocity-from = 43
+velocity-to = 84
+round-robin = 11
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 73731
+end = 73728
+
+[[samples]]
+file = "38_sd1-m3q.flac"
+key = 38
+velocity-from = 43
+velocity-to = 84
+round-robin = 12
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 76291
+end = 76288
+
+[[samples]]
+file = "40_sd2-h1n.flac"
+key = 40
+velocity-from = 85
+round-robin = 5
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 76035
+end = 76032
+
+[[samples]]
+file = "40_sd2-h1q.flac"
+key = 40
+velocity-from = 85
+round-robin = 6
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 61955
+end = 61952
+
+[[samples]]
+file = "40_sd2-h2n.flac"
+key = 40
+velocity-from = 85
+round-robin = 7
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 83075
+end = 83072
+
+[[samples]]
+file = "40_sd2-h2q.flac"
+key = 40
+velocity-from = 85
+round-robin = 8
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 71683
+end = 71680
+
+[[samples]]
+file = "40_sd2-l1n.flac"
+key = 40
+velocity-to = 42
+round-robin = 9
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 71299
+end = 71296
+
+[[samples]]
+file = "40_sd2-l1q.flac"
+key = 40
+velocity-to = 42
+round-robin = 10
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 46147
+end = 46144
+
+[[samples]]
+file = "40_sd2-l2n.flac"
+key = 40
+velocity-to = 42
+round-robin = 11
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 80515
+end = 80512
+
+[[samples]]
+file = "40_sd2-l2q-wa.flac"
+key = 40
+velocity-to = 42
+round-robin = 12
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 53123
+end = 53120
+
+[[samples]]
+file = "40_sd2-l3n.flac"
+key = 40
+velocity-to = 42
+round-robin = 13
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 87555
+end = 87552
+
+[[samples]]
+file = "40_sd2-l3q.flac"
+key = 40
+velocity-to = 42
+round-robin = 14
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 68355
+end = 68352
+
+[[samples]]
+file = "37_side1a-n.flac"
+key = 37
+round-robin = 13
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 17475
+end = 17472
+
+[[samples]]
+file = "37_side1a-q.flac"
+key = 37
+round-robin = 14
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 23299
+end = 23296
+
+[[samples]]
+file = "37_side1b-n.flac"
+key = 37
+round-robin = 15
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 20355
+end = 20352
+
+[[samples]]
+file = "37_side1b-q.flac"
+key = 37
+round-robin = 16
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 25731
+end = 25728
+
+[[samples]]
+file = "37_side1c-n.flac"
+key = 37
+round-robin = 17
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 23683
+end = 23680
+
+[[samples]]
+file = "37_side1c-q.flac"
+key = 37
+round-robin = 18
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 32003
+end = 32000
+
+[[samples]]
+file = "37_side2a-n.flac"
+key = 37
+round-robin = 19
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 40835
+end = 40832
+
+[[samples]]
+file = "37_side2a-q.flac"
+key = 37
+round-robin = 20
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 42243
+end = 42240
+
+[[samples]]
+file = "50_tom1-l.flac"
+key = 50
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 126211
+end = 126208
+
+[[samples]]
+file = "50_tom1-m.flac"
+key = 50
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 110851
+end = 110848
+
+[[samples]]
+file = "50_tom1-velo.flac"
+key = 50
+velocity-to = 72
+round-robin = 3
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 126211
+end = 126208
+
+[[samples]]
+file = "50_tom1-velo_2.flac"
+key = 50
+velocity-from = 73
+velocity-to = 99
+round-robin = 3
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 110851
+end = 110848
+
+[[samples]]
+file = "50_tom1-velo_3.flac"
+key = 50
+velocity-from = 100
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 88323
+end = 88320
+
+[[samples]]
+file = "48_tom2-l.flac"
+key = 48
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 126979
+end = 126976
+
+[[samples]]
+file = "48_tom2-m.flac"
+key = 48
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 89475
+end = 89472
+
+[[samples]]
+file = "45_tom3-velo.flac"
+key = 45
+velocity-to = 72
+round-robin = 1
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 123907
+end = 123904
+
+[[samples]]
+file = "45_tom3-velo_2.flac"
+key = 45
+velocity-from = 73
+velocity-to = 99
+round-robin = 1
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 89475
+end = 89472
+
+[[samples]]
+file = "45_tom3-velo_3.flac"
+key = 45
+velocity-from = 100
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 87555
+end = 87552
+
+[[samples]]
+file = "45_tom3-l.flac"
+key = 45
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 123907
+end = 123904
+
+[[samples]]
+file = "45_tom3-m.flac"
+key = 45
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 89091
+end = 89088
+
+[[samples]]
+file = "45_tom3-velo_4.flac"
+key = 45
+velocity-to = 72
+round-robin = 4
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 123907
+end = 123904
+
+[[samples]]
+file = "45_tom3-velo_5.flac"
+key = 45
+velocity-from = 73
+velocity-to = 100
+round-robin = 4
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 89091
+end = 89088
+
+[[samples]]
+file = "45_tom3-velo_6.flac"
+key = 45
+velocity-from = 100
+round-robin = 5
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 109571
+end = 109568
+
+[[samples]]
+file = "43_tom4-l.flac"
+key = 43
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 100483
+end = 100480
+
+[[samples]]
+file = "43_tom4-m.flac"
+key = 43
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 84227
+end = 84224
+
+[[samples]]
+file = "43_tom4-velo.flac"
+key = 43
+velocity-to = 72
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 100483
+end = 100480
+
+[[samples]]
+file = "43_tom4-velo_2.flac"
+key = 43
+velocity-from = 73
+velocity-to = 99
+round-robin = 3
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 84227
+end = 84224
+
+[[samples]]
+file = "43_tom4-velo_3.flac"
+key = 43
+velocity-from = 100
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 88707
+end = 88704
+
+[[samples]]
+file = "42_hh1cl-1n.flac"
+key = 42
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 44547
+end = 44544
+
+[[samples]]
+file = "42_hh1cl-1q.flac"
+key = 42
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 20227
+end = 20224
+
+[[samples]]
+file = "42_hh1cl-2n.flac"
+key = 42
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 18755
+end = 18752
+
+[[samples]]
+file = "42_hh1cl-2q.flac"
+key = 42
+round-robin = 4
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 28611
+end = 28608
+
+[[samples]]
+file = "44_hh1ft-1q.flac"
+key = 44
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 18563
+end = 18560
+
+[[samples]]
+file = "44_hh1ft-2n.flac"
+key = 44
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 23363
+end = 23360
+
+[[samples]]
+file = "46_hh1op-1n.flac"
+key = 46
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 110595
+end = 110592
+
+[[samples]]
+file = "46_hh1op-1q.flac"
+key = 46
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 93699
+end = 93696
+
+[[samples]]
+file = "46_hh1op-2n.flac"
+key = 46
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 168313
+end = 168310
+
+[[samples]]
+file = "46_hh1op-3n.flac"
+key = 46
+round-robin = 4
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 116739
+end = 116736
+
+[[samples]]
+file = "46_hh1op-3q.flac"
+key = 46
+round-robin = 5
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 109315
+end = 109312
+
+[[samples]]
+file = "42_hh2cl-1n.flac"
+key = 42
+round-robin = 5
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 27267
+end = 27264
+
+[[samples]]
+file = "42_hh2cl-1q.flac"
+key = 42
+round-robin = 6
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 29955
+end = 29952
+
+[[samples]]
+file = "42_hh2cl-2n.flac"
+key = 42
+round-robin = 7
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 25283
+end = 25280
+
+[[samples]]
+file = "42_hh2cl-2q.flac"
+key = 42
+round-robin = 8
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 27651
+end = 27648
+
+[[samples]]
+file = "44_hh2ft-1n.flac"
+key = 44
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 25987
+end = 25984
+
+[[samples]]
+file = "44_hh2ft-1q.flac"
+key = 44
+round-robin = 4
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 22211
+end = 22208
+
+[[samples]]
+file = "46_hh2op-1n.flac"
+key = 46
+round-robin = 6
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 101635
+end = 101632
+
+[[samples]]
+file = "46_hh2op-1q.flac"
+key = 46
+round-robin = 7
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 106755
+end = 106752
+
+[[samples]]
+file = "46_hh2op-2n.flac"
+key = 46
+round-robin = 8
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 175107
+end = 175104
+
+[[samples]]
+file = "46_hh2op-2q.flac"
+key = 46
+round-robin = 9
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 160515
+end = 160512
+
+[[samples]]
+file = "51_ride1-veln.flac"
+key = 51
+velocity-to = 89
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 352259
+end = 352256
+
+[[samples]]
+file = "51_ride1-veln_2.flac"
+key = 51
+velocity-from = 90
+velocity-to = 111
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 400387
+end = 400384
+
+[[samples]]
+file = "51_ride1-veln_3.flac"
+key = 51
+velocity-from = 112
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 406531
+end = 406528
+
+[[samples]]
+file = "51_ride1-velq.flac"
+key = 51
+velocity-to = 89
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 336387
+end = 336384
+
+[[samples]]
+file = "51_ride1-velq_2.flac"
+key = 51
+velocity-from = 90
+velocity-to = 111
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 301059
+end = 301056
+
+[[samples]]
+file = "51_ride1-velq_3.flac"
+key = 51
+velocity-from = 112
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 323587
+end = 323584
+
+[[samples]]
+file = "51_ride1-1n.flac"
+key = 51
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 406531
+end = 406528
+
+[[samples]]
+file = "51_ride1-1q.flac"
+key = 51
+round-robin = 4
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 323587
+end = 323584
+
+[[samples]]
+file = "51_ride1-2n.flac"
+key = 51
+round-robin = 5
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 400387
+end = 400384
+
+[[samples]]
+file = "51_ride1-2q.flac"
+key = 51
+round-robin = 6
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 301059
+end = 301056
+
+[[samples]]
+file = "51_ride1-3n.flac"
+key = 51
+round-robin = 7
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 352259
+end = 352256
+
+[[samples]]
+file = "51_ride1-3q.flac"
+key = 51
+round-robin = 8
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 336387
+end = 336384
+
+[[samples]]
+file = "59_ride2-veln.flac"
+key = 59
+velocity-to = 104
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 315907
+end = 315904
+
+[[samples]]
+file = "59_ride2-veln_2.flac"
+key = 59
+velocity-from = 105
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 318467
+end = 318464
+
+[[samples]]
+file = "59_ride2-velq.flac"
+key = 59
+velocity-to = 104
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 271875
+end = 271872
+
+[[samples]]
+file = "59_ride2-velq_2.flac"
+key = 59
+velocity-from = 105
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 268803
+end = 268800
+
+[[samples]]
+file = "59_ride2-1n.flac"
+key = 59
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 318467
+end = 318464
+
+[[samples]]
+file = "59_ride2-1q.flac"
+key = 59
+round-robin = 4
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 268803
+end = 268800
+
+[[samples]]
+file = "59_ride2-2n.flac"
+key = 59
+round-robin = 5
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 315907
+end = 315904
+
+[[samples]]
+file = "59_ride2-2q.flac"
+key = 59
+round-robin = 6
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 271875
+end = 271872
+
+[[samples]]
+file = "53_ridb1-veln.flac"
+key = 53
+velocity-to = 104
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 328707
+end = 328704
+
+[[samples]]
+file = "53_ridb1-veln_2.flac"
+key = 53
+velocity-from = 105
+round-robin = 1
+level = 123
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 352259
+end = 352256
+
+[[samples]]
+file = "53_ridb1-velq.flac"
+key = 53
+velocity-to = 104
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 321539
+end = 321536
+
+[[samples]]
+file = "53_ridb1-velq_2.flac"
+key = 53
+velocity-from = 105
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 347139
+end = 347136
+
+[[samples]]
+file = "53_ridb2-1n.flac"
+key = 53
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 327683
+end = 327680
+
+[[samples]]
+file = "53_ridb2-velq.flac"
+key = 53
+velocity-to = 104
+round-robin = 4
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 349187
+end = 349184
+
+[[samples]]
+file = "53_ridb2-velq_2.flac"
+key = 53
+velocity-from = 105
+round-robin = 4
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 347139
+end = 347136
+
+[[samples]]
+file = "52_china-n.flac"
+key = 52
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 409603
+end = 409600
+
+[[samples]]
+file = "52_china-q.flac"
+key = 52
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 334851
+end = 334848
+
+[[samples]]
+file = "49_crsh1-1n.flac"
+key = 49
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 241155
+end = 241152
+
+[[samples]]
+file = "49_crsh1-1q.flac"
+key = 49
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 269315
+end = 269312
+
+[[samples]]
+file = "49_crsh1-2n.flac"
+key = 49
+round-robin = 3
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 331267
+end = 331264
+
+[[samples]]
+file = "57_crsh2-1n.flac"
+key = 57
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 226307
+end = 226304
+
+[[samples]]
+file = "57_crsh2-1q.flac"
+key = 57
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 246787
+end = 246784
+
+[[samples]]
+file = "54_gongzild.flac"
+key = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 668675
+end = 668672
+
+[[samples]]
+file = "55_windgong.flac"
+key = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 828419
+end = 828416
+

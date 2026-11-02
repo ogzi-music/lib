@@ -1,0 +1,216 @@
+name = "Studio Drums Ludwig"
+id = "studio-drums-ludwig"
+group = "drums"
+
+[[samples]]
+file = "39_snrludwg-bbeauty-sft.flac"
+key = 39
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 108558
+
+[[samples]]
+file = "40_snrludwg-bbeauty-med.flac"
+key = 40
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 81096
+
+[[samples]]
+file = "82_snrludwg-bbeauty-hrd.flac"
+key = 82
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 154448
+
+[[samples]]
+file = "37_snrludwg-bbeauty-rim.flac"
+key = 37
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 148831
+
+[[samples]]
+file = "38_snrludwg-bbeauty-1-4.flac"
+key = 38
+velocity-from = 117
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 148831
+
+[[samples]]
+file = "38_snrludwg-bbeauty-1-4_2.flac"
+key = 38
+velocity-from = 104
+velocity-to = 116
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 154448
+
+[[samples]]
+file = "38_snrludwg-bbeauty-1-4_3.flac"
+key = 38
+velocity-from = 82
+velocity-to = 103
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 81096
+
+[[samples]]
+file = "38_snrludwg-bbeauty-1-4_4.flac"
+key = 38
+velocity-to = 81
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 108558
+
+[[samples]]
+file = "85_snrludwg-oystr-sft.flac"
+key = 85
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 120895
+
+[[samples]]
+file = "86_snrludwg-oystr-med.flac"
+key = 86
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 143964
+
+[[samples]]
+file = "87_snrludwg-oystr-hard.flac"
+key = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 157435
+
+[[samples]]
+file = "84_snrludwg-oystr-rim.flac"
+key = 84
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 207567
+
+[[samples]]
+file = "83_snrludwg-oystr-1-4.flac"
+key = 83
+velocity-from = 117
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 207567
+
+[[samples]]
+file = "83_snrludwg-oystr-1-4_2.flac"
+key = 83
+velocity-from = 106
+velocity-to = 116
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 157435
+
+[[samples]]
+file = "83_snrludwg-oystr-1-4_3.flac"
+key = 83
+velocity-from = 84
+velocity-to = 105
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 143964
+
+[[samples]]
+file = "83_snrludwg-oystr-1-4_4.flac"
+key = 83
+velocity-to = 83
+level = 126
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 120895
+
+[[samples]]
+file = "43_tom-ludwig-lo-hit.flac"
+key = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 292611
+
+[[samples]]
+file = "50_tom-ludwig-hi-hit.flac"
+key = 50
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 212612
+
+[[samples]]
+file = "36_kick-ludwig-oystr.flac"
+key = 36
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 177771
+
+[[samples]]
+file = "35_kick-ludwig-b.flac"
+key = 35
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 106891
+

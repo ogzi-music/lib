@@ -1,0 +1,506 @@
+name = "Studio Drums Brushes"
+id = "studio-drums-brushes"
+group = "drums"
+
+[[samples]]
+file = "38_snrbrshpearl-drag-1.flac"
+key = 38
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 27113
+
+[[samples]]
+file = "39_snsbrshpearl-drag-2.flac"
+key = 39
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 50488
+
+[[samples]]
+file = "40_snrbrshpearl-hit-1.flac"
+key = 40
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 80873
+
+[[samples]]
+file = "41_snrbrshpearl-hit-2.flac"
+key = 41
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 80253
+
+[[samples]]
+file = "42_snrbrshpearl-hit-3.flac"
+key = 42
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 44811
+
+[[samples]]
+file = "43_snrbrshpearl-hit-4.flac"
+key = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 65085
+
+[[samples]]
+file = "44_snrbrshpearl-hit-5.flac"
+key = 44
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 74107
+
+[[samples]]
+file = "45_snrbrshpearl-hit-6.flac"
+key = 45
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 79613
+
+[[samples]]
+file = "46_snrbrshpearl-hit-7.flac"
+key = 46
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 82230
+
+[[samples]]
+file = "47_snr-brsh-roll-1.flac"
+key = 47
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 79175
+
+[[samples]]
+file = "48_snrbrshgretsch-hit-1.flac"
+key = 48
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 65305
+
+[[samples]]
+file = "49_snrbrshgretsch-slap1.flac"
+key = 49
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 67412
+
+[[samples]]
+file = "50_snrbrshgretsch-slap2.flac"
+key = 50
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 12267
+
+[[samples]]
+file = "51_snrbrshgretsch-hit-2.flac"
+key = 51
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 89886
+
+[[samples]]
+file = "52_snrbrshgretschdrag-1.flac"
+key = 52
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 53772
+
+[[samples]]
+file = "53_snrbrsh-roll-2.flac"
+key = 53
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 23059
+
+[[samples]]
+file = "54_snrbrshslngr-slap-1.flac"
+key = 54
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 16726
+
+[[samples]]
+file = "55_snrbrshslngr-drag-1.flac"
+key = 55
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 18695
+
+[[samples]]
+file = "56_snrbrshslngr-hit-1.flac"
+key = 56
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 22768
+
+[[samples]]
+file = "57_snrbrshslngr-hit-2.flac"
+key = 57
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 14330
+
+[[samples]]
+file = "58_snrbrsh-swirl-1.flac"
+key = 58
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 189811
+end = 186762
+loop = 8385
+
+[[samples]]
+file = "59_snrbrsh-swirl-2.flac"
+key = 59
+level = 127
+channels = 2
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 166065
+end = 162907
+loop = 33294
+
+[[samples]]
+file = "60_hihatbrshsabian1-4.flac"
+key = 60
+velocity-to = 104
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 12674
+
+[[samples]]
+file = "60_hihatbrshsabian1-4_2.flac"
+key = 60
+velocity-from = 118
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 21169
+
+[[samples]]
+file = "60_hihatbrshsabian1-4_3.flac"
+key = 60
+velocity-from = 105
+velocity-to = 117
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 12084
+
+[[samples]]
+file = "61_hihatbrshzldjian1-3.flac"
+key = 61
+velocity-to = 104
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 44468
+
+[[samples]]
+file = "61_hihatbrshzldjian1-3_2.flac"
+key = 61
+velocity-from = 105
+velocity-to = 116
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 34125
+
+[[samples]]
+file = "61_hihatbrshzldjian1-3_3.flac"
+key = 61
+velocity-from = 117
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 42685
+
+[[samples]]
+file = "62_hihatbrshsabian-1.flac"
+key = 62
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 12674
+
+[[samples]]
+file = "63_hihatbrshsabian-2.flac"
+key = 63
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 21169
+
+[[samples]]
+file = "64_hihatbrshsabian-3.flac"
+key = 64
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 12084
+
+[[samples]]
+file = "65_hihatbrshzldjian-1.flac"
+key = 65
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 44468
+
+[[samples]]
+file = "66_hihatbrshzldjian-2.flac"
+key = 66
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 34125
+
+[[samples]]
+file = "67_hihatbrshzldjian-3.flac"
+key = 67
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 42685
+
+[[samples]]
+file = "68_hihatbrshzldjianopn1.flac"
+key = 68
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 241633
+
+[[samples]]
+file = "69_hihatbrshzldjianopn2.flac"
+key = 69
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 330483
+
+[[samples]]
+file = "70_hihatbrshsabianopn1.flac"
+key = 70
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 664573
+
+[[samples]]
+file = "71_cym16-brsh-ride.flac"
+key = 71
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 477944
+
+[[samples]]
+file = "72_cym16-brsh-crash.flac"
+key = 72
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 652101
+
+[[samples]]
+file = "73_cym16-brsh-bel.flac"
+key = 73
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 497408
+
+[[samples]]
+file = "74_cym18-brsh-ride.flac"
+key = 74
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 793862
+
+[[samples]]
+file = "75_cym18-brsh-crash.flac"
+key = 75
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 774044
+
+[[samples]]
+file = "76_cym20-brsh-ride.flac"
+key = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 620470
+
+[[samples]]
+file = "77_cym16-brsh-bel.flac"
+key = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 497408
+
+[[samples]]
+file = "78_cym16-brsh-ride-2.flac"
+key = 78
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 498529
+
+[[samples]]
+file = "79_cym16-brsh-ride-3.flac"
+key = 79
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 477944
+
+[[samples]]
+file = "80_cym18-brshride-2.flac"
+key = 80
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 724796
+
+[[samples]]
+file = "81_cym20-brshhit-hard.flac"
+key = 81
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 715618
+
+[[samples]]
+file = "82_cym20-brsh-hit-soft.flac"
+key = 82
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 620470
+

@@ -1,0 +1,206 @@
+name = "Session Taiko"
+id = "session-taiko"
+group = "drums"
+
+[[samples]]
+file = "36_shimedaiko1.flac"
+key = 36
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 22922
+end = 22866
+
+[[samples]]
+file = "41_yaguradiko-opn.flac"
+key = 41
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 11132
+end = 11129
+loop = 9292
+
+[[samples]]
+file = "43_yaguradaiko-rim.flac"
+key = 43
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 4952
+end = 4948
+
+[[samples]]
+file = "45_oodaiko-open.flac"
+key = 45
+level = 127
+tune-coarse = 26
+tune-fine = 84
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 5124
+start = 1
+end = 5120
+loop = 3410
+
+[[samples]]
+file = "50_tsudumi-open.flac"
+key = 50
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 8662
+end = 8658
+loop = 6750
+
+[[samples]]
+file = "51_tsudumi-close.flac"
+key = 51
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 4296
+start = 1
+end = 4292
+loop = 3836
+
+[[samples]]
+file = "53_ookawa.flac"
+key = 53
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 3960
+end = 3956
+loop = 3491
+
+[[samples]]
+file = "38_shimedaiko2.flac"
+key = 38
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 9912
+end = 9908
+loop = 7114
+
+[[samples]]
+file = "49_tamtam.flac"
+key = 49
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 166238
+end = 166234
+loop = 107817
+
+[[samples]]
+file = "55_grancasa-mute.flac"
+key = 55
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 21118
+start = 1
+end = 21115
+loop = 18894
+
+[[samples]]
+file = "57_grancasa-open.flac"
+key = 57
+level = 127
+tune-coarse = 52
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 43980
+end = 43977
+loop = 37308
+
+[[samples]]
+file = "59_handcymbal-open.flac"
+key = 59
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 88855
+end = 88851
+loop = 48844
+
+[[samples]]
+file = "61_handcymbal-mute.flac"
+key = 61
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 27719
+end = 27715
+
+[[samples]]
+file = "47_okedodaiko-open.flac"
+key = 47
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 89436
+end = 89380
+
+[[samples]]
+file = "48_okedodaiko-rim.flac"
+key = 48
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 24844
+start = 1
+end = 24788
+
+[[samples]]
+file = "56_atarigane.flac"
+key = 56
+level = 127
+tune-coarse = 57
+tune-fine = 85
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11004
+end = 11000
+

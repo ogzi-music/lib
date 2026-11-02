@@ -1,0 +1,1608 @@
+name = "Drum Masters Bonzo"
+id = "drum-masters-bonzo"
+group = "drums"
+
+[[samples]]
+file = "29_bonzo-kick-snare.flac"
+key = 29
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 411647
+
+[[samples]]
+file = "29_bonzo-kick-snare_2.flac"
+key = 29
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 425978
+
+[[samples]]
+file = "29_bonzo-kick-snare_3.flac"
+key = 29
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 430077
+
+[[samples]]
+file = "29_bonzo-kick-snare_4.flac"
+key = 29
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 424960
+
+[[samples]]
+file = "29_bonzo-kick-snare_5.flac"
+key = 29
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 447487
+
+[[samples]]
+file = "29_bonzo-kick-snare_6.flac"
+key = 29
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 473088
+
+[[samples]]
+file = "29_bonzo-kick-snare_7.flac"
+key = 29
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 400384
+
+[[samples]]
+file = "40_bonzo-kick-snare.flac"
+key = 40
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 250253
+
+[[samples]]
+file = "40_bonzo-kick-snare_2.flac"
+key = 40
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 225792
+
+[[samples]]
+file = "40_bonzo-kick-snare_3.flac"
+key = 40
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 237082
+
+[[samples]]
+file = "40_bonzo-kick-snare_4.flac"
+key = 40
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 254957
+
+[[samples]]
+file = "40_bonzo-kick-snare_5.flac"
+key = 40
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 242727
+
+[[samples]]
+file = "40_bonzo-kick-snare_6.flac"
+key = 40
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 234260
+
+[[samples]]
+file = "40_bonzo-kick-snare_7.flac"
+key = 40
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 205095
+
+[[samples]]
+file = "38_bonzo-kick-snare.flac"
+key = 38
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 284122
+
+[[samples]]
+file = "38_bonzo-kick-snare_2.flac"
+key = 38
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 268128
+
+[[samples]]
+file = "38_bonzo-kick-snare_3.flac"
+key = 38
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 233319
+
+[[samples]]
+file = "38_bonzo-kick-snare_4.flac"
+key = 38
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 231437
+
+[[samples]]
+file = "38_bonzo-kick-snare_5.flac"
+key = 38
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 220148
+
+[[samples]]
+file = "38_bonzo-kick-snare_6.flac"
+key = 38
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 219207
+
+[[samples]]
+file = "38_bonzo-kick-snare_7.flac"
+key = 38
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 222970
+
+[[samples]]
+file = "37_bonzo-kick-snare.flac"
+key = 37
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 166522
+
+[[samples]]
+file = "37_bonzo-kick-snare_2.flac"
+key = 37
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 173108
+
+[[samples]]
+file = "37_bonzo-kick-snare_3.flac"
+key = 37
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 173108
+
+[[samples]]
+file = "37_bonzo-kick-snare_4.flac"
+key = 37
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 165581
+
+[[samples]]
+file = "37_bonzo-kick-snare_5.flac"
+key = 37
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 152410
+
+[[samples]]
+file = "37_bonzo-kick-snare_6.flac"
+key = 37
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 150528
+
+[[samples]]
+file = "36_bonzo-kick-snare.flac"
+key = 36
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 200391
+
+[[samples]]
+file = "36_bonzo-kick-snare_2.flac"
+key = 36
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 191924
+
+[[samples]]
+file = "36_bonzo-kick-snare_3.flac"
+key = 36
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 190983
+
+[[samples]]
+file = "36_bonzo-kick-snare_4.flac"
+key = 36
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 190042
+
+[[samples]]
+file = "36_bonzo-kick-snare_5.flac"
+key = 36
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 189101
+
+[[samples]]
+file = "36_bonzo-kick-snare_6.flac"
+key = 36
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 189101
+
+[[samples]]
+file = "36_bonzo-kick-snare_7.flac"
+key = 36
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 182516
+
+[[samples]]
+file = "35_bonzo-kick-snare.flac"
+key = 35
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 202272
+
+[[samples]]
+file = "35_bonzo-kick-snare_2.flac"
+key = 35
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 202272
+
+[[samples]]
+file = "35_bonzo-kick-snare_3.flac"
+key = 35
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 201332
+
+[[samples]]
+file = "35_bonzo-kick-snare_4.flac"
+key = 35
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 201332
+
+[[samples]]
+file = "35_bonzo-kick-snare_5.flac"
+key = 35
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 201332
+
+[[samples]]
+file = "35_bonzo-kick-snare_6.flac"
+key = 35
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 198509
+
+[[samples]]
+file = "35_bonzo-kick-snare_7.flac"
+key = 35
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 195687
+
+[[samples]]
+file = "46_bonzo-hihats.flac"
+key = 46
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 691488
+
+[[samples]]
+file = "46_bonzo-hihats_2.flac"
+key = 46
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 683962
+
+[[samples]]
+file = "46_bonzo-hihats_3.flac"
+key = 46
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 616224
+
+[[samples]]
+file = "46_bonzo-hihats_4.flac"
+key = 46
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 579532
+
+[[samples]]
+file = "46_bonzo-hihats_5.flac"
+key = 46
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 577651
+
+[[samples]]
+file = "46_bonzo-hihats_6.flac"
+key = 46
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 467578
+
+[[samples]]
+file = "46_bonzo-hihats_7.flac"
+key = 46
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 464756
+
+[[samples]]
+file = "44_bonzo-hihats.flac"
+key = 44
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 186279
+
+[[samples]]
+file = "44_bonzo-hihats_2.flac"
+key = 44
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 183456
+
+[[samples]]
+file = "44_bonzo-hihats_3.flac"
+key = 44
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 163700
+
+[[samples]]
+file = "44_bonzo-hihats_4.flac"
+key = 44
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 152410
+
+[[samples]]
+file = "44_bonzo-hihats_5.flac"
+key = 44
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 148647
+
+[[samples]]
+file = "44_bonzo-hihats_6.flac"
+key = 44
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 108192
+
+[[samples]]
+file = "42_bonzo-hihats.flac"
+key = 42
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 179693
+
+[[samples]]
+file = "42_bonzo-hihats_2.flac"
+key = 42
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 156173
+
+[[samples]]
+file = "42_bonzo-hihats_3.flac"
+key = 42
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 155232
+
+[[samples]]
+file = "42_bonzo-hihats_4.flac"
+key = 42
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 139239
+
+[[samples]]
+file = "42_bonzo-hihats_5.flac"
+key = 42
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 154292
+
+[[samples]]
+file = "42_bonzo-hihats_6.flac"
+key = 42
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 152410
+
+[[samples]]
+file = "42_bonzo-hihats_7.flac"
+key = 42
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 94080
+
+[[samples]]
+file = "59_bonzo-bell-ride.flac"
+key = 59
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 493920
+
+[[samples]]
+file = "59_bonzo-bell-ride_2.flac"
+key = 59
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 493920
+
+[[samples]]
+file = "59_bonzo-bell-ride_3.flac"
+key = 59
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 493920
+
+[[samples]]
+file = "59_bonzo-bell-ride_4.flac"
+key = 59
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 333984
+
+[[samples]]
+file = "59_bonzo-bell-ride_5.flac"
+key = 59
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 329280
+
+[[samples]]
+file = "59_bonzo-bell-ride_6.flac"
+key = 59
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 328339
+
+[[samples]]
+file = "59_bonzo-bell-ride_7.flac"
+key = 59
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 327398
+
+[[samples]]
+file = "53_bonzo-bell-ride.flac"
+key = 53
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 515559
+
+[[samples]]
+file = "53_bonzo-bell-ride_2.flac"
+key = 53
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 528730
+
+[[samples]]
+file = "53_bonzo-bell-ride_3.flac"
+key = 53
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 528730
+
+[[samples]]
+file = "53_bonzo-bell-ride_4.flac"
+key = 53
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 440295
+
+[[samples]]
+file = "53_bonzo-bell-ride_5.flac"
+key = 53
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 372557
+
+[[samples]]
+file = "53_bonzo-bell-ride_6.flac"
+key = 53
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 371616
+
+[[samples]]
+file = "53_bonzo-bell-ride_7.flac"
+key = 53
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 258720
+
+[[samples]]
+file = "51_bonzo-bell-ride.flac"
+key = 51
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 589882
+
+[[samples]]
+file = "51_bonzo-bell-ride_2.flac"
+key = 51
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 589882
+
+[[samples]]
+file = "51_bonzo-bell-ride_3.flac"
+key = 51
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 521204
+
+[[samples]]
+file = "51_bonzo-bell-ride_4.flac"
+key = 51
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 520263
+
+[[samples]]
+file = "51_bonzo-bell-ride_5.flac"
+key = 51
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 537196
+
+[[samples]]
+file = "51_bonzo-bell-ride_6.flac"
+key = 51
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 537196
+
+[[samples]]
+file = "51_bonzo-bell-ride_7.flac"
+key = 51
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 411129
+
+[[samples]]
+file = "48_bonzo-toms.flac"
+key = 48
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 261543
+
+[[samples]]
+file = "48_bonzo-toms_2.flac"
+key = 48
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 261543
+
+[[samples]]
+file = "48_bonzo-toms_3.flac"
+key = 48
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 246490
+
+[[samples]]
+file = "48_bonzo-toms_4.flac"
+key = 48
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 245549
+
+[[samples]]
+file = "48_bonzo-toms_5.flac"
+key = 48
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 244608
+
+[[samples]]
+file = "48_bonzo-toms_6.flac"
+key = 48
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 243667
+
+[[samples]]
+file = "48_bonzo-toms_7.flac"
+key = 48
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 239904
+
+[[samples]]
+file = "45_bonzo-toms.flac"
+key = 45
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 249312
+
+[[samples]]
+file = "45_bonzo-toms_2.flac"
+key = 45
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 249312
+
+[[samples]]
+file = "45_bonzo-toms_3.flac"
+key = 45
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 250253
+
+[[samples]]
+file = "45_bonzo-toms_4.flac"
+key = 45
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 297293
+
+[[samples]]
+file = "45_bonzo-toms_5.flac"
+key = 45
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 298234
+
+[[samples]]
+file = "45_bonzo-toms_6.flac"
+key = 45
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 269069
+
+[[samples]]
+file = "45_bonzo-toms_7.flac"
+key = 45
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 269069
+
+[[samples]]
+file = "41_bonzo-toms.flac"
+key = 41
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 282240
+
+[[samples]]
+file = "41_bonzo-toms_2.flac"
+key = 41
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 286004
+
+[[samples]]
+file = "41_bonzo-toms_3.flac"
+key = 41
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 268128
+
+[[samples]]
+file = "41_bonzo-toms_4.flac"
+key = 41
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 268128
+
+[[samples]]
+file = "41_bonzo-toms_5.flac"
+key = 41
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 252135
+
+[[samples]]
+file = "41_bonzo-toms_6.flac"
+key = 41
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 252135
+
+[[samples]]
+file = "41_bonzo-toms_7.flac"
+key = 41
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 252135
+
+[[samples]]
+file = "43_bonzo-toms.flac"
+key = 43
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 279418
+
+[[samples]]
+file = "43_bonzo-toms_2.flac"
+key = 43
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 278477
+
+[[samples]]
+file = "43_bonzo-toms_3.flac"
+key = 43
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 278477
+
+[[samples]]
+file = "43_bonzo-toms_4.flac"
+key = 43
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 277536
+
+[[samples]]
+file = "43_bonzo-toms_5.flac"
+key = 43
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 276596
+
+[[samples]]
+file = "43_bonzo-toms_6.flac"
+key = 43
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 270951
+
+[[samples]]
+file = "47_bonzo-toms.flac"
+key = 47
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 261543
+
+[[samples]]
+file = "47_bonzo-toms_2.flac"
+key = 47
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 261543
+
+[[samples]]
+file = "47_bonzo-toms_3.flac"
+key = 47
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 261543
+
+[[samples]]
+file = "47_bonzo-toms_4.flac"
+key = 47
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 278476
+
+[[samples]]
+file = "47_bonzo-toms_5.flac"
+key = 47
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 277536
+
+[[samples]]
+file = "47_bonzo-toms_6.flac"
+key = 47
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 275637
+
+[[samples]]
+file = "47_bonzo-toms_7.flac"
+key = 47
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 272793
+
+[[samples]]
+file = "50_bonzo-toms.flac"
+key = 50
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 290708
+
+[[samples]]
+file = "50_bonzo-toms_2.flac"
+key = 50
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 289767
+
+[[samples]]
+file = "50_bonzo-toms_3.flac"
+key = 50
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 263424
+
+[[samples]]
+file = "50_bonzo-toms_4.flac"
+key = 50
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 262484
+
+[[samples]]
+file = "50_bonzo-toms_5.flac"
+key = 50
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 261543
+
+[[samples]]
+file = "50_bonzo-toms_6.flac"
+key = 50
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 276596
+
+[[samples]]
+file = "50_bonzo-toms_7.flac"
+key = 50
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 274714
+
+[[samples]]
+file = "57_bonzo-crash-1-2.flac"
+key = 57
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 469460
+
+[[samples]]
+file = "57_bonzo-crash-1-2_2.flac"
+key = 57
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 415834
+
+[[samples]]
+file = "57_bonzo-crash-1-2_3.flac"
+key = 57
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 415834
+
+[[samples]]
+file = "57_bonzo-crash-1-2_4.flac"
+key = 57
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 382906
+
+[[samples]]
+file = "57_bonzo-crash-1-2_5.flac"
+key = 57
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 382906
+
+[[samples]]
+file = "57_bonzo-crash-1-2_6.flac"
+key = 57
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 425242
+
+[[samples]]
+file = "57_bonzo-crash-1-2_7.flac"
+key = 57
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 316109
+
+[[samples]]
+file = "49_bonzo-crash-1-2.flac"
+key = 49
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 491098
+
+[[samples]]
+file = "49_bonzo-crash-1-2_2.flac"
+key = 49
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 438413
+
+[[samples]]
+file = "49_bonzo-crash-1-2_3.flac"
+key = 49
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 438413
+
+[[samples]]
+file = "49_bonzo-crash-1-2_4.flac"
+key = 49
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 400781
+
+[[samples]]
+file = "49_bonzo-crash-1-2_5.flac"
+key = 49
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 399840
+
+[[samples]]
+file = "49_bonzo-crash-1-2_6.flac"
+key = 49
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 402654
+
+[[samples]]
+file = "49_bonzo-crash-1-2_7.flac"
+key = 49
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 396068
+

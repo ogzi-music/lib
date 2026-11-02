@@ -1,0 +1,1590 @@
+name = "Drum Masters Ring"
+id = "drum-masters-ring"
+group = "drums"
+
+[[samples]]
+file = "29_ring-kick-snare.flac"
+key = 29
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 180224
+
+[[samples]]
+file = "29_ring-kick-snare_2.flac"
+key = 29
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 203776
+
+[[samples]]
+file = "29_ring-kick-snare_3.flac"
+key = 29
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 184320
+
+[[samples]]
+file = "29_ring-kick-snare_4.flac"
+key = 29
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 184320
+
+[[samples]]
+file = "29_ring-kick-snare_5.flac"
+key = 29
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 192512
+
+[[samples]]
+file = "29_ring-kick-snare_6.flac"
+key = 29
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 208896
+
+[[samples]]
+file = "29_ring-kick-snare_7.flac"
+key = 29
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 198656
+
+[[samples]]
+file = "40_ring-kick-snare.flac"
+key = 40
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 188160
+
+[[samples]]
+file = "40_ring-kick-snare_2.flac"
+key = 40
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 193805
+
+[[samples]]
+file = "40_ring-kick-snare_3.flac"
+key = 40
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 214503
+
+[[samples]]
+file = "40_ring-kick-snare_4.flac"
+key = 40
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 192860
+
+[[samples]]
+file = "40_ring-kick-snare_5.flac"
+key = 40
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 201332
+
+[[samples]]
+file = "40_ring-kick-snare_6.flac"
+key = 40
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 223898
+
+[[samples]]
+file = "40_ring-kick-snare_7.flac"
+key = 40
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 219199
+
+[[samples]]
+file = "38_ring-kick-snare.flac"
+key = 38
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 230494
+
+[[samples]]
+file = "38_ring-kick-snare_2.flac"
+key = 38
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 203213
+
+[[samples]]
+file = "38_ring-kick-snare_3.flac"
+key = 38
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 202272
+
+[[samples]]
+file = "38_ring-kick-snare_4.flac"
+key = 38
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 192864
+
+[[samples]]
+file = "38_ring-kick-snare_5.flac"
+key = 38
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 218264
+
+[[samples]]
+file = "38_ring-kick-snare_6.flac"
+key = 38
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 192864
+
+[[samples]]
+file = "38_ring-kick-snare_7.flac"
+key = 38
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 220145
+
+[[samples]]
+file = "36_ring-kick-snare.flac"
+key = 36
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 192864
+
+[[samples]]
+file = "36_ring-kick-snare_2.flac"
+key = 36
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 191924
+
+[[samples]]
+file = "36_ring-kick-snare_3.flac"
+key = 36
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 191924
+
+[[samples]]
+file = "36_ring-kick-snare_4.flac"
+key = 36
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 180634
+
+[[samples]]
+file = "36_ring-kick-snare_5.flac"
+key = 36
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 180634
+
+[[samples]]
+file = "36_ring-kick-snare_6.flac"
+key = 36
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 145824
+
+[[samples]]
+file = "36_ring-kick-snare_7.flac"
+key = 36
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 143002
+
+[[samples]]
+file = "37_ring-kick-snare.flac"
+key = 37
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 129305
+end = 129302
+
+[[samples]]
+file = "37_ring-kick-snare_2.flac"
+key = 37
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 109896
+end = 109893
+
+[[samples]]
+file = "37_ring-kick-snare_3.flac"
+key = 37
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 99471
+end = 99468
+
+[[samples]]
+file = "37_ring-kick-snare_4.flac"
+key = 37
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 93555
+end = 93552
+
+[[samples]]
+file = "37_ring-kick-snare_5.flac"
+key = 37
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 59178
+end = 59175
+
+[[samples]]
+file = "37_ring-kick-snare_6.flac"
+key = 37
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 33335
+end = 33332
+
+[[samples]]
+file = "37_ring-kick-snare_7.flac"
+key = 37
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 59258
+
+[[samples]]
+file = "35_ring-kick-snare.flac"
+key = 35
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 177812
+
+[[samples]]
+file = "35_ring-kick-snare_2.flac"
+key = 35
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 182516
+
+[[samples]]
+file = "35_ring-kick-snare_3.flac"
+key = 35
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 182516
+
+[[samples]]
+file = "35_ring-kick-snare_4.flac"
+key = 35
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 154292
+
+[[samples]]
+file = "35_ring-kick-snare_5.flac"
+key = 35
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 124186
+
+[[samples]]
+file = "35_ring-kick-snare_6.flac"
+key = 35
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 119482
+
+[[samples]]
+file = "35_ring-kick-snare_7.flac"
+key = 35
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 97844
+
+[[samples]]
+file = "44_ring-hi-hats.flac"
+key = 44
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 110074
+
+[[samples]]
+file = "44_ring-hi-hats_2.flac"
+key = 44
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 121364
+
+[[samples]]
+file = "44_ring-hi-hats_3.flac"
+key = 44
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 121364
+
+[[samples]]
+file = "44_ring-hi-hats_4.flac"
+key = 44
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 112896
+
+[[samples]]
+file = "44_ring-hi-hats_5.flac"
+key = 44
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 87495
+
+[[samples]]
+file = "44_ring-hi-hats_6.flac"
+key = 44
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 87495
+
+[[samples]]
+file = "44_ring-hi-hats_7.flac"
+key = 44
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 81850
+
+[[samples]]
+file = "42_ring-hi-hats.flac"
+key = 42
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 170285
+
+[[samples]]
+file = "42_ring-hi-hats_2.flac"
+key = 42
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 168394
+
+[[samples]]
+file = "42_ring-hi-hats_3.flac"
+key = 42
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 168394
+
+[[samples]]
+file = "42_ring-hi-hats_4.flac"
+key = 42
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 79968
+
+[[samples]]
+file = "42_ring-hi-hats_5.flac"
+key = 42
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 75264
+
+[[samples]]
+file = "42_ring-hi-hats_6.flac"
+key = 42
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 53608
+
+[[samples]]
+file = "42_ring-hi-hats_7.flac"
+key = 42
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 52667
+
+[[samples]]
+file = "46_ring-hi-hats.flac"
+key = 46
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 711245
+
+[[samples]]
+file = "46_ring-hi-hats_2.flac"
+key = 46
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 711245
+
+[[samples]]
+file = "46_ring-hi-hats_3.flac"
+key = 46
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 694303
+
+[[samples]]
+file = "46_ring-hi-hats_4.flac"
+key = 46
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 557894
+
+[[samples]]
+file = "46_ring-hi-hats_5.flac"
+key = 46
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 557894
+
+[[samples]]
+file = "46_ring-hi-hats_6.flac"
+key = 46
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 282235
+
+[[samples]]
+file = "46_ring-hi-hats_7.flac"
+key = 46
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 72426
+
+[[samples]]
+file = "59_ring-ride-bell.flac"
+key = 59
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 731943
+
+[[samples]]
+file = "59_ring-ride-bell_2.flac"
+key = 59
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 731943
+
+[[samples]]
+file = "53_ring-ride-bell.flac"
+key = 53
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 764871
+
+[[samples]]
+file = "53_ring-ride-bell_2.flac"
+key = 53
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 635040
+
+[[samples]]
+file = "53_ring-ride-bell_3.flac"
+key = 53
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 563531
+
+[[samples]]
+file = "53_ring-ride-bell_4.flac"
+key = 53
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 453466
+
+[[samples]]
+file = "53_ring-ride-bell_5.flac"
+key = 53
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 297653
+
+[[samples]]
+file = "53_ring-ride-bell_6.flac"
+key = 53
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 263424
+
+[[samples]]
+file = "53_ring-ride-bell_7.flac"
+key = 53
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 128844
+
+[[samples]]
+file = "51_ring-ride-bell.flac"
+key = 51
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 700896
+
+[[samples]]
+file = "51_ring-ride-bell_2.flac"
+key = 51
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 700896
+
+[[samples]]
+file = "51_ring-ride-bell_3.flac"
+key = 51
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 667965
+
+[[samples]]
+file = "51_ring-ride-bell_4.flac"
+key = 51
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 667963
+
+[[samples]]
+file = "51_ring-ride-bell_5.flac"
+key = 51
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 365966
+
+[[samples]]
+file = "51_ring-ride-bell_6.flac"
+key = 51
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 279418
+
+[[samples]]
+file = "51_ring-ride-bell_7.flac"
+key = 51
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 210731
+
+[[samples]]
+file = "43_ring-toms.flac"
+key = 43
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 360327
+
+[[samples]]
+file = "43_ring-toms_2.flac"
+key = 43
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 323636
+
+[[samples]]
+file = "43_ring-toms_3.flac"
+key = 43
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 323636
+
+[[samples]]
+file = "43_ring-toms_4.flac"
+key = 43
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 323635
+
+[[samples]]
+file = "43_ring-toms_5.flac"
+key = 43
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 323628
+
+[[samples]]
+file = "43_ring-toms_6.flac"
+key = 43
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 301990
+
+[[samples]]
+file = "43_ring-toms_7.flac"
+key = 43
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 218257
+
+[[samples]]
+file = "41_ring-toms.flac"
+key = 41
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 370676
+
+[[samples]]
+file = "41_ring-toms_2.flac"
+key = 41
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 353741
+
+[[samples]]
+file = "41_ring-toms_3.flac"
+key = 41
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 353741
+
+[[samples]]
+file = "41_ring-toms_4.flac"
+key = 41
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 353738
+
+[[samples]]
+file = "41_ring-toms_5.flac"
+key = 41
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 353716
+
+[[samples]]
+file = "41_ring-toms_6.flac"
+key = 41
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 326431
+
+[[samples]]
+file = "41_ring-toms_7.flac"
+key = 41
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 231410
+
+[[samples]]
+file = "50_ring-toms.flac"
+key = 50
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 267187
+
+[[samples]]
+file = "50_ring-toms_2.flac"
+key = 50
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 267187
+
+[[samples]]
+file = "50_ring-toms_3.flac"
+key = 50
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 271891
+
+[[samples]]
+file = "50_ring-toms_4.flac"
+key = 50
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 271883
+
+[[samples]]
+file = "50_ring-toms_5.flac"
+key = 50
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 271883
+
+[[samples]]
+file = "50_ring-toms_6.flac"
+key = 50
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 216374
+
+[[samples]]
+file = "50_ring-toms_7.flac"
+key = 50
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 144870
+
+[[samples]]
+file = "48_ring-toms.flac"
+key = 48
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 225792
+
+[[samples]]
+file = "48_ring-toms_2.flac"
+key = 48
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 225792
+
+[[samples]]
+file = "48_ring-toms_3.flac"
+key = 48
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 270010
+
+[[samples]]
+file = "48_ring-toms_4.flac"
+key = 48
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 270010
+
+[[samples]]
+file = "48_ring-toms_5.flac"
+key = 48
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 270010
+
+[[samples]]
+file = "48_ring-toms_6.flac"
+key = 48
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 270010
+
+[[samples]]
+file = "48_ring-toms_7.flac"
+key = 48
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 188137
+
+[[samples]]
+file = "47_ring-toms.flac"
+key = 47
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 326457
+
+[[samples]]
+file = "47_ring-toms_2.flac"
+key = 47
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 326456
+
+[[samples]]
+file = "47_ring-toms_3.flac"
+key = 47
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 326456
+
+[[samples]]
+file = "47_ring-toms_4.flac"
+key = 47
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 329280
+
+[[samples]]
+file = "47_ring-toms_5.flac"
+key = 47
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 285061
+
+[[samples]]
+file = "47_ring-toms_6.flac"
+key = 47
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 229554
+
+[[samples]]
+file = "47_ring-toms_7.flac"
+key = 47
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 160870
+
+[[samples]]
+file = "45_ring-toms.flac"
+key = 45
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 319872
+
+[[samples]]
+file = "45_ring-toms_2.flac"
+key = 45
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 319872
+
+[[samples]]
+file = "45_ring-toms_3.flac"
+key = 45
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 319872
+
+[[samples]]
+file = "45_ring-toms_4.flac"
+key = 45
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 268128
+
+[[samples]]
+file = "45_ring-toms_5.flac"
+key = 45
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 268128
+
+[[samples]]
+file = "45_ring-toms_6.flac"
+key = 45
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 268118
+
+[[samples]]
+file = "45_ring-toms_7.flac"
+key = 45
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 205078
+
+[[samples]]
+file = "49_ring-cymbals.flac"
+key = 49
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 474164
+
+[[samples]]
+file = "49_ring-cymbals_2.flac"
+key = 49
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 473223
+
+[[samples]]
+file = "49_ring-cymbals_3.flac"
+key = 49
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 470400
+
+[[samples]]
+file = "49_ring-cymbals_4.flac"
+key = 49
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 419597
+
+[[samples]]
+file = "49_ring-cymbals_5.flac"
+key = 49
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 418656
+
+[[samples]]
+file = "49_ring-cymbals_6.flac"
+key = 49
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 418656
+
+[[samples]]
+file = "49_ring-cymbals_7.flac"
+key = 49
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 414893
+
+[[samples]]
+file = "57_ring-cymbals.flac"
+key = 57
+velocity-from = 113
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 499565
+
+[[samples]]
+file = "57_ring-cymbals_2.flac"
+key = 57
+velocity-from = 100
+velocity-to = 112
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 498624
+
+[[samples]]
+file = "57_ring-cymbals_3.flac"
+key = 57
+velocity-from = 89
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 495802
+
+[[samples]]
+file = "57_ring-cymbals_4.flac"
+key = 57
+velocity-from = 78
+velocity-to = 88
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 442176
+
+[[samples]]
+file = "57_ring-cymbals_5.flac"
+key = 57
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 441236
+
+[[samples]]
+file = "57_ring-cymbals_6.flac"
+key = 57
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 440295
+
+[[samples]]
+file = "57_ring-cymbals_7.flac"
+key = 57
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 440295
+

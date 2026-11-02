@@ -1,0 +1,1620 @@
+name = "Drum Masters Gretsch"
+id = "drum-masters-gretsch"
+group = "drums"
+
+[[samples]]
+file = "37_gretsch-kick-snare.flac"
+key = 37
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 170283
+
+[[samples]]
+file = "37_gretsch-kick-snare_2.flac"
+key = 37
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 201330
+
+[[samples]]
+file = "37_gretsch-kick-snare_3.flac"
+key = 37
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 214501
+
+[[samples]]
+file = "37_gretsch-kick-snare_4.flac"
+key = 37
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 185337
+
+[[samples]]
+file = "37_gretsch-kick-snare_5.flac"
+key = 37
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 170284
+
+[[samples]]
+file = "37_gretsch-kick-snare_6.flac"
+key = 37
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 169344
+
+[[samples]]
+file = "37_gretsch-kick-snare_7.flac"
+key = 37
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 152409
+
+[[samples]]
+file = "29_gretsch-kick-snare.flac"
+key = 29
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 139262
+
+[[samples]]
+file = "29_gretsch-kick-snare_2.flac"
+key = 29
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 169983
+
+[[samples]]
+file = "29_gretsch-kick-snare_3.flac"
+key = 29
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 180223
+
+[[samples]]
+file = "29_gretsch-kick-snare_4.flac"
+key = 29
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 173054
+
+[[samples]]
+file = "29_gretsch-kick-snare_5.flac"
+key = 29
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 173055
+
+[[samples]]
+file = "29_gretsch-kick-snare_6.flac"
+key = 29
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 172029
+
+[[samples]]
+file = "29_gretsch-kick-snare_7.flac"
+key = 29
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 48000
+length = 162802
+
+[[samples]]
+file = "35_gretsch-kick-snare.flac"
+key = 35
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 222969
+
+[[samples]]
+file = "35_gretsch-kick-snare_2.flac"
+key = 35
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 238021
+
+[[samples]]
+file = "35_gretsch-kick-snare_3.flac"
+key = 35
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 237081
+
+[[samples]]
+file = "35_gretsch-kick-snare_4.flac"
+key = 35
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 159936
+
+[[samples]]
+file = "35_gretsch-kick-snare_5.flac"
+key = 35
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 173106
+
+[[samples]]
+file = "35_gretsch-kick-snare_6.flac"
+key = 35
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 170284
+
+[[samples]]
+file = "35_gretsch-kick-snare_7.flac"
+key = 35
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 170284
+
+[[samples]]
+file = "36_gretsch-kick-snare.flac"
+key = 36
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 177810
+
+[[samples]]
+file = "36_gretsch-kick-snare_2.flac"
+key = 36
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 230495
+
+[[samples]]
+file = "36_gretsch-kick-snare_3.flac"
+key = 36
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 156172
+
+[[samples]]
+file = "36_gretsch-kick-snare_4.flac"
+key = 36
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 136416
+
+[[samples]]
+file = "36_gretsch-kick-snare_5.flac"
+key = 36
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 187218
+
+[[samples]]
+file = "36_gretsch-kick-snare_6.flac"
+key = 36
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 187219
+
+[[samples]]
+file = "36_gretsch-kick-snare_7.flac"
+key = 36
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 184396
+
+[[samples]]
+file = "38_gretsch-kick-snare.flac"
+key = 38
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 172165
+
+[[samples]]
+file = "38_gretsch-kick-snare_2.flac"
+key = 38
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 139238
+
+[[samples]]
+file = "38_gretsch-kick-snare_3.flac"
+key = 38
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 162758
+
+[[samples]]
+file = "38_gretsch-kick-snare_4.flac"
+key = 38
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 159936
+
+[[samples]]
+file = "38_gretsch-kick-snare_5.flac"
+key = 38
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 169344
+
+[[samples]]
+file = "38_gretsch-kick-snare_6.flac"
+key = 38
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 143002
+
+[[samples]]
+file = "38_gretsch-kick-snare_7.flac"
+key = 38
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 142061
+
+[[samples]]
+file = "40_gretsch-kick-snare.flac"
+key = 40
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 181573
+
+[[samples]]
+file = "40_gretsch-kick-snare_2.flac"
+key = 40
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 163698
+
+[[samples]]
+file = "40_gretsch-kick-snare_3.flac"
+key = 40
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 163698
+
+[[samples]]
+file = "40_gretsch-kick-snare_4.flac"
+key = 40
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 159935
+
+[[samples]]
+file = "40_gretsch-kick-snare_5.flac"
+key = 40
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 158055
+
+[[samples]]
+file = "40_gretsch-kick-snare_6.flac"
+key = 40
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 158055
+
+[[samples]]
+file = "40_gretsch-kick-snare_7.flac"
+key = 40
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 158055
+
+[[samples]]
+file = "42_gretsch-hi-hats.flac"
+key = 42
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 99724
+
+[[samples]]
+file = "42_gretsch-hi-hats_2.flac"
+key = 42
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 95962
+
+[[samples]]
+file = "42_gretsch-hi-hats_3.flac"
+key = 42
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 100664
+
+[[samples]]
+file = "42_gretsch-hi-hats_4.flac"
+key = 42
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 99724
+
+[[samples]]
+file = "42_gretsch-hi-hats_5.flac"
+key = 42
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 95962
+
+[[samples]]
+file = "42_gretsch-hi-hats_6.flac"
+key = 42
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 98784
+
+[[samples]]
+file = "42_gretsch-hi-hats_7.flac"
+key = 42
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 96903
+
+[[samples]]
+file = "44_gretsch-hi-hats.flac"
+key = 44
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 96903
+
+[[samples]]
+file = "44_gretsch-hi-hats_2.flac"
+key = 44
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 96903
+
+[[samples]]
+file = "44_gretsch-hi-hats_3.flac"
+key = 44
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 95961
+
+[[samples]]
+file = "44_gretsch-hi-hats_4.flac"
+key = 44
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 95961
+
+[[samples]]
+file = "44_gretsch-hi-hats_5.flac"
+key = 44
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 86554
+
+[[samples]]
+file = "44_gretsch-hi-hats_6.flac"
+key = 44
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 86554
+
+[[samples]]
+file = "44_gretsch-hi-hats_7.flac"
+key = 44
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 79028
+
+[[samples]]
+file = "46_gretsch-hi-hats.flac"
+key = 46
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 293528
+
+[[samples]]
+file = "46_gretsch-hi-hats_2.flac"
+key = 46
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 226732
+
+[[samples]]
+file = "46_gretsch-hi-hats_3.flac"
+key = 46
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 226732
+
+[[samples]]
+file = "46_gretsch-hi-hats_4.flac"
+key = 46
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 289765
+
+[[samples]]
+file = "46_gretsch-hi-hats_5.flac"
+key = 46
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 270950
+
+[[samples]]
+file = "46_gretsch-hi-hats_6.flac"
+key = 46
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 212621
+
+[[samples]]
+file = "46_gretsch-hi-hats_7.flac"
+key = 46
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 200391
+
+[[samples]]
+file = "51_gretsch-bell-ride.flac"
+key = 51
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 312345
+
+[[samples]]
+file = "51_gretsch-bell-ride_2.flac"
+key = 51
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 306700
+
+[[samples]]
+file = "51_gretsch-bell-ride_3.flac"
+key = 51
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 303879
+
+[[samples]]
+file = "51_gretsch-bell-ride_4.flac"
+key = 51
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 298233
+
+[[samples]]
+file = "51_gretsch-bell-ride_5.flac"
+key = 51
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 289766
+
+[[samples]]
+file = "51_gretsch-bell-ride_6.flac"
+key = 51
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 273772
+
+[[samples]]
+file = "51_gretsch-bell-ride_7.flac"
+key = 51
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 256838
+
+[[samples]]
+file = "53_gretsch-bell-ride.flac"
+key = 53
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 323636
+
+[[samples]]
+file = "53_gretsch-bell-ride_2.flac"
+key = 53
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 299175
+
+[[samples]]
+file = "53_gretsch-bell-ride_3.flac"
+key = 53
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 290708
+
+[[samples]]
+file = "53_gretsch-bell-ride_4.flac"
+key = 53
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 262484
+
+[[samples]]
+file = "53_gretsch-bell-ride_5.flac"
+key = 53
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 244608
+
+[[samples]]
+file = "53_gretsch-bell-ride_6.flac"
+key = 53
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 207917
+
+[[samples]]
+file = "53_gretsch-bell-ride_7.flac"
+key = 53
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 194746
+
+[[samples]]
+file = "59_gretsch-bell-ride.flac"
+key = 59
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 311405
+
+[[samples]]
+file = "59_gretsch-bell-ride_2.flac"
+key = 59
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 314228
+
+[[samples]]
+file = "59_gretsch-bell-ride_3.flac"
+key = 59
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 308583
+
+[[samples]]
+file = "59_gretsch-bell-ride_4.flac"
+key = 59
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 276596
+
+[[samples]]
+file = "59_gretsch-bell-ride_5.flac"
+key = 59
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 256839
+
+[[samples]]
+file = "59_gretsch-bell-ride_6.flac"
+key = 59
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 229556
+
+[[samples]]
+file = "59_gretsch-bell-ride_7.flac"
+key = 59
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 211680
+
+[[samples]]
+file = "50_gretsch-toms.flac"
+key = 50
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 240844
+
+[[samples]]
+file = "50_gretsch-toms_2.flac"
+key = 50
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 240844
+
+[[samples]]
+file = "50_gretsch-toms_3.flac"
+key = 50
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 236139
+
+[[samples]]
+file = "50_gretsch-toms_4.flac"
+key = 50
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 264363
+
+[[samples]]
+file = "50_gretsch-toms_5.flac"
+key = 50
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 261542
+
+[[samples]]
+file = "50_gretsch-toms_6.flac"
+key = 50
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 284121
+
+[[samples]]
+file = "50_gretsch-toms_7.flac"
+key = 50
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 283180
+
+[[samples]]
+file = "48_gretsch-toms.flac"
+key = 48
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 229555
+
+[[samples]]
+file = "48_gretsch-toms_2.flac"
+key = 48
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 242725
+
+[[samples]]
+file = "48_gretsch-toms_3.flac"
+key = 48
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 239903
+
+[[samples]]
+file = "48_gretsch-toms_4.flac"
+key = 48
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 239904
+
+[[samples]]
+file = "48_gretsch-toms_5.flac"
+key = 48
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 258719
+
+[[samples]]
+file = "48_gretsch-toms_6.flac"
+key = 48
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 277536
+
+[[samples]]
+file = "48_gretsch-toms_7.flac"
+key = 48
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 275654
+
+[[samples]]
+file = "47_gretsch-toms.flac"
+key = 47
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 286000
+
+[[samples]]
+file = "47_gretsch-toms_2.flac"
+key = 47
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 283178
+
+[[samples]]
+file = "47_gretsch-toms_3.flac"
+key = 47
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 289766
+
+[[samples]]
+file = "47_gretsch-toms_4.flac"
+key = 47
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 276595
+
+[[samples]]
+file = "47_gretsch-toms_5.flac"
+key = 47
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 271891
+
+[[samples]]
+file = "47_gretsch-toms_6.flac"
+key = 47
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 259660
+
+[[samples]]
+file = "45_gretsch-toms.flac"
+key = 45
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 278475
+
+[[samples]]
+file = "45_gretsch-toms_2.flac"
+key = 45
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 286943
+
+[[samples]]
+file = "45_gretsch-toms_3.flac"
+key = 45
+velocity-from = 78
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 259659
+
+[[samples]]
+file = "45_gretsch-toms_4.flac"
+key = 45
+velocity-from = 56
+velocity-to = 66
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 264364
+
+[[samples]]
+file = "45_gretsch-toms_5.flac"
+key = 45
+velocity-to = 55
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 271890
+
+[[samples]]
+file = "45_gretsch-toms_6.flac"
+key = 45
+velocity-from = 67
+velocity-to = 77
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 268127
+
+[[samples]]
+file = "43_gretsch-toms.flac"
+key = 43
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 230495
+
+[[samples]]
+file = "43_gretsch-toms_2.flac"
+key = 43
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 226731
+
+[[samples]]
+file = "43_gretsch-toms_3.flac"
+key = 43
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 242725
+
+[[samples]]
+file = "43_gretsch-toms_4.flac"
+key = 43
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 239904
+
+[[samples]]
+file = "43_gretsch-toms_5.flac"
+key = 43
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 254016
+
+[[samples]]
+file = "43_gretsch-toms_6.flac"
+key = 43
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 231435
+
+[[samples]]
+file = "43_gretsch-toms_7.flac"
+key = 43
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 255896
+
+[[samples]]
+file = "41_gretsch-toms.flac"
+key = 41
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 243666
+
+[[samples]]
+file = "41_gretsch-toms_2.flac"
+key = 41
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 234257
+
+[[samples]]
+file = "41_gretsch-toms_3.flac"
+key = 41
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 252134
+
+[[samples]]
+file = "41_gretsch-toms_4.flac"
+key = 41
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 254015
+
+[[samples]]
+file = "41_gretsch-toms_5.flac"
+key = 41
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 268128
+
+[[samples]]
+file = "41_gretsch-toms_6.flac"
+key = 41
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 276594
+
+[[samples]]
+file = "41_gretsch-toms_7.flac"
+key = 41
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 266245
+
+[[samples]]
+file = "57_gretsch-crashes.flac"
+key = 57
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 276596
+
+[[samples]]
+file = "57_gretsch-crashes_2.flac"
+key = 57
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 285063
+
+[[samples]]
+file = "57_gretsch-crashes_3.flac"
+key = 57
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 280358
+
+[[samples]]
+file = "57_gretsch-crashes_4.flac"
+key = 57
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 274714
+
+[[samples]]
+file = "57_gretsch-crashes_5.flac"
+key = 57
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 260602
+
+[[samples]]
+file = "57_gretsch-crashes_6.flac"
+key = 57
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 235200
+
+[[samples]]
+file = "57_gretsch-crashes_7.flac"
+key = 57
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 225792
+
+[[samples]]
+file = "49_gretsch-crashes.flac"
+key = 49
+velocity-from = 100
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 278476
+
+[[samples]]
+file = "49_gretsch-crashes_2.flac"
+key = 49
+velocity-from = 88
+velocity-to = 99
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 281300
+
+[[samples]]
+file = "49_gretsch-crashes_3.flac"
+key = 49
+velocity-from = 77
+velocity-to = 87
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 281300
+
+[[samples]]
+file = "49_gretsch-crashes_4.flac"
+key = 49
+velocity-from = 66
+velocity-to = 76
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 278477
+
+[[samples]]
+file = "49_gretsch-crashes_5.flac"
+key = 49
+velocity-from = 55
+velocity-to = 65
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 261543
+
+[[samples]]
+file = "49_gretsch-crashes_6.flac"
+key = 49
+velocity-from = 44
+velocity-to = 54
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 232378
+
+[[samples]]
+file = "49_gretsch-crashes_7.flac"
+key = 49
+velocity-to = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 211680
+

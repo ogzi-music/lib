@@ -1,0 +1,192 @@
+name = "Dulcimer Hum"
+id = "dulcimer-hum"
+group = "ethnic"
+
+[[samples]]
+file = "62.flac"
+key = 62
+key-from = 0
+level = 127
+tune-coarse = 66
+tune-fine = 33
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 169488
+end = 169484
+loop = 128858
+
+[[samples]]
+file = "64.flac"
+key = 64
+key-from = 63
+level = 127
+tune-coarse = 66
+tune-fine = 34
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 157343
+end = 157339
+loop = 120364
+
+[[samples]]
+file = "66.flac"
+key = 66
+key-from = 65
+key-to = 67
+level = 127
+tune-coarse = 65
+tune-fine = 93
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 80876
+start = 1
+end = 80873
+loop = 60014
+
+[[samples]]
+file = "69.flac"
+key = 69
+key-from = 68
+level = 127
+tune-coarse = 65
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 129744
+start = 1
+end = 129740
+loop = 99284
+
+[[samples]]
+file = "71.flac"
+key = 71
+key-from = 70
+level = 127
+tune-coarse = 66
+tune-fine = 34
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 93354
+end = 93350
+loop = 69076
+
+[[samples]]
+file = "73.flac"
+key = 73
+key-from = 72
+key-to = 74
+level = 127
+tune-coarse = 66
+tune-fine = 37
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 72242
+end = 72238
+loop = 59346
+
+[[samples]]
+file = "76.flac"
+key = 76
+key-from = 75
+key-to = 77
+level = 127
+tune-coarse = 65
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 99088
+end = 99084
+loop = 75824
+
+[[samples]]
+file = "79.flac"
+key = 79
+key-from = 78
+level = 127
+tune-coarse = 65
+tune-fine = 84
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 88299
+end = 88295
+loop = 67552
+
+[[samples]]
+file = "81.flac"
+key = 81
+key-from = 80
+level = 127
+tune-coarse = 65
+tune-fine = 91
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 70756
+start = 1
+end = 70753
+loop = 50254
+
+[[samples]]
+file = "83.flac"
+key = 83
+key-from = 82
+key-to = 84
+level = 127
+tune-coarse = 65
+tune-fine = 95
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 88180
+start = 1
+end = 88176
+loop = 62206
+
+[[samples]]
+file = "86.flac"
+key = 86
+key-from = 85
+key-to = 108
+level = 127
+tune-coarse = 65
+tune-fine = 93
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 71604
+end = 71600
+loop = 50668
+
+[[samples]]
+file = "72.flac"
+key = 72
+key-from = 109
+key-to = 127
+level = 120
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 452
+end = 448
+loop = 7
+

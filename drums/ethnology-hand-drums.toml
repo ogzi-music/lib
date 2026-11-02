@@ -1,0 +1,377 @@
+name = "Ethnology Hand Drums"
+id = "ethnology-hand-drums"
+group = "drums"
+
+[[samples]]
+file = "62_multi-tabla1.flac"
+key = 62
+velocity-from = 81
+round-robin = 1
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 18154
+end = 18150
+loop = 9617
+
+[[samples]]
+file = "62_multi-tabla1_2.flac"
+key = 62
+velocity-to = 80
+round-robin = 1
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11204
+end = 11200
+
+[[samples]]
+file = "62_multi-tabla1_3.flac"
+key = 62
+velocity-from = 81
+round-robin = 2
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 18163
+end = 18159
+loop = 9920
+
+[[samples]]
+file = "62_multi-tabla1_4.flac"
+key = 62
+velocity-to = 80
+round-robin = 2
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11136
+end = 11132
+
+[[samples]]
+file = "63_multi-tabla2.flac"
+key = 63
+velocity-from = 81
+round-robin = 1
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 18085
+end = 18081
+loop = 10401
+
+[[samples]]
+file = "63_multi-tabla2_2.flac"
+key = 63
+velocity-to = 80
+round-robin = 1
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11204
+end = 11200
+
+[[samples]]
+file = "63_multi-tabla2_3.flac"
+key = 63
+velocity-from = 81
+round-robin = 2
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 18079
+end = 18075
+loop = 10185
+
+[[samples]]
+file = "63_multi-tabla2_4.flac"
+key = 63
+velocity-to = 80
+round-robin = 2
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11136
+end = 11132
+
+[[samples]]
+file = "36_multi-baya1.flac"
+key = 36
+velocity-to = 80
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 7580
+end = 7524
+
+[[samples]]
+file = "36_multi-baya1_2.flac"
+key = 36
+velocity-from = 81
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 119068
+start = 1
+end = 119012
+
+[[samples]]
+file = "37_multi-baya2.flac"
+key = 37
+velocity-from = 81
+round-robin = 1
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 18110
+end = 18054
+
+[[samples]]
+file = "37_multi-baya2_2.flac"
+key = 37
+velocity-to = 80
+round-robin = 1
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 9710
+end = 9654
+
+[[samples]]
+file = "37_multi-baya2_3.flac"
+key = 37
+velocity-from = 81
+round-robin = 2
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 22624
+end = 22568
+loop = 22568
+
+[[samples]]
+file = "64_multi-tabla3.flac"
+key = 64
+velocity-from = 81
+round-robin = 1
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 18586
+end = 18582
+loop = 12813
+
+[[samples]]
+file = "64_multi-tabla3_2.flac"
+key = 64
+velocity-to = 80
+round-robin = 1
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11204
+end = 11200
+
+[[samples]]
+file = "64_multi-tabla3_3.flac"
+key = 64
+velocity-from = 81
+round-robin = 2
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 17920
+end = 17916
+loop = 13082
+
+[[samples]]
+file = "64_multi-tabla3_4.flac"
+key = 64
+velocity-to = 80
+round-robin = 2
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 11136
+end = 11132
+
+[[samples]]
+file = "65_multi-tabla4.flac"
+key = 65
+level = 127
+channels = 1
+bit-depth = 16
+mode = "loop"
+frequency = 44100
+length = 18126
+end = 18122
+loop = 9999
+
+[[samples]]
+file = "96_potdrum-bodyhit-mp.flac"
+key = 96
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 24979
+end = 24975
+
+[[samples]]
+file = "97_potdrum-bodyhit-mf.flac"
+key = 97
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 34354
+end = 34350
+
+[[samples]]
+file = "98_potdrum-bodyhit-f.flac"
+key = 98
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 33390
+end = 33386
+
+[[samples]]
+file = "99_potdrum-close.flac"
+key = 99
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 51408
+start = 1
+end = 51352
+
+[[samples]]
+file = "100_potdrum-open.flac"
+key = 100
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 104222
+end = 104166
+
+[[samples]]
+file = "101_talkingdrum-bend-p.flac"
+key = 101
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 40736
+end = 40680
+
+[[samples]]
+file = "102_talkingdrum-bend-mp.flac"
+key = 102
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 35402
+end = 35346
+
+[[samples]]
+file = "103_talkingdrum-bend-mf.flac"
+key = 103
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 30910
+end = 30854
+
+[[samples]]
+file = "104_talkingdrum-bend-f.flac"
+key = 104
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 35942
+start = 1
+end = 35886
+
+[[samples]]
+file = "105_talkingdrum-mute.flac"
+key = 105
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 21491
+end = 21487
+
+[[samples]]
+file = "106_talkingdrum-open.flac"
+key = 106
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 43986
+end = 43982
+
+[[samples]]
+file = "107_talkingdrum-slap.flac"
+key = 107
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 17534
+end = 17530
+

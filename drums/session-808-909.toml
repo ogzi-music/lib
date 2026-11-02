@@ -1,0 +1,144 @@
+name = "Session 808 909"
+id = "session-808-909"
+group = "drums"
+
+[[samples]]
+file = "36_01-808bd-wav.flac"
+key = 36
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 64446
+
+[[samples]]
+file = "35_03-909bd-wav.flac"
+key = 35
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 20144
+
+[[samples]]
+file = "38_05-808sd-wav.flac"
+key = 38
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 7514
+
+[[samples]]
+file = "40_07-909sd-wav.flac"
+key = 40
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 15274
+
+[[samples]]
+file = "39_10clap-wav.flac"
+key = 39
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 38838
+
+[[samples]]
+file = "42_09hhchh-wav.flac"
+key = 42
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 13267
+
+[[samples]]
+file = "46_11-808h1-wav.flac"
+key = 46
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 5106
+
+[[samples]]
+file = "44_12-808h2-wav.flac"
+key = 44
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 5086
+
+[[samples]]
+file = "37_02hhbd-wav.flac"
+key = 37
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 14837
+
+[[samples]]
+file = "41_08dbsn-wav.flac"
+key = 41
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 12218
+
+[[samples]]
+file = "43_13hhperc-wav.flac"
+key = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 7723
+
+[[samples]]
+file = "49_15-909ch-wav.flac"
+key = 49
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 5624
+
+[[samples]]
+file = "47_16-909oh-wav.flac"
+key = 47
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 26160
+
+[[samples]]
+file = "63_14-808mc-wav.flac"
+key = 63
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 5203
+

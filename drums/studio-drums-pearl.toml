@@ -1,0 +1,448 @@
+name = "Studio Drums Pearl"
+id = "studio-drums-pearl"
+group = "drums"
+
+[[samples]]
+file = "38_snrpearl-1-4.flac"
+key = 38
+velocity-to = 109
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 21874
+
+[[samples]]
+file = "38_snrpearl-1-4_2.flac"
+key = 38
+velocity-from = 110
+velocity-to = 113
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 45518
+
+[[samples]]
+file = "38_snrpearl-1-4_3.flac"
+key = 38
+velocity-from = 119
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 38962
+
+[[samples]]
+file = "38_snrpearl-1-4_4.flac"
+key = 38
+velocity-from = 113
+velocity-to = 118
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 33463
+
+[[samples]]
+file = "38_snrpearl-soft.flac"
+key = 38
+round-robin = 4
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 21874
+
+[[samples]]
+file = "38_snrpearl-med.flac"
+key = 38
+round-robin = 5
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 45518
+
+[[samples]]
+file = "38_snrpearl-hard.flac"
+key = 38
+round-robin = 6
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 33463
+
+[[samples]]
+file = "37_snrpearl-rimshot-1-2.flac"
+key = 37
+velocity-to = 119
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 38962
+
+[[samples]]
+file = "37_snrpearl-rimshot-1-2_2.flac"
+key = 37
+velocity-from = 119
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 47346
+
+[[samples]]
+file = "37_snrpearl-rimshot-1-4.flac"
+key = 37
+velocity-to = 89
+round-robin = 4
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 45101
+
+[[samples]]
+file = "37_snrpearl-rimshot-1-4_2.flac"
+key = 37
+velocity-from = 90
+velocity-to = 112
+round-robin = 4
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 47346
+
+[[samples]]
+file = "37_snrpearl-rimshot-1-4_3.flac"
+key = 37
+velocity-from = 113
+velocity-to = 119
+round-robin = 4
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 38962
+
+[[samples]]
+file = "37_snrpearl-rimshot-1-4_4.flac"
+key = 37
+velocity-from = 120
+round-robin = 4
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 34969
+
+[[samples]]
+file = "37_snrpearl-rimshot-1-4_5.flac"
+key = 37
+round-robin = 5
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 34969
+
+[[samples]]
+file = "37_snrpearl-rimshot-1-4_6.flac"
+key = 37
+round-robin = 6
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 45101
+
+[[samples]]
+file = "37_snrpearl-rimshot-1.flac"
+key = 37
+round-robin = 9
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 38962
+
+[[samples]]
+file = "37_snrpearl-rimshot-2.flac"
+key = 37
+round-robin = 10
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 47346
+
+[[samples]]
+file = "37_snrpearl-rimshot-3.flac"
+key = 37
+round-robin = 11
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 45101
+
+[[samples]]
+file = "37_snrpearl-rimshot-3_2.flac"
+key = 37
+round-robin = 12
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 34969
+
+[[samples]]
+file = "37_snrpearl-rimshot-3_3.flac"
+key = 37
+round-robin = 13
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 45101
+
+[[samples]]
+file = "39_snrpearl-xstick-1.flac"
+key = 39
+round-robin = 1
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 34969
+
+[[samples]]
+file = "39_snrpearl-xstick-1_2.flac"
+key = 39
+round-robin = 2
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 44632
+
+[[samples]]
+file = "39_snrpearl-xstick-2.flac"
+key = 39
+round-robin = 4
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 44632
+
+[[samples]]
+file = "39_snrpearl-xstick-2_2.flac"
+key = 39
+round-robin = 5
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 57659
+
+[[samples]]
+file = "39_snrpearl-xstick-3.flac"
+key = 39
+round-robin = 7
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 57659
+
+[[samples]]
+file = "39_snrpearl-xstick-3_2.flac"
+key = 39
+round-robin = 8
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 84478
+
+[[samples]]
+file = "39_snrpearl-xstick-4.flac"
+key = 39
+round-robin = 10
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 84478
+
+[[samples]]
+file = "40_snrpearl-hoop.flac"
+key = 40
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 75220
+
+[[samples]]
+file = "36_kick-pearl.flac"
+key = 36
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 217975
+
+[[samples]]
+file = "38_snrpearlfloatringsft.flac"
+key = 38
+round-robin = 7
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 92330
+
+[[samples]]
+file = "38_snrpearlfloatringmed.flac"
+key = 38
+round-robin = 8
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 182254
+
+[[samples]]
+file = "38_snrpearlfloatringrim.flac"
+key = 38
+round-robin = 9
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 261577
+
+[[samples]]
+file = "38_snrpearlfloatring1-4.flac"
+key = 38
+velocity-from = 117
+round-robin = 10
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 261577
+
+[[samples]]
+file = "38_snrpearlfloatring1-4_2.flac"
+key = 38
+velocity-from = 108
+velocity-to = 116
+round-robin = 10
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 162057
+
+[[samples]]
+file = "38_snrpearlfloatring1-4_3.flac"
+key = 38
+velocity-from = 71
+velocity-to = 107
+round-robin = 10
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 182254
+
+[[samples]]
+file = "38_snrpearlfloatring1-4_4.flac"
+key = 38
+velocity-to = 70
+round-robin = 10
+level = 125
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 92330
+
+[[samples]]
+file = "50_tom-pearl-hi.flac"
+key = 50
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 155555
+
+[[samples]]
+file = "48_tom-pearl-mid.flac"
+key = 48
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 211985
+
+[[samples]]
+file = "43_tom-pearl-flr.flac"
+key = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 210861
+

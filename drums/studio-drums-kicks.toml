@@ -1,0 +1,194 @@
+name = "Studio Drums Kicks"
+id = "studio-drums-kicks"
+group = "drums"
+
+[[samples]]
+file = "36_kick-ambient.flac"
+key = 36
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 89113
+
+[[samples]]
+file = "37_kick-lars.flac"
+key = 37
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 101114
+
+[[samples]]
+file = "38_kick-bonzo.flac"
+key = 38
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 81138
+
+[[samples]]
+file = "39_kick-thunk.flac"
+key = 39
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 26835
+
+[[samples]]
+file = "40_kickslngr-dbl-head.flac"
+key = 40
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 144232
+
+[[samples]]
+file = "41_kick-slingr-pillow-1.flac"
+key = 41
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 70666
+
+[[samples]]
+file = "42_kick-slngr-pillow-2.flac"
+key = 42
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 126497
+
+[[samples]]
+file = "43_kick-dw-1.flac"
+key = 43
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 100210
+
+[[samples]]
+file = "44_kick-dw-2.flac"
+key = 44
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 135353
+
+[[samples]]
+file = "45_kick-ambient-2.flac"
+key = 45
+level = 127
+channels = 2
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 114002
+
+[[samples]]
+file = "46_kick-big-metal.flac"
+key = 46
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 303786
+
+[[samples]]
+file = "47_kick-fatrattle.flac"
+key = 47
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 291061
+
+[[samples]]
+file = "48_kick-gretsch.flac"
+key = 48
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 250348
+
+[[samples]]
+file = "49_kick-pearl.flac"
+key = 49
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 217975
+
+[[samples]]
+file = "50_kick-ludwig-oystr.flac"
+key = 50
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 177771
+
+[[samples]]
+file = "51_kick-dw-3.flac"
+key = 51
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 78677
+
+[[samples]]
+file = "52_kick-ludwig-b.flac"
+key = 52
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 106891
+
+[[samples]]
+file = "53_kick-slngr-bp.flac"
+key = 53
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 135318
+
+[[samples]]
+file = "54_kick-slngr-br.flac"
+key = 54
+level = 127
+channels = 1
+bit-depth = 16
+mode = "single-shot"
+frequency = 44100
+length = 121569
+
